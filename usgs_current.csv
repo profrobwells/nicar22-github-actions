@@ -1,6 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-04T22:54:58.220Z,36.609333,-121.0681686,8.86,2.02,md,13,139,0.03844,0.16,nc,nc73701291,2022-03-04T22:56:32.991Z,"11km NE of Pinnacles, CA",earthquake,0.62,1.17,0.16,16,automatic,nc,nc
+2022-03-04T22:54:39.040Z,19.2110004425049,-155.451507568359,36.3800010681152,1.94000006,md,36,146,,0.109999999,hv,hv72938042,2022-03-04T22:57:52.960Z,"2 km ENE of Pāhala, Hawaii",earthquake,0.53,0.790000021,1.94000006,4,automatic,hv,hv
+2022-03-04T22:51:28.785Z,63.4584,-147.508,0,1.6,ml,,,,1.42,ak,ak0222wk9e53,2022-03-04T22:55:55.694Z,"72 km E of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-03-04T22:51:26.560Z,33.7236667,-116.7796667,14.49,0.97,ml,30,80,0.056,0.1,ci,ci40199720,2022-03-04T22:54:57.970Z,"6km WSW of Idyllwild, CA",earthquake,0.21,0.29,0.144,25,automatic,ci,ci
 2022-03-04T22:39:16.080Z,19.1856670379639,-155.510330200195,36.0499992370605,2.45000005,md,47,79,,0.140000001,hv,hv72938022,2022-03-04T22:42:36.870Z,"3 km WSW of Pāhala, Hawaii",earthquake,0.51,0.829999983,1.38,28,automatic,hv,hv
-2022-03-04T22:34:52.430Z,38.8406677,-122.8251648,1.61,0.64,md,12,96,0.008324,0.01,nc,nc73701286,2022-03-04T22:42:10.825Z,"9km WNW of Cobb, CA",earthquake,0.34,0.72,,1,automatic,nc,nc
+2022-03-04T22:34:52.430Z,38.8406677,-122.8251648,1.61,0.64,md,12,96,0.008324,0.01,nc,nc73701286,2022-03-04T22:51:14.757Z,"9km WNW of Cobb, CA",earthquake,0.34,0.72,,1,automatic,nc,nc
 2022-03-04T22:31:36.090Z,38.7724991,-122.7196655,1.31,2.05,md,30,66,0.01162,0.05,nc,nc73701281,2022-03-04T22:38:14.678Z,"2km W of Anderson Springs, CA",earthquake,0.21,0.29,0.09,9,automatic,nc,nc
 2022-03-04T22:31:31.130Z,18.0201666666667,-66.7551666666667,12.8,2.44,md,14,129,,0.13,pr,pr71339003,2022-03-04T22:45:56.380Z,"1 km ENE of Magas Arriba, Puerto Rico",earthquake,0.33,0.49,0.0893299230436571,6,reviewed,pr,pr
 2022-03-04T22:29:45.329Z,39.6081,143.7213,10,5.1,mww,,66,2.352,0.83,us,us6000h278,2022-03-04T22:48:22.040Z,"152 km E of Miyako, Japan",earthquake,7.4,1.8,0.093,11,reviewed,us,us
@@ -50,7 +54,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T17:41:47.080Z,38.8223333,-122.8043333,3.82,0.42,md,28,42,0.004608,0.05,nc,nc73701141,2022-03-04T20:31:11.061Z,"6km NW of The Geysers, CA",earthquake,0.26,0.4,0.152,3,reviewed,nc,nc
 2022-03-04T17:34:32.320Z,19.1868324279785,-155.482330322266,32.8199996948242,2.1500001,md,44,75,,0.119999997,hv,hv72937667,2022-03-04T17:37:46.980Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.44,0.709999979,0.910000026,11,automatic,hv,hv
 2022-03-04T17:26:26.050Z,38.8370018,-122.8095016,1.61,0.9,md,21,54,0.01359,0.04,nc,nc73701136,2022-03-04T18:51:15.288Z,"8km WNW of Cobb, CA",earthquake,0.19,0.48,0.2,4,automatic,nc,nc
-2022-03-04T17:10:47.460Z,38.7613333,-122.4141667,7.21,2.09,md,56,95,0.05153,0.11,nc,nc73701131,2022-03-04T22:42:10.701Z,"14km ESE of Hidden Valley Lake, CA",earthquake,0.17,0.32,0.112,36,reviewed,nc,nc
+2022-03-04T17:10:47.460Z,38.7613333,-122.4141667,7.21,2.09,md,56,95,0.05153,0.11,nc,nc73701131,2022-03-04T22:55:13.778Z,"14km ESE of Hidden Valley Lake, CA",earthquake,0.17,0.32,0.112,36,reviewed,nc,nc
 2022-03-04T16:59:42.707Z,-57.4719,-25.7697,66.54,5,mb,,82,6.823,0.46,us,us6000h22d,2022-03-04T19:06:11.040Z,"South Sandwich Islands region",earthquake,11.7,6.2,0.111,28,reviewed,us,us
 2022-03-04T16:53:37.913Z,62.6269,-149.8382,1.4,2.8,ml,,,,0.86,ak,ak0222wgp8lk,2022-03-04T17:03:12.040Z,"24 km NE of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-04T16:42:14.760Z,34.1253333,-117.4586667,6.83,1.13,ml,27,102,0.03055,0.16,ci,ci40199568,2022-03-04T18:26:57.391Z,"3km N of Fontana, CA",earthquake,0.28,0.53,0.118,17,reviewed,ci,ci
@@ -116,6 +120,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T10:55:32.290Z,38.833168,-122.8168335,1.83,0.71,md,16,56,0.0111,0.02,nc,nc73701006,2022-03-04T11:42:12.855Z,"8km NW of The Geysers, CA",earthquake,0.25,0.61,0.14,2,automatic,nc,nc
 2022-03-04T10:46:18.970Z,46.099333333333334,-122.3805,17.53,0.34,ml,11,84,0.07692,0.19,uw,uw61820086,2022-03-04T22:23:34.900Z,"21 km NNE of Amboy, Washington",earthquake,0.93,1.29,0.08065642231179423,5,reviewed,uw,uw
 2022-03-04T10:46:14.761Z,27.1745,53.2459,10,4.4,mb,,103,3.465,0.44,us,us6000h20t,2022-03-04T11:02:42.040Z,"55 km SE of Mohr, Iran",earthquake,9.1,1.9,0.089,36,reviewed,us,us
+2022-03-04T10:43:22.850Z,44.77,-124.05333333333333,16.94,2.0300000000000002,ml,18,176,0.03036,0.12,uw,uw61820081,2022-03-04T22:54:48.130Z,"4 km S of Depoe Bay, Oregon",earthquake,0.3,0.42,0.22272469227697278,7,reviewed,uw,uw
 2022-03-04T10:05:49.320Z,45.392,-112.111,2.25,0.6,ml,8,70,0.166,0.19,mb,mb80539664,2022-03-04T18:55:19.170Z,"7 km N of Alder, Montana",earthquake,0.61,2.5,0.017,2,reviewed,mb,mb
 2022-03-04T10:01:51.500Z,38.8250008,-122.8509979,1.65,0.37,md,8,121,0.005245,0.12,nc,nc73700996,2022-03-04T11:37:10.825Z,"10km WNW of The Geysers, CA",earthquake,0.56,1.22,,1,automatic,nc,nc
 2022-03-04T09:58:20.540Z,19.2378330230713,-155.410995483398,33.0200004577637,2.34,ml,44,132,,0.119999997,hv,hv72937272,2022-03-04T10:52:09.040Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.47,0.639999986,3.49,12,automatic,hv,hv
@@ -240,5 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T23:22:39.080Z,17.9495,-66.9361666666667,12.86,2.37,md,5,212,,0.09,pr,pr71338853,2022-03-03T23:34:33.810Z,"3 km SW of Guánica, Puerto Rico",earthquake,0.93,0.35,0.0644273074642849,3,reviewed,pr,pr
 2022-03-03T23:14:12.350Z,18.561,-68.725,108,4.01,md,23,187,0.8635,0.12,pr,pr2022062003,2022-03-04T15:02:55.154Z,"6 km SSW of Salvaleón de Higüey, Dominican Republic",earthquake,13.24,1.61,0.12,14,reviewed,pr,pr
 2022-03-03T23:02:44.430Z,38.7926674,-122.8061676,2,0.35,md,8,131,0.004965,0.03,nc,nc73700786,2022-03-03T23:19:19.425Z,"5km WNW of The Geysers, CA",earthquake,0.94,1.47,,1,automatic,nc,nc
-2022-03-03T22:56:10.790Z,43.5121667,-110.7421667,-0.24,0.95,ml,8,145,0.053,0.13,mb,mb80539589,2022-03-04T16:27:45.180Z,"3 km NNE of Jackson, Wyoming",earthquake,0.56,1.1,0.389,6,reviewed,mb,mb
-2022-03-03T22:56:05.940Z,44.2651667,-114.676,6,1.75,ml,7,114,0.472,0.17,mb,mb80539629,2022-03-04T16:34:34.950Z,"21 km ENE of Stanley, Idaho",earthquake,0.48,9.73,0.285,8,reviewed,mb,mb
