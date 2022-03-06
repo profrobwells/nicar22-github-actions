@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-06T15:25:40.880Z,38.8320007,-122.8199997,1.76,0.85,md,10,137,0.01157,0.01,nc,nc73702101,2022-03-06T15:27:18.290Z,"8km NW of The Geysers, CA",earthquake,0.52,0.84,,1,automatic,nc,nc
-2022-03-06T15:24:51.530Z,38.831501,-122.8195038,1.82,0.85,md,18,89,0.01094,0.02,nc,nc73702096,2022-03-06T15:26:28.191Z,"8km NW of The Geysers, CA",earthquake,0.27,0.51,,1,automatic,nc,nc
+2022-03-06T15:37:07.570Z,33.7046667,-116.7176667,17.7,1.51,ml,46,57,0.00711,0.17,ci,ci40200736,2022-03-06T15:41:02.689Z,"4km S of Idyllwild, CA",earthquake,0.19,0.36,0.201,27,automatic,ci,ci
+2022-03-06T15:35:52.420Z,19.3438339233398,-155.007827758789,-0.689999997615814,1.83,ml,34,207,,0.25,hv,hv72940172,2022-03-06T15:41:25.570Z,"16 km SW of Leilani Estates, Hawaii",earthquake,1.24,0.340000004,3.19,5,automatic,hv,hv
+2022-03-06T15:35:18.350Z,33.7051667,-116.7181667,18,0.65,ml,21,54,0.006851,0.18,ci,ci40200728,2022-03-06T15:38:53.679Z,"4km S of Idyllwild, CA",earthquake,0.46,0.61,0.099,15,automatic,ci,ci
+2022-03-06T15:25:40.880Z,38.8320007,-122.8199997,1.76,0.85,md,10,137,0.01157,0.01,nc,nc73702101,2022-03-06T15:37:10.668Z,"8km NW of The Geysers, CA",earthquake,0.52,0.84,,1,automatic,nc,nc
+2022-03-06T15:24:51.530Z,38.831501,-122.8195038,1.82,0.85,md,18,89,0.01094,0.02,nc,nc73702096,2022-03-06T15:44:15.706Z,"8km NW of The Geysers, CA",earthquake,0.27,0.51,,1,automatic,nc,nc
 2022-03-06T15:21:18.216Z,59.8633,-152.6071,89.8,1.9,ml,,,,0.35,ak,ak0222zqzkhn,2022-03-06T15:29:50.742Z,"44 km WNW of Anchor Point, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-03-06T15:20:48.473Z,61.5318,-148.2069,37.2,1.2,ml,,,,0.88,ak,ak0222zqzg8f,2022-03-06T15:29:50.593Z,"32 km SSE of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-06T15:17:26.390Z,38.8413315,-122.8393326,1.6,0.86,md,20,88,0.004064,0.02,nc,nc73702091,2022-03-06T15:32:16.641Z,"10km NW of The Geysers, CA",earthquake,0.23,0.36,,3,automatic,nc,nc
@@ -180,6 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-05T15:52:16.974Z,63.5865,-147.2911,7.9,1.6,ml,,,,0.62,ak,ak0222y3mw8l,2022-03-05T16:04:19.875Z,"82 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-05T15:52:11.320Z,19.179666519165,-155.470169067383,30.2299995422363,2.3,ml,47,91,,0.119999997,hv,hv72938972,2022-03-05T15:57:41.960Z,"2 km SSE of Pāhala, Hawaii",earthquake,0.43,0.620000005,0.03,4,automatic,hv,hv
 2022-03-05T15:49:07.228Z,39.2433,-117.631,11.1,1.9,ml,15,149.89,0.413,0.2689,nn,nn00834947,2022-03-05T15:52:45.987Z,"48 km W of Kingston, Nevada",earthquake,,0.8,0.22,9,automatic,nn,nn
-2022-03-05T15:38:16.838Z,59.3858,-153.5155,100.7,2,ml,,,,0.41,ak,ak0222y3jw6r,2022-03-05T15:41:57.245Z,"55 km SE of Pedro Bay, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2022-03-05T15:36:42.505Z,44.2391,-115.0848,10,2.9,ml,,69,0.832,0.58,us,us6000h2dx,2022-03-05T16:57:18.040Z,"11 km WNW of Stanley, Idaho",earthquake,1.6,2,0.052,48,reviewed,us,us
-2022-03-05T15:35:06.449Z,63.5073,-152.7378,18.1,1.6,ml,,,,0.53,ak,ak0222y3j8gu,2022-03-05T15:41:57.101Z,"46 km SSW of Lake Minchumina, Alaska",earthquake,,0.2,,,automatic,ak,ak
