@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-06T19:16:14.040Z,19.5023326873779,-155.658172607422,-1.52999997138977,1.72000003,md,23,71,,0.25999999,hv,hv72940352,2022-03-06T19:21:45.330Z,"22 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.44,0.670000017,0.810000002,11,automatic,hv,hv
+2022-03-06T19:12:10.320Z,35.6613333,-117.4855,4.57,1.72,ml,25,87,0.07705,0.15,ci,ci40200856,2022-03-06T19:15:42.015Z,"14km SSW of Searles Valley, CA",earthquake,0.28,0.75,0.215,26,automatic,ci,ci
 2022-03-06T18:58:00.840Z,34.021,-117.2081667,16.08,1.17,ml,39,92,0.0791,0.22,ci,ci40200840,2022-03-06T19:01:42.481Z,"4km SSW of Redlands, CA",earthquake,0.34,0.76,0.175,29,automatic,ci,ci
 2022-03-06T18:48:58.040Z,37.6358337,-118.4856644,10.5,1.95,md,16,182,0.04148,0.03,nc,nc73702146,2022-03-06T19:05:21.933Z,"19km ENE of Toms Place, CA",earthquake,1.58,1.88,0.11,14,automatic,nc,nc
 2022-03-06T18:45:49.180Z,19.1823329925537,-155.503997802734,35.3300018310547,1.87,md,40,81,,0.119999997,hv,hv72940322,2022-03-06T18:48:54.630Z,"3 km SW of Pāhala, Hawaii",earthquake,0.49,0.829999983,0.74000001,9,automatic,hv,hv
@@ -187,4 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-05T19:27:19.160Z,34.0413333,-117.163,12.56,1.23,ml,24,66,0.09407,0.22,ci,ci40200288,2022-03-05T19:30:58.725Z,"2km SE of Redlands, CA",earthquake,0.38,1.06,0.161,28,automatic,ci,ci
 2022-03-05T19:26:42.760Z,52.0171666666667,178.291833333333,3.21,3.44,ml,7,334,,0.14,av,av91504986,2022-03-06T18:12:03.360Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,2.81,1.01,0.210514603052663,9,reviewed,av,av
 2022-03-05T19:24:14.600Z,38.8349991,-122.8161697,1.85,0.36,md,7,152,0.01253,0.01,nc,nc73701726,2022-03-05T19:47:23.543Z,"8km W of Cobb, CA",earthquake,0.78,1.62,,1,automatic,nc,nc
-2022-03-05T19:13:45.790Z,34.0295,-117.1585,9.71,1.52,ml,33,65,0.08277,0.21,ci,ci40200280,2022-03-05T19:17:41.644Z,"4km SE of Redlands, CA",earthquake,0.33,1.06,0.126,27,automatic,ci,ci
