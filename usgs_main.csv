@@ -828,3 +828,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-07T11:49:01.018Z,64.8626,-149.0838,19.5,1.1,ml,,,,0.28,ak,ak02231cb6et,2022-03-07T11:52:11.421Z,"29 km N of Four Mile Road, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-03-07T12:38:43.626Z,31.9415,-102.3246,3.69,2.8,mb_lg,,35.0,0.23,0.47,us,us6000h2qw,2022-03-07T12:45:39.926Z,"10 km SSE of Gardendale, Texas",earthquake,1.6,7.9,0.065,63.0,reviewed,us,us
 2022-03-07T12:23:36.025Z,61.7768,-149.6592,30.7,1.7,ml,,,,0.6,ak,ak02231cr43o,2022-03-07T12:28:35.365Z,"17 km N of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-07T12:38:43.125Z,31.9354248,-102.34113,7.189697265999999,3.0,ml,17.0,58.0,0.01704437691,0.2,tx,tx2022epss,2022-03-07T13:09:13.815Z,"10 km SSE of Gardendale, Texas",earthquake,1.0490084479999997,0.7595179657,0.1,11.0,reviewed,tx,tx
