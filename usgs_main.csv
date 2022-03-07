@@ -807,3 +807,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-07T09:25:18.940Z,38.8293343,-122.8134995,2.12,2.15,md,36.0,43.0,0.006506,0.04,nc,nc73702421,2022-03-07T09:26:56.028Z,"8km NW of The Geysers, CA",earthquake,0.17,0.31,0.09,12.0,automatic,nc,nc
 2022-03-07T09:20:16.870Z,35.7806667,-117.5945,2.93,1.59,ml,24.0,66.0,0.03508,0.16,ci,ci40201184,2022-03-07T09:24:10.779Z,"17km W of Searles Valley, CA",earthquake,0.25,0.43,0.127,21.0,automatic,ci,ci
 2022-03-07T09:18:22.400Z,37.4959984,-121.8274994,3.52,1.54,md,13.0,83.0,0.04715,0.04,nc,nc73702411,2022-03-07T09:20:00.734Z,"10km NE of Milpitas, CA",earthquake,0.24,0.48,0.22,10.0,automatic,nc,nc
+2022-03-07T09:37:11.185Z,62.7961,-151.8699,7.0,1.9,ml,,,,0.65,ak,ak02231b1re6,2022-03-07T09:40:15.867Z,"65 km WNW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
