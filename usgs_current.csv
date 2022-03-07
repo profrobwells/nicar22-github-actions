@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-07T10:43:08.300Z,38.8306656,-122.8143311,2.21,1.05,md,22,48,0.007985,0.02,nc,nc73702441,2022-03-07T10:44:46.611Z,"8km NW of The Geysers, CA",earthquake,0.2,0.48,0.14,2,automatic,nc,nc
-2022-03-07T10:36:58.220Z,38.8383331,-122.7823334,1.51,0.85,md,11,110,0.006256,0.02,nc,nc73702436,2022-03-07T10:45:10.850Z,"5km WNW of Cobb, CA",earthquake,0.58,0.91,,1,automatic,nc,nc
+2022-03-07T10:48:38.465Z,61.296,-145.4967,30.6,1.7,ml,,,,0.47,ak,ak02231bplza,2022-03-07T10:52:25.030Z,"43 km SSW of Tonsina, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-07T10:43:08.300Z,38.8306656,-122.8143311,2.21,1.05,md,22,48,0.007985,0.02,nc,nc73702441,2022-03-07T11:03:16.969Z,"8km NW of The Geysers, CA",earthquake,0.2,0.48,0.14,2,automatic,nc,nc
+2022-03-07T10:36:58.220Z,38.8383331,-122.7823334,1.51,0.85,md,11,110,0.006256,0.02,nc,nc73702436,2022-03-07T10:53:22.900Z,"5km WNW of Cobb, CA",earthquake,0.58,0.91,,1,automatic,nc,nc
 2022-03-07T10:31:05.253Z,64.6724,-149.0038,17,1.1,ml,,,,0.3,ak,ak02231blw8t,2022-03-07T10:34:13.013Z,"9 km NE of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-07T10:25:50.356Z,38.1429,-117.9486,11.6,1.2,ml,13,104,0.009,0.2974,nn,nn00835002,2022-03-07T10:29:24.369Z,"30 km SSE of Mina, Nevada",earthquake,,0.4,0.23,7,automatic,nn,nn
 2022-03-07T10:15:02.070Z,19.2348327636719,-155.404830932617,32.1599998474121,1.83000004,md,46,137,,0.119999997,hv,hv72941252,2022-03-07T10:18:20.250Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.54,0.74000001,0.800000012,11,automatic,hv,hv
+2022-03-07T10:09:22.271Z,42.0785,144.4153,10,4.9,mb,,98,0.939,0.86,us,us6000h2qh,2022-03-07T10:56:39.040Z,"Hokkaido, Japan region",earthquake,6.9,1.8,0.029,375,reviewed,us,us
 2022-03-07T10:09:21.520Z,36.0776667,-117.635,5.22,1.12,ml,12,159,0.1178,0.11,ci,ci40201192,2022-03-07T10:12:58.343Z,"28km E of Coso Junction, CA",earthquake,0.32,1.36,0.192,13,automatic,ci,ci
 2022-03-07T09:59:23.580Z,59.7134,-153.1789,101.9,2.1,ml,,,,0.58,ak,ak02231b6i2n,2022-03-07T10:07:29.963Z,"52 km E of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-03-07T09:46:54.026Z,61.7951,-149.6684,30.1,1.6,ml,,,,0.75,ak,ak02231b3s5d,2022-03-07T09:51:17.682Z,"19 km N of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
