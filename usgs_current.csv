@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-03-07T23:30:49.270Z,34.0115,-117.2006667,10.12,1.38,ml,43,35,0.0771,0.23,ci,ci40201776,2022-03-07T23:34:23.639Z,"5km SSW of Redlands, CA",earthquake,0.31,0.8,0.185,27,automatic,ci,ci
+2022-03-07T23:25:40.216Z,-59.0894,-25.6976,35,5.1,mb,,47,7.644,0.74,us,us6000h2wz,2022-03-07T23:45:54.040Z,"South Sandwich Islands region",earthquake,6.2,1.9,0.061,88,reviewed,us,us
 2022-03-07T23:24:00.760Z,33.5735016,-117.7148361,14.36,1.39,ml,14,133,0.03986,0.31,ci,ci40201768,2022-03-07T23:27:50.287Z,"2km NE of Aliso Viejo, CA",earthquake,0.92,1.47,0.642,4,automatic,ci,ci
 2022-03-07T23:03:20.870Z,33.1916667,-115.5991667,0.09,1.09,ml,6,156,0.01978,0.15,ci,ci40201736,2022-03-07T23:13:50.056Z,"9km SW of Niland, CA",earthquake,0.39,31.61,0.052,1,reviewed,ci,ci
 2022-03-07T23:01:03.400Z,38.7771683,-122.7448349,1.54,0.83,md,11,72,0.008769,0.03,nc,nc73702611,2022-03-07T23:18:16.528Z,"1km E of The Geysers, CA",earthquake,0.36,0.42,0.26,4,automatic,nc,nc
@@ -230,4 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-07T00:17:39.490Z,34.0035,-117.2128333,14.71,1.24,ml,50,69,0.06513,0.15,ci,ci40201032,2022-03-07T20:36:27.363Z,"6km SSW of Redlands, CA",earthquake,0.17,0.3,0.135,24,reviewed,ci,ci
 2022-03-07T00:11:04.942Z,65.3515,-147.991,0,1.2,ml,,,,0.68,ak,ak022315j9u0,2022-03-07T00:31:52.844Z,"32 km SE of Livengood, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-03-06T23:56:18.033Z,51.2856,100.2288,10,4.4,mb,,42,2.171,0.65,us,us6000h2md,2022-03-07T00:14:15.040Z,"38 km SW of Turt, Mongolia",earthquake,6.9,1.4,0.08,45,reviewed,us,us
-2022-03-06T23:42:16.240Z,38.8221664,-122.8073349,2.57,0.33,md,13,58,0.002466,0.02,nc,nc73702241,2022-03-06T23:58:16.596Z,"7km NW of The Geysers, CA",earthquake,0.29,0.73,0.34,2,automatic,nc,nc
