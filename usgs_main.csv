@@ -1229,3 +1229,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-08T18:43:49.270Z,39.4275,-110.3226667,-1.33,1.24,md,4.0,191.0,0.003883,0.02,uu,uu60484857,2022-03-08T19:59:37.450Z,"14 km SSE of Sunnyside, Utah",earthquake,1.26,0.24,0.142,4.0,reviewed,uu,uu
 2022-03-08T14:08:02.630Z,52.321,-174.196166666667,3.65,-0.04,ml,5.0,160.0,,0.11,av,av91507261,2022-03-08T20:09:30.470Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.54,0.52,0.282171799228248,5.0,reviewed,av,av
 2022-03-08T14:05:34.760Z,52.3268333333333,-174.2275,3.75,2.7,ml,8.0,167.0,,0.15,av,av91507256,2022-03-08T20:06:24.210Z,"14 km N of Atka, Alaska",earthquake,0.44,0.53,0.25011246013065,16.0,reviewed,av,av
+2022-03-08T20:30:28.350Z,38.8263321,-122.8108368,1.32,1.17,md,16.0,66.0,0.002993,0.02,nc,nc73702991,2022-03-08T20:32:02.660Z,"7km NW of The Geysers, CA",earthquake,0.22,0.58,,1.0,automatic,nc,nc
