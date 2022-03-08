@@ -1067,3 +1067,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-08T08:28:30.430Z,33.5015,-116.7795,3.94,0.21,ml,12.0,97.0,0.02052,0.11,ci,ci40202048,2022-03-08T08:32:11.109Z,"10km NE of Aguanga, CA",earthquake,0.34,0.52,0.13,7.0,automatic,ci,ci
 2022-03-08T08:26:21.340Z,38.8398323,-122.8105011,1.85,0.85,md,8.0,120.0,0.01581,0.0,nc,nc73702751,2022-03-08T08:34:10.835Z,"8km WNW of Cobb, CA",earthquake,0.41,1.42,,1.0,automatic,nc,nc
 2022-03-08T01:25:55.000Z,38.8181667,-122.8048333,1.97,0.48,md,19.0,51.0,0.006634,0.03,nc,nc73702631,2022-03-08T08:45:09.945Z,"6km NW of The Geysers, CA",earthquake,0.19,0.31,0.014,3.0,reviewed,nc,nc
+2022-03-08T08:53:09.450Z,35.8196678,-119.8741684,7.13,1.92,md,12.0,205.0,0.1678,0.1,nc,nc73702766,2022-03-08T08:54:47.019Z,"22km SSE of Kettleman City, CA",earthquake,0.89,1.73,0.06,3.0,automatic,nc,nc
+2022-03-08T08:50:25.425Z,62.0213,-146.1806,28.2,1.4,ml,,,,0.42,ak,ak02232y2hot,2022-03-08T08:53:49.890Z,"9 km SW of Tolsona, Alaska",earthquake,,0.5,,,automatic,ak,ak
