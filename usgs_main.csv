@@ -1580,3 +1580,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-09T22:09:31.927Z,-2.3241,100.8482,65.31,4.3,mb,,86.0,2.639,0.74,us,us6000h3f9,2022-03-09T23:39:07.040Z,"67 km WSW of Sungai Penuh, Indonesia",earthquake,8.6,7.8,0.107,25.0,reviewed,us,us
 2022-03-09T21:33:50.460Z,33.1875,-115.6046667,2.44,1.82,ml,15.0,108.0,0.01359,0.19,ci,ci37401564,2022-03-09T23:44:41.265Z,"10km SW of Niland, CA",earthquake,0.38,0.19,0.109,7.0,reviewed,ci,ci
 2022-03-09T11:02:25.678Z,40.0767,-120.2886,10.0,0.7,ml,5.0,242.88,0.217,0.0584,nn,nn00835133,2022-03-09T23:49:46.028Z,"12 km SE of Milford, California",earthquake,,8.2,0.6,4.0,reviewed,nn,nn
+2022-03-09T23:55:31.950Z,33.7900009,-117.6080017,22.1,1.75,ml,17.0,167.0,0.1558,0.32,ci,ci40203856,2022-03-09T23:57:40.795Z,"10km SSW of Corona, CA",earthquake,1.39,2.68,0.381,21.0,automatic,ci,ci
+2022-03-09T23:55:25.740Z,34.0236664,-117.1549988,9.37,1.73,ml,55.0,89.0,0.03728,0.17,ci,ci40203848,2022-03-09T23:57:39.795Z,"4km SE of Redlands, CA",earthquake,0.24,0.58,0.314,27.0,automatic,ci,ci
+2022-03-09T22:31:48.067Z,19.0715,-68.124,35.0,2.9,ml,,202.0,0.605,0.68,us,us6000h3fd,2022-03-09T23:51:49.040Z,"61 km NNE of Punta Cana, Dominican Republic",earthquake,4.9,2.0,0.059,38.0,reviewed,us,us
+2022-03-09T21:58:25.910Z,35.5233333,-117.4386667,6.76,0.28,ml,8.0,105.0,0.0605,0.13,ci,ci40203712,2022-03-09T23:57:08.290Z,"24km ESE of Ridgecrest, CA",earthquake,0.33,0.57,0.04,2.0,reviewed,ci,ci
+2022-03-09T21:44:57.620Z,33.1815,-115.605,3.71,1.56,ml,12.0,106.0,0.009786,0.22,ci,ci40203688,2022-03-09T23:53:28.769Z,"10km SW of Niland, CA",earthquake,0.42,0.25,0.278,3.0,reviewed,ci,ci
+2022-03-09T11:47:05.531Z,38.5993,-118.4691,5.0,0.9,ml,12.0,181.13,0.194,0.1177,nn,nn00835134,2022-03-09T23:55:59.943Z,"15 km ENE of Hawthorne, Nevada",earthquake,,3.8,0.14,3.0,reviewed,nn,nn
