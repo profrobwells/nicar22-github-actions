@@ -1355,3 +1355,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-09T06:23:37.320Z,38.8009987,-122.8201675,3.63,0.85,md,11.0,151.0,0.01055,0.01,nc,nc73703196,2022-03-09T06:25:15.044Z,"6km WNW of The Geysers, CA",earthquake,0.62,1.82,,1.0,automatic,nc,nc
 2022-03-09T06:19:57.412Z,65.8477,-156.1585,0.0,1.9,ml,,,,0.81,ak,ak02234k8e8n,2022-03-09T06:27:40.416Z,"19 km NNE of Huslia, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-09T04:39:05.490Z,38.7541667,-122.7165,1.67,0.27,md,15.0,66.0,0.009885,0.03,nc,nc73703126,2022-03-09T06:25:10.476Z,"3km SW of Anderson Springs, CA",earthquake,0.25,0.18,0.337,5.0,reviewed,nc,nc
+2022-03-09T06:36:14.630Z,18.0133333333333,-66.9501666666667,10.3,2.45,md,5.0,121.0,,0.06,pr,pr71339603,2022-03-09T06:45:40.250Z,"3 km SSW of Liborio Negron Torres, Puerto Rico",earthquake,0.73,1.37,0.0250423343704491,4.0,reviewed,pr,pr
+2022-03-09T06:31:12.020Z,35.6415,-117.4483333,5.98,0.89,ml,11.0,168.0,0.05603,0.18,ci,ci40203096,2022-03-09T06:34:42.298Z,"15km SSW of Searles Valley, CA",earthquake,0.7,1.37,0.201,9.0,automatic,ci,ci
+2022-03-09T06:19:27.650Z,18.0178333333333,-66.7308333333333,12.74,2.32,md,17.0,131.0,,0.12,pr,pr71339598,2022-03-09T06:38:38.350Z,"2 km NNW of Tallaboa, Puerto Rico",earthquake,0.25,0.35,0.135292918402775,9.0,reviewed,pr,pr
+2022-03-09T04:41:18.860Z,18.7315,-66.706,35.7,3.07,md,10.0,249.0,,0.2,pr,pr71339588,2022-03-09T06:33:07.170Z,"28 km N of Arecibo, Puerto Rico",earthquake,1.04,2.2,0.0368618959797269,7.0,reviewed,pr,pr
