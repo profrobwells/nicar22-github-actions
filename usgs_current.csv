@@ -1,10 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-09T19:13:40.910Z,33.5728333,-116.6485,10.46,0.46,ml,14,79,0.01619,0.19,ci,ci40203504,2022-03-09T19:17:13.514Z,"3km NE of Anza, CA",earthquake,0.59,0.71,0.195,11,automatic,ci,ci
 2022-03-09T18:40:35.912Z,37.7385,101.3584,10,4.4,mb,,68,10.744,1.06,us,us6000h3dm,2022-03-09T19:08:52.040Z,"111 km SW of Jinchang, China",earthquake,8.1,1.5,0.073,55,reviewed,us,us
 2022-03-09T18:36:00.030Z,37.036335,-121.4923325,9.95,1.44,md,16,89,0.0126,0.1,nc,nc73703376,2022-03-09T18:52:13.008Z,"8km ENE of Gilroy, CA",earthquake,0.45,0.93,0.24,14,automatic,nc,nc
 2022-03-09T18:18:18.311Z,-14.2322,-76.2234,35.5,4.9,mb,,153,2.311,0.95,us,us6000h3db,2022-03-09T18:45:19.040Z,"40 km S of Paracas, Peru",earthquake,9.8,7.7,0.043,169,reviewed,us,us
 2022-03-09T18:04:03.457Z,-22.1939,-68.6028,111.19,4.8,mb,,58,0.712,1.52,us,us6000h3cz,2022-03-09T18:22:00.040Z,"44 km NE of Calama, Chile",earthquake,5.9,6.3,0.047,140,reviewed,us,us
 2022-03-09T17:59:37.130Z,38.7944984,-122.7623367,2.76,1.11,md,20,62,0.006452,0.02,nc,nc73703366,2022-03-09T18:14:16.782Z,"2km NNW of The Geysers, CA",earthquake,0.24,0.58,0.07,4,automatic,nc,nc
-2022-03-09T17:54:47.210Z,40.402668,-124.2675018,26.24,2.53,md,16,183,0.08162,0.07,nc,nc73703361,2022-03-09T18:05:22.718Z,"9km N of Petrolia, CA",earthquake,1.1,0.94,0.15,9,automatic,nc,nc
+2022-03-09T17:54:47.210Z,40.402668,-124.2675018,26.24,2.53,md,16,183,0.08162,0.07,nc,nc73703361,2022-03-09T19:24:11.182Z,"9km N of Petrolia, CA",earthquake,1.1,0.94,0.15,9,automatic,nc,nc
 2022-03-09T17:46:06.450Z,17.9175,-66.84,12.71,2.41,md,6,225,,0.07,pr,pr71339668,2022-03-09T17:55:39.120Z,"8 km SE of Maria Antonia, Puerto Rico",earthquake,0.76,0.36,0.0539852028205237,4,reviewed,pr,pr
 2022-03-09T17:43:08.880Z,33.2531667,-116.2866667,8.84,1.44,ml,49,83,0.06624,0.21,ci,ci40203448,2022-03-09T18:00:13.472Z,"8km E of Borrego Springs, CA",earthquake,0.27,0.67,0.171,27,automatic,ci,ci
 2022-03-09T17:39:40.340Z,38.7816667,-122.7525,2.05,-0.01,md,14,99,0.01243,0.05,nc,nc73703356,2022-03-09T18:47:39.340Z,"1km NE of The Geysers, CA",earthquake,0.3,0.61,0.084,3,reviewed,nc,nc
