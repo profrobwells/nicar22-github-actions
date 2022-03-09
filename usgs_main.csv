@@ -1365,3 +1365,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-09T00:31:40.990Z,37.5191667,-118.7801667,4.83,0.8,md,17.0,142.0,0.08073,0.02,nc,nc73703076,2022-03-09T06:56:10.676Z,"10km WSW of Toms Place, CA",earthquake,0.41,1.0,0.083,14.0,reviewed,nc,nc
 2022-03-09T07:09:33.456Z,64.6902,-150.5723,6.8,1.5,ml,,,,0.69,ak,ak02234krmu9,2022-03-09T07:13:03.176Z,"34 km S of Manley Hot Springs, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-03-09T07:07:01.670Z,19.1873340606689,-155.420501708984,32.9700012207031,2.16000009,md,32.0,166.0,,0.100000001,hv,hv72944192,2022-03-09T07:10:13.150Z,"6 km ESE of Pāhala, Hawaii",earthquake,0.69,0.779999971,1.23000002,3.0,automatic,hv,hv
+2022-03-09T07:22:11.110Z,33.2931667,-115.6946667,1.14,1.37,ml,21.0,127.0,0.06752,0.28,ci,ci40203120,2022-03-09T07:25:46.447Z,"7km SSE of Bombay Beach, CA",earthquake,0.66,31.61,0.164,22.0,automatic,ci,ci
+2022-03-09T07:18:26.200Z,38.8195,-122.8238297,2.06,0.85,md,8.0,126.0,0.009465,0.01,nc,nc73703211,2022-03-09T07:26:10.888Z,"8km NW of The Geysers, CA",earthquake,0.37,0.88,,1.0,automatic,nc,nc
