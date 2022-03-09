@@ -1352,3 +1352,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-09T05:57:01.200Z,38.8161659,-122.7958298,2.1,1.14,md,24.0,37.0,0.01218,0.02,nc,nc73703191,2022-03-09T05:58:34.800Z,"6km NW of The Geysers, CA",earthquake,0.2,0.41,0.07,5.0,automatic,nc,nc
 2022-03-09T05:56:55.630Z,34.2229996,-117.4713364,6.22,1.13,ml,31.0,133.0,0.01429,0.18,ci,ci40203080,2022-03-09T05:59:00.383Z,"5km SSE of Lytle Creek, CA",earthquake,0.47,0.6,0.128,4.0,automatic,ci,ci
 2022-03-09T04:38:45.620Z,38.7565,-122.7181667,1.6,0.5,md,20.0,59.0,0.007298,0.03,nc,nc73703121,2022-03-09T05:59:03.584Z,"3km SW of Anderson Springs, CA",earthquake,0.28,0.22,0.307,6.0,reviewed,nc,nc
+2022-03-09T06:23:37.320Z,38.8009987,-122.8201675,3.63,0.85,md,11.0,151.0,0.01055,0.01,nc,nc73703196,2022-03-09T06:25:15.044Z,"6km WNW of The Geysers, CA",earthquake,0.62,1.82,,1.0,automatic,nc,nc
+2022-03-09T06:19:57.412Z,65.8477,-156.1585,0.0,1.9,ml,,,,0.81,ak,ak02234k8e8n,2022-03-09T06:27:40.416Z,"19 km NNE of Huslia, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-03-09T04:39:05.490Z,38.7541667,-122.7165,1.67,0.27,md,15.0,66.0,0.009885,0.03,nc,nc73703126,2022-03-09T06:25:10.476Z,"3km SW of Anderson Springs, CA",earthquake,0.25,0.18,0.337,5.0,reviewed,nc,nc
