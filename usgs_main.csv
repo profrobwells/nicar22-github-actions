@@ -1544,3 +1544,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-09T20:55:23.130Z,60.0143333333333,-153.073166666667,0.57,-0.44,ml,4.0,137.0,,0.06,av,av91508321,2022-03-09T21:12:38.290Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.28,1.18,0.116492783579928,4.0,reviewed,av,av
 2022-03-09T14:45:24.462Z,36.7286,-116.3108,6.8,-0.4,ml,8.0,139.97,0.065,0.1111,nn,nn00835120,2022-03-09T21:20:48.313Z,"44 km ESE of Beatty, Nevada",earthquake,,2.6,0.32,3.0,reviewed,nn,nn
 2022-03-09T14:40:29.562Z,53.8016,-165.0817,47.6,4.0,ml,,,,0.36,ak,ak02234p4b2x,2022-03-09T21:19:34.445Z,"58 km SE of Akutan, Alaska",earthquake,,2.6,,,reviewed,ak,ak
+2022-03-09T21:30:01.263Z,64.4265,-149.6212,13.3,1.4,ml,,,,0.69,ak,ak02234t84v1,2022-03-09T21:34:51.604Z,"22 km WNW of Anderson, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-09T21:28:03.173Z,64.4067,-149.494,17.2,1.4,ml,,,,1.06,ak,ak02234t7pjx,2022-03-09T21:35:01.688Z,"16 km WNW of Anderson, Alaska",earthquake,,0.3,,,automatic,ak,ak
