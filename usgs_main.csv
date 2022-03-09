@@ -1407,3 +1407,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-09T10:29:33.280Z,19.2339992523193,-155.381500244141,32.0499992370605,2.1,ml,48.0,148.0,,0.119999997,hv,hv72944382,2022-03-09T10:35:04.760Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.44,0.579999983,4.19,12.0,automatic,hv,hv
 2022-03-09T10:24:47.108Z,61.6213,-146.3844,33.7,1.4,ml,,,,1.09,ak,ak02234mn6g6,2022-03-09T10:27:04.434Z,"46 km SSE of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-09T10:21:23.470Z,19.1774997711182,-155.497833251953,31.3899993896484,2.0,md,41.0,86.0,,0.140000001,hv,hv72944372,2022-03-09T10:24:36.260Z,"3 km SW of Pāhala, Hawaii",earthquake,0.53,1.03999996,1.61000001,18.0,automatic,hv,hv
+2022-03-09T10:43:09.045Z,61.5676,-149.8503,46.7,1.4,ml,,,,0.38,ak,ak02234mr648,2022-03-09T10:46:03.486Z,"7 km SSW of Houston, Alaska",earthquake,,0.7,,,automatic,ak,ak
