@@ -1536,3 +1536,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-09T20:38:28.507Z,38.1428,-118.1089,9.5,2.5,ml,15.0,123.19,0.113,0.3166,nn,nn00835115,2022-03-09T20:42:31.588Z,"27 km S of Mina, Nevada",earthquake,,0.4,0.36,11.0,automatic,nn,nn
 2022-03-09T20:02:56.050Z,46.0168333,-112.472,-2.0,1.89,ml,19.0,113.0,0.057,0.17,mb,mb80540029,2022-03-09T20:48:11.430Z,"5 km ENE of Butte, Montana",quarry blast,0.52,31.61,0.238,11.0,reviewed,mb,mb
 2022-03-09T07:09:33.460Z,47.8255,-122.7345,26.14,1.13,ml,25.0,52.0,0.09554,0.19,uw,uw61821106,2022-03-09T20:46:56.150Z,"5 km WNW of Lofall, Washington",earthquake,0.43,0.61,0.1883617349217008,7.0,reviewed,uw,uw
+2022-03-09T20:41:16.728Z,63.3042,-151.0966,0.0,1.2,ml,,,,0.56,ak,ak02234sp3bf,2022-03-09T20:51:27.510Z,"40 km SE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
