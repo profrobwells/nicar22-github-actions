@@ -1386,3 +1386,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-09T08:54:42.310Z,33.4971667,-116.4855,15.35,0.59,ml,24.0,62.0,0.0564,0.17,ci,ci40203152,2022-03-09T08:58:07.537Z,"19km ESE of Anza, CA",earthquake,0.29,0.65,0.124,14.0,automatic,ci,ci
 2022-03-09T09:17:08.050Z,32.9273333,-116.2323333,8.92,0.64,ml,13.0,103.0,0.06564,0.13,ci,ci40203168,2022-03-09T09:20:47.730Z,"26km SSW of Ocotillo Wells, CA",earthquake,0.37,0.7,0.126,5.0,automatic,ci,ci
 2022-03-09T09:07:42.930Z,40.1478348,-123.8448334,21.01,2.09,md,14.0,113.0,0.05324,0.11,nc,nc73703226,2022-03-09T09:20:16.630Z,"4km NNW of Redway, CA",earthquake,0.7,0.52,0.1,7.0,automatic,nc,nc
+2022-03-09T09:29:17.150Z,33.3161667,-116.3048333,10.21,0.8,ml,33.0,115.0,0.04625,0.18,ci,ci40203176,2022-03-09T09:32:53.515Z,"9km NE of Borrego Springs, CA",earthquake,0.31,0.5,0.218,18.0,automatic,ci,ci
+2022-03-09T09:28:24.090Z,63.3443,-145.1329,0.0,2.1,ml,,,,1.16,ak,ak02234m2jwf,2022-03-09T09:30:25.207Z,"37 km NE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-09T09:26:41.782Z,62.8783,-150.6824,0.0,1.6,ml,,,,0.73,ak,ak02234m25we,2022-03-09T09:38:58.625Z,"42 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
