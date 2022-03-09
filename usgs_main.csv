@@ -1408,3 +1408,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-09T10:24:47.108Z,61.6213,-146.3844,33.7,1.4,ml,,,,1.09,ak,ak02234mn6g6,2022-03-09T10:27:04.434Z,"46 km SSE of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-09T10:21:23.470Z,19.1774997711182,-155.497833251953,31.3899993896484,2.0,md,41.0,86.0,,0.140000001,hv,hv72944372,2022-03-09T10:24:36.260Z,"3 km SW of Pāhala, Hawaii",earthquake,0.53,1.03999996,1.61000001,18.0,automatic,hv,hv
 2022-03-09T10:43:09.045Z,61.5676,-149.8503,46.7,1.4,ml,,,,0.38,ak,ak02234mr648,2022-03-09T10:46:03.486Z,"7 km SSW of Houston, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-03-09T10:50:24.300Z,38.8326683,-122.8183365,1.66,0.57,md,18.0,55.0,0.01129,0.02,nc,nc73703246,2022-03-09T10:58:11.221Z,"8km NW of The Geysers, CA",earthquake,0.23,0.49,0.19,3.0,automatic,nc,nc
+2022-03-09T10:50:07.020Z,35.6383333,-117.4585,6.36,0.8,ml,13.0,165.0,0.05181,0.14,ci,ci40203208,2022-03-09T10:53:39.767Z,"15km SSW of Searles Valley, CA",earthquake,0.47,0.75,0.078,8.0,automatic,ci,ci
+2022-03-09T10:22:04.910Z,17.978,-67.0815,7.72,2.89,md,16.0,214.0,,0.26,pr,pr71339643,2022-03-09T10:55:17.500Z,"3 km W of La Parguera, Puerto Rico",earthquake,0.8,0.29,0.214932001544963,10.0,reviewed,pr,pr
