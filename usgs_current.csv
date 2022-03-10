@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-10T09:46:48.510Z,32.9176667,-116.236,11.12,1.21,ml,28,97,0.06758,0.25,ci,ci40204152,2022-03-10T09:50:22.366Z,"27km SSW of Ocotillo Wells, CA",earthquake,0.38,0.68,0.242,21,automatic,ci,ci
+2022-03-10T09:45:21.800Z,19.1771659851074,-155.503662109375,36.4099998474121,1.86000001,md,44,89,,0.129999995,hv,hv72945712,2022-03-10T09:48:38.550Z,"3 km SW of Pāhala, Hawaii",earthquake,0.61,0.75999999,0.800000012,12,automatic,hv,hv
+2022-03-10T09:45:18.463Z,59.5593,-151.203,7.7,1.8,ml,,,,0.88,ak,ak022369pj5y,2022-03-10T09:47:10.141Z,"4 km SSE of Halibut Cove, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-10T09:35:42.290Z,35.6666667,-117.4388333,4.67,1.21,ml,17,121,0.08223,0.17,ci,ci40204144,2022-03-10T09:39:22.144Z,"12km SSW of Searles Valley, CA",earthquake,0.44,1,0.206,16,automatic,ci,ci
 2022-03-10T09:28:22.531Z,63.4211,-151.3858,0,1.6,ml,,,,1.05,ak,ak022369lwb4,2022-03-10T09:32:41.430Z,"21 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-10T09:28:07.050Z,19.2023334503174,-155.474838256836,35.4000015258789,2.32,ml,50,90,,0.100000001,hv,hv72945702,2022-03-10T09:33:38.940Z,"0 km E of Pāhala, Hawaii",earthquake,0.4,0.649999976,3.92,16,automatic,hv,hv
@@ -252,5 +255,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-09T10:01:08.311Z,38.5385,-119.4719,8.8,0.1,ml,5,152.63,0.043,0.033,nn,nn00835131,2022-03-10T02:37:30.388Z,"2 km N of Walker, California",earthquake,,2,0.02,2,reviewed,nn,nn
 2022-03-09T10:00:26.810Z,36.9796667,-121.642,3.18,1.73,md,45,38,0.05122,0.17,nc,nc73703231,2022-03-10T00:44:15.011Z,"7km WSW of Gilroy, CA",earthquake,0.25,0.57,0.199,38,reviewed,nc,nc
 2022-03-09T09:59:48.782Z,61.5021,-146.4938,20,1.6,ml,,,,0.87,ak,ak02234m991a,2022-03-09T10:02:21.125Z,"42 km N of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-03-09T09:56:30.344Z,54.5368,-159.6038,19.89,3.8,mb,,186,0.957,0.8,us,us6000h39c,2022-03-09T13:24:17.434Z,"105 km SSE of Sand Point, Alaska",earthquake,7.6,9.4,0.208,6,reviewed,us,us
-2022-03-09T09:52:26.985Z,54.4896,-163.2578,10,3.6,ml,,187,0.379,0.69,us,us6000h39b,2022-03-09T10:14:58.040Z,"41 km SSE of False Pass, Alaska",earthquake,3.8,2,0.081,20,reviewed,us,us
