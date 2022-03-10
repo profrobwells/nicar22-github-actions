@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-10T09:01:13.400Z,39.315834,-123.2516632,2.09,2.39,md,14,87,0.1119,0.11,nc,nc73703721,2022-03-10T09:02:49.141Z,"7km NW of Redwood Valley, CA",earthquake,0.41,9.25,0.13,15,automatic,nc,nc
+2022-03-10T08:59:17.964Z,64.4135,-147.45,17,1.3,ml,,,,0.54,ak,ak02236973jo,2022-03-10T09:01:32.213Z,"29 km WSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-10T08:34:30.921Z,-20.3649,-68.9407,117.24,4.2,mb,,53,0.732,0.42,us,us6000h3if,2022-03-10T08:56:28.040Z,"127 km E of Iquique, Chile",earthquake,5.2,5.7,0.175,10,reviewed,us,us
 2022-03-10T08:26:00.448Z,63.4242,-151.4222,5.4,1.4,ml,,,,1.08,ak,ak022368zzkj,2022-03-10T08:31:54.204Z,"19 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-10T08:13:10.370Z,38.8216667,-122.7990036,1.6,1.43,md,25,52,0.008818,0.02,nc,nc73703711,2022-03-10T08:42:12.938Z,"6km NW of The Geysers, CA",earthquake,0.17,0.34,0.22,2,automatic,nc,nc
 2022-03-10T08:10:02.230Z,38.7726669,-122.7091675,1.32,0.33,md,8,92,0.008935,0.01,nc,nc73703706,2022-03-10T08:33:13.889Z,"2km W of Anderson Springs, CA",earthquake,0.32,0.6,0.01,2,automatic,nc,nc
@@ -258,9 +261,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-09T09:26:41.782Z,62.8783,-150.6824,0,1.6,ml,,,,0.73,ak,ak02234m25we,2022-03-09T09:38:58.625Z,"42 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-03-09T09:17:08.000Z,32.9216667,-116.2398333,9.07,0.6,ml,19,100,0.06272,0.11,ci,ci40203168,2022-03-09T23:33:10.611Z,"27km SSW of Ocotillo Wells, CA",earthquake,0.17,0.42,0.094,9,reviewed,ci,ci
 2022-03-09T09:07:42.820Z,40.1418333,-123.8381667,22.06,2.28,md,28,60,0.05169,0.12,nc,nc73703226,2022-03-09T12:38:16.728Z,"3km NNW of Redway, CA",earthquake,0.24,0.26,0.145,28,reviewed,nc,nc
-2022-03-09T09:02:34.910Z,19.1669998168945,-155.497497558594,28.9200000762939,1.98000002,md,32,104,,0.129999995,hv,hv72944282,2022-03-09T09:05:43.460Z,"Island of Hawaii, Hawaii",earthquake,0.64,0.829999983,1.09000003,12,automatic,hv,hv
-2022-03-09T09:01:41.040Z,19.2105007171631,-155.419998168945,33.0099983215332,1.92999995,md,38,143,,0.129999995,hv,hv72944277,2022-03-09T09:04:47.490Z,"6 km E of Pāhala, Hawaii",earthquake,0.59,0.730000019,0.959999979,3,automatic,hv,hv
-2022-03-09T08:57:49.590Z,32.9181667,-116.2393333,7.41,1,ml,48,57,0.06497,0.21,ci,ci40203160,2022-03-09T23:29:21.340Z,"27km SSW of Ocotillo Wells, CA",earthquake,0.21,0.5,0.119,19,reviewed,ci,ci
-2022-03-09T08:55:31.439Z,66.8227,-154.1881,13,3.3,ml,,,,1.11,ak,ak02234lmx6y,2022-03-09T09:48:26.040Z,"71 km WNW of Alatna, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-03-09T08:54:42.280Z,33.493,-116.4906667,14.79,0.58,ml,30,61,0.06217,0.12,ci,ci40203152,2022-03-09T23:20:08.073Z,"18km ESE of Anza, CA",earthquake,0.17,0.39,0.12,18,reviewed,ci,ci
-2022-03-09T08:54:26.900Z,17.9601666666667,-66.9553333333333,14.12,1.51,md,5,199,,0.08,pr,pr71339628,2022-03-09T09:39:26.830Z,"5 km SW of Fuig, Puerto Rico",earthquake,0.66,0.76,0.592832167137997,6,reviewed,pr,pr
