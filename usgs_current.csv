@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-10T07:40:45.920Z,38.7854996,-122.7476654,3,0.46,md,14,81,0.008844,0.02,nc,nc73703691,2022-03-10T07:42:23.155Z,"1km NE of The Geysers, CA",earthquake,0.31,0.85,0.17,4,automatic,nc,nc
-2022-03-10T07:34:16.930Z,38.8165016,-122.8251648,1.97,0.36,md,9,100,0.008242,0.02,nc,nc73703686,2022-03-10T07:42:10.740Z,"7km NW of The Geysers, CA",earthquake,0.39,1.02,,1,automatic,nc,nc
+2022-03-10T07:47:43.960Z,38.7784996,-122.768837,1.33,0.55,md,13,89,0.008134,0.02,nc,nc73703696,2022-03-10T07:56:10.691Z,"1km W of The Geysers, CA",earthquake,0.32,0.55,0.4,4,automatic,nc,nc
+2022-03-10T07:44:53.303Z,64.8537,-152.2499,8.7,1.6,ml,,,,0.81,ak,ak022368iixe,2022-03-10T07:47:25.582Z,"36 km SSW of Tanana, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-03-10T07:40:45.920Z,38.7854996,-122.7476654,3,0.46,md,14,81,0.008844,0.02,nc,nc73703691,2022-03-10T07:49:10.652Z,"1km NE of The Geysers, CA",earthquake,0.31,0.85,0.17,4,automatic,nc,nc
+2022-03-10T07:34:16.930Z,38.8165016,-122.8251648,1.97,0.36,md,9,100,0.008242,0.02,nc,nc73703686,2022-03-10T07:50:12.658Z,"7km NW of The Geysers, CA",earthquake,0.39,1.02,,1,automatic,nc,nc
 2022-03-10T07:33:12.630Z,33.7521667,-117.5376667,6.31,0.85,ml,16,81,0.05136,0.16,ci,ci40204128,2022-03-10T07:36:46.457Z,"11km NNE of Trabuco Canyon, CA",earthquake,0.34,0.79,0.183,15,automatic,ci,ci
 2022-03-10T07:22:07.917Z,60.3997,-152.2924,91.7,2.6,ml,,,,0.56,ak,ak022368dpp4,2022-03-10T07:28:30.644Z,"52 km NW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-10T07:21:59.716Z,63.4745,-150.2495,9.6,1.2,ml,,,,0.1,ak,ak022368dlyb,2022-03-10T07:24:39.738Z,"65 km W of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -9,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-10T07:01:09.592Z,64.8492,-152.4231,3.4,1.9,ml,,,,0.72,ak,ak02236897yd,2022-03-10T07:14:20.792Z,"39 km SSW of Tanana, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-10T07:00:30.710Z,33.676,-116.7713333,10.95,0.25,ml,10,132,0.05918,0.14,ci,ci40204120,2022-03-10T07:04:00.358Z,"9km SW of Idyllwild, CA",earthquake,0.45,0.74,0.067,6,automatic,ci,ci
 2022-03-10T06:39:12.400Z,33.4788333,-116.4378333,13.39,1.58,ml,48,39,0.1337,0.2,ci,ci40204112,2022-03-10T06:50:16.880Z,"23km ESE of Anza, CA",earthquake,0.25,0.54,0.112,26,automatic,ci,ci
-2022-03-10T06:37:47.630Z,40.2371674,-124.1220016,11.7,2.23,md,11,156,0.05254,0.13,nc,nc73703681,2022-03-10T06:49:14.286Z,"17km SE of Petrolia, CA",earthquake,0.59,0.91,0.15,7,automatic,nc,nc
+2022-03-10T06:37:47.630Z,40.2371674,-124.1220016,11.7,2.23,md,11,156,0.05254,0.13,nc,nc73703681,2022-03-10T07:56:10.815Z,"17km SE of Petrolia, CA",earthquake,0.59,0.91,0.15,7,automatic,nc,nc
 2022-03-10T06:37:41.447Z,-41.0497,-87.7827,10,4.6,mb,,209,11.003,0.57,us,us6000h3hr,2022-03-10T06:55:33.040Z,"West Chile Rise",earthquake,12.1,1.9,0.102,30,reviewed,us,us
 2022-03-10T06:36:46.020Z,33.4876667,-116.4225,14.53,0.73,ml,15,191,0.1275,0.17,ci,ci40204104,2022-03-10T06:40:22.745Z,"22km SSW of La Quinta, CA",earthquake,0.65,1.13,0.155,16,automatic,ci,ci
 2022-03-10T06:28:37.680Z,38.822834,-122.7663345,2.13,0.9,md,14,116,0.008122,0.03,nc,nc73703676,2022-03-10T07:42:10.604Z,"4km W of Cobb, CA",earthquake,0.32,0.67,0.3,2,automatic,nc,nc
@@ -261,4 +263,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-09T08:08:53.710Z,33.6496667,-116.7616667,11.85,0.67,ml,29,86,0.05587,0.11,ci,ci40203136,2022-03-09T23:03:19.429Z,"11km SSW of Idyllwild, CA",earthquake,0.18,0.32,0.275,9,reviewed,ci,ci
 2022-03-09T08:04:19.250Z,38.8370018,-122.8266678,1.45,0.36,md,7,110,0.01533,0.01,nc,nc73703221,2022-03-09T09:09:17.551Z,"9km NW of The Geysers, CA",earthquake,0.37,1.42,,1,automatic,nc,nc
 2022-03-09T08:03:42.480Z,38.8359985,-122.8255005,1.93,0.83,md,20,84,0.008217,0.01,nc,nc73703216,2022-03-09T08:56:16.470Z,"9km NW of The Geysers, CA",earthquake,0.24,0.45,0.22,4,automatic,nc,nc
-2022-03-09T07:55:11.117Z,36.7553,-116.1528,4.3,-0.1,ml,8,201.7,0.039,0.0764,nn,nn00835112,2022-03-10T02:37:06.118Z,"Nevada",earthquake,,3.3,0.18,4,reviewed,nn,nn
