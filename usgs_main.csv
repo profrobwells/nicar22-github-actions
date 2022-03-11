@@ -1972,3 +1972,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-11T11:07:46.790Z,38.8380013,-122.8241653,1.37,0.36,md,13.0,64.0,0.008861,0.03,nc,nc73704131,2022-03-11T11:24:15.480Z,"9km WNW of Cobb, CA",earthquake,0.29,0.76,,1.0,automatic,nc,nc
 2022-03-11T11:25:55.150Z,35.4815,-118.2988333,0.15,1.14,ml,15.0,110.0,0.1405,0.25,ci,ci40204944,2022-03-11T11:29:27.902Z,"21km SE of Bodfish, CA",earthquake,0.47,0.83,0.151,11.0,automatic,ci,ci
 2022-03-11T11:13:06.068Z,35.5867,142.7305,10.0,4.8,mb,,136.0,3.449,0.55,us,us6000h3ru,2022-03-11T11:31:48.040Z,"172 km E of Hasaki, Japan",earthquake,6.9,1.9,0.036,233.0,reviewed,us,us
+2022-03-11T11:43:51.433Z,46.8997,-112.6781,11.23,3.2,ml,,56.0,0.157,0.59,us,us6000h3rx,2022-03-11T11:53:34.040Z,"6 km S of Lincoln, Montana",earthquake,2.2,8.5,0.042,73.0,reviewed,us,us
