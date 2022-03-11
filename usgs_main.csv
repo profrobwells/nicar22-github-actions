@@ -1993,3 +1993,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-11T13:49:59.990Z,38.8196678,-122.7623367,1.69,1.24,md,24.0,105.0,0.0123,0.04,nc,nc73704181,2022-03-11T13:51:32.546Z,"3km W of Cobb, CA",earthquake,0.23,0.36,0.06,5.0,automatic,nc,nc
 2022-03-11T13:04:13.200Z,19.0023,-64.5156,29.0,3.79,md,14.0,328.0,1.0348,0.39,pr,pr2022070003,2022-03-11T13:52:02.510Z,"79 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,2.85,24.63,0.06,6.0,reviewed,pr,pr
 2022-03-11T01:35:42.980Z,36.1591667,-89.6811667,8.48,1.96,md,33.0,56.0,0.04257,0.04,nm,nm60376112,2022-03-11T13:52:18.620Z,"4 km SSW of Caruthersville, Missouri",earthquake,0.28,0.56,0.128,23.0,reviewed,nm,nm
+2022-03-11T14:13:04.100Z,38.8221664,-122.8013306,2.81,0.63,md,15.0,78.0,0.006939,0.01,nc,nc73704186,2022-03-11T14:21:10.551Z,"6km NW of The Geysers, CA",earthquake,0.32,0.52,0.11,2.0,automatic,nc,nc
