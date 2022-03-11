@@ -1899,3 +1899,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-11T04:24:39.017Z,63.015,-151.5285,6.9,1.5,ml,,,,0.74,ak,ak02237u596f,2022-03-11T04:28:30.612Z,"59 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-11T04:22:58.310Z,38.788166,-122.7645035,2.6,0.36,md,8.0,141.0,0.01299,0.01,nc,nc73704051,2022-03-11T04:24:31.851Z,"1km NNW of The Geysers, CA",earthquake,0.54,1.16,,1.0,automatic,nc,nc
 2022-03-11T04:00:24.210Z,38.7876663,-122.7460022,1.63,0.81,md,12.0,141.0,0.008493,0.02,nc,nc73704041,2022-03-11T04:17:25.790Z,"2km NE of The Geysers, CA",earthquake,0.32,0.49,0.39,4.0,automatic,nc,nc
+2022-03-11T04:46:05.100Z,36.4941673,-121.0081635,3.08,1.23,md,7.0,143.0,0.05584,0.11,nc,nc73704066,2022-03-11T04:47:41.391Z,"13km ESE of Pinnacles, CA",earthquake,0.59,2.04,0.18,7.0,automatic,nc,nc
+2022-03-11T04:44:24.050Z,38.8381653,-122.8001633,1.76,0.85,md,7.0,123.0,0.007672,0.01,nc,nc73704061,2022-03-11T04:47:41.639Z,"7km WNW of Cobb, CA",earthquake,0.46,1.3,,1.0,automatic,nc,nc
+2022-03-11T04:41:54.832Z,60.3589,-152.0257,81.9,2.2,ml,,,,0.49,ak,ak02237u8xjk,2022-03-11T04:46:52.350Z,"37 km WNW of Clam Gulch, Alaska",earthquake,,0.7,,,automatic,ak,ak
