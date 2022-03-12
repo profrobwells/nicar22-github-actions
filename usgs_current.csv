@@ -228,5 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-11T11:45:54.970Z,46.8888333,-112.6543333,12.55,1.94,ml,11,111,0.023,0.12,mb,mb80540224,2022-03-11T17:10:26.540Z,"7 km SSE of Lincoln, Montana",earthquake,0.64,0.64,0.173,5,reviewed,mb,mb
 2022-03-11T11:44:59.460Z,46.8901,-112.6481,13.94,2.8,ml,,70,0.065,0.24,us,us6000h3uh,2022-03-12T06:34:08.040Z,"7 km SSE of Lincoln, Montana",earthquake,1.4,2.3,0.105,12,reviewed,us,us
 2022-03-11T11:43:51.433Z,46.8997,-112.6781,11.23,3.2,ml,,56,0.157,0.59,us,us6000h3rx,2022-03-11T21:54:58.700Z,"6 km S of Lincoln, Montana",earthquake,2.2,8.5,0.042,73,reviewed,us,us
-2022-03-11T11:25:55.360Z,35.4846667,-118.2931667,3.23,1.05,ml,24,78,0.135,0.13,ci,ci40204944,2022-03-11T18:56:32.740Z,"21km ESE of Bodfish, CA",earthquake,0.18,0.57,0.2,12,reviewed,ci,ci
-2022-03-11T11:23:07.446Z,38.5371,-119.5135,8.6,0.2,ml,3,229.12,0.049,0.0735,nn,nn00835236,2022-03-12T02:37:52.411Z,"3 km S of Coleville, California",earthquake,,2.8,0.01,2,reviewed,nn,nn
