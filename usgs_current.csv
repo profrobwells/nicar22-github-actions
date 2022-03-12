@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-12T14:28:34.642Z,60.9164,-151.0804,13,1.6,ml,,,,0.48,ak,ak02239nns94,2022-03-12T14:30:16.450Z,"17 km S of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-12T14:13:58.300Z,19.2078342437744,-155.444671630859,33.5299987792969,1.85000002,md,36,148,,0.150000006,hv,hv72947867,2022-03-12T14:17:06.340Z,"Hawaii region, Hawaii",earthquake,0.57,0.720000029,1.63,6,automatic,hv,hv
 2022-03-12T14:05:58.711Z,38.263,-118.3595,9.7,1.5,ml,17,111.4,0.115,0.1593,nn,nn00835261,2022-03-12T14:09:46.459Z,"26 km WSW of Mina, Nevada",earthquake,,0.5,0.19,11,automatic,nn,nn
 2022-03-12T14:00:37.430Z,38.8016663,-122.7718353,1.62,0.45,md,12,76,0.00953,0.02,nc,nc73704691,2022-03-12T14:10:10.184Z,"3km NNW of The Geysers, CA",earthquake,0.28,0.57,0.39,2,automatic,nc,nc
@@ -19,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-12T12:45:52.063Z,60.2219,-152.6376,9.1,1.8,ml,,,,0.74,ak,ak02239mklk5,2022-03-12T13:00:33.447Z,"57 km WNW of Ninilchik, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-12T12:42:07.980Z,38.9256667,-123.0203333,5.86,1.91,md,56,50,0.07894,0.06,nc,nc73704666,2022-03-12T13:53:16.086Z,"13km N of Cloverdale, CA",earthquake,0.21,0.44,0.154,37,reviewed,nc,nc
 2022-03-12T12:30:18.530Z,38.8089981,-122.8151703,2.91,0.35,md,11,98,0.01094,0.02,nc,nc73704661,2022-03-12T13:29:17.106Z,"6km NW of The Geysers, CA",earthquake,0.42,0.81,,1,automatic,nc,nc
-2022-03-12T12:27:51.350Z,19.2025,-155.3855,31.57,3.25,ml,58,160,,0.12,hv,hv72947797,2022-03-12T13:26:29.929Z,"9 km E of Pāhala, Hawaii",earthquake,0.44,0.53,0.187709148338699,40,reviewed,hv,hv
+2022-03-12T12:27:51.350Z,19.2025,-155.3855,31.57,3.25,ml,58,160,,0.12,hv,hv72947797,2022-03-12T14:30:04.642Z,"9 km E of Pāhala, Hawaii",earthquake,0.44,0.53,0.187709148338699,40,reviewed,hv,hv
 2022-03-12T12:27:47.423Z,-27.4702,-71.2167,10.33,5.1,mb,,139,0.464,0.87,us,us6000h40b,2022-03-12T12:46:17.040Z,"88 km W of Copiapó, Chile",earthquake,3.5,4,0.031,330,reviewed,us,us
 2022-03-12T12:23:32.080Z,33.6611667,-116.767,10.93,0.74,ml,21,102,0.06654,0.2,ci,ci40205832,2022-03-12T12:27:03.763Z,"10km SSW of Idyllwild, CA",earthquake,0.46,1,0.14,12,automatic,ci,ci
 2022-03-12T12:06:32.190Z,32.6966667,-115.5303333,1.34,1.32,ml,14,124,0.1292,0.21,ci,ci40205824,2022-03-12T12:10:05.904Z,"4km WNW of Calexico, CA",earthquake,0.6,0.88,0.243,19,automatic,ci,ci
@@ -69,7 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-12T05:38:46.140Z,17.9191666666667,-66.9376666666667,15.62,1.6,md,5,229,,0.06,pr,pr71339868,2022-03-12T06:52:47.330Z,"6 km SSW of Guánica, Puerto Rico",earthquake,1.67,0.64,0.000130405052150229,3,reviewed,pr,pr
 2022-03-12T05:31:10.870Z,-7.3035,106.0707,37.41,5.3,mww,,54,1.574,1.09,us,us6000h3ys,2022-03-12T09:59:20.824Z,"63 km WSW of Pelabuhanratu, Indonesia",earthquake,3.6,6.2,0.075,17,reviewed,us,us
 2022-03-12T05:25:58.827Z,36.6585,-116.2905,12.6,0.3,ml,8,176.17,0.041,0.0799,nn,nn00835256,2022-03-12T05:29:00.266Z,"50 km ESE of Beatty, Nevada",earthquake,,1.8,0.23,4,automatic,nn,nn
-2022-03-12T05:15:46.890Z,36.3546667,-117.964,1.86,2.47,ml,26,80,0.1266,0.19,ci,ci40205696,2022-03-12T05:19:26.240Z,"9km NNE of Olancha, CA",earthquake,0.35,2.12,0.207,25,automatic,ci,ci
+2022-03-12T05:15:46.890Z,36.3546667,-117.964,1.86,2.47,ml,26,80,0.1266,0.19,ci,ci40205696,2022-03-12T14:25:13.269Z,"9km NNE of Olancha, CA",earthquake,0.35,2.12,0.207,25,automatic,ci,ci
 2022-03-12T05:13:08.500Z,33.5006667,-116.6886667,9.62,0.37,ml,16,81,0.02028,0.28,ci,ci40205680,2022-03-12T05:16:44.154Z,"6km SSW of Anza, CA",earthquake,0.63,0.92,0.124,8,automatic,ci,ci
 2022-03-12T04:45:47.800Z,36.3513333,-117.9645,1.73,1.95,ml,24,79,0.1285,0.2,ci,ci40205672,2022-03-12T04:56:42.620Z,"9km NNE of Olancha, CA",earthquake,0.38,2.82,0.262,26,automatic,ci,ci
 2022-03-12T04:21:46.600Z,38.8138351,-122.8236694,2.22,1.07,md,23,55,0.006567,0.02,nc,nc73704551,2022-03-12T06:37:14.505Z,"7km NW of The Geysers, CA",earthquake,0.21,0.4,0.11,4,automatic,nc,nc
