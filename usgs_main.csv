@@ -2424,3 +2424,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-13T08:18:12.640Z,38.177166,-122.2908325,8.82,1.7,md,26.0,58.0,0.1042,0.1,nc,nc73704971,2022-03-13T08:35:29.677Z,"3km W of American Canyon, CA",earthquake,0.29,0.71,0.1,19.0,automatic,nc,nc
 2022-03-13T03:39:26.060Z,18.8268,-64.7276,49.0,3.88,md,14.0,329.0,0.76,0.43,pr,pr2022072000,2022-03-13T08:23:05.421Z,"55 km N of Cruz Bay, U.S. Virgin Islands",earthquake,5.06,8.74,0.08,11.0,reviewed,pr,pr
 2022-03-13T08:48:48.418Z,64.6309,-150.3617,4.9,1.2,ml,,,,1.16,ak,ak0223b7qui5,2022-03-13T08:52:11.787Z,"43 km SSE of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-03-13T09:05:22.030Z,38.8361664,-122.8030014,2.26,0.85,md,9.0,112.0,0.01014,0.02,nc,nc73704981,2022-03-13T09:06:58.217Z,"7km WNW of Cobb, CA",earthquake,0.41,1.26,,1.0,automatic,nc,nc
+2022-03-13T09:00:40.697Z,61.0785,-151.814,79.8,1.0,ml,,,,0.25,ak,ak0223b81z51,2022-03-13T09:10:05.958Z,"36 km W of Tyonek, Alaska",earthquake,,1.5,,,automatic,ak,ak
