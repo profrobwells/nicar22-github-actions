@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-13T11:28:32.410Z,38.8156662,-122.7955017,2.01,0.96,md,25,48,0.007689,0.04,nc,nc73705011,2022-03-13T11:30:07.878Z,"5km NW of The Geysers, CA",earthquake,0.21,0.37,0.2,3,automatic,nc,nc
+2022-03-13T11:33:47.586Z,38.1558,-118.0782,4.2,1.8,ml,12,126.49,0.085,0.1653,nn,nn00835284,2022-03-13T11:37:30.256Z,"26 km S of Mina, Nevada",earthquake,,0.6,0.28,7,automatic,nn,nn
+2022-03-13T11:28:32.410Z,38.8156662,-122.7955017,2.01,0.96,md,25,48,0.007689,0.04,nc,nc73705011,2022-03-13T11:38:10.874Z,"5km NW of The Geysers, CA",earthquake,0.21,0.37,0.2,3,automatic,nc,nc
+2022-03-13T11:16:29.974Z,52.4403,172.704,10.76,4.8,mb,,120,0.901,0.69,us,us6000h45z,2022-03-13T11:35:18.040Z,"55 km SW of Attu Station, Alaska",earthquake,6.9,4.9,0.042,172,reviewed,us,us
 2022-03-13T10:51:05.968Z,-1.827,-78.3495,4.26,4.6,mb,,65,0.464,0.72,us,us6000h45x,2022-03-13T11:16:48.040Z,"37 km ESE of Riobamba, Ecuador",earthquake,4.9,4.9,0.045,147,reviewed,us,us
 2022-03-13T10:48:32.500Z,33.4448333,-116.5783333,11.7,0.76,ml,27,42,0.05447,0.16,ci,ci40206632,2022-03-13T10:52:03.398Z,"15km SE of Anza, CA",earthquake,0.24,0.48,0.242,22,automatic,ci,ci
 2022-03-13T10:27:47.130Z,17.9971666666667,-66.761,15.36,2.24,md,7,188,,0.06,pr,pr71339993,2022-03-13T10:51:21.400Z,"2 km SSE of Magas Arriba, Puerto Rico",earthquake,0.45,0.42,0.104481446621761,3,reviewed,pr,pr
@@ -8,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-13T10:04:16.110Z,35.7528333,-118.4816667,4,2.37,ml,36,46,0.04457,0.21,ci,ci40206616,2022-03-13T10:16:28.016Z,"5km W of Kernville, CA",earthquake,0.28,0.64,0.236,26,automatic,ci,ci
 2022-03-13T09:53:08.550Z,19.5698337554932,-155.943496704102,8.77999973297119,1.88,md,20,219,,0.230000004,hv,hv72948537,2022-03-13T09:56:25.870Z,"1 km E of Kahaluu-Keauhou, Hawaii",earthquake,1.01,0.75999999,0.939999998,3,automatic,hv,hv
 2022-03-13T09:39:48.440Z,38.8154984,-122.8199997,2.85,0.25,md,11,71,0.00976,0.02,nc,nc73704996,2022-03-13T10:06:12.252Z,"7km NW of The Geysers, CA",earthquake,0.39,1.07,0.11,2,automatic,nc,nc
-2022-03-13T09:31:25.970Z,38.8294983,-122.814003,1.59,0.85,md,8,161,0.006824,0.02,nc,nc73704991,2022-03-13T09:52:14.176Z,"8km NW of The Geysers, CA",earthquake,0.49,0.96,,1,automatic,nc,nc
+2022-03-13T09:31:25.970Z,38.8294983,-122.814003,1.59,0.85,md,8,161,0.006824,0.02,nc,nc73704991,2022-03-13T11:37:13.870Z,"8km NW of The Geysers, CA",earthquake,0.49,0.96,,1,automatic,nc,nc
 2022-03-13T09:25:42.620Z,38.0768318,-122.2369995,9.4,1.9,md,33,72,0.01699,0.24,nc,nc73704986,2022-03-13T11:11:15.745Z,"3km NW of Crockett, CA",earthquake,0.41,0.79,0.09,25,automatic,nc,nc
 2022-03-13T09:23:12.846Z,-21.2889,-68.8911,124.12,4.1,mb,,63,0.607,0.58,us,us6000h45n,2022-03-13T09:48:23.040Z,"129 km N of Calama, Chile",earthquake,6.8,7,0.151,12,reviewed,us,us
 2022-03-13T09:08:05.149Z,46.8647,-112.6486,9.13,2.8,ml,,57,0.131,0.61,us,us6000h45m,2022-03-13T09:18:59.040Z,"10 km SSE of Lincoln, Montana",earthquake,3.3,7.8,0.05,53,reviewed,us,us
@@ -182,4 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-12T11:52:34.761Z,55.889,163.0264,35,4.9,mww,,69,3.842,0.7,us,us6000h407,2022-03-12T12:17:22.040Z,"50 km SE of Ust’-Kamchatsk Staryy, Russia",earthquake,5.1,1.9,0.08,15,reviewed,us,us
 2022-03-12T11:50:53.812Z,64.5661,-149.2015,14.2,1.3,ml,,,,0.18,ak,ak02239m08of,2022-03-12T12:24:37.094Z,"5 km W of Nenana, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-12T11:44:24.032Z,60.4718,-151.4959,64,1.3,ml,,,,0.68,ak,ak02239lyw2w,2022-03-12T11:54:13.483Z,"12 km WNW of Kalifornsky, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2022-03-12T11:37:53.990Z,34.2158333,-117.4785,11.5,0.9,ml,19,55,0.1509,0.16,ci,ci40205816,2022-03-12T11:41:32.450Z,"5km SSE of Lytle Creek, CA",earthquake,0.3,1.19,0.206,16,automatic,ci,ci
