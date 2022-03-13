@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-13T09:05:22.030Z,38.8361664,-122.8030014,2.26,0.85,md,9,112,0.01014,0.02,nc,nc73704981,2022-03-13T09:06:58.217Z,"7km WNW of Cobb, CA",earthquake,0.41,1.26,,1,automatic,nc,nc
+2022-03-13T09:25:42.620Z,38.0768318,-122.2369995,9.4,1.9,md,33,72,0.01699,0.24,nc,nc73704986,2022-03-13T09:28:34.359Z,"3km NW of Crockett, CA",earthquake,0.41,0.79,0.09,25,automatic,nc,nc
+2022-03-13T09:08:05.149Z,46.8647,-112.6486,9.13,2.8,ml,,57,0.131,0.61,us,us6000h45m,2022-03-13T09:18:59.040Z,"10 km SSE of Lincoln, Montana",earthquake,3.3,7.8,0.05,53,reviewed,us,us
+2022-03-13T09:05:22.030Z,38.8361664,-122.8030014,2.26,0.85,md,9,112,0.01014,0.02,nc,nc73704981,2022-03-13T09:22:12.995Z,"7km WNW of Cobb, CA",earthquake,0.41,1.26,,1,automatic,nc,nc
 2022-03-13T09:00:40.697Z,61.0785,-151.814,79.8,1,ml,,,,0.25,ak,ak0223b81z51,2022-03-13T09:10:05.958Z,"36 km W of Tyonek, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2022-03-13T08:48:48.418Z,64.6309,-150.3617,4.9,1.2,ml,,,,1.16,ak,ak0223b7qui5,2022-03-13T09:00:53.336Z,"43 km SSE of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-03-13T08:46:22.987Z,6.7494,123.7104,589.46,4.1,mb,,58,1.882,0.46,us,us6000h45l,2022-03-13T09:25:04.040Z,"34 km W of Gadung, Philippines",earthquake,12,10.5,0.085,38,reviewed,us,us
 2022-03-13T08:26:06.290Z,38.7893333,-122.7606659,1.66,0.36,md,8,130,0.0113,0.01,nc,nc73704976,2022-03-13T09:06:12.910Z,"1km NNW of The Geysers, CA",earthquake,0.42,0.88,,1,automatic,nc,nc
 2022-03-13T08:18:12.640Z,38.177166,-122.2908325,8.82,1.7,md,26,58,0.1042,0.1,nc,nc73704971,2022-03-13T08:52:13.826Z,"3km W of American Canyon, CA",earthquake,0.29,0.71,0.1,19,automatic,nc,nc
 2022-03-13T08:13:23.920Z,46.6088333129883,-119.84033203125,5.92000007629395,2.32999992,md,19,106,,0.0700000003,uw,uw61822226,2022-03-13T08:16:26.440Z,"9 km SE of Desert Aire, Washington",earthquake,0.64,0.25,0.0299999993,4,automatic,uw,uw
@@ -180,6 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-12T10:13:45.890Z,17.9361666666667,-66.986,10.59,2.38,md,13,231,,0.06,pr,pr71339903,2022-03-12T10:38:54.610Z,"7 km SE of La Parguera, Puerto Rico",earthquake,0.36,0.45,0.157380930366637,5,reviewed,pr,pr
 2022-03-12T10:06:12.020Z,37.8973351,-121.7746658,-0.07,1.6,md,8,120,0.1321,0.22,nc,nc73704646,2022-03-12T12:37:13.645Z,"5km SW of Brentwood, CA",earthquake,0.84,8.35,0.03,3,automatic,nc,nc
 2022-03-12T10:05:23.400Z,38.8148346,-122.8208313,2.67,0.85,md,9,64,0.008833,0.01,nc,nc73704641,2022-03-12T12:12:17.518Z,"7km NW of The Geysers, CA",earthquake,0.47,1.17,,1,automatic,nc,nc
-2022-03-12T09:29:37.940Z,38.8105011,-122.8273315,1.73,0.93,md,21,61,0.002177,0.03,nc,nc73704636,2022-03-12T11:45:18.378Z,"7km WNW of The Geysers, CA",earthquake,0.22,0.4,0.24,3,automatic,nc,nc
-2022-03-12T09:23:01.350Z,33.59,-116.8086667,6.97,0.66,ml,31,41,0.03738,0.13,ci,ci40205784,2022-03-12T17:32:13.460Z,"13km WNW of Anza, CA",earthquake,0.19,0.38,0.192,20,reviewed,ci,ci
-2022-03-12T09:19:40.320Z,38.7879982,-122.767334,2.06,0.55,md,12,79,0.01394,0.03,nc,nc73704631,2022-03-12T11:19:14.244Z,"2km NW of The Geysers, CA",earthquake,0.28,0.6,0.3,3,automatic,nc,nc
