@@ -2410,3 +2410,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-13T05:22:17.195Z,-17.955,-178.3599,589.58,4.3,mb,,114.0,3.423,0.72,us,us6000h44r,2022-03-13T05:43:14.040Z,"246 km E of Levuka, Fiji",earthquake,13.4,8.5,0.052,106.0,reviewed,us,us
 2022-03-13T05:07:06.869Z,58.2034,-156.1189,151.6,2.8,ml,,97.0,1.009,0.22,us,us6000h44q,2022-03-13T05:29:25.040Z,"62 km SSE of King Salmon, Alaska",earthquake,4.1,17.1,0.06,37.0,reviewed,us,us
 2022-03-13T04:34:08.940Z,17.9298333333333,-66.9193333333333,12.75,1.78,md,7.0,249.0,,0.08,pr,pr71339973,2022-03-13T06:21:37.360Z,"4 km SSW of Guánica, Puerto Rico",earthquake,0.86,0.51,0.0451535810868881,6.0,reviewed,pr,pr
+2022-03-13T07:04:08.398Z,64.1501,-148.3452,17.4,1.5,ml,,,,0.84,ak,ak0223b6vwav,2022-03-13T07:09:02.581Z,"40 km ENE of Ferry, Alaska",earthquake,,0.4,,,automatic,ak,ak
