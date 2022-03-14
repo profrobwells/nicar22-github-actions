@@ -2641,3 +2641,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-14T11:19:36.440Z,38.8366661,-122.8604965,1.36,0.38,md,5.0,156.0,0.007164,0.01,nc,nc73705386,2022-03-14T11:21:13.119Z,"11km NW of The Geysers, CA",earthquake,0.91,1.57,,1.0,automatic,nc,nc
 2022-03-14T11:15:11.180Z,33.0478333,-116.2163333,3.31,1.97,ml,60.0,43.0,0.115,0.24,ci,ci40207352,2022-03-14T11:25:40.540Z,"13km SW of Ocotillo Wells, CA",earthquake,0.25,0.75,0.153,27.0,automatic,ci,ci
 2022-03-14T11:10:58.730Z,39.274334,-123.479332,5.96,2.02,md,15.0,121.0,0.1413,0.09,nc,nc73705376,2022-03-14T11:17:24.526Z,"18km SW of Willits, CA",earthquake,0.33,1.17,0.09,11.0,automatic,nc,nc
+2022-03-14T11:34:47.230Z,36.5756683,-121.1693344,6.07,2.11,md,25.0,120.0,0.01353,0.06,nc,nc73705406,2022-03-14T11:36:22.574Z,"5km NNW of Pinnacles, CA",earthquake,0.27,0.56,0.18,26.0,automatic,nc,nc
+2022-03-14T11:30:10.860Z,38.8289986,-122.8119965,2.22,0.85,md,11.0,80.0,0.005793,0.01,nc,nc73705401,2022-03-14T11:31:47.328Z,"8km NW of The Geysers, CA",earthquake,0.31,0.87,,1.0,automatic,nc,nc
