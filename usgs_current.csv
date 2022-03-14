@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-14T13:25:01.440Z,38.8391685,-122.8101654,1.97,0.9,md,22,53,0.0155,0.02,nc,nc73705451,2022-03-14T13:26:36.536Z,"8km WNW of Cobb, CA",earthquake,0.2,0.43,0.16,4,automatic,nc,nc
+2022-03-14T13:25:01.440Z,38.8391685,-122.8101654,1.97,0.9,md,22,53,0.0155,0.02,nc,nc73705451,2022-03-14T13:35:11.411Z,"8km WNW of Cobb, CA",earthquake,0.2,0.43,0.16,4,automatic,nc,nc
 2022-03-14T13:13:01.380Z,33.0525,-116.212,3.72,1.26,ml,31,60,0.1094,0.19,ci,ci40207392,2022-03-14T13:16:38.472Z,"13km SW of Ocotillo Wells, CA",earthquake,0.3,1.45,0.146,26,automatic,ci,ci
 2022-03-14T13:11:11.301Z,60.0102,-153.0144,118.9,2.2,ml,,,,0.43,ak,ak0223cy1cno,2022-03-14T13:23:38.040Z,"65 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-03-14T13:06:42.670Z,19.1891670227051,-155.495834350586,34.6300010681152,1.86000001,md,39,144,,0.170000002,hv,hv72949677,2022-03-14T13:10:01.170Z,"2 km SW of Pāhala, Hawaii",earthquake,0.73,0.899999976,0.930000007,8,automatic,hv,hv
@@ -162,7 +162,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-13T18:39:11.030Z,19.2006664276123,-155.38916015625,31.7600002288818,1.90999997,md,27,175,,0.129999995,hv,hv72948897,2022-03-13T18:42:25.180Z,"9 km E of Pāhala, Hawaii",earthquake,0.79,0.850000024,1.90999997,4,automatic,hv,hv
 2022-03-13T18:38:28.676Z,64.7488,-151.0397,12,1.7,ml,,,,0.97,ak,ak0223bdmzvh,2022-03-13T18:47:15.613Z,"34 km SW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-13T18:31:12.530Z,19.1978340148926,-155.386337280273,32.2099990844727,1.79,ml,42,161,,0.129999995,hv,hv72948887,2022-03-13T18:36:42.290Z,"9 km E of Pāhala, Hawaii",earthquake,0.59,0.839999974,4.05,6,automatic,hv,hv
-2022-03-13T18:28:47.062Z,22.7371,114.9822,10,3.8,mb,,145,0.901,0.52,us,us6000h4bm,2022-03-14T12:38:51.607Z,"37 km W of Shanwei, China",earthquake,7.1,2,0.294,3,reviewed,us,us
+2022-03-13T18:28:47.062Z,22.7371,114.9822,10,3.8,mb,,145,0.901,0.52,us,us6000h4bm,2022-03-14T13:34:34.759Z,"37 km W of Shanwei, China",earthquake,7.1,2,0.294,3,reviewed,us,us
 2022-03-13T18:16:29.540Z,19.2084999084473,-155.403839111328,33.2200012207031,2.4,ml,45,154,,0.150000006,hv,hv72948867,2022-03-13T18:21:59.940Z,"7 km E of Pāhala, Hawaii",earthquake,0.57,0.75,0.47,4,automatic,hv,hv
 2022-03-13T18:15:14.960Z,36.4595,-81.0836667,4.35,2.06,md,11,88,0.4382,0.25,se,se60147243,2022-03-14T12:11:53.318Z,"6 km SSE of Sparta, North Carolina",earthquake,0.75,2.66,0.071,10,reviewed,se,se
 2022-03-13T18:00:24.690Z,17.9406666666667,-66.9356666666667,9.69,2.67,md,19,209,,0.13,pr,pr71340038,2022-03-13T19:32:15.797Z,"4 km SW of Guánica, Puerto Rico",earthquake,0.4,0.59,0.131495015659907,11,reviewed,pr,pr
