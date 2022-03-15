@@ -2875,3 +2875,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-15T03:08:08.690Z,38.050499,-118.774498,2.61,2.23,md,25.0,67.0,0.2922,0.13,nc,nc73705741,2022-03-15T03:15:14.574Z,"27km SE of Bodie, CA",earthquake,0.4,12.4,0.12,17.0,automatic,nc,nc
 2022-03-15T03:32:17.360Z,38.0480003,-118.7630005,2.67,1.56,md,11.0,143.0,0.2874,0.04,nc,nc73705746,2022-03-15T03:39:10.707Z,"28km SE of Bodie, CA",earthquake,0.9,8.78,0.11,6.0,automatic,nc,nc
 2022-03-15T03:24:00.842Z,63.0248,-143.3914,7.5,1.5,ml,,,,0.13,ak,ak0223efp4lw,2022-03-15T03:26:07.990Z,Central Alaska,earthquake,,0.2,,,automatic,ak,ak
+2022-03-15T03:57:36.630Z,38.8079987,-122.7770004,1.1,0.35,md,8.0,104.0,0.00599,0.02,nc,nc73705756,2022-03-15T03:59:13.007Z,"4km NNW of The Geysers, CA",earthquake,0.41,0.86,,1.0,automatic,nc,nc
