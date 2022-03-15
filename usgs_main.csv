@@ -2907,3 +2907,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-15T06:34:37.240Z,36.8860016,-121.6366653,6.03,0.96,md,11.0,93.0,0.03587,0.19,nc,nc73705816,2022-03-15T06:45:10.856Z,"1km ESE of Aromas, CA",earthquake,0.6,1.32,0.17,8.0,automatic,nc,nc
 2022-03-15T06:40:15.593Z,26.8934,126.409,10.0,4.9,mww,,70.0,1.665,0.45,us,us6000h4mq,2022-03-15T07:00:42.040Z,"147 km WNW of Naha, Japan",earthquake,4.1,1.8,0.098,10.0,reviewed,us,us
 2022-03-15T02:59:49.044Z,32.42889404,-101.7398295,4.670857747,2.1,ml,14.0,87.0,0.1125198251,0.2,tx,tx2022fdpr,2022-03-15T06:52:19.592Z,"11 km SSW of Ackerly, Texas",earthquake,2.063795333,2.918223674,0.2,10.0,reviewed,tx,tx
+2022-03-15T07:13:55.716Z,60.8572,-150.9589,20.1,1.4,ml,,,,0.33,ak,ak0223ei0mdv,2022-03-15T07:21:49.475Z,"16 km WSW of Point Possession, Alaska",earthquake,,17.4,,,automatic,ak,ak
+2022-03-15T07:12:02.160Z,38.7948341,-122.8044968,2.99,1.17,md,7.0,98.0,0.006594,0.02,nc,nc73705826,2022-03-15T07:21:10.050Z,"5km WNW of The Geysers, CA",earthquake,1.68,2.91,,1.0,automatic,nc,nc
+2022-03-15T07:05:05.810Z,62.1997,-151.1717,78.4,1.6,ml,,,,0.7,ak,ak0223ehyst3,2022-03-15T07:21:35.694Z,"26 km NNE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-03-15T07:01:21.671Z,62.9541,-148.1352,58.7,2.2,ml,,,,0.48,ak,ak0223ehxz5d,2022-03-15T07:19:35.252Z,"63 km SE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-03-15T05:55:54.507Z,31.71133258,-104.2770224,7.622631836000001,1.9,ml,12.0,57.0,0.04111907972,0.2,tx,tx2022fdvm,2022-03-15T07:10:19.015Z,"52 km S of Whites City, New Mexico",earthquake,0.9780972007,0.8113844472000001,0.2,6.0,reviewed,tx,tx
