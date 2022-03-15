@@ -18,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-15T08:15:05.250Z,36.3050003,-120.4481659,15.95,2.32,md,36,37,0.07029,0.31,nc,nc73705836,2022-03-15T09:18:12.686Z,"20km NNW of Coalinga, CA",earthquake,0.59,0.92,0.19,20,automatic,nc,nc
 2022-03-15T08:12:48.450Z,54.9057,-157.0803,0,3.9,ml,,,,0.84,ak,ak0223eilzpu,2022-03-15T08:56:18.040Z,"172 km SE of Perryville, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2022-03-15T08:06:12.970Z,19.458833694458,-155.466003417969,7.48999977111816,1.92,ml,43,50,,0.159999996,hv,hv72950722,2022-03-15T08:11:42.310Z,"24 km W of Volcano, Hawaii",earthquake,0.31,0.519999981,3.68,10,automatic,hv,hv
-2022-03-15T08:05:20.519Z,14.113,119.3384,10,5.2,mb,,79,8.814,0.98,us,us6000h4n2,2022-03-15T08:45:56.511Z,"Luzon, Philippines",earthquake,8.3,1.8,0.051,124,reviewed,us,us
+2022-03-15T08:05:20.519Z,14.113,119.3384,10,5.2,mb,,79,8.814,0.98,us,us6000h4n2,2022-03-15T08:45:56.511Z,"80 km WNW of Cabra, Philippines",earthquake,8.3,1.8,0.051,124,reviewed,us,us
 2022-03-15T08:03:29.990Z,32.923,-116.2448333,5.67,1.07,ml,35,64,0.05845,0.23,ci,ci40208128,2022-03-15T08:14:31.510Z,"27km SSW of Ocotillo Wells, CA",earthquake,0.33,0.8,0.174,23,automatic,ci,ci
 2022-03-15T07:57:20.530Z,19.2198333740234,-155.414169311523,34.5200004577637,2.12,ml,49,140,,0.140000001,hv,hv72950712,2022-03-15T08:02:50.890Z,"7 km ENE of Pāhala, Hawaii",earthquake,0.55,0.720000029,3.66,9,automatic,hv,hv
 2022-03-15T07:54:00.672Z,-59.7683,-26.2587,35,4.9,mb,,94,9.234,0.87,us,us6000h4mz,2022-03-15T08:15:56.040Z,"South Sandwich Islands region",earthquake,11.5,1.8,0.087,42,reviewed,us,us
@@ -44,7 +44,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-15T05:55:54.507Z,31.71133258,-104.2770224,7.622631836000001,1.9,ml,12,57,0.04111907972,0.2,tx,tx2022fdvm,2022-03-15T07:10:19.015Z,"52 km S of Whites City, New Mexico",earthquake,0.9780972007,0.8113844472000001,0.2,6,reviewed,tx,tx
 2022-03-15T05:42:50.730Z,34.0713333,-117.281,13.63,1.08,ml,33,74,0.1104,0.18,ci,ci40208104,2022-03-15T05:46:27.659Z,"3km E of Colton, CA",earthquake,0.28,0.72,0.203,29,automatic,ci,ci
 2022-03-15T05:40:18.545Z,61.0297,-149.8307,17.6,2.8,ml,,,,0.8,ak,ak0223egzgp8,2022-03-15T06:33:32.765Z,"16 km NW of Hope, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-03-15T05:37:25.460Z,36.5248333,-121.1006667,9.51,1.01,md,23,89,0.0358,0.07,nc,nc73705796,2022-03-15T09:09:11.623Z,"4km ESE of Pinnacles, CA",earthquake,0.21,0.33,0.297,18,reviewed,nc,nc
+2022-03-15T05:37:25.460Z,36.5248333,-121.1006667,9.51,1.01,md,23,89,0.0358,0.07,nc,nc73705796,2022-03-15T09:37:12.801Z,"4km ESE of Pinnacles, CA",earthquake,0.21,0.33,0.297,18,reviewed,nc,nc
 2022-03-15T05:31:39.938Z,61.7501,-151.0572,57.1,2.4,ml,,,,0.83,ak,ak0223egxkrw,2022-03-15T05:44:26.335Z,"32 km SSE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-03-15T05:30:52.370Z,38.7868347,-122.7491684,-0.02,1.56,md,21,82,0.01605,0.06,nc,nc73705786,2022-03-15T07:48:12.200Z,"1km NNE of The Geysers, CA",earthquake,0.23,0.58,0.05,6,automatic,nc,nc
 2022-03-15T05:09:05.880Z,19.2223339080811,-155.445663452148,34.4099998474121,2.01999998,md,44,116,,0.109999999,hv,hv72950602,2022-03-15T05:12:28.310Z,"4 km ENE of Pāhala, Hawaii",earthquake,0.57,0.689999998,0.980000019,15,automatic,hv,hv
@@ -279,7 +279,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-14T10:01:53.236Z,-19.956,-70.9497,18.34,4.5,mb,,153,0.83,0.71,us,us6000h4e8,2022-03-14T22:03:22.608Z,"88 km WNW of Iquique, Chile",earthquake,5.7,5.8,0.205,7,reviewed,us,us
 2022-03-14T09:57:38.593Z,61.6896,-150.9773,57.5,1.6,ml,,,,0.66,ak,ak0223cvxjab,2022-03-14T10:01:50.596Z,"29 km WNW of Susitna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-03-14T09:44:50.870Z,40.4425,-125.0096667,10.31,2.77,md,19,282,0.5139,0.18,nc,nc73705361,2022-03-15T04:37:13.057Z,"63km WNW of Petrolia, CA",earthquake,2.08,31.61,0.098,26,reviewed,nc,nc
-2022-03-14T09:44:09.560Z,34.5353333,-118.123,10.05,0.66,ml,15,72,0.05167,0.09,ci,ci40207336,2022-03-14T23:15:55.589Z,"4km N of Vincent, CA",earthquake,0.22,0.38,0.132,6,reviewed,ci,ci
-2022-03-14T09:41:23.126Z,13.952,119.4293,10,4.6,mb,,130,9.127,0.72,us,us6000h4ea,2022-03-14T10:58:41.040Z,"67 km W of Cabra, Philippines",earthquake,6,1.9,0.091,47,reviewed,us,us
-2022-03-14T09:40:48.990Z,33.049,-116.216,6.41,1.73,ml,78,31,0.1138,0.2,ci,ci40207328,2022-03-14T23:18:11.350Z,"13km SW of Ocotillo Wells, CA",earthquake,0.13,0.62,0.163,24,reviewed,ci,ci
-2022-03-14T09:39:26.330Z,37.6001667,-118.9105,5.53,1.04,md,17,93,0.01251,0.03,nc,nc73705356,2022-03-14T17:39:15.012Z,"7km SE of Mammoth Lakes, CA",earthquake,0.26,0.52,0.152,16,reviewed,nc,nc
