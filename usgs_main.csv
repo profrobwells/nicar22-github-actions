@@ -3149,3 +3149,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-15T15:42:32.600Z,38.762,-122.8836667,3.17,0.8,md,26.0,232.0,0.02983,0.05,nc,nc73705991,2022-03-15T22:44:59.670Z,"11km W of The Geysers, CA",earthquake,0.31,0.43,0.043,4.0,reviewed,nc,nc
 2022-03-15T21:00:44.535Z,63.4277,-150.1734,113.4,1.2,ml,,,,0.57,ak,ak0223eq9vta,2022-03-15T22:53:56.309Z,"61 km W of Cantwell, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2022-03-15T23:17:28.367Z,60.3415,-152.2412,87.1,2.7,ml,,,,0.57,ak,ak0223erkcte,2022-03-15T23:23:50.265Z,"45 km NW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-03-15T23:30:46.590Z,38.8264999,-122.7961655,2.65,0.88,md,26.0,44.0,0.0113,0.02,nc,nc73706201,2022-03-15T23:32:24.145Z,"6km W of Cobb, CA",earthquake,0.21,0.43,0.15,5.0,automatic,nc,nc
+2022-03-15T23:03:56.137Z,-22.7312,-70.4868,36.31,4.4,mb,,140.0,0.289,0.79,us,us6000h4wc,2022-03-15T23:33:54.040Z,"76 km SSW of Tocopilla, Chile",earthquake,3.6,1.8,0.123,19.0,reviewed,us,us
+2022-03-15T22:53:25.540Z,37.3541667,-118.5861667,9.22,1.19,md,17.0,115.0,0.01828,0.06,nc,nc73706196,2022-03-15T23:30:11.686Z,"7km S of Round Valley, CA",earthquake,0.29,0.49,0.17,15.0,reviewed,nc,nc
