@@ -3300,3 +3300,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-15T23:54:12.190Z,45.2571667,-112.7636667,9.76,0.96,ml,6.0,174.0,0.158,0.21,mb,mb80540599,2022-03-16T14:04:06.820Z,"10 km WNW of Dillon, Montana",earthquake,1.11,2.37,0.269,5.0,reviewed,mb,mb
 2022-03-16T14:17:49.848Z,37.1842,-115.338,3.7,2.4,ml,23.0,130.95,0.627,0.4039,nn,nn00835416,2022-03-16T14:21:24.447Z,"25 km SW of Alamo, Nevada",earthquake,,1.2,0.77,19.0,automatic,nn,nn
 2022-03-16T09:21:59.130Z,44.2778333,-115.1801667,6.7,1.81,ml,9.0,83.0,0.826,0.21,mb,mb80540614,2022-03-16T14:26:22.290Z,"20 km WNW of Stanley, Idaho",earthquake,0.59,1.41,0.153,9.0,reviewed,mb,mb
+2022-03-16T14:40:18.580Z,38.7985001,-122.7921677,2.75,0.92,md,23.0,59.0,0.006266,0.04,nc,nc73706406,2022-03-16T14:48:10.325Z,"4km NW of The Geysers, CA",earthquake,0.25,0.47,0.21,4.0,automatic,nc,nc
+2022-03-16T14:36:30.000Z,37.7,141.7,33.0,7.3,Mi,9.0,,,,pt,pt22075004,2022-03-16T14:51:16.429Z,"66 km ENE of Namie, Japan",earthquake,,,,6.0,reviewed,pt,pt
+2022-03-15T23:30:49.740Z,46.888,-112.5085,8.33,0.22,ml,4.0,126.0,0.046,0.07,mb,mb80540629,2022-03-16T14:48:00.090Z,"15 km ESE of Lincoln, Montana",earthquake,0.85,1.35,,0.0,reviewed,mb,mb
+2022-03-15T23:14:59.680Z,39.42,-110.3115,-1.7,1.57,md,7.0,196.0,0.0113,0.08,uu,uu60485777,2022-03-16T14:50:15.620Z,"15 km SSE of Sunnyside, Utah",earthquake,0.88,0.62,0.243,7.0,reviewed,uu,uu
+2022-03-15T20:09:12.690Z,39.423,-110.3148333,-1.35,1.65,md,7.0,194.0,0.008028,0.07,uu,uu60485702,2022-03-16T14:43:33.020Z,"15 km SSE of Sunnyside, Utah",earthquake,0.86,0.29,0.162,7.0,reviewed,uu,uu
+2022-03-15T20:06:55.410Z,46.9043333,-112.521,12.23,0.46,ml,9.0,129.0,0.063,0.08,mb,mb80540624,2022-03-16T14:43:09.770Z,"13 km ESE of Lincoln, Montana",earthquake,0.38,0.76,,0.0,reviewed,mb,mb
