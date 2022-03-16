@@ -3399,3 +3399,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-16T22:50:43.794Z,1.7048,127.379,113.8,4.4,mb,,119.0,0.926,0.44,us,us6000h58r,2022-03-16T23:04:27.040Z,"70 km W of Tobelo, Indonesia",earthquake,4.8,7.0,0.114,22.0,reviewed,us,us
 2022-03-16T22:50:04.789Z,38.9394,-118.7595,4.0,2.5,ml,26.0,62.06,0.377,0.3738,nn,nn00835467,2022-03-16T22:58:15.232Z,"4 km ESE of Schurz, Nevada",earthquake,,0.8,0.16,17.0,automatic,nn,nn
 2022-03-16T20:12:48.520Z,45.8665,-119.3385,-0.33,1.82,ml,11.0,237.0,0.3188,0.17,uw,uw61822781,2022-03-16T22:54:44.420Z,"4 km NW of Hermiston, Oregon",explosion,0.74,31.61,0.1360320704631086,10.0,reviewed,uw,uw
+2022-03-16T23:20:53.823Z,60.2539,-152.095,66.4,1.8,ml,,,,0.59,ak,ak0223gf4efa,2022-03-16T23:27:42.128Z,"32 km NW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-03-16T23:14:34.740Z,38.7885017,-122.7480011,0.58,0.7,md,11.0,85.0,0.01026,0.02,nc,nc73706571,2022-03-16T23:24:10.892Z,"1km NNE of The Geysers, CA",earthquake,0.25,0.54,0.16,2.0,automatic,nc,nc
+2022-03-16T23:10:31.881Z,64.9903,-147.4777,0.0,1.4,ml,,,,0.94,ak,ak0223gf27ki,2022-03-16T23:21:24.734Z,"7 km ENE of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-03-16T23:08:04.196Z,61.9026,-149.8803,35.9,1.6,ml,,,,0.5,ak,ak0223gf1q03,2022-03-16T23:20:30.122Z,"19 km NNE of Willow, Alaska",earthquake,,4.2,,,automatic,ak,ak
+2022-03-16T20:27:09.100Z,36.967,-121.6073333,3.11,0.67,md,14.0,68.0,0.02338,0.13,nc,nc73706511,2022-03-16T23:26:38.193Z,"6km SW of Gilroy, CA",earthquake,0.31,0.58,0.242,8.0,reviewed,nc,nc
+2022-03-16T16:17:20.900Z,46.30016666666667,-122.23933333333332,8.21,0.33,ml,13.0,207.0,0.01793,0.18,uw,uw61822741,2022-03-16T23:27:23.160Z,"28 km S of Morton, Washington",earthquake,0.48,0.68,0.0690738018386136,5.0,reviewed,uw,uw
