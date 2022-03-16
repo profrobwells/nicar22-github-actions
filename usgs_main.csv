@@ -3353,3 +3353,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-16T17:19:10.730Z,44.295,-115.1573333,6.24,1.87,ml,10.0,107.0,0.808,0.24,mb,mb80540669,2022-03-16T18:14:06.520Z,"19 km WNW of Stanley, Idaho",earthquake,0.54,1.7,0.179,9.0,reviewed,mb,mb
 2022-03-16T18:23:38.610Z,18.011,-66.9868333333333,6.84,1.75,md,3.0,201.0,,0.04,pr,pr71340453,2022-03-16T18:36:19.310Z,"5 km SW of Liborio Negron Torres, Puerto Rico",earthquake,1.65,1.97,0.073432744774718,2.0,reviewed,pr,pr
 2022-03-16T09:55:55.930Z,35.8093333,-121.5093333,8.35,2.0,md,52.0,206.0,0.3068,0.12,nc,nc73706351,2022-03-16T18:48:12.875Z,"24km SSE of Lopez Point, CA",earthquake,0.34,0.5,0.14,41.0,reviewed,nc,nc
+2022-03-16T10:37:41.200Z,38.8278333,-122.855,2.37,0.58,md,28.0,61.0,0.001491,0.03,nc,nc71127444,2022-03-16T18:55:13.471Z,"10km WNW of The Geysers, CA",earthquake,0.17,0.37,0.13,4.0,reviewed,nc,nc
+2022-03-16T10:37:37.840Z,38.8545,-122.8036667,1.38,0.47,md,28.0,99.0,0.005107,0.05,nc,nc73706366,2022-03-16T18:49:42.804Z,"8km WNW of Cobb, CA",earthquake,0.16,0.23,0.342,5.0,reviewed,nc,nc
