@@ -3595,3 +3595,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-17T16:51:57.984Z,63.0538,-150.5946,105.9,1.5,ml,,,,1.0,ak,ak0223hyod7a,2022-03-17T16:57:48.209Z,"62 km N of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-03-17T16:47:59.108Z,63.2796,-150.4204,126.7,1.1,ml,,,,0.48,ak,ak0223hyniga,2022-03-17T16:57:58.277Z,"71 km ESE of Denali National Park, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2022-03-17T16:44:15.440Z,38.8241653,-122.7978363,2.15,1.27,md,27.0,33.0,0.00959,0.04,nc,nc73706826,2022-03-17T16:54:10.632Z,"6km NW of The Geysers, CA",earthquake,0.22,0.4,0.2,5.0,automatic,nc,nc
+2022-03-17T17:16:17.480Z,33.6648333,-116.7181667,17.22,0.65,ml,18.0,78.0,0.04633,0.29,ci,ci39970199,2022-03-17T17:19:54.491Z,"8km S of Idyllwild, CA",earthquake,0.61,0.81,0.112,10.0,automatic,ci,ci
+2022-03-17T17:14:38.780Z,19.521333694458,-155.65983581543,0.850000023841858,2.38,ml,31.0,42.0,,0.219999999,hv,hv72953582,2022-03-17T17:20:10.070Z,"22 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.41,1.02999997,3.47,11.0,automatic,hv,hv
+2022-03-17T17:02:54.420Z,38.277,-108.9185,1.55,2.01,md,7.0,118.0,0.04219,0.08,uu,uu60486042,2022-03-17T17:19:39.560Z,"29 km E of La Sal, Utah",earthquake,0.7,7.89,0.083,3.0,reviewed,uu,uu
