@@ -3506,3 +3506,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-17T09:18:44.460Z,35.8581657,-117.6999969,6.25,1.36,ml,22.0,71.0,0.07232,0.1,ci,ci39969967,2022-03-17T09:22:14.456Z,"21km ESE of Little Lake, CA",earthquake,0.25,0.72,0.169,5.0,automatic,ci,ci
 2022-03-17T09:12:26.030Z,35.821,-117.6351667,6.52,1.03,ml,14.0,87.0,0.03105,0.16,ci,ci39969959,2022-03-17T09:16:07.714Z,"22km WNW of Searles Valley, CA",earthquake,0.37,0.71,0.186,10.0,automatic,ci,ci
 2022-03-17T09:07:13.088Z,61.388,-150.0839,33.0,1.5,ml,,,,0.77,ak,ak0223hu8szw,2022-03-17T09:09:50.581Z,"6 km WNW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-17T09:36:35.542Z,62.8618,-143.6484,5.9,1.9,ml,,,,0.77,ak,ak0223huf2hu,2022-03-17T09:38:33.976Z,"9 km SE of Mentasta Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
