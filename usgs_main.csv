@@ -3549,3 +3549,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-17T13:26:26.670Z,38.7873344,-122.767334,1.49,1.4,md,26.0,79.0,0.01455,0.05,nc,nc73706761,2022-03-17T13:36:11.279Z,"2km NW of The Geysers, CA",earthquake,0.23,0.32,0.07,7.0,automatic,nc,nc
 2022-03-17T13:38:44.560Z,19.2056674957275,-155.384002685547,34.1399993896484,2.19,ml,37.0,162.0,,0.119999997,hv,hv72953437,2022-03-17T13:44:14.670Z,"9 km E of Pāhala, Hawaii",earthquake,0.51,0.709999979,3.7,6.0,automatic,hv,hv
 2022-03-17T13:37:27.140Z,36.1706667,-118.0095,1.2,0.85,ml,14.0,84.0,0.1359,0.11,ci,ci39970055,2022-03-17T13:40:59.356Z,"12km S of Olancha, CA",earthquake,0.28,0.59,0.166,8.0,automatic,ci,ci
+2022-03-17T13:44:57.360Z,33.356,-116.2558333,10.13,1.75,ml,64.0,35.0,0.04545,0.24,ci,ci39970063,2022-03-17T13:55:57.300Z,"16km NE of Borrego Springs, CA",earthquake,0.24,0.64,0.164,27.0,automatic,ci,ci
