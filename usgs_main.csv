@@ -3962,3 +3962,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-18T18:46:10.840Z,17.9545,-66.876,14.39,2.84,md,21.0,205.0,,0.17,pr,pr71340748,2022-03-18T19:29:35.290Z,"2 km SSE of Maria Antonia, Puerto Rico",earthquake,0.37,0.39,0.0845681972305727,5.0,reviewed,pr,pr
 2022-03-18T19:37:51.460Z,38.8224983,-122.854332,5.6,0.37,md,9.0,76.0,0.02073,0.03,nc,nc73707356,2022-03-18T19:39:27.003Z,"10km WNW of The Geysers, CA",earthquake,0.5,1.46,,1.0,automatic,nc,nc
 2022-03-18T19:36:54.330Z,33.2195,-116.2448333,26.82,1.1,ml,15.0,156.0,0.1525,0.24,ci,ci39971511,2022-03-18T19:40:27.533Z,"13km ESE of Borrego Springs, CA",earthquake,0.9,1.87,0.313,18.0,automatic,ci,ci
+2022-03-18T19:37:08.640Z,25.0206,-45.5675,10.0,5.0,mb,,58.0,17.864,1.07,us,us6000h5v8,2022-03-18T19:54:16.040Z,northern Mid-Atlantic Ridge,earthquake,10.4,1.9,0.032,317.0,reviewed,us,us
