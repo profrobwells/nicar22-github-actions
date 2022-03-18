@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-18T18:49:20.820Z,34.0008316,-117.4783325,4.79,1.28,ml,19,130,0.1929,0.41,ci,ci39971463,2022-03-18T18:53:02.905Z,"1km SSE of Glen Avon, CA",earthquake,2.04,5.04,0.231,7,automatic,ci,ci
+2022-03-18T18:44:11.367Z,38.5473,-119.4927,3.4,1.3,ml,10,162.94,0.044,0.1285,nn,nn00835606,2022-03-18T18:48:25.984Z,"2 km SSE of Coleville, California",earthquake,,0.4,0.19,8,automatic,nn,nn
 2022-03-18T18:43:43.590Z,35.86,-117.689,7.91,0.47,ml,10,80,0.08023,0.1,ci,ci39971439,2022-03-18T18:47:17.849Z,"21km ESE of Little Lake, CA",earthquake,0.3,0.76,0.075,4,automatic,ci,ci
 2022-03-18T18:27:23.240Z,36.0079994,-120.5680008,2.97,1.08,md,10,111,0.02549,0.05,nc,nc73707331,2022-03-18T18:28:56.881Z,"17km NW of Parkfield, CA",earthquake,0.47,0.75,0.24,3,automatic,nc,nc
 2022-03-18T18:23:07.703Z,57.5681,-157.6231,34.7,2.2,ml,,,,0.96,ak,ak0223jn8gyx,2022-03-18T18:29:01.086Z,"2 km WNW of Pilot Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -157,7 +159,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-18T06:24:15.710Z,35.1011667,-116.6573333,4.82,1.73,ml,29,39,0.04935,0.14,ci,ci39970847,2022-03-18T16:02:25.263Z,"18km S of Fort Irwin, CA",earthquake,0.17,0.27,0.122,13,reviewed,ci,ci
 2022-03-18T06:20:57.445Z,61.9289,-149.9299,36.2,1.9,ml,,,,0.59,ak,ak0223jg2qe0,2022-03-18T06:31:39.265Z,"21 km NNE of Willow, Alaska",earthquake,,3.8,,,automatic,ak,ak
 2022-03-18T06:20:44.720Z,37.3331667,-121.6916667,7.41,1.06,md,26,57,0.04004,0.07,nc,nc73707071,2022-03-18T09:03:16.678Z,"12km ESE of Alum Rock, CA",earthquake,0.2,0.3,0.23,23,reviewed,nc,nc
-2022-03-18T06:18:48.360Z,37.331,-121.6931667,7.17,1.5,md,46,36,0.0417,0.06,nc,nc73707066,2022-03-18T18:35:11.982Z,"12km ESE of Alum Rock, CA",earthquake,0.13,0.32,0.27,46,reviewed,nc,nc
+2022-03-18T06:18:48.360Z,37.331,-121.6931667,7.17,1.5,md,46,36,0.0417,0.06,nc,nc73707066,2022-03-18T18:53:37.087Z,"12km ESE of Alum Rock, CA",earthquake,0.13,0.32,0.27,46,reviewed,nc,nc
 2022-03-18T06:15:28.520Z,17.8723333333333,-66.7795,5.67,2.75,md,5,248,,0.14,pr,pr71340648,2022-03-18T06:37:17.170Z,"Puerto Rico region",earthquake,1.42,0.63,0.0352461116875296,4,reviewed,pr,pr
 2022-03-18T06:14:31.210Z,38.7951667,-122.7628333,3.26,-0.06,md,13,63,0.005971,0.02,nc,nc73707061,2022-03-18T08:10:23.851Z,"2km NNW of The Geysers, CA",earthquake,0.36,0.7,0.05,4,reviewed,nc,nc
 2022-03-18T06:09:13.130Z,38.8218346,-122.7636642,2.44,0.7,md,10,121,0.009909,0.01,nc,nc73707056,2022-03-18T06:26:18.735Z,"4km W of Cobb, CA",earthquake,0.38,1.07,0.16,2,automatic,nc,nc
@@ -170,7 +172,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-18T05:29:14.070Z,38.5238,-119.5304,2.4,1.6,ml,13,175.15,0.063,0.1301,nn,nn00835572,2022-03-18T05:32:58.846Z,"4 km WNW of Walker, California",earthquake,,0.7,0.17,9,automatic,nn,nn
 2022-03-18T05:26:09.210Z,17.9686666666667,-66.9455,5.34,1.56,md,3,187,,0.01,pr,pr71340638,2022-03-18T06:29:31.360Z,"3 km SW of Fuig, Puerto Rico",earthquake,1.85,1.27,0.116741141158718,3,reviewed,pr,pr
 2022-03-18T05:24:09.310Z,39.7408333,-109.4118333,6,1.98,md,9,91,0.6533,0.14,uu,uu60486247,2022-03-18T15:57:48.650Z,"37 km SSW of Bonanza, Utah",earthquake,0.65,31.61,0.118,4,reviewed,uu,uu
-2022-03-18T05:21:49.334Z,38.5274,-119.5171,0.2,1.6,ml,13,171.06,0.059,0.2392,nn,nn00835568,2022-03-18T05:24:58.969Z,"3 km WNW of Walker, California",earthquake,,0.2,0.14,9,automatic,nn,nn
+2022-03-18T05:21:50.121Z,38.5233,-119.5229,4.8,1.5,ml,17,74.94,0.063,0.1183,nn,nn00835568,2022-03-18T18:55:49.490Z,"4 km WNW of Walker, California",earthquake,,1,0.14,7,reviewed,nn,nn
 2022-03-18T05:19:33.420Z,-9.7242,159.7991,36.2,4.9,mb,,76,0.319,0.66,us,us6000h5m3,2022-03-18T07:03:51.483Z,"9 km ESE of Malango, Solomon Islands",earthquake,8.2,7.3,0.079,51,reviewed,us,us
 2022-03-18T05:19:00.888Z,-33.1722,-72.1807,20.87,3.8,ml,,197,0.471,0.67,us,us6000h5m0,2022-03-18T14:25:02.890Z,"53 km WSW of Valparaíso, Chile",earthquake,4.5,17.1,0.053,46,reviewed,us,us
 2022-03-18T05:16:06.020Z,39.417,-110.3061667,-2.26,1.44,md,6,197,0.01629,0.1,uu,uu60486242,2022-03-18T15:55:43.730Z,"16 km SSE of Sunnyside, Utah",earthquake,0.97,2.31,0.254,6,reviewed,uu,uu
@@ -287,6 +289,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-17T19:11:02.594Z,-26.91,-175.962,10,5.1,mww,,55,2.912,1.2,us,us6000h5ig,2022-03-17T19:35:58.040Z,"south of Tonga",earthquake,9.6,1.8,0.083,14,reviewed,us,us
 2022-03-17T19:07:03.060Z,36.0065,-117.1385,5.21,1.45,ml,23,57,0.1646,0.13,ci,ci39970367,2022-03-17T23:48:15.330Z,"35km NE of Trona, CA",earthquake,0.22,1.1,0.09,17,reviewed,ci,ci
 2022-03-17T19:03:45.680Z,46.0163333,-112.4601667,-2,1.64,ml,13,113,0.066,0.11,mb,mb80540769,2022-03-18T14:09:21.260Z,"5 km ENE of Butte, Montana",quarry blast,0.59,31.61,0.199,7,reviewed,mb,mb
-2022-03-17T18:54:08.880Z,38.803,-122.778,3.74,0.11,md,19,68,0.01046,0.02,nc,nc73706866,2022-03-17T23:52:14.130Z,"3km NNW of The Geysers, CA",earthquake,0.24,0.38,0.159,4,reviewed,nc,nc
-2022-03-17T18:48:56.910Z,33.6673333,-118.2313333,6.49,2.12,ml,36,94,0.06896,0.29,ci,ci39970343,2022-03-18T14:06:50.962Z,"10km SE of San Pedro, CA",earthquake,0.4,1.15,0.136,71,reviewed,ci,ci
-2022-03-17T18:48:48.090Z,37.9823333,-122.455,0,1.4,md,23,68,0.02503,0.09,nc,nc73706861,2022-03-17T21:22:13.205Z,"6km ESE of Santa Venetia, CA",quarry blast,0.18,31.61,0.284,17,reviewed,nc,nc
