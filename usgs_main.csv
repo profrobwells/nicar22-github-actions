@@ -4004,3 +4004,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-18T22:23:07.590Z,38.8046684,-122.7806702,1.63,0.55,md,18.0,64.0,0.008578,0.02,nc,nc73707421,2022-03-18T22:24:41.219Z,"4km NW of The Geysers, CA",earthquake,0.22,0.38,0.4,4.0,automatic,nc,nc
 2022-03-18T18:08:45.030Z,46.892,-112.5155,11.04,0.92,ml,12.0,67.0,0.052,0.1,mb,mb80540914,2022-03-18T22:21:36.280Z,"14 km ESE of Lincoln, Montana",earthquake,0.46,0.43,0.018,4.0,reviewed,mb,mb
 2022-03-18T02:47:00.380Z,59.3616666666667,-153.4275,-0.6,-0.43,ml,6.0,187.0,,0.1,av,av91515551,2022-03-18T22:32:59.640Z,"60 km SE of Pedro Bay, Alaska",earthquake,0.15,0.22,0.427384185290549,6.0,reviewed,av,av
+2022-03-18T21:55:37.120Z,35.8335,-117.6676667,5.67,0.44,ml,12.0,80.0,0.05971,0.06,ci,ci39971671,2022-03-18T22:40:07.407Z,"24km N of Ridgecrest, CA",earthquake,0.13,0.41,0.028,4.0,reviewed,ci,ci
+2022-03-18T14:30:45.540Z,45.9293333,-111.4755,-2.0,0.22,ml,4.0,159.0,0.288,0.22,mb,mb80540924,2022-03-18T22:35:40.030Z,"6 km NW of Logan, Montana",quarry blast,1.05,31.61,,0.0,reviewed,mb,mb
