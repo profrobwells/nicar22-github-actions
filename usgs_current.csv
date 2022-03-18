@@ -1,5 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-18T06:09:13.130Z,38.8218346,-122.7636642,2.44,0.7,md,10,121,0.009909,0.01,nc,nc73707056,2022-03-18T06:10:49.591Z,"4km W of Cobb, CA",earthquake,0.38,1.07,0.16,2,automatic,nc,nc
+2022-03-18T06:35:41.840Z,35.426,-117.6811667,6.56,0.83,ml,18,107,0.05343,0.23,ci,ci39970855,2022-03-18T06:39:11.940Z,"7km NW of Johannesburg, CA",earthquake,0.46,0.89,0.105,12,automatic,ci,ci
+2022-03-18T06:24:15.760Z,35.0995,-116.66,4.57,1.71,ml,15,63,0.04975,0.16,ci,ci39970847,2022-03-18T06:27:51.232Z,"18km S of Fort Irwin, CA",earthquake,0.4,0.57,0.14,22,automatic,ci,ci
+2022-03-18T06:20:57.445Z,61.9289,-149.9299,36.2,1.9,ml,,,,0.59,ak,ak0223jg2qe0,2022-03-18T06:31:39.265Z,"21 km NNE of Willow, Alaska",earthquake,,3.8,,,automatic,ak,ak
+2022-03-18T06:18:48.360Z,37.329834,-121.6955032,6.94,1.5,md,17,89,0.04381,0.03,nc,nc73707066,2022-03-18T06:29:11.753Z,"12km ESE of Alum Rock, CA",earthquake,0.2,0.45,0.2,14,automatic,nc,nc
+2022-03-18T06:15:28.520Z,17.8723333333333,-66.7795,5.67,2.75,md,5,248,,0.14,pr,pr71340648,2022-03-18T06:37:17.170Z,"Puerto Rico region",earthquake,1.42,0.63,0.0352461116875296,4,reviewed,pr,pr
+2022-03-18T06:09:13.130Z,38.8218346,-122.7636642,2.44,0.7,md,10,121,0.009909,0.01,nc,nc73707056,2022-03-18T06:26:18.735Z,"4km W of Cobb, CA",earthquake,0.38,1.07,0.16,2,automatic,nc,nc
 2022-03-18T05:45:09.432Z,38.5391,-119.5143,4.6,1.1,ml,9,170.09,0.047,0.2767,nn,nn00835581,2022-03-18T05:48:27.860Z,"3 km SSW of Coleville, California",earthquake,,0.8,0.28,6,automatic,nn,nn
 2022-03-18T05:40:40.532Z,62.1392,-148.8638,15.9,2.4,ml,,,,0.71,ak,ak0223jfljua,2022-03-18T05:52:22.308Z,"40 km N of Sutton-Alpine, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-18T05:39:45.900Z,38.5578,-119.4859,2.1,1.1,ml,8,146.39,0.039,0.2181,nn,nn00835579,2022-03-18T05:43:07.570Z,"2 km ESE of Coleville, California",earthquake,,1.1,0.13,4,automatic,nn,nn
@@ -7,6 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-18T05:35:28.954Z,38.5279,-119.5314,1.2,1.3,ml,15,174.82,0.059,0.2293,nn,nn00835576,2022-03-18T05:38:59.196Z,"4 km SSW of Coleville, California",earthquake,,0.7,0.2,9,automatic,nn,nn
 2022-03-18T05:31:00.580Z,38.5200005,-119.5216675,3.71,2.56,md,9,100,0.06585,0.06,nc,nc73707046,2022-03-18T05:56:50.186Z,"4km W of Walker, CA",earthquake,0.61,1.38,0.23,11,automatic,nc,nc
 2022-03-18T05:29:14.070Z,38.5238,-119.5304,2.4,1.6,ml,13,175.15,0.063,0.1301,nn,nn00835572,2022-03-18T05:32:58.846Z,"4 km WNW of Walker, California",earthquake,,0.7,0.17,9,automatic,nn,nn
+2022-03-18T05:26:09.210Z,17.9686666666667,-66.9455,5.34,1.56,md,3,187,,0.01,pr,pr71340638,2022-03-18T06:29:31.360Z,"3 km SW of Fuig, Puerto Rico",earthquake,1.85,1.27,0.116741141158718,3,reviewed,pr,pr
 2022-03-18T05:21:49.334Z,38.5274,-119.5171,0.2,1.6,ml,13,171.06,0.059,0.2392,nn,nn00835568,2022-03-18T05:24:58.969Z,"3 km WNW of Walker, California",earthquake,,0.2,0.14,9,automatic,nn,nn
 2022-03-18T05:19:33.420Z,-9.7242,159.7991,36.2,4.9,mb,,76,0.319,0.66,us,us6000h5m3,2022-03-18T05:53:55.528Z,"9 km ESE of Malango, Solomon Islands",earthquake,8.2,7.3,0.079,51,reviewed,us,us
 2022-03-18T05:19:00.888Z,-33.1722,-72.1807,20.87,3.8,ml,,197,0.471,0.67,us,us6000h5m0,2022-03-18T06:06:13.349Z,"53 km WSW of Valparaíso, Chile",earthquake,4.5,17.1,0.053,46,reviewed,us,us
@@ -230,12 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-17T06:58:12.149Z,60.4483,-152.1593,75.3,1.9,ml,,,,0.79,ak,ak0223hsrfmb,2022-03-17T07:29:06.683Z,"47 km W of Cohoe, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-17T06:57:39.510Z,19.4983333333333,-155.656666666667,-1.12,2.7,ml,45,57,,0.17,hv,hv72953102,2022-03-17T19:15:22.750Z,"Island of Hawaii, Hawaii",earthquake,0.21,0.38,0.210331726406095,22,reviewed,hv,hv
 2022-03-17T06:50:43.174Z,61.1284,-145.6683,21,1.9,ml,,,,0.77,ak,ak0223hspsad,2022-03-17T07:02:07.158Z,"36 km E of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-03-17T06:37:17.970Z,37.3838333,-118.6848333,11.38,0.84,md,12,95,0.1016,0.04,nc,nc73706676,2022-03-17T20:05:17.754Z,"8km WSW of Round Valley, CA",earthquake,0.33,0.86,0.4,11,reviewed,nc,nc
-2022-03-17T06:35:44.570Z,33.0553333,-116.2155,10.13,0.97,ml,26,70,0.1078,0.19,ci,ci37403484,2022-03-17T16:14:56.202Z,"12km SW of Ocotillo Wells, CA",earthquake,0.26,0.59,0.121,13,reviewed,ci,ci
-2022-03-17T06:35:37.590Z,33.0513333,-116.2115,9.98,1.08,ml,39,70,0.1103,0.17,ci,ci39969887,2022-03-17T16:08:24.399Z,"13km SW of Ocotillo Wells, CA",earthquake,0.2,0.56,0.158,11,reviewed,ci,ci
-2022-03-17T06:35:15.800Z,19.1908340454102,-155.467330932617,29.9599990844727,2.03999996,md,43,99,,0.150000006,hv,hv72953082,2022-03-17T06:38:35.410Z,"1 km SE of Pāhala, Hawaii",earthquake,0.49,0.910000026,0.939999998,16,automatic,hv,hv
-2022-03-17T06:34:19.292Z,64.5603,-149.3173,17,1.1,ml,,,,0.16,ak,ak0223hsmazt,2022-03-17T06:44:01.908Z,"10 km WSW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-03-17T06:30:12.274Z,69.6006,-144.3689,10.2,2.7,ml,,,,0.84,ak,ak0223hslgtm,2022-03-17T06:52:42.040Z,"65 km SSW of Kaktovik, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-03-17T06:27:03.420Z,38.831665,-122.8170013,1.44,0.82,md,23,52,0.009873,0.02,nc,nc73706671,2022-03-17T07:07:21.761Z,"8km NW of The Geysers, CA",earthquake,0.19,0.42,0.23,4,automatic,nc,nc
-2022-03-17T06:23:31.941Z,25.0887,-45.4089,10,4.5,mb,,148,20.675,0.4,us,us6000h5c3,2022-03-17T11:01:51.040Z,"northern Mid-Atlantic Ridge",earthquake,8,1.9,0.084,42,reviewed,us,us
-2022-03-17T06:20:23.072Z,25.0234,-45.2489,10,4.7,mb,,145,17.139,1.07,us,us6000h5c2,2022-03-17T10:39:07.040Z,"northern Mid-Atlantic Ridge",earthquake,15.1,1.9,0.082,45,reviewed,us,us
