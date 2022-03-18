@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-18T14:40:30.180Z,38.8251648,-122.802002,2.49,0.71,md,11,77,0.006548,0.01,nc,nc73707231,2022-03-18T14:42:07.021Z,"7km NW of The Geysers, CA",earthquake,0.38,1.03,0.14,2,automatic,nc,nc
-2022-03-18T14:37:31.635Z,59.9408,-152.7302,87.5,1.9,ml,,,,0.66,ak,ak0223jkxsfh,2022-03-18T14:46:28.897Z,"53 km WNW of Anchor Point, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-18T15:00:08.750Z,35.6901665,-117.4923325,5.18,0.83,ml,15,161,0.1063,0.13,ci,ci39971159,2022-03-18T15:03:43.979Z,"12km SW of Searles Valley, CA",earthquake,0.75,2.05,0.123,5,automatic,ci,ci
+2022-03-18T14:53:49.914Z,63.9127,-147.6132,23.3,1.1,ml,,,,0.7,ak,ak0223jl19ae,2022-03-18T14:58:23.785Z,"66 km E of Healy, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2022-03-18T14:40:30.180Z,38.8251648,-122.802002,2.49,0.71,md,11,77,0.006548,0.01,nc,nc73707231,2022-03-18T14:57:21.699Z,"7km NW of The Geysers, CA",earthquake,0.38,1.03,0.14,2,automatic,nc,nc
+2022-03-18T14:37:31.635Z,59.9408,-152.7302,87.5,1.8,ml,,,,0.66,ak,ak0223jkxsfh,2022-03-18T14:57:54.955Z,"53 km WNW of Anchor Point, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-18T14:26:38.620Z,35.67,-117.5135,10.45,0.37,ml,8,160,0.09321,0.2,ci,ci39971143,2022-03-18T14:30:08.141Z,"15km SW of Searles Valley, CA",earthquake,0.86,1.48,0.1,6,automatic,ci,ci
-2022-03-18T14:26:07.340Z,38.8343315,-122.8178329,1.49,0.85,md,16,60,0.01249,0.01,nc,nc73707226,2022-03-18T14:41:22.598Z,"8km NW of The Geysers, CA",earthquake,0.22,0.53,,1,automatic,nc,nc
-2022-03-18T14:25:19.806Z,40.1528,141.9451,35,5.3,mww,,161,0.925,0.88,us,us6000h5px,2022-03-18T14:44:20.040Z,"54 km SE of Hachinohe, Japan",earthquake,6.4,1.8,0.093,11,reviewed,us,us
+2022-03-18T14:26:07.340Z,38.8343315,-122.8178329,1.49,0.85,md,16,60,0.01249,0.01,nc,nc73707226,2022-03-18T14:57:22.698Z,"8km NW of The Geysers, CA",earthquake,0.22,0.53,,1,automatic,nc,nc
+2022-03-18T14:25:19.806Z,40.1528,141.9451,35,5.3,mww,,161,0.925,0.88,us,us6000h5px,2022-03-18T15:02:29.339Z,"54 km SE of Hachinohe, Japan",earthquake,6.4,1.8,0.093,11,reviewed,us,us
 2022-03-18T14:25:08.153Z,58.4762,-153.3802,78.4,1.8,ml,,,,0.21,ak,ak0223jkv605,2022-03-18T14:38:09.666Z,"53 km NNW of Aleneva, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-03-18T13:58:09.859Z,62.3533,-149.1172,9.5,1.4,ml,,,,0.32,ak,ak0223jkgt6j,2022-03-18T14:01:18.248Z,"43 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-18T13:32:59.400Z,38.7901649,-122.7624969,2.06,0.25,md,15,64,0.01067,0.02,nc,nc73707211,2022-03-18T14:21:16.476Z,"2km NNW of The Geysers, CA",earthquake,0.27,0.6,0.15,4,automatic,nc,nc
@@ -109,7 +111,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-18T05:12:57.203Z,38.5294,-119.5131,2.4,1.3,ml,11,170.95,0.057,0.2214,nn,nn00835566,2022-03-18T05:16:16.727Z,"3 km WNW of Walker, California",earthquake,,0.8,0.18,8,automatic,nn,nn
 2022-03-18T05:04:20.460Z,19.1686668395996,-155.485336303711,34.9700012207031,2.18,ml,47,96,,0.119999997,hv,hv72954282,2022-03-18T05:09:50.200Z,"3 km S of Pāhala, Hawaii",earthquake,0.49,0.810000002,4.45,9,automatic,hv,hv
 2022-03-18T05:02:51.200Z,38.5226667,-119.5358333,1.76,2.08,md,12,74,0.04469,0.07,nc,nc73707041,2022-03-18T11:55:15.628Z,"5km W of Walker, CA",earthquake,0.2,0.73,0.192,18,reviewed,nc,nc
-2022-03-18T04:59:57.380Z,38.5238333,-119.5348333,0.03,2.96,ml,26,69,0.04414,0.08,nc,nc73707036,2022-03-18T14:03:00.849Z,"5km WNW of Walker, CA",earthquake,0.17,0.83,0.174,33,reviewed,nc,nc
+2022-03-18T04:59:57.380Z,38.5238333,-119.5348333,0.03,2.96,ml,26,69,0.04414,0.08,nc,nc73707036,2022-03-18T14:56:55.118Z,"5km WNW of Walker, CA",earthquake,0.17,0.83,0.174,33,reviewed,nc,nc
 2022-03-18T04:57:44.640Z,17.8811666666667,-66.8445,14.68,1.88,md,7,241,,0.16,pr,pr71340628,2022-03-18T06:05:12.510Z,"11 km SSE of Maria Antonia, Puerto Rico",earthquake,1.36,0.86,0.237582921867273,7,reviewed,pr,pr
 2022-03-18T04:55:08.510Z,38.5215,-119.5306667,1.12,2.62,md,20,68,0.04049,0.08,nc,nc73707031,2022-03-18T11:08:16.390Z,"4km W of Walker, CA",earthquake,0.21,0.68,0.204,46,reviewed,nc,nc
 2022-03-18T04:53:41.370Z,38.5243333,-119.5358333,0.8,2.72,md,17,76,0.04502,0.06,nc,nc73707026,2022-03-18T10:53:24.327Z,"5km WNW of Walker, CA",earthquake,0.16,0.91,0.15,39,reviewed,nc,nc
@@ -245,5 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-17T15:19:17.758Z,-11.2594,165.4715,10,4.9,mww,,102,4.49,0.71,us,us6000h5f3,2022-03-17T16:49:19.040Z,"69 km SSW of Lata, Solomon Islands",earthquake,8.7,1.8,0.098,10,reviewed,us,us
 2022-03-17T15:10:50.820Z,39.413,-110.2853333,-3.35,1.48,md,5,204,0.03274,0.16,uu,uu60486017,2022-03-17T15:27:14.690Z,"17 km SSE of Sunnyside, Utah",earthquake,2.58,5.11,0.015,5,reviewed,uu,uu
 2022-03-17T15:08:12.702Z,38.257,-118.363,8.8,1.1,ml,7,224.41,0.112,0.0905,nn,nn00835526,2022-03-18T02:38:33.342Z,"26 km SW of Mina, Nevada",earthquake,,6.2,0,1,reviewed,nn,nn
-2022-03-17T15:01:12.620Z,19.1725006103516,-155.456665039062,32.0099983215332,1.83000004,md,37,158,,0.129999995,hv,hv72953487,2022-03-17T15:04:23.120Z,"4 km SE of Pāhala, Hawaii",earthquake,0.79,1.04999995,0.0199999996,5,automatic,hv,hv
-2022-03-17T14:51:04.270Z,19.1959991455078,-155.414337158203,34.060001373291,1.80999994,md,33,194,,0.109999999,hv,hv72953482,2022-03-17T14:54:11.970Z,"6 km E of Pāhala, Hawaii",earthquake,0.61,0.870000005,1.80999994,4,automatic,hv,hv

@@ -3865,3 +3865,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-18T14:40:30.180Z,38.8251648,-122.802002,2.49,0.71,md,11.0,77.0,0.006548,0.01,nc,nc73707231,2022-03-18T14:42:07.021Z,"7km NW of The Geysers, CA",earthquake,0.38,1.03,0.14,2.0,automatic,nc,nc
 2022-03-18T14:25:19.806Z,40.1528,141.9451,35.0,5.3,mww,,161.0,0.925,0.88,us,us6000h5px,2022-03-18T14:44:20.040Z,"54 km SE of Hachinohe, Japan",earthquake,6.4,1.8,0.093,11.0,reviewed,us,us
 2022-03-17T23:12:30.460Z,44.6041667,-110.3805,4.21,1.08,md,10.0,110.0,0.04645,0.12,uu,uu60486182,2022-03-18T14:42:52.930Z,"48 km SSE of Mammoth, Wyoming",earthquake,0.35,0.65,0.436,7.0,reviewed,uu,uu
+2022-03-18T15:00:08.750Z,35.6901665,-117.4923325,5.18,0.83,ml,15.0,161.0,0.1063,0.13,ci,ci39971159,2022-03-18T15:03:43.979Z,"12km SW of Searles Valley, CA",earthquake,0.75,2.05,0.123,5.0,automatic,ci,ci
+2022-03-18T14:53:49.914Z,63.9127,-147.6132,23.3,1.1,ml,,,,0.7,ak,ak0223jl19ae,2022-03-18T14:58:23.785Z,"66 km E of Healy, Alaska",earthquake,,0.8,,,automatic,ak,ak
