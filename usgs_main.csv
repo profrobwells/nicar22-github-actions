@@ -3848,3 +3848,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-18T13:09:56.990Z,19.2436676025391,-155.389007568359,31.1599998474121,1.77999997,md,29.0,143.0,,0.109999999,hv,hv72954637,2022-03-18T13:13:03.640Z,"Island of Hawaii, Hawaii",earthquake,0.54,0.899999976,1.78999996,4.0,automatic,hv,hv
 2022-03-18T13:01:00.450Z,34.9861667,-118.5503333,4.3,1.55,ml,22.0,50.0,0.1715,0.18,ci,ci39971079,2022-03-18T13:05:06.220Z,"19km SSW of Tehachapi, CA",earthquake,0.28,1.03,0.311,30.0,automatic,ci,ci
 2022-03-18T12:50:53.933Z,23.8643,122.3312,10.0,4.8,mb,,73.0,0.74,0.7,us,us6000h5pg,2022-03-18T13:07:50.040Z,"75 km E of Hualien City, Taiwan",earthquake,3.4,1.8,0.062,79.0,reviewed,us,us
+2022-03-18T13:32:59.400Z,38.7901649,-122.7624969,2.06,0.25,md,15.0,64.0,0.01067,0.02,nc,nc73707211,2022-03-18T13:34:35.389Z,"2km NNW of The Geysers, CA",earthquake,0.27,0.6,0.15,4.0,automatic,nc,nc
+2022-03-18T13:29:59.560Z,64.4709,-146.8239,5.1,1.8,ml,,,,0.5,ak,ak0223jkap8z,2022-03-18T13:35:38.933Z,"7 km SSE of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
