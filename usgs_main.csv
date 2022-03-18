@@ -3796,3 +3796,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-18T08:42:43.639Z,60.0155,-152.739,97.6,2.5,ml,,,,0.6,ak,ak0223jheaex,2022-03-18T08:48:17.496Z,"56 km W of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-18T08:39:52.667Z,59.7309,-152.8825,84.5,1.1,ml,,,,0.24,ak,ak0223jhdnuq,2022-03-18T08:48:16.725Z,"59 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-18T06:35:56.970Z,40.1945,-121.2743333,9.61,1.63,md,13.0,110.0,0.1121,0.11,nc,nc73707086,2022-03-18T08:46:10.576Z,"9km WSW of Almanor, CA",earthquake,0.38,1.17,0.189,17.0,reviewed,nc,nc
+2022-03-18T08:51:37.580Z,36.5571671,-121.0394974,6.79,2.41,md,34.0,89.0,0.02128,0.17,nc,nc73707131,2022-03-18T08:55:55.646Z,"10km ENE of Pinnacles, CA",earthquake,0.32,0.72,0.23,38.0,automatic,nc,nc
+2022-03-18T04:42:19.080Z,38.8368333,-122.8035,2.26,0.28,md,29.0,59.0,0.01039,0.02,nc,nc73707016,2022-03-18T08:50:28.741Z,"7km WNW of Cobb, CA",earthquake,0.18,0.35,0.232,4.0,reviewed,nc,nc
