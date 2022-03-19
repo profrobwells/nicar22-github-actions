@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-03-19T06:56:15.340Z,34.7008333,-118.0058333,6.68,0.79,ml,17,46,0.0317,0.14,ci,ci39971991,2022-03-19T06:59:47.144Z,"14km E of Lancaster, CA",earthquake,0.27,0.69,0.128,18,automatic,ci,ci
-2022-03-19T06:53:54.150Z,36.0115013,-120.5709991,2.57,0.9,md,11,112,0.02796,0.04,nc,nc73707591,2022-03-19T06:55:27.609Z,"18km NW of Parkfield, CA",earthquake,0.34,0.72,0.15,3,automatic,nc,nc
+2022-03-19T06:53:54.150Z,36.0115013,-120.5709991,2.57,0.9,md,11,112,0.02796,0.04,nc,nc73707591,2022-03-19T07:21:13.640Z,"18km NW of Parkfield, CA",earthquake,0.34,0.72,0.15,3,automatic,nc,nc
 2022-03-19T06:40:18.380Z,35.7395,-117.5265,9.39,0.65,ml,11,163,0.09551,0.16,ci,ci39971983,2022-03-19T06:43:54.039Z,"12km WSW of Searles Valley, CA",earthquake,0.54,1,0.159,7,automatic,ci,ci
 2022-03-19T06:35:07.000Z,19.238000869751,-155.455673217773,34.5299987792969,1.78999996,md,35,175,,0.129999995,hv,hv72955347,2022-03-19T06:38:20.640Z,"4 km NNE of Pāhala, Hawaii",earthquake,0.68,0.970000029,1.87,4,automatic,hv,hv
 2022-03-19T06:33:05.620Z,38.8243332,-122.8050003,1.68,0.98,md,20,43,0.004072,0.02,nc,nc73707581,2022-03-19T06:59:17.520Z,"7km NW of The Geysers, CA",earthquake,0.2,0.47,0.19,3,automatic,nc,nc
@@ -9,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-19T06:22:21.797Z,37.5957,72.3196,192.84,4.2,mb,,112,1.466,0.58,us,us6000h5z3,2022-03-19T06:51:42.040Z,"68 km E of Khorugh, Tajikistan",earthquake,8.4,8.1,0.124,18,reviewed,us,us
 2022-03-19T06:17:42.430Z,57.8009,-156.1218,110.6,2.2,ml,,,,0.13,ak,ak0223l3lelf,2022-03-19T06:21:09.884Z,"82 km ENE of Ugashik, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-03-19T06:11:35.866Z,38.197,-117.8797,3.3,1.9,ml,16,108.64,0.32,0.298,nn,nn00835642,2022-03-19T06:15:28.657Z,"Nevada",earthquake,,1,0.18,9,automatic,nn,nn
-2022-03-19T06:01:29.960Z,36.9676666,-121.6303329,4.23,2.63,md,68,38,0.0406,0.18,nc,nc73707556,2022-03-19T07:02:02.090Z,"7km SW of Gilroy, CA",earthquake,0.21,0.44,0.16,78,automatic,nc,nc
+2022-03-19T06:01:29.960Z,36.9676666,-121.6303329,4.23,2.63,md,68,38,0.0406,0.18,nc,nc73707556,2022-03-19T07:20:49.206Z,"7km SW of Gilroy, CA",earthquake,0.21,0.44,0.16,78,automatic,nc,nc
 2022-03-19T06:00:58.480Z,36.9695015,-121.6324997,4.44,2.23,md,44,39,0.04283,0.18,nc,nc73707551,2022-03-19T06:25:14.326Z,"7km SW of Gilroy, CA",earthquake,0.26,0.51,0.17,40,automatic,nc,nc
 2022-03-19T05:58:50.040Z,37.4731674,-118.9980011,4.13,1.77,md,13,167,0.1406,0.02,nc,nc73707546,2022-03-19T06:25:13.326Z,"18km S of Mammoth Lakes, CA",earthquake,0.61,2.04,0.12,12,automatic,nc,nc
 2022-03-19T05:58:02.430Z,17.9366666666667,-67.0213333333333,9.71,2.17,md,3,236,,0.02,pr,pr71340828,2022-03-19T06:15:44.940Z,"5 km SSE of La Parguera, Puerto Rico",earthquake,2.61,0.9,0.114856619740067,3,reviewed,pr,pr
@@ -17,9 +17,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-19T05:46:05.860Z,34.0456667,-117.2401667,13.4,0.92,ml,27,100,0.1238,0.18,ci,ci39971967,2022-03-19T05:49:45.913Z,"2km E of Loma Linda, CA",earthquake,0.33,0.88,0.212,23,automatic,ci,ci
 2022-03-19T05:44:17.351Z,24.9544,-45.4785,10,5,mb,,123,17.655,0.5,us,us6000h5yv,2022-03-19T06:02:54.040Z,"northern Mid-Atlantic Ridge",earthquake,12,1.9,0.042,184,reviewed,us,us
 2022-03-19T05:35:33.540Z,39.3460007,-123.4919968,5.45,2.28,md,16,131,0.1715,0.07,nc,nc73707536,2022-03-19T05:43:50.556Z,"14km WSW of Willits, CA",earthquake,0.37,1.39,0.13,14,automatic,nc,nc
-2022-03-19T05:32:39.070Z,39.3461667,-123.4873333,6.57,2.44,md,34,66,0.1202,0.1,nc,nc73707531,2022-03-19T06:46:11.576Z,"13km WSW of Willits, CA",earthquake,0.17,0.63,0.156,36,reviewed,nc,nc
+2022-03-19T05:32:39.070Z,39.3461667,-123.4873333,6.57,2.44,md,34,66,0.1202,0.1,nc,nc73707531,2022-03-19T07:10:13.577Z,"13km WSW of Willits, CA",earthquake,0.17,0.63,0.156,36,reviewed,nc,nc
 2022-03-19T05:23:51.380Z,33.1955,-116.0023333,5.79,1.53,ml,48,46,0.03012,0.25,ci,ci39971951,2022-03-19T05:34:54.000Z,"12km SSW of Salton City, CA",earthquake,0.3,0.67,0.185,27,automatic,ci,ci
-2022-03-19T05:07:12.140Z,37.5721664,-118.7868347,6.21,1.15,md,9,227,0.06988,0.01,nc,nc73707526,2022-03-19T05:30:14.017Z,"10km W of Toms Place, CA",earthquake,1.89,1.21,0.07,8,automatic,nc,nc
+2022-03-19T05:07:12.140Z,37.5721664,-118.7868347,6.21,1.15,md,9,227,0.06988,0.01,nc,nc73707526,2022-03-19T07:15:10.601Z,"10km W of Toms Place, CA",earthquake,1.89,1.21,0.07,8,automatic,nc,nc
 2022-03-19T04:59:43.400Z,38.7878342,-122.765831,2.14,0.34,md,16,75,0.01364,0.03,nc,nc73707521,2022-03-19T05:21:13.950Z,"1km NW of The Geysers, CA",earthquake,0.26,0.52,0.19,4,automatic,nc,nc
 2022-03-19T04:50:01.555Z,62.0759,-150.9513,67.8,1.4,ml,,,,0.2,ak,ak0223l2live,2022-03-19T04:54:41.982Z,"25 km ENE of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-03-19T04:44:49.090Z,19.2136669158936,-155.371002197266,32.7799987792969,2.3,ml,44,159,,0.119999997,hv,hv72955272,2022-03-19T04:54:30.040Z,"11 km E of Pāhala, Hawaii",earthquake,0.57,0.680000007,4.51,4,automatic,hv,hv
@@ -280,9 +280,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-18T07:45:46.890Z,34.2636667,-118.4778333,11.66,0.8,ml,16,119,0.01829,0.17,ci,ci39970903,2022-03-18T17:13:57.658Z,"2km ESE of Granada Hills, CA",earthquake,0.44,0.63,0.059,7,reviewed,ci,ci
 2022-03-18T07:39:15.549Z,61.6933,-149.957,31,1,ml,,,,1.06,ak,ak0223jgs5du,2022-03-18T07:41:26.053Z,"7 km SE of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-18T07:26:12.930Z,33.485,-116.5551667,7.93,0.37,ml,23,80,0.04105,0.12,ci,ci39970895,2022-03-18T17:08:23.749Z,"14km SE of Anza, CA",earthquake,0.18,0.36,0.21,10,reviewed,ci,ci
-2022-03-18T07:21:28.800Z,51.904,179.627166666667,12.05,0.49,ml,5,254,,0.21,av,av91051868,2022-03-19T02:32:39.930Z,"257 km W of Adak, Alaska",earthquake,1.59,1.13,0.201893738579319,5,reviewed,av,av
-2022-03-18T07:17:27.200Z,47.60516666666667,-122.58283333333333,23.36,0.67,ml,10,117,0.09578,0.28,uw,uw61814257,2022-03-18T16:40:59.980Z,"2 km NNE of Enetai, Washington",earthquake,1,1.92,0.1980625691860822,3,reviewed,uw,uw
-2022-03-18T07:14:37.060Z,33.5505,-116.6758333,6.89,0.66,ml,27,48,0.0411,0.13,ci,ci39970887,2022-03-18T14:42:43.696Z,"0km SSW of Anza, CA",earthquake,0.17,0.36,0.123,18,reviewed,ci,ci
-2022-03-18T07:14:11.100Z,19.0621,-65.1848,25,4.09,md,28,281,0.7609,0.43,pr,pr2022077000,2022-03-18T09:57:59.516Z,"84 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.04,28.31,0.09,17,reviewed,pr,pr
-2022-03-18T07:10:50.980Z,37.332,-121.6898333,7.65,0.9,md,22,50,0.03888,0.05,nc,nc73707116,2022-03-18T08:07:17.312Z,"13km ESE of Alum Rock, CA",earthquake,0.19,0.26,0.316,21,reviewed,nc,nc
-2022-03-18T07:06:12.180Z,32.7718333,-117.4188333,16.29,1.83,ml,56,220,0.1509,0.19,ci,ci39970879,2022-03-18T17:00:25.053Z,"16km WSW of La Jolla, CA",earthquake,0.33,0.57,0.18,20,reviewed,ci,ci
