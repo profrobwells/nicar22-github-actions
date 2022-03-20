@@ -4388,3 +4388,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-20T15:29:19.230Z,33.684,-116.7846667,14.03,0.91,ml,26.0,78.0,0.06472,0.14,ci,ci39972983,2022-03-20T15:32:57.813Z,"9km SW of Idyllwild, CA",earthquake,0.28,0.4,0.139,22.0,automatic,ci,ci
 2022-03-20T07:32:03.230Z,34.0413333,-116.8813333,20.12,0.95,ml,40.0,93.0,0.04958,0.16,ci,ci39972799,2022-03-20T15:35:50.822Z,"13km N of Banning, CA",earthquake,0.24,0.47,0.124,16.0,reviewed,ci,ci
 2022-03-20T15:45:14.950Z,34.0313333,-116.3171667,12.05,1.04,ml,14.0,182.0,0.07131,0.27,ci,ci39973007,2022-03-20T15:48:52.852Z,"12km S of Joshua Tree, CA",earthquake,0.65,1.11,0.187,22.0,automatic,ci,ci
+2022-03-20T15:40:33.117Z,37.5297,-97.7531,5.0,2.4,mb_lg,,93.0,0.375,0.27,us,us6000h674,2022-03-20T15:59:33.040Z,"10 km WNW of Viola, Kansas",earthquake,1.9,2.0,0.117,19.0,reviewed,us,us
+2022-03-20T15:26:23.114Z,-58.6562,-25.114,10.0,4.9,mb,,75.0,7.669,0.6,us,us6000h677,2022-03-20T16:12:02.040Z,South Sandwich Islands region,earthquake,6.7,1.8,0.081,50.0,reviewed,us,us
