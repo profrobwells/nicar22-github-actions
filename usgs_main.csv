@@ -4404,3 +4404,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-20T17:04:03.860Z,38.824501,-122.8548355,2.04,0.96,md,23.0,64.0,0.003431,0.05,nc,nc73708106,2022-03-20T17:20:15.935Z,"10km WNW of The Geysers, CA",earthquake,0.23,0.44,0.23,3.0,automatic,nc,nc
 2022-03-20T17:04:01.450Z,19.2226657867432,-155.404006958008,32.2599983215332,2.0999999,md,42.0,149.0,,0.119999997,hv,hv72956892,2022-03-20T17:07:06.950Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.52,0.75,1.03999996,8.0,automatic,hv,hv
 2022-03-20T16:58:31.260Z,34.3685,-117.928,31.44,1.85,ml,8.0,117.0,0.2605,0.23,ci,ci39973039,2022-03-20T17:02:20.369Z,"15km S of Pearblossom, CA",earthquake,0.86,0.74,0.113,19.0,automatic,ci,ci
+2022-03-20T17:29:33.000Z,19.863,-155.57,27.6,4.4,Ml,51.0,,,,pt,pt22079050,2022-03-20T17:32:48.029Z,"20 km SSE of Waimea, Hawaii",earthquake,,,,35.0,reviewed,pt,pt
