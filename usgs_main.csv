@@ -4390,3 +4390,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-20T15:45:14.950Z,34.0313333,-116.3171667,12.05,1.04,ml,14.0,182.0,0.07131,0.27,ci,ci39973007,2022-03-20T15:48:52.852Z,"12km S of Joshua Tree, CA",earthquake,0.65,1.11,0.187,22.0,automatic,ci,ci
 2022-03-20T15:40:33.117Z,37.5297,-97.7531,5.0,2.4,mb_lg,,93.0,0.375,0.27,us,us6000h674,2022-03-20T15:59:33.040Z,"10 km WNW of Viola, Kansas",earthquake,1.9,2.0,0.117,19.0,reviewed,us,us
 2022-03-20T15:26:23.114Z,-58.6562,-25.114,10.0,4.9,mb,,75.0,7.669,0.6,us,us6000h677,2022-03-20T16:12:02.040Z,South Sandwich Islands region,earthquake,6.7,1.8,0.081,50.0,reviewed,us,us
+2022-03-20T16:35:50.811Z,56.7079,-155.5306,6.5,4.0,ml,,,,0.98,ak,ak0223mx6yrz,2022-03-20T16:45:18.865Z,"87 km WSW of Akhiok, Alaska",earthquake,,2.5,,,automatic,ak,ak
+2022-03-20T16:25:21.190Z,18.0503333333333,-66.845,13.16,1.67,md,5.0,183.0,,0.09,pr,pr71340953,2022-03-20T16:35:37.930Z,"1 km NNE of Yauco, Puerto Rico",earthquake,2.67,2.39,0.149669972505252,5.0,reviewed,pr,pr
+2022-03-20T16:17:04.004Z,35.97634506,-97.20670319,6.933082581,1.72,ml,17.0,97.95924759,0.08017567545,0.1064120118,ok,ok2022fntm,2022-03-20T16:19:15.387Z,"3 km NE of Coyle, Oklahoma",earthquake,,6.924590601,,13.0,automatic,ok,ok
+2022-03-20T16:06:44.043Z,-24.3638,-179.5803,513.74,4.5,mb,,120.0,5.099,0.65,us,us6000h679,2022-03-20T16:23:43.040Z,south of the Fiji Islands,earthquake,6.0,9.7,0.092,38.0,reviewed,us,us
+2022-03-20T16:00:31.240Z,34.2823333,-117.667,39.98,1.73,ml,10.0,79.0,0.163,0.27,ci,ci39973031,2022-03-20T16:19:10.155Z,"9km SSW of Wrightwood, CA",earthquake,1.19,4.28,0.278,17.0,automatic,ci,ci
