@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-20T04:51:03.331Z,60.494,-143.032,0,1.6,ml,,,,0.88,ak,ak0223mq537h,2022-03-20T04:53:28.214Z,"104 km S of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-20T04:19:02.600Z,38.5183334,-119.5383301,-1.93,2.26,md,9,88,0.06903,0.1,nc,nc73708021,2022-03-20T04:33:17.203Z,"5km W of Walker, CA",earthquake,0.35,0.96,0.19,7,automatic,nc,nc
 2022-03-20T04:17:31.669Z,57.7001,-155.1021,40.4,0.5,ml,,,,0.59,ak,ak0223mpxvmk,2022-03-20T04:24:10.362Z,"41 km WNW of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2022-03-20T04:13:46.550Z,38.8325005,-122.7928314,1.58,0.36,md,8,89,0.006212,0.01,nc,nc73708016,2022-03-20T04:15:21.354Z,"6km W of Cobb, CA",earthquake,0.53,1.27,,1,automatic,nc,nc
-2022-03-20T04:10:47.120Z,38.8160019,-122.7945023,1.95,1.63,md,33,27,0.008047,0.05,nc,nc73708011,2022-03-20T04:33:16.203Z,"5km NW of The Geysers, CA",earthquake,0.19,0.3,0.06,10,automatic,nc,nc
+2022-03-20T04:10:47.120Z,38.8160019,-122.7945023,1.95,1.63,md,33,27,0.008047,0.05,nc,nc73708011,2022-03-20T04:43:11.272Z,"5km NW of The Geysers, CA",earthquake,0.19,0.3,0.06,10,automatic,nc,nc
 2022-03-20T04:06:32.050Z,38.8358345,-122.7813339,1.55,0.85,md,10,91,0.007492,0.02,nc,nc73708006,2022-03-20T04:38:16.236Z,"5km WNW of Cobb, CA",earthquake,0.61,1.02,,1,automatic,nc,nc
 2022-03-20T04:04:49.639Z,56.4289,-156.488,70.5,3.3,ml,,,,0.78,ak,ak0223mpv418,2022-03-20T04:20:56.040Z,"119 km E of Chignik, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-03-20T03:58:43.990Z,60.2632,-152.2789,78.9,1.7,ml,,,,0.58,ak,ak0223mpl8rj,2022-03-20T04:05:30.827Z,"41 km NW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -73,7 +74,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-19T17:24:21.854Z,57.9376,-155.0106,82.7,2.3,ml,,,,0.3,ak,ak0223la6mob,2022-03-19T17:37:00.579Z,"Alaska Peninsula",earthquake,,0.4,,,automatic,ak,ak
 2022-03-19T17:22:36.050Z,19.1915,-155.504333333333,35.62,3.5,ml,58,71,,0.11,hv,hv72955787,2022-03-19T22:21:47.669Z,"Hawaii region, Hawaii",earthquake,0.43,0.53,0.189952224556583,39,reviewed,hv,hv
 2022-03-19T17:09:09.090Z,38.8213348,-122.7636642,2.21,0.86,md,13,120,0.01035,0.03,nc,nc73707831,2022-03-19T17:29:30.311Z,"4km W of Cobb, CA",earthquake,0.3,0.61,0.01,2,automatic,nc,nc
-2022-03-19T16:59:41.390Z,37.0021667,-121.7615,12.04,3.58,mw,155,51,0.04548,0.19,nc,nc73707826,2022-03-20T04:41:08.847Z,"4km ENE of Corralitos, CA",earthquake,0.15,0.29,,4,reviewed,nc,nc
+2022-03-19T16:59:41.390Z,37.0021667,-121.7615,12.04,3.58,mw,155,51,0.04548,0.19,nc,nc73707826,2022-03-20T04:48:51.932Z,"4km ENE of Corralitos, CA",earthquake,0.15,0.29,,4,reviewed,nc,nc
 2022-03-19T16:52:45.850Z,47.90266666666667,-121.845,16.19,1.18,ml,13,99,0.03071,0.07,uw,uw61814612,2022-03-20T04:09:09.800Z,"3 km NW of North Sultan, Washington",earthquake,0.28,0.67,0.09763322560432663,3,reviewed,uw,uw
 2022-03-19T16:32:26.186Z,-6.5101,131.8206,10,4.7,mb,,90,1.551,0.92,us,us6000h61w,2022-03-19T17:31:38.040Z,"Kepulauan Tanimbar, Indonesia",earthquake,6.1,1.8,0.138,18,reviewed,us,us
 2022-03-19T16:21:11.570Z,-4.996,153.3178,61.09,4.9,mb,,99,7.92,1.14,us,us6000h61u,2022-03-19T16:47:52.040Z,"136 km ESE of Kokopo, Papua New Guinea",earthquake,11,5.5,0.066,73,reviewed,us,us
@@ -98,6 +99,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-19T14:32:26.920Z,33.4021667,-116.3655,5.99,0.77,ml,19,140,0.131,0.18,ci,ci39972335,2022-03-19T14:36:08.464Z,"16km N of Borrego Springs, CA",earthquake,0.42,1.59,0.154,15,automatic,ci,ci
 2022-03-19T14:24:10.290Z,33.9988333,-116.8458333,12.34,1.93,ml,63,27,0.04808,0.22,ci,ci39972327,2022-03-19T14:35:02.800Z,"9km NNE of Banning, CA",earthquake,0.21,0.58,0.186,27,automatic,ci,ci
 2022-03-19T14:18:23.540Z,35.3688333,-118.5836667,0.89,1.65,ml,27,48,0.154,0.21,ci,ci39972319,2022-03-19T14:28:55.800Z,"26km SSW of Bodfish, CA",earthquake,0.3,0.84,0.166,29,automatic,ci,ci
+2022-03-19T14:18:14.880Z,46.874,-121.76,0.69,0.38,ml,10,113,0.04262,0.16,uw,uw61814597,2022-03-20T04:44:20.690Z,"24 km ENE of Ashford, Washington",earthquake,0.35,1.91,0.1332773100852621,6,reviewed,uw,uw
 2022-03-19T14:14:44.280Z,33.7806667,-115.7085,8.9,1.36,ml,21,82,0.09334,0.18,ci,ci39972303,2022-03-19T14:18:25.958Z,"29km WNW of Desert Center, CA",earthquake,0.42,1.16,0.193,18,automatic,ci,ci
 2022-03-19T14:10:17.936Z,-6.8423,105.3571,35,4.6,mb,,73,2.357,0.89,us,us6000h615,2022-03-19T16:02:33.040Z,"73 km SW of Labuan, Indonesia",earthquake,8.4,1.9,0.1,30,reviewed,us,us
 2022-03-19T13:57:39.620Z,47.707166666666666,-120.0315,2.92,0.78,ml,15,64,0.05228,0.08,uw,uw61814592,2022-03-20T03:13:45.620Z,"7 km NNE of Waterville, Washington",earthquake,0.2,0.74,0.026551046801526534,4,reviewed,uw,uw
@@ -204,6 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-19T05:07:12.050Z,37.5558333,-118.7941667,5.73,1.17,md,17,103,0.044,0.12,nc,nc73707526,2022-03-19T20:16:16.183Z,"10km W of Toms Place, CA",earthquake,0.36,0.68,0.173,15,reviewed,nc,nc
 2022-03-19T04:59:43.400Z,38.7878342,-122.765831,2.14,0.34,md,16,75,0.01364,0.03,nc,nc73707521,2022-03-19T05:21:13.950Z,"1km NW of The Geysers, CA",earthquake,0.26,0.52,0.19,4,automatic,nc,nc
 2022-03-19T04:55:49.750Z,45.326166666666666,-121.688,5.48,1.49,ml,11,120,0.01844,0.15,uw,uw61814552,2022-03-20T03:18:42.850Z,"5 km ENE of Government Camp, Oregon",earthquake,0.47,0.5,0.16977849790098531,6,reviewed,uw,uw
-2022-03-19T04:50:01.555Z,62.0759,-150.9513,67.8,1.4,ml,,,,0.2,ak,ak0223l2live,2022-03-19T04:54:41.982Z,"25 km ENE of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2022-03-19T04:44:49.090Z,19.2136669158936,-155.371002197266,32.7799987792969,2.3,ml,44,159,,0.119999997,hv,hv72955272,2022-03-19T04:54:30.040Z,"11 km E of Pāhala, Hawaii",earthquake,0.57,0.680000007,4.51,4,automatic,hv,hv
-2022-03-19T04:42:08.200Z,38.8326683,-122.8181686,1.82,0.36,md,10,83,0.01121,0.01,nc,nc73707516,2022-03-19T04:59:16.823Z,"8km NW of The Geysers, CA",earthquake,0.37,1.15,,1,automatic,nc,nc
