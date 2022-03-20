@@ -4274,3 +4274,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-20T02:10:48.130Z,38.8390007,-122.7858353,1.59,0.85,md,13.0,89.0,0.00357,0.02,nc,nc73707971,2022-03-20T02:27:18.459Z,"6km WNW of Cobb, CA",earthquake,0.32,0.74,,1.0,automatic,nc,nc
 2022-03-20T02:06:00.990Z,63.24,-150.5888,127.8,1.4,ml,,,,0.18,ak,ak0223mooklf,2022-03-20T02:07:36.379Z,"65 km ESE of Denali National Park, Alaska",earthquake,,3.0,,,automatic,ak,ak
 2022-03-20T02:03:59.520Z,19.17799949646,-155.476837158203,35.3699989318848,2.44000006,md,48.0,77.0,,0.140000001,hv,hv72956192,2022-03-20T02:09:32.160Z,"2 km S of Pāhala, Hawaii",earthquake,0.56,0.769999981,1.49000001,27.0,automatic,hv,hv
+2022-03-20T02:53:49.208Z,58.9187,-154.5282,135.8,2.1,ml,,,,0.48,ak,ak0223moyqvi,2022-03-20T02:55:47.065Z,"59 km SSE of Kokhanok, Alaska",earthquake,,0.4,,,automatic,ak,ak
