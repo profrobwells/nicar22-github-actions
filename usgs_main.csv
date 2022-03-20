@@ -4323,3 +4323,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-20T06:50:26.930Z,33.9645,-117.0728333,-0.3,1.2,ml,12.0,128.0,0.2637,0.24,ci,ci39972791,2022-03-20T06:54:21.441Z,"3km SW of Calimesa, CA",earthquake,0.97,31.61,0.176,28.0,automatic,ci,ci
 2022-03-20T06:50:17.500Z,34.038,-117.25,15.08,1.56,ml,64.0,57.0,0.07793,0.22,ci,ci39972783,2022-03-20T07:01:20.530Z,"2km SE of Loma Linda, CA",earthquake,0.27,0.46,0.173,26.0,automatic,ci,ci
 2022-03-20T07:09:11.970Z,38.8083344,-122.7728348,1.38,1.16,md,22.0,80.0,0.007861,0.03,nc,nc73708036,2022-03-20T07:19:11.170Z,"4km NNW of The Geysers, CA",earthquake,0.21,0.37,0.15,4.0,automatic,nc,nc
+2022-03-20T06:13:12.160Z,17.9295,-66.9408333333333,11.91,2.3,md,4.0,241.0,,0.08,pr,pr71340918,2022-03-20T07:24:10.340Z,"5 km SW of Guánica, Puerto Rico",earthquake,1.21,0.45,0.116996927365373,4.0,reviewed,pr,pr
