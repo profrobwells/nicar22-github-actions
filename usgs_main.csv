@@ -4522,3 +4522,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-21T07:18:53.590Z,35.672,-117.5246667,6.76,1.12,ml,15.0,150.0,0.09934,0.16,ci,ci39973303,2022-03-21T07:22:25.952Z,"15km ENE of Ridgecrest, CA",earthquake,0.42,0.99,0.197,14.0,automatic,ci,ci
 2022-03-21T07:15:11.250Z,38.8323326,-122.8180008,2.01,0.36,md,8.0,83.0,0.01086,0.01,nc,nc73708331,2022-03-21T07:16:44.348Z,"8km NW of The Geysers, CA",earthquake,0.45,1.2,,1.0,automatic,nc,nc
 2022-03-21T07:05:11.466Z,59.9937,-151.6555,30.8,1.5,ml,,,,0.56,ak,ak0223of6w7i,2022-03-21T07:12:23.171Z,"6 km S of Ninilchik, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-21T07:20:33.741Z,38.5461,-119.4019,0.0,1.4,ml,20.0,79.16,0.051,0.2391,nn,nn00835721,2022-03-21T07:24:19.238Z,"7 km ENE of Walker, California",earthquake,,0.4,0.25,9.0,automatic,nn,nn
