@@ -4506,3 +4506,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-21T05:17:16.980Z,10.5143,-86.1613,38.06,4.9,mb,,153.0,1.209,0.6,us,us6000h6b9,2022-03-21T05:37:03.168Z,off the coast of Costa Rica,earthquake,6.4,7.5,0.028,397.0,reviewed,us,us
 2022-03-21T05:15:31.163Z,-58.2603,-23.4501,10.0,5.5,mww,,75.0,8.274,0.69,us,us6000h6ba,2022-03-21T05:35:32.352Z,South Sandwich Islands region,earthquake,4.3,1.8,0.089,12.0,reviewed,us,us
 2022-03-21T05:07:05.600Z,17.8491666666667,-66.8398333333333,9.34,2.49,md,6.0,253.0,,0.05,pr,pr71341028,2022-03-21T05:30:18.050Z,"15 km SSE of Maria Antonia, Puerto Rico",earthquake,1.05,1.38,0.086001274222705,5.0,reviewed,pr,pr
+2022-03-21T05:52:15.260Z,38.4410019,-119.4641647,6.54,2.43,md,5.0,151.0,0.06641,0.03,nc,nc73708326,2022-03-21T05:58:13.485Z,"8km S of Walker, CA",earthquake,0.72,1.24,0.27,5.0,automatic,nc,nc
+2022-03-21T05:32:53.604Z,61.5673,2.4191,10.0,5.2,mww,,29.0,4.027,1.01,us,us6000h6bi,2022-03-21T06:04:07.868Z,"138 km W of Florø, Norway",earthquake,6.9,1.8,0.098,10.0,reviewed,us,us
+2022-03-21T03:31:55.420Z,18.9478333333333,-65.997,20.16,3.14,md,12.0,262.0,,0.13,pr,pr71341018,2022-03-21T06:03:49.643Z,"54 km NNE of San Juan, Puerto Rico",earthquake,0.9,13.61,0.135389294104193,6.0,reviewed,pr,pr
