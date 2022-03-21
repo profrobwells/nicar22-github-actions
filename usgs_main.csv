@@ -4528,3 +4528,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-21T05:46:41.994Z,-17.9851,-178.0831,549.37,4.3,mb,,75.0,3.656,0.39,us,us6000h6bz,2022-03-21T07:41:42.040Z,"275 km E of Levuka, Fiji",earthquake,8.0,5.6,0.052,106.0,reviewed,us,us
 2022-03-20T11:01:46.177Z,56.3445,-161.5652,201.79,3.0,ml,,122.0,0.932,0.66,us,us6000h69c,2022-03-21T07:36:40.040Z,"44 km NNW of Nelson Lagoon, Alaska",earthquake,8.4,10.6,0.059,38.0,reviewed,us,us
 2022-03-21T07:51:25.420Z,37.5506668,-118.9968338,2.64,1.68,md,19.0,114.0,0.06498,0.02,nc,nc73708336,2022-03-21T07:54:01.080Z,"10km S of Mammoth Lakes, CA",earthquake,0.32,1.32,0.11,18.0,automatic,nc,nc
+2022-03-21T08:31:58.860Z,40.7088318,-124.0093307,23.91,2.64,md,18.0,187.0,0.2676,0.12,nc,nc73708346,2022-03-21T08:38:15.398Z,"12km ESE of Pine Hills, CA",earthquake,0.91,2.9,0.09,9.0,automatic,nc,nc
+2022-03-21T08:21:20.880Z,38.7868347,-122.7816696,1.29,0.57,md,7.0,109.0,0.007999,0.02,nc,nc73708341,2022-03-21T08:38:14.398Z,"2km WNW of The Geysers, CA",earthquake,0.39,0.66,0.34,2.0,automatic,nc,nc
