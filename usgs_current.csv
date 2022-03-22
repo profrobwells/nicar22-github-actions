@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-22T09:27:38.780Z,19.2078342437744,-155.419830322266,32.8800010681152,1.73000002,md,39,150,,0.129999995,hv,hv72958877,2022-03-22T09:30:46.860Z,"6 km E of Pāhala, Hawaii",earthquake,0.58,0.819999993,1.07000005,8,automatic,hv,hv
 2022-03-22T09:19:48.960Z,34.0898333,-118.2725,6.8,1.14,ml,17,201,0.03644,0.2,ci,ci39974095,2022-03-22T09:23:26.184Z,"1km WSW of Silver Lake, CA",earthquake,0.58,0.69,0.21,26,automatic,ci,ci
 2022-03-22T09:15:10.020Z,33.3258333,-116.3858333,8.95,0.99,ml,30,72,0.06318,0.18,ci,ci39974087,2022-03-22T09:18:40.450Z,"8km N of Borrego Springs, CA",earthquake,0.28,0.66,0.177,26,automatic,ci,ci
 2022-03-22T09:13:20.720Z,33.3253333,-116.3743333,8.37,0.73,ml,16,158,0.06558,0.12,ci,ci39974079,2022-03-22T09:17:02.189Z,"8km N of Borrego Springs, CA",earthquake,0.25,0.56,0.157,13,automatic,ci,ci
@@ -245,5 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-21T09:46:03.074Z,62.8896,-149.5929,78.2,1.5,ml,,,,0.57,ak,ak0223ogmj4a,2022-03-21T09:54:56.427Z,"55 km NNE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-03-21T09:45:47.580Z,17.9846666666667,-66.9766666666667,3.78,1.98,md,3,175,,0.03,pr,pr71341078,2022-03-21T09:56:56.430Z,"6 km W of Fuig, Puerto Rico",earthquake,1.67,3.18,0.00227788632254255,3,reviewed,pr,pr
 2022-03-21T09:41:13.976Z,64.8103,-147.3872,4.1,0.7,ml,,,,0.48,ak,ak0223oglhdx,2022-03-21T09:54:26.435Z,"6 km NNW of North Pole, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-03-21T09:33:28.760Z,33.9863333,-116.8306667,9.62,0.9,ml,26,60,0.05227,0.1,ci,ci39973335,2022-03-21T19:39:05.502Z,"8km NNE of Banning, CA",earthquake,0.17,0.39,0.114,17,reviewed,ci,ci
-2022-03-21T09:29:08.944Z,61.6901,-151.6063,91,1.6,ml,,,,0.47,ak,ak0223ogiwer,2022-03-21T09:44:33.861Z,"35 km SSW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
