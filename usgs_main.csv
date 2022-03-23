@@ -5192,3 +5192,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-23T12:47:29.877Z,44.3086,-114.7437,10.0,2.4,ml,,59.0,0.511,0.9,us,us6000h6x9,2022-03-23T14:27:16.040Z,"18 km ENE of Stanley, Idaho",earthquake,1.9,2.0,0.053,46.0,reviewed,us,us
 2022-03-23T12:36:01.720Z,44.2685,-115.1898333,10.6,1.8,ml,11.0,83.0,0.834,0.32,mb,mb80541264,2022-03-23T14:19:46.450Z,"20 km WNW of Stanley, Idaho",earthquake,0.7,2.05,0.148,10.0,reviewed,mb,mb
 2022-03-23T10:29:49.480Z,44.3446667,-115.089,4.86,1.87,ml,11.0,78.0,0.754,0.22,mb,mb80541259,2022-03-23T14:27:03.610Z,"18 km NW of Stanley, Idaho",earthquake,0.55,1.62,0.191,12.0,reviewed,mb,mb
+2022-03-23T09:43:38.370Z,44.27,-115.1921667,9.83,1.98,ml,14.0,68.0,0.836,0.26,mb,mb80541254,2022-03-23T14:35:50.900Z,"21 km WNW of Stanley, Idaho",earthquake,0.61,1.21,0.158,12.0,reviewed,mb,mb
