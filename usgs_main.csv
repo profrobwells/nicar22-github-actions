@@ -5145,3 +5145,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-23T08:57:24.646Z,38.4976,-118.3241,2.3,1.9,ml,16.0,98.27,0.284,0.3548,nn,nn00835824,2022-03-23T09:01:09.136Z,"22 km WNW of Mina, Nevada",earthquake,,2.0,0.18,9.0,automatic,nn,nn
 2022-03-23T09:26:56.747Z,64.6363,-146.8458,8.5,1.6,ml,,,,0.61,ak,ak0223rrl19u,2022-03-23T09:31:48.038Z,"10 km ESE of Eielson Air Force Base, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-23T09:21:42.419Z,62.1483,-149.5828,75.4,1.7,ml,,,,0.94,ak,ak0223rrjy8y,2022-03-23T09:24:16.184Z,"14 km E of Susitna North, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-03-23T09:38:11.880Z,35.7613333,-118.0121667,5.26,0.67,ml,10.0,139.0,0.1181,0.2,ci,ci39975095,2022-03-23T09:41:52.989Z,"22km SSW of Little Lake, CA",earthquake,0.58,11.33,0.024,6.0,automatic,ci,ci
+2022-03-23T09:32:24.770Z,38.7965012,-122.7375031,1.88,0.74,md,17.0,100.0,0.01326,0.02,nc,nc73709211,2022-03-23T09:34:00.427Z,"3km NE of The Geysers, CA",earthquake,0.28,0.64,0.14,4.0,automatic,nc,nc
