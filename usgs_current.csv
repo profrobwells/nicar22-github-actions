@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-23T05:52:52.820Z,33.4421667,-116.5763333,12.03,0.62,ml,23,56,0.05757,0.11,ci,ci39975047,2022-03-23T05:56:17.131Z,"16km SE of Anza, CA",earthquake,0.22,0.47,0.206,9,automatic,ci,ci
 2022-03-23T05:13:42.710Z,38.7891655,-122.7596664,1.87,0.36,md,9,135,0.01144,0.02,nc,nc73709141,2022-03-23T05:15:18.820Z,"1km NNW of The Geysers, CA",earthquake,0.54,0.79,,1,automatic,nc,nc
 2022-03-23T05:08:03.690Z,38.7895012,-122.7606659,1.52,0.36,md,8,104,0.01113,0,nc,nc73709136,2022-03-23T05:09:38.999Z,"1km NNW of The Geysers, CA",earthquake,0.36,0.8,,1,automatic,nc,nc
 2022-03-23T05:03:44.705Z,61.5077,-145.868,14.7,1.9,ml,,,,0.9,ak,ak0223rp2d46,2022-03-23T05:05:45.359Z,"40 km WSW of Tonsina, Alaska",earthquake,,0.1,,,automatic,ak,ak
@@ -55,7 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-22T23:36:20.380Z,38.8258324,-122.8010025,3.2,0.35,md,7,99,0.007492,0.01,nc,nc73709046,2022-03-22T23:53:22.607Z,"7km NW of The Geysers, CA",earthquake,0.57,2.91,,1,automatic,nc,nc
 2022-03-22T23:28:52.843Z,63.0817,-150.5866,102.5,1.8,ml,,,,0.25,ak,ak0223qce6ti,2022-03-22T23:31:02.445Z,"65 km N of Petersville, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2022-03-22T23:24:00.980Z,38.7956667,-122.7626667,3.36,0.2,md,20,70,0.005463,0.02,nc,nc73709041,2022-03-23T04:17:25.306Z,"2km NNW of The Geysers, CA",earthquake,0.34,0.71,0.219,3,reviewed,nc,nc
-2022-03-22T23:21:37.590Z,36.4518333,-121.0363333,0.39,2.14,md,55,43,0.01778,0.18,nc,nc73709036,2022-03-23T05:18:11.654Z,"13km SE of Pinnacles, CA",earthquake,0.19,0.26,0.283,53,reviewed,nc,nc
+2022-03-22T23:21:37.590Z,36.4518333,-121.0363333,0.39,2.14,md,55,43,0.01778,0.18,nc,nc73709036,2022-03-23T05:54:15.012Z,"13km SE of Pinnacles, CA",earthquake,0.19,0.26,0.283,53,reviewed,nc,nc
 2022-03-22T23:09:22.090Z,35.047,-117.6646667,-0.78,1.94,ml,26,69,0.1153,0.13,ci,ci39974839,2022-03-23T00:30:43.101Z,"6km NNW of Boron, CA",quarry blast,0.29,31.61,0.151,28,reviewed,ci,ci
 2022-03-22T23:09:10.060Z,19.1611671447754,-155.470504760742,35.8699989318848,2.00999999,md,31,100,,0.100000001,hv,hv72959472,2022-03-22T23:12:28.980Z,"4 km S of Pāhala, Hawaii",earthquake,0.86,1.50999999,1.57000005,10,automatic,hv,hv
 2022-03-22T23:07:30.900Z,34.4431667,-117.9223333,11.64,0.73,ml,11,57,0.02794,0.13,ci,ci39974831,2022-03-23T00:27:12.941Z,"7km S of Pearblossom, CA",earthquake,0.34,0.54,0.097,11,reviewed,ci,ci
@@ -241,7 +242,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-22T10:42:25.610Z,33.8833333,-117.868,7.71,1.12,ml,43,53,0.03104,0.2,ci,ci39974159,2022-03-22T17:57:33.320Z,"1km N of Placentia, CA",earthquake,0.26,0.39,0.128,23,reviewed,ci,ci
 2022-03-22T10:39:12.069Z,38.5283,-119.4883,10.6,1,ml,15,114.25,0.046,0.1229,nn,nn00835811,2022-03-23T02:38:41.861Z,"California-Nevada border region",earthquake,,1.2,0.1,3,reviewed,nn,nn
 2022-03-22T10:35:57.640Z,44.4791667,-115.2253333,5.68,1.77,ml,7,137,0.821,0.22,mb,mb80541179,2022-03-22T14:18:31.810Z,"36 km NW of Stanley, Idaho",earthquake,0.77,1.63,0.302,9,reviewed,mb,mb
-2022-03-22T10:33:38.430Z,34.0498333,-117.5645,7.4,3.28,ml,198,18,0.03922,0.24,ci,ci39974135,2022-03-23T05:03:28.414Z,"6km E of Ontario, CA",earthquake,0.1,0.24,0.229,49,reviewed,ci,ci
+2022-03-22T10:33:38.430Z,34.0498333,-117.5645,7.4,3.28,ml,198,18,0.03922,0.24,ci,ci39974135,2022-03-23T05:49:27.660Z,"6km E of Ontario, CA",earthquake,0.1,0.24,0.229,49,reviewed,ci,ci
 2022-03-22T10:31:41.040Z,35.8005,-117.6296667,6.61,1.23,ml,28,78,0.03024,0.12,ci,ci39974119,2022-03-22T19:07:56.868Z,"20km NNE of Ridgecrest, CA",earthquake,0.15,0.32,0.121,10,reviewed,ci,ci
 2022-03-22T10:23:24.973Z,39.2202,-120.0832,8,-0.1,ml,7,137.69,0.036,0.0826,nn,nn00835809,2022-03-23T02:38:37.188Z,"0 km S of Carnelian Bay, California",earthquake,,1.5,0.46,4,reviewed,nn,nn
 2022-03-22T10:11:10.780Z,17.9771666666667,-66.9873333333333,10.94,1.88,md,3,171,,0.02,pr,pr71341303,2022-03-22T10:19:39.920Z,"6 km E of La Parguera, Puerto Rico",earthquake,2.06,0.76,0.0442530271338639,3,reviewed,pr,pr
