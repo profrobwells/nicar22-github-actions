@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-23T06:39:21.620Z,38.8370018,-122.8075027,2.39,0.85,md,13,58,0.01347,0.01,nc,nc73709166,2022-03-23T06:40:58.688Z,"8km WNW of Cobb, CA",earthquake,0.32,0.91,,1,automatic,nc,nc
+2022-03-23T06:39:21.620Z,38.8370018,-122.8075027,2.39,0.85,md,13,58,0.01347,0.01,nc,nc73709166,2022-03-23T06:55:14.375Z,"8km WNW of Cobb, CA",earthquake,0.32,0.91,,1,automatic,nc,nc
 2022-03-23T05:59:13.884Z,63.5342,-149.0226,66.8,2.1,ml,,,,1.56,ak,ak0223rpeatq,2022-03-23T06:02:36.686Z,"16 km NNW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-03-23T05:58:48.220Z,17.9518333333333,-66.949,10.21,2.75,md,26,182,,0.15,pr,pr71341563,2022-03-23T06:26:07.320Z,"4 km WSW of Guánica, Puerto Rico",earthquake,0.38,0.42,0.17794218339425,13,reviewed,pr,pr
 2022-03-23T05:55:08.150Z,33.7423333,-118.2055,14.69,1.51,ml,19,222,0.0482,0.27,ci,ci39975055,2022-03-23T05:58:50.143Z,"8km SSW of Signal Hill, CA",earthquake,1.42,0.76,0.218,31,automatic,ci,ci
