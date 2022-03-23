@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-23T13:34:17.590Z,35.6698333,-117.517,4.21,1.06,ml,11,155,0.09438,0.12,ci,ci39975239,2022-03-23T13:37:51.266Z,"15km SW of Searles Valley, CA",earthquake,0.35,0.71,0.096,11,automatic,ci,ci
+2022-03-23T13:33:51.590Z,35.6098333,-117.4083333,7.16,0.95,ml,15,154,0.04969,0.16,ci,ci39975231,2022-03-23T13:37:50.222Z,"17km S of Trona, CA",earthquake,0.44,0.72,0.122,12,automatic,ci,ci
+2022-03-23T13:31:59.620Z,19.136833190918,-155.450164794922,31.5,1.91999996,md,31,178,,0.170000002,hv,hv72959962,2022-03-23T13:35:02.470Z,"7 km SSE of Pāhala, Hawaii",earthquake,0.84,1.09000003,0.49000001,5,automatic,hv,hv
+2022-03-23T13:26:09.810Z,17.9053333333333,-66.8716666666667,15.1,2.69,md,15,199,,0.13,pr,pr71341618,2022-03-23T13:41:49.480Z,"8 km SSE of Guánica, Puerto Rico",earthquake,0.59,0.43,0.167883845829418,10,reviewed,pr,pr
 2022-03-23T13:21:21.770Z,33.4855,-116.5556667,9.73,0.57,ml,12,123,0.04052,0.19,ci,ci39975207,2022-03-23T13:24:54.640Z,"13km SE of Anza, CA",earthquake,0.63,1.49,0.189,7,automatic,ci,ci
 2022-03-23T13:09:32.703Z,62.262,-150.6465,12.8,1.8,ml,,,,0.53,ak,ak0223rtv3bq,2022-03-23T13:12:04.896Z,"22 km WSW of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-23T13:07:23.860Z,33.685,-116.7028333,14.45,0.75,ml,14,111,0.02776,0.11,ci,ci39975191,2022-03-23T13:11:02.998Z,"6km SSE of Idyllwild, CA",earthquake,0.36,0.45,0.196,11,automatic,ci,ci
