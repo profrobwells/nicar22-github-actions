@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-23T07:53:55.740Z,32.6403333,-115.5891667,1.07,1.43,ml,13,103,0.1161,0.28,ci,ci39975079,2022-03-23T07:57:31.944Z,"7km N of Progreso, B.C., MX",earthquake,0.86,31.61,0.208,19,automatic,ci,ci
+2022-03-23T07:49:54.620Z,38.7988319,-122.7501678,1.9,0.21,md,8,98,0.00767,0.01,nc,nc73709186,2022-03-23T07:51:29.388Z,"2km NNE of The Geysers, CA",earthquake,0.35,0.73,0.16,2,automatic,nc,nc
+2022-03-23T07:39:14.960Z,17.9636666666667,-67.0016666666667,13.11,2.14,md,12,195,,0.23,pr,pr71341578,2022-03-23T07:57:43.460Z,"4 km ESE of La Parguera, Puerto Rico",earthquake,0.89,0.47,0.127037739164293,5,reviewed,pr,pr
 2022-03-23T07:38:58.650Z,33.5563333,-116.6203333,9.71,1.2,ml,43,40,0.007621,0.15,ci,ci39975063,2022-03-23T07:50:11.800Z,"5km E of Anza, CA",earthquake,0.16,0.31,0.214,26,automatic,ci,ci
 2022-03-23T07:21:59.195Z,36.31862259,-98.13358307,2.749819756,2.14,ml,38,65.59526062,0.2217802256,0.5884812585,ok,ok2022fsoi,2022-03-23T07:25:44.741Z,"8 km SSE of Meno, Oklahoma",earthquake,2.041297076,1.564282909,,30,automatic,ok,ok
 2022-03-23T07:17:09.910Z,19.320499420166,-155.112503051758,5.40999984741211,2.24,ml,39,158,,0.180000007,hv,hv72959742,2022-03-23T07:22:39.470Z,"16 km S of Fern Forest, Hawaii",earthquake,0.54,0.790000021,3.2,8,automatic,hv,hv
@@ -47,7 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-23T02:19:45.650Z,35.9151667,-117.7055,8.89,0.77,ml,16,62,0.05539,0.14,ci,ci39974991,2022-03-23T02:23:27.249Z,"18km E of Little Lake, CA",earthquake,0.37,0.67,0.16,10,automatic,ci,ci
 2022-03-23T02:18:15.130Z,17.8485,-66.863,6.58,1.54,md,4,254,,0.12,pr,pr71341518,2022-03-23T03:59:03.900Z,"14 km SSE of Guánica, Puerto Rico",earthquake,1.09,0.46,0.0877505116895372,4,reviewed,pr,pr
 2022-03-23T01:59:58.791Z,61.8781,-151.1067,64.1,1.9,ml,,,,0.67,ak,ak0223rn0nvy,2022-03-23T02:27:53.031Z,"19 km SE of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-03-23T01:58:44.790Z,34.2956667,-118.4243333,4.17,2.6,ml,63,42,0.04748,0.25,ci,ci39974975,2022-03-23T05:22:37.695Z,"2km NE of San Fernando, CA",earthquake,0.24,0.8,0.195,27,automatic,ci,ci
+2022-03-23T01:58:44.790Z,34.2956667,-118.4243333,4.17,2.6,ml,63,42,0.04748,0.25,ci,ci39974975,2022-03-23T08:01:34.921Z,"2km NE of San Fernando, CA",earthquake,0.24,0.8,0.195,27,automatic,ci,ci
 2022-03-23T01:55:54.199Z,23.385,121.5934,10,4.5,mb,,98,0.272,0.77,us,us6000h6v1,2022-03-23T05:27:33.118Z,"65 km S of Hualien City, Taiwan",earthquake,2.5,1.5,0.135,16,reviewed,us,us
 2022-03-23T01:54:31.081Z,-14.1429,-14.2239,10,5.1,mb,,53,6.173,0.56,us,us6000h6v0,2022-03-23T02:16:03.040Z,"southern Mid-Atlantic Ridge",earthquake,8.6,1.8,0.058,98,reviewed,us,us
 2022-03-23T01:41:58.980Z,17.9681666666667,-66.9615,10.8,2.46,md,14,187,,0.19,pr,pr71341513,2022-03-23T03:20:54.280Z,"5 km WSW of Fuig, Puerto Rico",earthquake,0.49,0.72,0.170535164758914,8,reviewed,pr,pr
@@ -286,5 +289,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-22T08:20:39.660Z,38.7919998,-122.7344971,2.12,1.19,md,9,162,0.008922,0.01,nc,nc73708676,2022-03-22T09:49:12.373Z,"2km NE of The Geysers, CA",earthquake,0.51,0.87,,1,automatic,nc,nc
 2022-03-22T08:16:59.366Z,39.2381,-120.0878,7.8,0,ml,8,91.55,0.043,0.1149,nn,nn00835804,2022-03-23T02:38:29.962Z,"1 km NNW of Carnelian Bay, California",earthquake,,1.4,0.67,4,reviewed,nn,nn
 2022-03-22T08:14:04.490Z,43.7245,-121.24416666666667,0.86,0.2,ml,5,208,0.01572,0.07,uw,uw61815122,2022-03-22T17:47:47.220Z,"21 km ESE of Three Rivers, Oregon",earthquake,0.87,0.94,0.13561756880260878,3,reviewed,uw,uw
-2022-03-22T08:07:16.900Z,19.1396675109863,-155.452163696289,29.1499996185303,2.04,ml,48,168,,0.140000001,hv,hv72958827,2022-03-22T08:12:49.060Z,"7 km SSE of Pāhala, Hawaii",earthquake,0.5,0.769999981,4.24,6,automatic,hv,hv
-2022-03-22T08:06:55.240Z,46.9066667,-112.6596667,11.74,1.64,ml,23,73,0.005,0.26,mb,mb80541174,2022-03-22T14:10:45.340Z,"5 km SSE of Lincoln, Montana",earthquake,0.4,0.6,0.339,6,reviewed,mb,mb
