@@ -5494,3 +5494,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-24T13:33:49.630Z,38.7948341,-122.765831,1.46,0.85,md,9.0,79.0,0.007503,0.02,nc,nc73709766,2022-03-24T13:35:24.037Z,"2km NNW of The Geysers, CA",earthquake,0.37,0.85,,1.0,automatic,nc,nc
 2022-03-24T13:12:09.928Z,31.6409,-104.3181,6.92,2.7,ml,,109.0,0.158,0.26,us,us7000gwvp,2022-03-24T13:39:05.040Z,"59 km S of Whites City, New Mexico",earthquake,1.1,5.4,0.115,50.0,reviewed,us,us
 2022-03-23T19:54:48.670Z,34.37,-96.79083333,0.0,1.94,ml,36.0,88.0,0.1799646848,0.42,ok,ok2022ftne,2022-03-24T13:41:43.517Z,"5 km SE of Mill Creek, Oklahoma",quarry blast,,0.6,0.15,7.0,reviewed,ok,ok
+2022-03-24T14:08:59.410Z,38.8195,-122.8040009,2.96,0.74,md,22.0,52.0,0.006135,0.02,nc,nc73709791,2022-03-24T14:10:33.563Z,"6km NW of The Geysers, CA",earthquake,0.26,0.71,0.1,2.0,automatic,nc,nc
+2022-03-24T14:03:45.307Z,38.1686,-117.7977,12.1,1.1,ml,9.0,157.61,0.116,0.0568,nn,nn00835925,2022-03-24T14:07:48.299Z,"36 km SE of Mina, Nevada",earthquake,,1.0,0.3,4.0,automatic,nn,nn
+2022-03-24T13:40:32.640Z,45.3948333,-111.8028333,4.19,1.12,ml,16.0,101.0,0.233,0.15,mb,mb80541344,2022-03-24T13:56:54.680Z,"7 km NW of Ennis, Montana",earthquake,0.31,1.51,0.12,8.0,reviewed,mb,mb
+2022-03-24T08:36:07.550Z,44.2635,-115.1996667,16.91,1.9,ml,10.0,84.0,0.842,0.22,mb,mb80541339,2022-03-24T14:03:31.760Z,"21 km WNW of Stanley, Idaho",earthquake,0.6,1.36,0.103,10.0,reviewed,mb,mb
