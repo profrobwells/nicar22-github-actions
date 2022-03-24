@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-24T08:52:32.140Z,35.6716652,-117.4786682,3.24,1.2,ml,21,105,0.08603,0.14,ci,ci39976455,2022-03-24T08:54:56.506Z,"13km SSW of Searles Valley, CA",earthquake,0.34,0.74,0.075,4,automatic,ci,ci
 2022-03-24T08:09:32.988Z,-15.2037,167.5063,133.21,4.6,mb,,119,0.379,0.47,us,us7000gwt1,2022-03-24T08:26:09.040Z,"49 km ESE of Port-Olry, Vanuatu",earthquake,11.6,6.5,0.137,16,reviewed,us,us
+2022-03-24T07:49:59.720Z,17.819,-66.8766666666667,7.73,2.08,md,26,233,,0.18,pr,pr71341748,2022-03-24T08:53:00.920Z,"17 km S of Guánica, Puerto Rico",earthquake,0.82,1.52,0.198745234644406,11,reviewed,pr,pr
 2022-03-24T07:36:54.630Z,17.9226666666667,-66.9121666666667,12.71,2.4,md,4,224,,0.11,pr,pr71341738,2022-03-24T08:25:35.460Z,"5 km S of Guánica, Puerto Rico",earthquake,2.56,0.88,0.045199778204156,3,reviewed,pr,pr
 2022-03-24T07:28:30.967Z,-24.5374,179.1712,534.35,4.5,mb,,102,5.374,1.03,us,us7000gwsr,2022-03-24T07:49:38.040Z,"south of the Fiji Islands",earthquake,12.3,8.6,0.077,49,reviewed,us,us
 2022-03-24T07:25:08.550Z,19.2151660919189,-155.463333129883,34.9500007629395,1.95000005,md,33,136,,0.109999999,hv,hv72960677,2022-03-24T07:28:43.140Z,"2 km NE of Pāhala, Hawaii",earthquake,0.5,0.689999998,0.75,8,automatic,hv,hv
@@ -236,5 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-23T09:13:13.100Z,19.1298332214355,-155.381164550781,31.3400001525879,1.99000001,md,42,186,,0.109999999,hv,hv72959812,2022-03-23T09:16:23.920Z,"13 km SE of Pāhala, Hawaii",earthquake,0.64,0.920000017,0.860000014,16,automatic,hv,hv
 2022-03-23T09:12:44.153Z,38.4907,-118.3314,0,0.9,ml,13,95.52,0.055,0.1113,nn,nn00835827,2022-03-23T16:28:17.690Z,"22 km WNW of Mina, Nevada",earthquake,,0,0.23,3,reviewed,nn,nn
 2022-03-23T08:57:24.994Z,38.4941,-118.3286,0,2,ml,20,90.8,0.056,0.1694,nn,nn00835824,2022-03-23T16:18:57.141Z,"22 km WNW of Mina, Nevada",earthquake,,3.1,0.29,9,reviewed,nn,nn
-2022-03-23T08:53:16.620Z,36.2343333,-89.4191667,7.95,1.25,md,12,62,0.004242,0.03,nm,nm60378172,2022-03-23T17:40:03.020Z,"6 km ESE of Ridgely, Tennessee",earthquake,0.32,0.86,0.077,10,reviewed,nm,nm
-2022-03-23T08:50:08.770Z,19.234167098999,-155.431838989258,27.8400001525879,1.74000001,md,12,195,,0.0900000036,hv,hv72959797,2022-03-23T08:53:18.580Z,"6 km NE of Pāhala, Hawaii",earthquake,1,1.55999994,0.689999998,3,automatic,hv,hv
