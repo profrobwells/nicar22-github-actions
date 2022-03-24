@@ -5637,3 +5637,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-24T05:25:05.985Z,42.0019,-119.6129,3.7,1.2,ml,6.0,153.22,0.523,0.2034,nn,nn00835972,2022-03-24T22:31:05.991Z,"47 km ENE of Fort Bidwell, California",earthquake,,3.5,0.71,2.0,reviewed,nn,nn
 2022-03-24T05:16:04.035Z,41.9612,-119.5665,3.6,2.3,ml,6.0,227.58,0.551,0.1897,nn,nn00835971,2022-03-24T22:27:58.245Z,"49 km ENE of Fort Bidwell, California",earthquake,,3.7,0.67,4.0,reviewed,nn,nn
 2022-03-24T02:36:47.810Z,59.9968333333333,-153.077833333333,2.21,-0.65,ml,4.0,118.0,,0.04,av,av91520706,2022-03-24T22:29:23.310Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.35,1.2,0.177873616939972,4.0,reviewed,av,av
+2022-03-24T06:57:13.428Z,41.9764,-119.681,4.2,1.2,ml,4.0,305.4,0.469,0.0137,nn,nn00835977,2022-03-24T22:46:42.429Z,"41 km ENE of Fort Bidwell, California",earthquake,,6.5,1.08,3.0,reviewed,nn,nn
+2022-03-24T06:55:59.684Z,41.9727,-119.5782,1.7,1.7,ml,5.0,153.73,0.544,0.1498,nn,nn00835974,2022-03-24T22:43:35.252Z,"49 km ENE of Fort Bidwell, California",earthquake,,3.1,0.7,4.0,reviewed,nn,nn
+2022-03-24T02:06:35.860Z,51.8786666666667,-177.9335,3.68,-0.05,ml,4.0,188.0,,0.15,av,av91052713,2022-03-24T22:47:19.660Z,"89 km W of Adak, Alaska",earthquake,0.62,0.48,0.0609471050587804,4.0,reviewed,av,av
