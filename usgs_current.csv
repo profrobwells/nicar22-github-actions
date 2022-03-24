@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-03-24T07:25:08.550Z,19.2151660919189,-155.463333129883,34.9500007629395,1.95000005,md,33,136,,0.109999999,hv,hv72960677,2022-03-24T07:28:43.140Z,"2 km NE of Pāhala, Hawaii",earthquake,0.5,0.689999998,0.75,8,automatic,hv,hv
-2022-03-24T07:22:25.420Z,34.1285,-118.61,2.92,1.75,ml,33,56,0.04554,0.27,ci,ci39976447,2022-03-24T07:26:18.573Z,"4km SE of Calabasas, CA",earthquake,0.37,0.56,0.184,25,automatic,ci,ci
-2022-03-24T07:08:38.769Z,31.97296143,-102.3464891,8.290161133,2.9,ml,19,54,0.02665547944,0.1,tx,tx2022fujk,2022-03-24T07:28:41.798Z,"6 km SSE of Gardendale, Texas",earthquake,1.273832375,0.6780025678000001,0.2,8,reviewed,tx,tx
+2022-03-24T07:22:25.420Z,34.1285,-118.61,2.92,1.75,ml,33,56,0.04554,0.27,ci,ci39976447,2022-03-24T07:38:36.438Z,"4km SE of Calabasas, CA",earthquake,0.37,0.56,0.184,25,automatic,ci,ci
+2022-03-24T07:08:38.769Z,31.97296143,-102.3464891,8.290161133,2.9,ml,19,54,0.02665547944,0.1,tx,tx2022fujk,2022-03-24T07:37:20.244Z,"6 km SSE of Gardendale, Texas",earthquake,1.273832375,0.6780025678000001,0.2,8,reviewed,tx,tx
 2022-03-24T07:03:03.449Z,36.1483,139.3103,115.36,4.5,mb,,123,0.972,1.1,us,us7000gwsk,2022-03-24T07:18:58.040Z,"6 km SSE of Fukayachō, Japan",earthquake,5.6,7.2,0.11,24,reviewed,us,us
 2022-03-24T06:54:20.810Z,38.8434982,-122.8381653,1.7,1.53,md,30,93,0.00533,0.03,nc,nc73709541,2022-03-24T07:15:13.350Z,"10km NW of The Geysers, CA",earthquake,0.18,0.31,0.09,7,automatic,nc,nc
 2022-03-24T06:47:56.130Z,38.8363342,-122.7894974,2.01,0.97,md,13,76,0.002175,0.01,nc,nc73709536,2022-03-24T07:04:12.281Z,"6km WNW of Cobb, CA",earthquake,0.33,0.55,0.28,2,automatic,nc,nc
@@ -245,5 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-23T07:49:54.620Z,38.7988319,-122.7501678,1.9,0.21,md,8,98,0.00767,0.01,nc,nc73709186,2022-03-23T07:51:29.388Z,"2km NNE of The Geysers, CA",earthquake,0.35,0.73,0.16,2,automatic,nc,nc
 2022-03-23T07:47:38.890Z,17.9795,-67.0036666666667,12.97,1.82,md,6,164,,0.08,pr,pr71341583,2022-03-23T08:40:12.790Z,"Puerto Rico region",earthquake,0.83,0.62,0.077141768940431,3,reviewed,pr,pr
 2022-03-23T07:43:20.660Z,44.1236667,-115.0908333,5.91,1.79,ml,10,80,0.745,0.19,mb,mb80541249,2022-03-23T14:44:07.150Z,"16 km SW of Stanley, Idaho",earthquake,0.42,1.37,0.231,9,reviewed,mb,mb
-2022-03-23T07:39:14.960Z,17.9636666666667,-67.0016666666667,13.11,2.14,md,12,195,,0.23,pr,pr71341578,2022-03-23T07:57:43.460Z,"4 km ESE of La Parguera, Puerto Rico",earthquake,0.89,0.47,0.127037739164293,5,reviewed,pr,pr
-2022-03-23T07:38:58.600Z,33.5521667,-116.6233333,10.06,1.17,ml,58,36,0.008717,0.17,ci,ci39975063,2022-03-23T17:19:49.050Z,"5km E of Anza, CA",earthquake,0.13,0.23,0.208,29,reviewed,ci,ci
