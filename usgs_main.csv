@@ -5442,3 +5442,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-24T10:26:36.430Z,38.838501,-122.8078308,2.05,0.71,md,13.0,61.0,0.01366,0.02,nc,nc73709581,2022-03-24T10:28:13.017Z,"8km WNW of Cobb, CA",earthquake,0.29,0.6,0.14,2.0,automatic,nc,nc
 2022-03-24T10:13:52.490Z,33.0125,-116.3595,7.17,0.81,ml,20.0,70.0,0.07456,0.2,ci,ci39976495,2022-03-24T10:17:20.079Z,"24km ESE of Julian, CA",earthquake,0.34,0.79,0.173,12.0,automatic,ci,ci
 2022-03-24T10:11:50.740Z,32.6685,-117.1266667,8.14,0.89,ml,9.0,257.0,0.1692,0.17,ci,ci39976487,2022-03-24T10:15:33.207Z,"3km WSW of National City, CA",earthquake,0.88,2.41,0.097,5.0,automatic,ci,ci
+2022-03-24T10:43:26.260Z,17.9363333333333,-66.9538333333333,12.88,2.55,md,8.0,223.0,,0.21,pr,pr71341773,2022-03-24T11:05:56.670Z,"6 km SW of Guánica, Puerto Rico",earthquake,1.19,0.56,0.024337471495318,4.0,reviewed,pr,pr
