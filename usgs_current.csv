@@ -1,12 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-25T20:36:19.500Z,40.2281685,-121.1083298,4.09,2.29,md,7,106,0.2994,0.08,nc,nc73710341,2022-03-25T20:37:57.830Z,"3km WSW of East Shore, CA",earthquake,0.58,3.67,0.09,4,automatic,nc,nc
+2022-03-25T20:36:19.500Z,40.2281685,-121.1083298,4.09,2.29,md,7,106,0.2994,0.08,nc,nc73710341,2022-03-25T20:43:10.847Z,"3km WSW of East Shore, CA",earthquake,0.58,3.67,0.09,4,automatic,nc,nc
 2022-03-25T20:28:11.040Z,19.2858333587646,-155.413330078125,32.560001373291,1.90999997,md,30,109,,0.140000001,hv,hv72962007,2022-03-25T20:31:27.110Z,"11 km NE of Pāhala, Hawaii",earthquake,0.67,1.04999995,1.14999998,11,automatic,hv,hv
-2022-03-25T20:25:04.180Z,38.8320007,-122.8069992,2.17,1.14,md,26,45,0.008922,0.02,nc,nc73710321,2022-03-25T20:34:10.686Z,"7km W of Cobb, CA",earthquake,0.2,0.38,0.26,5,automatic,nc,nc
+2022-03-25T20:25:04.180Z,38.8320007,-122.8069992,2.17,1.14,md,26,45,0.008922,0.02,nc,nc73710321,2022-03-25T20:42:14.734Z,"7km W of Cobb, CA",earthquake,0.2,0.38,0.26,5,automatic,nc,nc
 2022-03-25T20:10:13.670Z,39.1576653,-122.2858353,0.61,2.29,md,7,204,0.2907,0.07,nc,nc73710311,2022-03-25T20:17:11.579Z,"12km W of Williams, CA",earthquake,1.35,9.31,0.1,7,automatic,nc,nc
 2022-03-25T19:50:05.820Z,17.9003333333333,-66.9228333333333,11.08,2.17,md,4,272,,0.08,pr,pr71342018,2022-03-25T20:21:35.970Z,"8 km SSW of Guánica, Puerto Rico",earthquake,0.81,1.19,0.0516435835395268,2,reviewed,pr,pr
 2022-03-25T19:50:00.560Z,38.4207,-118.9124,3.6,0.9,ml,14,163.85,0.362,0.1614,nn,nn00836028,2022-03-25T20:22:42.342Z,"27 km WSW of Hawthorne, Nevada",earthquake,,5.7,0.35,3,reviewed,nn,nn
-2022-03-25T19:34:01.936Z,8.7831,-82.7762,10,4.4,mb,,136,0.088,1.05,us,us7000gxd2,2022-03-25T20:38:54.487Z,"5 km ESE of Monte Lirio, Panama",earthquake,5.8,1.9,0.115,22,reviewed,us,us
-2022-03-25T19:29:54.780Z,38.833,-122.8051667,2.06,1.92,md,53,32,0.01033,0.02,nc,nc73710291,2022-03-25T20:36:00.450Z,"7km W of Cobb, CA",earthquake,0.11,0.21,0.096,4,reviewed,nc,nc
+2022-03-25T19:34:01.936Z,8.7831,-82.7762,10,4.4,mb,,136,0.088,1.05,us,us7000gxd2,2022-03-25T20:44:08.638Z,"5 km ESE of Monte Lirio, Panama",earthquake,5.8,1.9,0.115,22,reviewed,us,us
+2022-03-25T19:29:59.900Z,38.8341667,-122.8051667,2.24,1.72,md,31,53,0.01142,0.03,nc,nc71127519,2022-03-25T20:49:03.971Z,"7km W of Cobb, CA",earthquake,0.18,0.34,0.034,4,reviewed,nc,nc
+2022-03-25T19:29:54.780Z,38.833,-122.8051667,2.06,1.92,md,53,32,0.01033,0.02,nc,nc73710291,2022-03-25T20:43:11.133Z,"7km W of Cobb, CA",earthquake,0.11,0.21,0.096,4,reviewed,nc,nc
 2022-03-25T19:29:28.400Z,33.6888333,-117.0911667,1.17,0.87,ml,13,115,0.07207,0.19,ci,ci39978263,2022-03-25T19:33:10.422Z,"2km SSW of Winchester, CA",earthquake,0.53,0.78,0.111,17,automatic,ci,ci
 2022-03-25T19:25:01.512Z,57.7799,-156.3651,134.5,1.9,ml,,,,0.43,ak,ak0223v8lqzr,2022-03-25T19:27:18.608Z,"68 km ENE of Ugashik, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-03-25T19:20:25.220Z,17.9586666666667,-66.9735,14.69,1.96,md,5,201,,0.12,pr,pr71342013,2022-03-25T19:34:35.390Z,"6 km WSW of Fuig, Puerto Rico",earthquake,0.92,1.16,0.115193961115132,2,reviewed,pr,pr
@@ -118,9 +119,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-25T07:55:40.496Z,61.3691,-147.3177,19.6,1.9,ml,,,,0.79,ak,ak0223v1n280,2022-03-25T07:58:13.745Z,"52 km SSE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-25T07:47:16.100Z,37.5706667,-118.4901667,10.24,1.61,md,23,103,0.1038,0.05,nc,nc73710126,2022-03-25T20:10:17.116Z,"17km E of Toms Place, CA",earthquake,0.42,0.85,0.174,21,reviewed,nc,nc
 2022-03-25T07:45:37.350Z,38.7608337,-122.7401657,3.19,0.86,md,18,98,0.008787,0.03,nc,nc73710121,2022-03-25T08:28:12.379Z,"2km SE of The Geysers, CA",earthquake,0.29,0.54,0.24,5,automatic,nc,nc
-2022-03-25T07:38:49.770Z,33.0561667,-116.4671667,14.66,1.02,ml,29,62,0.1122,0.24,ci,ci39977655,2022-03-25T07:42:28.007Z,"13km E of Julian, CA",earthquake,0.38,0.78,0.183,25,automatic,ci,ci
+2022-03-25T07:38:49.770Z,33.0561667,-116.4671667,14.66,1.02,ml,29,62,0.1122,0.24,ci,ci39977655,2022-03-25T20:51:59.060Z,"13km E of Julian, CA",earthquake,0.38,0.78,0.183,25,automatic,ci,ci
 2022-03-25T07:37:18.530Z,40.443,-124.263,25.86,2.32,md,23,98,0.06549,0.06,nc,nc73710116,2022-03-25T11:02:15.319Z,"13km N of Petrolia, CA",earthquake,0.31,0.46,0.374,26,reviewed,nc,nc
-2022-03-25T07:37:15.820Z,36.4291667,-117.9271667,1.16,1.68,ml,19,122,0.1238,0.21,ci,ci39977647,2022-03-25T07:40:53.961Z,"18km NNE of Olancha, CA",earthquake,0.41,1.12,0.191,17,automatic,ci,ci
+2022-03-25T07:37:15.870Z,36.4295,-117.9236667,3.83,1.68,ml,32,50,0.1266,0.17,ci,ci39977647,2022-03-25T20:47:16.070Z,"18km NNE of Olancha, CA",earthquake,0.19,0.68,0.182,17,reviewed,ci,ci
 2022-03-25T07:29:01.395Z,31.58851824,-104.5377352,6.362939453,2.6,ml,20,88,0.08619280376,0.3,tx,tx2022fwfp,2022-03-25T19:03:50.342Z,"66 km SSW of Whites City, New Mexico",earthquake,2.394337977,2.196152238,0.1,7,reviewed,tx,tx
 2022-03-25T07:29:00.994Z,31.59103555,-104.5689571,6.157275391,2.6,ml,19,84,0.09705279668,0.2,tx,tx2022fwfo,2022-03-25T18:14:54.756Z,"65 km NNE of Van Horn, Texas",earthquake,1.577340861,2.619404313,0.1,6,reviewed,tx,tx
 2022-03-25T07:18:32.480Z,36.0183333,-117.8143333,1.62,1.45,ml,24,71,0.03604,0.12,ci,ci39977639,2022-03-25T20:38:11.817Z,"12km NE of Little Lake, CA",earthquake,0.14,0.19,0.144,14,reviewed,ci,ci
@@ -254,6 +255,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-24T21:09:12.583Z,57.4031,-155.2844,70.6,1.5,ml,,,,0.26,ak,ak0223tm5v1k,2022-03-24T21:21:06.995Z,"53 km WSW of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2022-03-24T21:06:37.561Z,14.1655,119.2236,10,4.8,mb,,75,8.784,0.96,us,us7000gwzu,2022-03-24T21:28:02.040Z,"94 km WNW of Cabra, Philippines",earthquake,7.8,1.8,0.055,102,reviewed,us,us
 2022-03-24T21:00:51.510Z,17.9503333333333,-67.1185,12.09,2.56,md,5,285,,0.1,pr,pr71341868,2022-03-24T21:31:13.160Z,"7 km ESE of Pole Ojea, Puerto Rico",earthquake,1.02,0.32,0.0402428230665755,2,reviewed,pr,pr
-2022-03-24T20:50:38.858Z,14.1863,119.374,10,4.6,mb,,110,8.993,0.73,us,us7000gwzn,2022-03-24T21:36:00.040Z,"80 km WNW of Cabra, Philippines",earthquake,9.7,1.9,0.065,75,reviewed,us,us
-2022-03-24T20:49:08.620Z,33.4598333,-116.584,11.45,0.37,ml,21,103,0.03796,0.11,ci,ci39977135,2022-03-24T21:31:28.691Z,"14km SE of Anza, CA",earthquake,0.2,0.37,0.186,10,reviewed,ci,ci
-2022-03-24T20:46:04.280Z,51.7851666666667,-178.854666666667,4.9,0.01,ml,5,210,,0.06,av,av91521851,2022-03-25T03:57:08.980Z,"153 km W of Adak, Alaska",earthquake,0.44,0.63,0.381277183809969,5,reviewed,av,av
