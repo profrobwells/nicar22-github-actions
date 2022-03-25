@@ -5790,3 +5790,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-25T11:07:04.349Z,63.0851,-151.4765,8.0,1.6,ml,,,,0.71,ak,ak0223v3qfhe,2022-03-25T11:10:04.436Z,"52 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-25T11:04:03.480Z,33.1441667,-116.3426667,9.98,0.61,ml,14.0,96.0,0.08873,0.19,ci,ci39977695,2022-03-25T11:07:30.422Z,"13km SSE of Borrego Springs, CA",earthquake,0.56,1.6,0.212,7.0,automatic,ci,ci
 2022-03-25T11:25:45.460Z,35.8311653,-117.668335,6.14,1.07,ml,17.0,61.0,0.05958,0.13,ci,ci39977711,2022-03-25T11:27:52.502Z,"23km N of Ridgecrest, CA",earthquake,0.3,0.88,0.205,3.0,automatic,ci,ci
+2022-03-25T11:31:02.663Z,38.5269,-119.4129,3.1,1.2,ml,9.0,75.91,0.03,0.1262,nn,nn00836009,2022-03-25T11:34:03.549Z,"5 km ENE of Walker, California",earthquake,,0.6,0.43,5.0,automatic,nn,nn
