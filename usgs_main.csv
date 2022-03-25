@@ -5745,3 +5745,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-25T06:22:08.430Z,34.1423333,-117.4581667,4.51,0.73,ml,22.0,123.0,0.1111,0.17,ci,ci39977599,2022-03-25T06:25:51.688Z,"5km N of Fontana, CA",earthquake,0.39,0.79,0.232,12.0,automatic,ci,ci
 2022-03-25T06:01:54.472Z,57.3941,-155.4321,70.8,2.4,ml,,,,0.64,ak,ak0223v0q6mt,2022-03-25T06:12:12.040Z,"61 km WSW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-25T04:55:24.165Z,54.1255,-162.9039,62.1,2.2,ml,,,,0.77,ak,ak0223uzuol3,2022-03-25T06:03:18.932Z,"87 km SSE of False Pass, Alaska",earthquake,,8.5,,,reviewed,ak,ak
+2022-03-25T06:36:48.660Z,19.1854991912842,-155.429504394531,33.9099998474121,2.03999996,md,23.0,168.0,,0.109999999,hv,hv72961462,2022-03-25T06:39:51.050Z,"5 km ESE of Pāhala, Hawaii",earthquake,0.81,1.24000001,0.300000012,5.0,automatic,hv,hv
+2022-03-25T06:35:45.000Z,38.8231659,-122.8529968,2.36,0.37,md,9.0,128.0,0.0206,0.02,nc,nc73710091,2022-03-25T06:37:18.973Z,"10km WNW of The Geysers, CA",earthquake,0.41,1.01,,1.0,automatic,nc,nc
+2022-03-25T06:33:17.972Z,63.0756,-151.4297,3.7,2.3,ml,,,,0.93,ak,ak0223v0wv4z,2022-03-25T06:44:59.615Z,"53 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-03-25T06:28:45.496Z,59.544,-152.6951,74.8,1.9,ml,,,,0.51,ak,ak0223v0vum2,2022-03-25T06:30:36.907Z,"48 km WNW of Nanwalek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-25T06:14:16.750Z,19.5834999084473,-157.436828613281,6.25,3.1,mh,20.0,325.0,,0.230000004,hv,hv72961452,2022-03-25T06:43:21.010Z,"147 km SSW of Lanai City, Hawaii",earthquake,13.79,16.6399994,,4.0,reviewed,hv,hv
