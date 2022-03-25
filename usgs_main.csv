@@ -5758,3 +5758,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-25T07:01:58.562Z,36.70046234,-97.67613983,5.102378845,1.8,ml,22.0,124.9377594,0.2107608467,0.8227479528,ok,ok2022fwer,2022-03-25T07:04:08.479Z,"10 km ESE of Jefferson, Oklahoma",earthquake,3.050334918,3.944778132,,18.0,automatic,ok,ok
 2022-03-25T06:57:03.291Z,15.6555,-96.6945,10.0,4.2,mb,,165.0,2.611,0.79,us,us7000gx62,2022-03-25T07:10:26.040Z,"17 km S of San Francisco Cozoaltepec, Mexico",earthquake,9.9,2.0,0.11,23.0,reviewed,us,us
 2022-03-25T06:49:54.200Z,17.9486666666667,-67.0758333333333,10.86,1.97,md,4.0,250.0,,0.19,pr,pr71341948,2022-03-25T07:00:56.260Z,"4 km SW of La Parguera, Puerto Rico",earthquake,1.82,0.69,0.0154983720467645,4.0,reviewed,pr,pr
+2022-03-25T06:21:12.810Z,37.6006667,-118.807,4.88,-0.14,md,5.0,270.0,0.02052,0.02,nc,nc73710086,2022-03-25T07:25:55.199Z,"12km WNW of Toms Place, CA",earthquake,1.29,31.61,0.093,5.0,reviewed,nc,nc
