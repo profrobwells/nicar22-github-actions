@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-25T08:24:38.362Z,63.6856,-147.4987,28.1,1.6,ml,,,,0.56,ak,ak0223v21ugs,2022-03-25T08:26:35.117Z,"70 km E of Denali Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-03-25T08:04:57.970Z,19.2215003967285,-155.373992919922,32.1599998474121,1.75,md,25,163,,0.109999999,hv,hv72961517,2022-03-25T08:08:04.810Z,"11 km E of Pāhala, Hawaii",earthquake,0.74,1.33000004,0.0799999982,5,automatic,hv,hv
 2022-03-25T07:55:40.496Z,61.3691,-147.3177,19.6,1.9,ml,,,,0.79,ak,ak0223v1n280,2022-03-25T07:58:13.745Z,"52 km SSE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-03-25T07:45:37.350Z,38.7608337,-122.7401657,3.19,0.86,md,18,98,0.008787,0.03,nc,nc73710121,2022-03-25T07:47:14.864Z,"2km SE of The Geysers, CA",earthquake,0.29,0.54,0.24,5,automatic,nc,nc
+2022-03-25T07:47:16.100Z,37.5706667,-118.4901667,10.24,1.61,md,23,103,0.1038,0.05,nc,nc73710126,2022-03-25T08:20:11.317Z,"17km E of Toms Place, CA",earthquake,0.42,0.85,0.174,21,reviewed,nc,nc
+2022-03-25T07:45:37.350Z,38.7608337,-122.7401657,3.19,0.86,md,18,98,0.008787,0.03,nc,nc73710121,2022-03-25T08:28:12.379Z,"2km SE of The Geysers, CA",earthquake,0.29,0.54,0.24,5,automatic,nc,nc
 2022-03-25T07:38:49.770Z,33.0561667,-116.4671667,14.66,1.02,ml,29,62,0.1122,0.24,ci,ci39977655,2022-03-25T07:42:28.007Z,"13km E of Julian, CA",earthquake,0.38,0.78,0.183,25,automatic,ci,ci
 2022-03-25T07:37:18.530Z,40.443,-124.263,25.86,2.32,md,23,98,0.06549,0.06,nc,nc73710116,2022-03-25T08:05:16.228Z,"13km N of Petrolia, CA",earthquake,0.31,0.46,0.374,26,reviewed,nc,nc
 2022-03-25T07:37:15.820Z,36.4291667,-117.9271667,1.16,1.68,ml,19,122,0.1238,0.21,ci,ci39977647,2022-03-25T07:40:53.961Z,"18km NNE of Olancha, CA",earthquake,0.41,1.12,0.191,17,automatic,ci,ci
@@ -294,4 +296,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-24T08:50:28.920Z,38.932,-111.4413333,5.84,1.52,md,6,110,0.1524,0.14,uu,uu60486857,2022-03-24T15:05:52.810Z,"16 km W of Emery, Utah",earthquake,0.76,31.61,0.239,5,reviewed,uu,uu
 2022-03-24T08:36:07.550Z,44.2635,-115.1996667,16.91,1.9,ml,10,84,0.842,0.22,mb,mb80541339,2022-03-24T14:03:31.760Z,"21 km WNW of Stanley, Idaho",earthquake,0.6,1.36,0.103,10,reviewed,mb,mb
 2022-03-24T08:35:20.710Z,38.918,-111.4411667,2.59,1.52,md,5,138,0.1385,0.09,uu,uu60486852,2022-03-24T15:02:45.490Z,"16 km W of Emery, Utah",earthquake,0.84,8.14,0.216,5,reviewed,uu,uu
-2022-03-24T08:20:15.510Z,43.737,-121.241,1.54,0.22,ml,7,151,0.008688,0.1,uw,uw61815692,2022-03-24T17:18:30.920Z,"20 km ESE of Three Rivers, Oregon",earthquake,0.88,0.27,0.13008896922989371,5,reviewed,uw,uw
