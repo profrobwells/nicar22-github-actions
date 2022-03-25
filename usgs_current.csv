@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-25T08:04:57.970Z,19.2215003967285,-155.373992919922,32.1599998474121,1.75,md,25,163,,0.109999999,hv,hv72961517,2022-03-25T08:08:04.810Z,"11 km E of Pāhala, Hawaii",earthquake,0.74,1.33000004,0.0799999982,5,automatic,hv,hv
+2022-03-25T07:55:40.496Z,61.3691,-147.3177,19.6,1.9,ml,,,,0.79,ak,ak0223v1n280,2022-03-25T07:58:13.745Z,"52 km SSE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-25T07:45:37.350Z,38.7608337,-122.7401657,3.19,0.86,md,18,98,0.008787,0.03,nc,nc73710121,2022-03-25T07:47:14.864Z,"2km SE of The Geysers, CA",earthquake,0.29,0.54,0.24,5,automatic,nc,nc
 2022-03-25T07:38:49.770Z,33.0561667,-116.4671667,14.66,1.02,ml,29,62,0.1122,0.24,ci,ci39977655,2022-03-25T07:42:28.007Z,"13km E of Julian, CA",earthquake,0.38,0.78,0.183,25,automatic,ci,ci
-2022-03-25T07:37:19.170Z,40.4253349,-124.2204971,22.33,1.56,md,5,308,0.07658,0.01,nc,nc73710116,2022-03-25T07:45:11.203Z,"12km NNE of Petrolia, CA",earthquake,2.71,1.06,0.1,3,automatic,nc,nc
+2022-03-25T07:37:18.530Z,40.443,-124.263,25.86,2.32,md,23,98,0.06549,0.06,nc,nc73710116,2022-03-25T08:05:16.228Z,"13km N of Petrolia, CA",earthquake,0.31,0.46,0.374,26,reviewed,nc,nc
 2022-03-25T07:37:15.820Z,36.4291667,-117.9271667,1.16,1.68,ml,19,122,0.1238,0.21,ci,ci39977647,2022-03-25T07:40:53.961Z,"18km NNE of Olancha, CA",earthquake,0.41,1.12,0.191,17,automatic,ci,ci
 2022-03-25T07:29:00.993Z,31.5549,-104.5719,5.95,2.5,ml,,73,0.128,0.56,us,us7000gx64,2022-03-25T07:51:31.040Z,"62 km NNE of Van Horn, Texas",earthquake,2,6.6,0.074,56,reviewed,us,us
 2022-03-25T07:18:32.510Z,36.0161667,-117.817,1.3,1.43,ml,15,82,0.03425,0.13,ci,ci39977639,2022-03-25T07:22:15.315Z,"12km NE of Little Lake, CA",earthquake,0.22,0.25,0.17,14,automatic,ci,ci
@@ -89,7 +91,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-24T22:17:15.560Z,57.9043333333333,-156.0285,8.69,0.8,ml,4,196,,0.2,av,av91521946,2022-03-25T04:08:27.360Z,"86 km ESE of Egegik, Alaska",earthquake,2.42,1.81,0.182116208699504,4,reviewed,av,av
 2022-03-24T22:09:13.988Z,62.449,-149.153,45.2,2.4,ml,,,,0.5,ak,ak0223tmrasd,2022-03-24T22:31:53.033Z,"48 km NE of Susitna North, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-03-24T22:05:41.700Z,38.8186684,-122.8243332,2,0.36,md,7,97,0.009463,0.01,nc,nc73709976,2022-03-24T23:00:12.946Z,"8km NW of The Geysers, CA",earthquake,0.52,1,,1,automatic,nc,nc
-2022-03-24T22:00:37.080Z,40.0655,-123.7075,22.18,1.76,md,23,76,0.07499,0.12,nc,nc73709971,2022-03-25T05:02:13.272Z,"12km ESE of Redway, CA",earthquake,0.41,0.43,0.147,16,reviewed,nc,nc
+2022-03-24T22:00:37.080Z,40.0655,-123.7075,22.18,1.76,md,23,76,0.07499,0.12,nc,nc73709971,2022-03-25T08:01:13.194Z,"12km ESE of Redway, CA",earthquake,0.41,0.43,0.147,16,reviewed,nc,nc
 2022-03-24T21:52:28.055Z,52.2077,143.6546,10,4.9,mb,,103,5.286,0.55,us,us7000gx0b,2022-03-25T00:13:21.040Z,"57 km NE of Nogliki, Russia",earthquake,7.6,1.8,0.029,388,reviewed,us,us
 2022-03-24T21:50:39.488Z,38.1617,-117.9057,9.8,1.2,ml,11,154.43,0.048,0.0786,nn,nn00835967,2022-03-25T02:39:58.620Z,"30 km SE of Mina, Nevada",earthquake,,1.4,0.89,4,reviewed,nn,nn
 2022-03-24T21:50:29.260Z,38.8178333,-122.8233333,2.25,2.36,md,72,24,0.01005,0.05,nc,nc73709961,2022-03-25T03:41:16.676Z,"7km NW of The Geysers, CA",earthquake,0.1,0.17,0.098,44,reviewed,nc,nc
@@ -293,5 +295,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-24T08:36:07.550Z,44.2635,-115.1996667,16.91,1.9,ml,10,84,0.842,0.22,mb,mb80541339,2022-03-24T14:03:31.760Z,"21 km WNW of Stanley, Idaho",earthquake,0.6,1.36,0.103,10,reviewed,mb,mb
 2022-03-24T08:35:20.710Z,38.918,-111.4411667,2.59,1.52,md,5,138,0.1385,0.09,uu,uu60486852,2022-03-24T15:02:45.490Z,"16 km W of Emery, Utah",earthquake,0.84,8.14,0.216,5,reviewed,uu,uu
 2022-03-24T08:20:15.510Z,43.737,-121.241,1.54,0.22,ml,7,151,0.008688,0.1,uw,uw61815692,2022-03-24T17:18:30.920Z,"20 km ESE of Three Rivers, Oregon",earthquake,0.88,0.27,0.13008896922989371,5,reviewed,uw,uw
-2022-03-24T08:09:32.988Z,-15.2037,167.5063,133.21,4.6,mb,,119,0.379,0.47,us,us7000gwt1,2022-03-24T08:26:09.040Z,"49 km ESE of Port-Olry, Vanuatu",earthquake,11.6,6.5,0.137,16,reviewed,us,us
-2022-03-24T07:58:49.160Z,46.1995,-122.18083333333334,3.58,0.07,ml,12,138,0.006968,0.2,uw,uw61815682,2022-03-24T17:11:09.200Z,"38 km NNE of Amboy, Washington",earthquake,0.47,1.21,0.10204033591605544,8,reviewed,uw,uw
