@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-25T13:48:50.190Z,33.6484985,-116.7275009,15.39,1.1,ml,29,67,0.0492,0.13,ci,ci39977791,2022-03-25T13:50:53.600Z,"10km S of Idyllwild, CA",earthquake,0.36,0.62,0.317,10,automatic,ci,ci
-2022-03-25T13:38:37.190Z,38.8336678,-122.7925034,1.46,0.36,md,6,86,0.01542,0.01,nc,nc73710211,2022-03-25T13:40:10.293Z,"6km WNW of Cobb, CA",earthquake,0.45,2.3,,1,automatic,nc,nc
+2022-03-25T13:48:50.070Z,33.6545,-116.7291667,15.81,0.98,ml,31,67,0.05789,0.21,ci,ci39977791,2022-03-25T13:52:28.404Z,"10km S of Idyllwild, CA",earthquake,0.32,0.5,0.238,29,automatic,ci,ci
+2022-03-25T13:38:37.190Z,38.8336678,-122.7925034,1.46,0.36,md,6,86,0.01542,0.01,nc,nc73710211,2022-03-25T13:56:14.377Z,"6km WNW of Cobb, CA",earthquake,0.45,2.3,,1,automatic,nc,nc
 2022-03-25T13:29:08.223Z,59.0806,-153.6672,78.4,2.1,ml,,,,0.57,ak,ak0223v520qf,2022-03-25T13:31:55.872Z,"70 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-25T13:20:14.257Z,-3.7875,122.785,10,4.7,mb,,53,2.727,0.9,us,us7000gx7f,2022-03-25T13:40:00.040Z,"36 km NE of Kendari, Indonesia",earthquake,6.2,1.2,0.098,32,reviewed,us,us
 2022-03-25T13:03:39.318Z,61.9729,-148.9149,29.2,1.9,ml,,,,0.62,ak,ak0223v4wiiz,2022-03-25T13:06:17.054Z,"23 km NNW of Sutton-Alpine, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -116,6 +116,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-25T00:07:43.830Z,38.8180008,-122.8231659,1.93,0.85,md,8,92,0.01026,0.02,nc,nc73710006,2022-03-25T01:01:12.857Z,"7km NW of The Geysers, CA",earthquake,0.42,1.21,,1,automatic,nc,nc
 2022-03-24T23:53:38.450Z,19.2276668548584,-155.382171630859,31.8500003814697,2.43000007,md,42,151,,0.119999997,hv,hv72961237,2022-03-24T23:56:58.470Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.53,0.860000014,0.419999987,25,automatic,hv,hv
 2022-03-24T23:46:57.550Z,38.8370018,-122.8024979,0.92,0.85,md,10,61,0.009595,0.03,nc,nc73710001,2022-03-25T00:49:13.631Z,"7km WNW of Cobb, CA",earthquake,0.31,0.6,,1,automatic,nc,nc
+2022-03-24T23:38:25.260Z,36.10916667,-97.21933333,8.92,0.75,ml,36,68,0.1511703352,0.26,ok,ok2022fvqb,2022-03-25T14:00:28.849Z,"14 km W of Stillwater, Oklahoma",earthquake,,3.2,0.25,11,reviewed,ok,ok
 2022-03-24T23:36:23.000Z,64.0429,-148.7581,4.1,1.4,ml,,,,1.35,ak,ak0223tnij8v,2022-03-24T23:40:28.238Z,"17 km E of Ferry, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-24T23:28:57.880Z,38.8241653,-122.8093338,2.64,0.77,md,19,79,0.0009623,0.02,nc,nc73709991,2022-03-25T00:36:13.545Z,"7km NW of The Geysers, CA",earthquake,0.26,0.59,0.4,3,automatic,nc,nc
 2022-03-24T23:19:06.689Z,36.7218,-116.2596,7.1,-0.4,ml,9,244.83,0.038,0.0799,nn,nn00836000,2022-03-25T02:40:20.237Z,"49 km ESE of Beatty, Nevada",earthquake,,1.6,0.27,3,reviewed,nn,nn
@@ -240,6 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-24T14:09:54.480Z,63.159,-150.8752,123,3.2,ml,,,,0.55,ak,ak0223thzx1o,2022-03-24T16:57:45.040Z,"60 km SE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-24T14:08:59.410Z,38.8195,-122.8040009,2.96,0.74,md,22,52,0.006135,0.02,nc,nc73709791,2022-03-24T14:10:33.563Z,"6km NW of The Geysers, CA",earthquake,0.26,0.71,0.1,2,automatic,nc,nc
 2022-03-24T14:03:45.560Z,38.1743,-117.7907,9.7,1.2,ml,15,117.77,0.117,0.1133,nn,nn00835925,2022-03-25T02:39:27.897Z,"36 km SE of Mina, Nevada",earthquake,,2.2,0.5,4,reviewed,nn,nn
-2022-03-24T14:00:17.590Z,44.6696667,-110.0406667,15.07,0.47,md,7,131,0.105,0.07,uu,uu60486882,2022-03-24T15:31:37.430Z,"37 km S of Silver Gate, Montana",earthquake,0.69,0.84,0.226,6,reviewed,uu,uu
-2022-03-24T13:55:19.820Z,38.7603333,-122.7166667,1.79,0.1,md,12,69,0.006529,0.03,nc,nc73709781,2022-03-25T03:52:12.727Z,"3km SW of Anderson Springs, CA",earthquake,0.27,0.31,0.143,2,reviewed,nc,nc
-2022-03-24T13:51:56.325Z,-3.3733,128.5171,53.76,4.7,mb,,56,3.753,0.97,us,us7000gwvs,2022-03-24T14:32:57.040Z,"44 km W of Amahai, Indonesia",earthquake,6.1,9.3,0.092,36,reviewed,us,us
