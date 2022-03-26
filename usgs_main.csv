@@ -6052,3 +6052,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-26T07:52:22.430Z,32.9058333,-115.5258333,4.68,1.29,ml,15.0,91.0,0.02966,0.17,ci,ci39978887,2022-03-26T08:01:20.901Z,"8km NNE of Imperial, CA",earthquake,0.43,0.52,0.243,19.0,automatic,ci,ci
 2022-03-26T07:51:59.338Z,57.489,-154.7283,30.7,2.0,ml,,,,0.25,ak,ak0223wp5lb1,2022-03-26T07:54:03.458Z,"18 km WSW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-26T07:49:04.700Z,40.447834,-124.1989975,20.45,1.57,md,6.0,295.0,0.06711,0.01,nc,nc73710501,2022-03-26T07:56:10.722Z,"10km SW of Rio Dell, CA",earthquake,2.53,1.26,0.06,4.0,automatic,nc,nc
+2022-03-26T08:08:25.606Z,-20.7478,-178.8459,595.85,4.5,mb,,135.0,4.184,0.8,us,us7000gxgq,2022-03-26T08:24:46.040Z,Fiji region,earthquake,13.3,9.3,0.075,52.0,reviewed,us,us
