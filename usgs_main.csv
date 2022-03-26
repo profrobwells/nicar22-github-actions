@@ -6135,3 +6135,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-26T17:44:31.650Z,38.8125,-122.8131638,2.63,0.84,md,15.0,91.0,0.01114,0.02,nc,nc73710696,2022-03-26T17:46:04.461Z,"6km NW of The Geysers, CA",earthquake,0.31,0.86,,1.0,automatic,nc,nc
 2022-03-26T17:51:21.148Z,38.5133,-119.5449,0.0,0.9,ml,8.0,248.29,0.528,0.1806,nn,nn00836101,2022-03-26T17:55:19.334Z,"5 km W of Walker, California",earthquake,,162.1,0.35,4.0,automatic,nn,nn
 2022-03-26T17:48:32.630Z,59.0105,-153.0135,67.0,1.8,ml,,,,0.3,ak,ak0223wv385b,2022-03-26T17:52:36.574Z,"73 km WSW of Nanwalek, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2022-03-26T18:24:52.815Z,63.2035,-149.7038,89.1,1.5,ml,,,,0.21,ak,ak0223wvjk4h,2022-03-26T18:26:38.885Z,"43 km WSW of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2022-03-26T18:21:05.720Z,37.0383339,-121.4905014,7.32,2.11,md,50.0,57.0,0.01379,0.12,nc,nc73710711,2022-03-26T18:24:19.760Z,"8km ENE of Gilroy, CA",earthquake,0.21,0.5,0.15,44.0,automatic,nc,nc
+2022-03-26T18:17:07.405Z,55.0791,-156.5149,38.7,3.6,ml,,,,0.7,ak,ak0223wvhy9y,2022-03-26T18:26:24.514Z,"180 km SE of Chignik, Alaska",earthquake,,4.2,,,automatic,ak,ak
+2022-03-26T18:04:53.453Z,63.0972,-150.4775,74.5,1.6,ml,,,,0.93,ak,ak0223wvf9wo,2022-03-26T18:15:35.296Z,"68 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-03-26T17:57:13.305Z,20.8109,122.1668,10.0,4.6,mb,,109.0,2.237,0.86,us,us7000gxis,2022-03-26T18:15:24.040Z,"45 km NNE of Basco, Philippines",earthquake,8.0,1.9,0.083,43.0,reviewed,us,us
