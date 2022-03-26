@@ -6195,3 +6195,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-26T21:45:10.080Z,33.273,-116.253,3.98,0.69,ml,13.0,143.0,0.1009,0.22,ci,ci39979327,2022-03-26T21:48:45.140Z,"12km E of Borrego Springs, CA",earthquake,0.56,1.36,0.206,13.0,automatic,ci,ci
 2022-03-26T21:24:49.444Z,51.2187,-178.1783,47.25,4.0,mb,,143.0,0.717,0.84,us,us7000gxjv,2022-03-26T21:45:49.040Z,"129 km SW of Adak, Alaska",earthquake,5.8,8.6,0.07,54.0,reviewed,us,us
 2022-03-26T00:38:15.434Z,31.65797861,-104.3242453,7.391259766,2.1,ml,18.0,69.0,0.05240375224,0.3,tx,tx2022fxno,2022-03-26T21:49:16.439Z,"57 km S of Whites City, New Mexico",earthquake,1.247866801,1.16214273,0.2,10.0,reviewed,tx,tx
+2022-03-26T22:03:39.690Z,36.0144997,-120.5770035,3.27,1.91,md,24.0,78.0,0.03314,0.05,nc,nc73710786,2022-03-26T22:05:15.874Z,"18km NW of Parkfield, CA",earthquake,0.26,0.44,0.19,12.0,automatic,nc,nc
