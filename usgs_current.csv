@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-26T04:50:52.180Z,35.7413333,-118.0323333,7.61,0.63,ml,12,119,0.1437,0.09,ci,ci39978807,2022-03-26T04:54:29.381Z,"22km WNW of Inyokern, CA",earthquake,0.26,1.69,0.099,5,automatic,ci,ci
 2022-03-26T04:42:45.130Z,38.8063316,-122.7825012,0.16,1,md,14,62,0.007061,0.03,nc,nc73710426,2022-03-26T04:44:23.062Z,"4km NW of The Geysers, CA",earthquake,0.22,0.46,0.12,3,automatic,nc,nc
 2022-03-26T04:40:44.040Z,38.8035011,-122.7815018,-0.88,0.84,md,9,107,0.009765,0.08,nc,nc73710421,2022-03-26T04:42:17.794Z,"4km NW of The Geysers, CA",earthquake,0.3,1.05,,1,automatic,nc,nc
 2022-03-26T04:26:46.520Z,33.8768333,-116.2723333,1.75,0.7,ml,10,119,0.09036,0.17,ci,ci39978791,2022-03-26T04:30:15.930Z,"13km ENE of Thousand Palms, CA",earthquake,0.35,0.62,0.16,10,automatic,ci,ci
@@ -62,7 +63,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-25T20:43:11.650Z,46.8915,-121.99333333333334,11.35,0.37,ml,11,208,0.0355,0.11,uw,uw61816337,2022-03-26T01:43:28.150Z,"15 km N of Ashford, Washington",earthquake,0.82,0.53,0.16549612683468617,4,reviewed,uw,uw
 2022-03-25T20:36:19.570Z,40.2253333,-121.1025,8.61,2.09,md,14,75,0.03972,0.08,nc,nc73710341,2022-03-26T00:32:14.045Z,"3km SW of East Shore, CA",earthquake,0.39,0.3,0.101,13,reviewed,nc,nc
 2022-03-25T20:35:23.740Z,48.419333333333334,-123.55866666666667,-0.24,0.59,md,4,220,0.1557,0.16,uw,uw61816322,2022-03-26T01:17:57.230Z,"4 km NNW of Metchosin, Canada",explosion,0.86,31.61,0.19638471754325204,3,reviewed,uw,uw
-2022-03-25T20:32:29.540Z,38.1335,-122.1561667,4,1.5,md,14,161,0.01199,0.11,nc,nc73710336,2022-03-26T04:41:11.539Z,"7km ENE of Vallejo, CA",earthquake,0.56,0.44,0.284,17,reviewed,nc,nc
+2022-03-25T20:32:29.540Z,38.1335,-122.1561667,4,1.5,md,14,161,0.01199,0.11,nc,nc73710336,2022-03-26T04:50:14.582Z,"7km ENE of Vallejo, CA",earthquake,0.56,0.44,0.284,17,reviewed,nc,nc
 2022-03-25T20:29:27.310Z,47.173,-121.8215,4.23,1.3800000000000001,ml,8,127,0.03544,0.1,uw,uw61816307,2022-03-26T01:44:23.490Z,"13 km W of Greenwater, Washington",explosion,1.19,31.61,0.20381147684813683,3,reviewed,uw,uw
 2022-03-25T20:28:11.040Z,19.2858333587646,-155.413330078125,32.560001373291,1.90999997,md,30,109,,0.140000001,hv,hv72962007,2022-03-25T20:31:27.110Z,"11 km NE of Pāhala, Hawaii",earthquake,0.67,1.04999995,1.14999998,11,automatic,hv,hv
 2022-03-25T20:27:25.820Z,46.199666666666666,-122.1865,1.96,0.08,ml,11,74,0.003028,0.12,uw,uw61816302,2022-03-25T21:25:20.770Z,"37 km NNE of Amboy, Washington",earthquake,0.35,0.43,0.28875117273276035,7,reviewed,uw,uw
@@ -232,6 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-25T05:19:28.014Z,36.7685,-116.2536,9.1,-0.3,ml,18,66.06,0.053,0.1007,nn,nn00836041,2022-03-26T02:39:01.676Z,"47 km ESE of Beatty, Nevada",earthquake,,1,0.26,7,reviewed,nn,nn
 2022-03-25T05:09:43.093Z,36.7647,-116.2591,8.7,-0.4,ml,8,194.8,0.053,0.0903,nn,nn00836038,2022-03-26T02:38:45.679Z,"47 km ESE of Beatty, Nevada",earthquake,,2,0.11,3,reviewed,nn,nn
 2022-03-25T05:02:47.720Z,47.7998333,-113.569,5.91,-0.42,md,5,168,0.305,0.1,mb,mb80541439,2022-03-25T15:27:26.800Z,"25 km SE of Swan Lake, Montana",earthquake,0.65,8.15,,1,reviewed,mb,mb
-2022-03-25T04:56:32.670Z,33.3386667,-116.1721667,4.86,0.84,ml,46,48,0.1174,0.2,ci,ci39977559,2022-03-25T18:41:50.121Z,"16km SSW of Oasis, CA",earthquake,0.23,0.69,0.108,26,reviewed,ci,ci
-2022-03-25T04:55:23.392Z,54.029,-162.8824,35,2.8,ml,,248,0.849,0.78,us,us7000gx5h,2022-03-25T22:15:48.040Z,"Alaska Peninsula",earthquake,6.6,2,0.115,10,reviewed,us,us
-2022-03-25T04:53:31.800Z,35.948,-117.7275,3.01,0.91,ml,18,78,0.07319,0.08,ci,ci39977551,2022-03-25T18:36:01.898Z,"16km E of Little Lake, CA",earthquake,0.14,0.51,0.177,8,reviewed,ci,ci
