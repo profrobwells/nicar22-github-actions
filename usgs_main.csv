@@ -6005,3 +6005,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-26T02:43:09.230Z,17.961,-67.0958333333333,11.22,1.99,md,6.0,258.0,,0.08,pr,pr71342073,2022-03-26T03:28:55.290Z,"5 km WSW of La Parguera, Puerto Rico",earthquake,0.61,0.49,0.210191618567767,4.0,reviewed,pr,pr
 2022-03-26T03:38:07.570Z,38.8311653,-122.8043365,1.75,0.94,md,17.0,47.0,0.00896,0.02,nc,nc73710406,2022-03-26T03:39:42.962Z,"7km W of Cobb, CA",earthquake,0.23,0.53,0.23,3.0,automatic,nc,nc
 2022-03-26T03:37:45.090Z,33.8958333,-116.263,6.11,0.76,ml,15.0,104.0,0.08016,0.31,ci,ci39978759,2022-03-26T03:41:25.927Z,"14km NE of Thousand Palms, CA",earthquake,0.7,1.92,0.111,17.0,automatic,ci,ci
+2022-03-26T03:54:51.200Z,33.4885,-116.5576667,8.04,0.7,ml,31.0,49.0,0.03825,0.17,ci,ci39978775,2022-03-26T03:58:21.996Z,"13km SE of Anza, CA",earthquake,0.2,0.51,0.13,20.0,automatic,ci,ci
+2022-03-26T03:49:37.664Z,31.6399,-104.4071,5.0,2.7,ml,,104.0,0.084,0.23,us,us7000gxf9,2022-03-26T03:57:47.040Z,"59 km S of Whites City, New Mexico",earthquake,1.1,2.0,0.085,46.0,reviewed,us,us
+2022-03-26T03:23:28.870Z,17.951,-66.8145,9.79,2.95,md,31.0,187.0,,0.24,pr,pr71342083,2022-03-26T03:55:36.550Z,"4 km S of Indios, Puerto Rico",earthquake,0.45,0.52,0.376329560483455,17.0,reviewed,pr,pr
