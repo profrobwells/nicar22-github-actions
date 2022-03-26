@@ -6133,3 +6133,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-26T16:43:51.370Z,38.8231667,-122.7678333,2.38,0.38,md,16.0,102.0,0.007472,0.03,nc,nc73710661,2022-03-26T17:35:51.802Z,"4km W of Cobb, CA",earthquake,0.35,0.38,0.184,3.0,reviewed,nc,nc
 2022-03-26T17:46:51.240Z,38.5123329,-119.5481644,-1.91,3.39,ml,32.0,69.0,0.08664,0.19,nc,nc73710701,2022-03-26T17:49:25.185Z,"6km W of Walker, CA",earthquake,0.3,2.61,0.368,28.0,automatic,nc,nc
 2022-03-26T17:44:31.650Z,38.8125,-122.8131638,2.63,0.84,md,15.0,91.0,0.01114,0.02,nc,nc73710696,2022-03-26T17:46:04.461Z,"6km NW of The Geysers, CA",earthquake,0.31,0.86,,1.0,automatic,nc,nc
+2022-03-26T17:51:21.148Z,38.5133,-119.5449,0.0,0.9,ml,8.0,248.29,0.528,0.1806,nn,nn00836101,2022-03-26T17:55:19.334Z,"5 km W of Walker, California",earthquake,,162.1,0.35,4.0,automatic,nn,nn
+2022-03-26T17:48:32.630Z,59.0105,-153.0135,67.0,1.8,ml,,,,0.3,ak,ak0223wv385b,2022-03-26T17:52:36.574Z,"73 km WSW of Nanwalek, Alaska",earthquake,,1.8,,,automatic,ak,ak
