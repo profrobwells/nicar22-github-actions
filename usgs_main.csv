@@ -6436,3 +6436,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-27T19:36:35.830Z,33.8925,-116.2648333,8.31,0.93,ml,19.0,103.0,0.08284,0.27,ci,ci39980007,2022-03-27T19:40:15.518Z,"14km NE of Thousand Palms, CA",earthquake,0.51,1.09,0.218,24.0,automatic,ci,ci
 2022-03-27T18:43:52.970Z,18.6583,-68.3295,113.0,3.66,md,14.0,269.0,0.1534,0.02,pr,pr2022086001,2022-03-27T19:38:20.790Z,"11 km NE of Punta Cana, Dominican Republic",earthquake,8.44,1.28,0.15,9.0,reviewed,pr,pr
 2022-03-27T17:32:32.561Z,38.373,23.4689,10.0,4.3,mb,,67.0,1.708,1.01,us,us7000gxpv,2022-03-27T19:43:22.040Z,"2 km NNW of Árma, Greece",earthquake,5.5,1.9,0.201,7.0,reviewed,us,us
+2022-03-27T19:49:20.691Z,38.1288,-118.038,1.5,1.1,ml,10.0,172.81,0.063,0.1749,nn,nn00836157,2022-03-27T19:53:16.833Z,"29 km SSE of Mina, Nevada",earthquake,,2.8,0.27,5.0,automatic,nn,nn
