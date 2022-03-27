@@ -6468,3 +6468,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-27T22:44:06.620Z,19.433500289917,-155.639999389648,0.400000005960464,1.94,ml,28.0,156.0,,0.349999994,hv,hv72964092,2022-03-27T22:49:36.300Z,"23 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.76,2.96000004,4.01,5.0,automatic,hv,hv
 2022-03-27T23:06:08.527Z,64.9735,-147.4614,0.0,1.1,ml,,,,0.6,ak,ak0223yly45r,2022-03-27T23:15:35.422Z,"7 km ENE of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-03-27T23:02:15.090Z,33.9173333,-116.3246667,7.66,1.12,ml,35.0,99.0,0.0737,0.23,ci,ci39980103,2022-03-27T23:13:10.810Z,"12km NNE of Thousand Palms, CA",earthquake,0.38,1.12,0.238,26.0,automatic,ci,ci
+2022-03-27T23:28:02.540Z,33.4501667,-116.5541667,10.7,0.84,ml,27.0,48.0,0.05987,0.18,ci,ci39980135,2022-03-27T23:31:36.923Z,"16km SE of Anza, CA",earthquake,0.25,0.38,0.205,30.0,automatic,ci,ci
