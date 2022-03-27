@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-27T23:39:10.300Z,36.5449982,-121.1261673,5.18,2.02,md,10,124,0.05463,0.11,nc,nc73711301,2022-03-27T23:40:45.423Z,"2km NE of Pinnacles, CA",earthquake,0.45,1.36,0.13,7,automatic,nc,nc
+2022-03-27T23:33:55.750Z,38.8078346,-122.8216629,2.45,1.01,md,25,65,0.005962,0.02,nc,nc73711296,2022-03-27T23:35:30.584Z,"7km WNW of The Geysers, CA",earthquake,0.23,0.42,0.14,3,automatic,nc,nc
+2022-03-27T23:33:42.060Z,33.4521667,-116.5636667,9.01,1.09,ml,30,34,0.05326,0.17,ci,ci39980143,2022-03-27T23:37:19.567Z,"15km SE of Anza, CA",earthquake,0.22,0.47,0.17,26,automatic,ci,ci
+2022-03-27T23:30:54.460Z,38.8144989,-122.8051682,1.5,1.53,md,30,40,0.0101,0.02,nc,nc73711291,2022-03-27T23:33:58.707Z,"6km NW of The Geysers, CA",earthquake,0.16,0.3,0.1,8,automatic,nc,nc
 2022-03-27T23:28:02.540Z,33.4501667,-116.5541667,10.7,0.84,ml,27,48,0.05987,0.18,ci,ci39980135,2022-03-27T23:31:36.923Z,"16km SE of Anza, CA",earthquake,0.25,0.38,0.205,30,automatic,ci,ci
 2022-03-27T23:06:08.527Z,64.9735,-147.4614,0,1.1,ml,,,,0.6,ak,ak0223yly45r,2022-03-27T23:19:20.091Z,"7 km ENE of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-03-27T23:02:15.090Z,33.9173333,-116.3246667,7.66,1.12,ml,35,99,0.0737,0.23,ci,ci39980103,2022-03-27T23:13:10.810Z,"12km NNE of Thousand Palms, CA",earthquake,0.38,1.12,0.238,26,automatic,ci,ci
@@ -36,7 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-27T18:32:06.920Z,38.8138333,-122.807,1.45,0.47,md,30,43,0.009845,0.03,nc,nc73711231,2022-03-27T19:09:17.499Z,"6km NW of The Geysers, CA",earthquake,0.16,0.29,0.058,4,reviewed,nc,nc
 2022-03-27T18:31:50.430Z,38.8134995,-122.8065033,1.62,0.95,md,15,52,0.01027,0.03,nc,nc73711226,2022-03-27T18:49:16.387Z,"6km NW of The Geysers, CA",earthquake,0.25,0.53,0.25,2,automatic,nc,nc
 2022-03-27T18:31:23.310Z,19.1879997253418,-155.474670410156,31.2099990844727,2.42,ml,41,154,,0.129999995,hv,hv72963912,2022-03-27T20:00:34.040Z,"1 km SSE of Pāhala, Hawaii",earthquake,0.65,0.75,3.46,13,automatic,hv,hv
-2022-03-27T18:27:51.850Z,34.1725,-80.7098333,1.91,2.06,md,13,63,0.03722,0.39,se,se60148143,2022-03-27T23:15:53.744Z,"6 km SSW of Lugoff, South Carolina",earthquake,0.98,1.57,0.127,10,reviewed,se,se
+2022-03-27T18:27:51.850Z,34.1725,-80.7098333,1.91,2.06,md,13,63,0.03722,0.39,se,se60148143,2022-03-27T23:37:52.069Z,"6 km SSW of Lugoff, South Carolina",earthquake,0.98,1.57,0.127,10,reviewed,se,se
 2022-03-27T18:10:20.980Z,19.1173333333333,-66.4715,22.96,3.38,md,13,276,,0.1,pr,pr71342303,2022-03-27T18:50:29.400Z,"72 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,0.61,31.61,0.111358477826828,4,reviewed,pr,pr
 2022-03-27T18:02:16.570Z,19.0796666666667,-66.4706666666667,38.42,3.26,md,18,250,,0.19,pr,pr71342298,2022-03-27T18:26:37.190Z,"68 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,0.87,3.55,0.0325918483432179,11,reviewed,pr,pr
 2022-03-27T17:57:22.770Z,19.0428333333333,-66.4603333333333,40.6,3.27,md,12,272,,0.28,pr,pr71342293,2022-03-27T18:11:39.330Z,"64 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,1.76,4.73,0.148503630024857,11,reviewed,pr,pr
