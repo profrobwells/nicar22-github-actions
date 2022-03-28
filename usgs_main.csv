@@ -6520,3 +6520,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-28T06:34:10.392Z,61.5095,-149.8881,33.0,1.5,ml,,,,0.63,ak,ak0223zzj3qm,2022-03-28T06:45:34.034Z,"3 km ESE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-28T06:30:21.190Z,19.423999786377,-155.622161865234,-1.66999995708466,2.08,ml,31.0,81.0,,0.280000001,hv,hv72964537,2022-03-28T06:35:51.390Z,"25 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.46,0.779999971,3.65,11.0,automatic,hv,hv
 2022-03-28T06:29:47.260Z,19.4235000610352,-155.601837158203,-0.490000009536743,2.05,ml,16.0,90.0,,0.379999995,hv,hv72964532,2022-03-28T06:35:16.920Z,"27 km NNW of Pāhala, Hawaii",earthquake,0.78,1.38,3.13,8.0,automatic,hv,hv
+2022-03-28T06:50:22.152Z,60.3053,-150.9068,57.5,1.8,ml,,,,0.33,ak,ak0223zzmk3r,2022-03-28T06:53:30.789Z,"20 km E of Kasilof, Alaska",earthquake,,1.3,,,automatic,ak,ak
