@@ -6715,3 +6715,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-28T11:09:58.628Z,41.9483,-119.549,0.0,1.5,ml,4.0,309.2,0.563,0.1244,nn,nn00836214,2022-03-28T23:36:39.537Z,"50 km E of Fort Bidwell, California",earthquake,,0.0,0.89,3.0,reviewed,nn,nn
 2022-03-28T23:47:28.280Z,33.9863319,-116.9860001,14.88,1.18,ml,34.0,94.0,0.06493,0.19,ci,ci39980895,2022-03-28T23:49:34.060Z,"6km E of Calimesa, CA",earthquake,0.31,0.91,0.255,8.0,automatic,ci,ci
 2022-03-28T11:18:27.257Z,41.7483,-118.7517,3.6,1.6,ml,3.0,139.83,1.166,0.0594,nn,nn00836215,2022-03-28T23:45:56.361Z,"28 km SSW of Denio, Nevada",earthquake,,9.6,0.0,1.0,reviewed,nn,nn
+2022-03-28T23:53:38.660Z,35.51,-118.3833333,6.66,1.23,ml,12.0,131.0,0.1694,0.14,ci,ci39980903,2022-03-28T23:57:18.941Z,"13km SE of Bodfish, CA",earthquake,0.35,1.35,0.144,11.0,automatic,ci,ci
+2022-03-28T23:42:01.741Z,31.6603,-104.333,5.0,2.6,ml,,114.0,0.143,0.84,us,us7000gxz6,2022-03-28T23:52:45.040Z,"57 km S of Whites City, New Mexico",earthquake,1.2,1.9,0.047,60.0,reviewed,us,us
