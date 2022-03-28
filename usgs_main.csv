@@ -6632,3 +6632,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-28T14:15:51.099Z,51.19,-174.0737,47.7,2.5,ml,,,,0.46,ak,ak0224046lln,2022-03-28T17:19:56.149Z,"112 km S of Atka, Alaska",earthquake,,8.8,,,reviewed,ak,ak
 2022-03-28T11:18:27.920Z,41.788,-118.70616666666666,-1.53,1.71,ml,4.0,271.0,1.199,0.39,uw,uw61816917,2022-03-28T17:17:38.980Z,"23 km SSW of Denio, Nevada",earthquake,13.01,15.05,0.0804325588062967,2.0,reviewed,uw,uw
 2022-03-27T21:13:29.470Z,51.7858333333333,-178.804,6.31,0.49,ml,5.0,114.0,,0.07,av,av91524186,2022-03-28T17:09:46.280Z,"149 km W of Adak, Alaska",earthquake,0.84,1.13,0.0951596468721241,5.0,reviewed,av,av
+2022-03-28T17:33:28.060Z,38.1319,-118.0076,8.1,1.9,ml,11.0,131.89,0.038,0.2015,nn,nn00836196,2022-03-28T17:37:28.055Z,"30 km SSE of Mina, Nevada",earthquake,,0.3,0.98,6.0,automatic,nn,nn
+2022-03-28T17:21:21.680Z,44.8198333,-110.8851667,7.39,0.64,md,6.0,206.0,0.04002,0.04,uu,uu60487287,2022-03-28T17:36:35.870Z,"22 km SW of Mammoth, Wyoming",earthquake,0.69,0.68,0.207,4.0,reviewed,uu,uu
