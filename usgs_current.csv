@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-28T05:37:43.410Z,36.5503349,-121.1436691,7.32,2.56,md,39,92,0.0398,0.11,nc,nc73711376,2022-03-28T05:39:20.870Z,"2km N of Pinnacles, CA",earthquake,0.23,0.58,0.14,37,automatic,nc,nc
 2022-03-28T05:17:05.589Z,62.9985,-149.4053,64.6,1.6,ml,,,,0.89,ak,ak0223zyu0la,2022-03-28T05:19:03.996Z,"49 km SSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-03-28T04:47:25.414Z,-22.5371,-66.2711,243.08,4.4,mb,,32,1.808,0.91,us,us7000gxsr,2022-03-28T05:24:59.040Z,"62 km WNW of Abra Pampa, Argentina",earthquake,8.2,8,0.063,74,reviewed,us,us
 2022-03-28T04:39:36.580Z,31.5882,-104.5827,5,2.8,ml,,73,0.106,0.54,us,us7000gxsq,2022-03-28T04:52:21.040Z,"65 km NNE of Van Horn, Texas",earthquake,1.4,1.8,0.051,76,reviewed,us,us
@@ -206,5 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-27T05:53:03.725Z,0.8396,-79.6443,10.49,5.2,mww,,133,1.334,0.55,us,us7000gxm3,2022-03-27T18:29:36.267Z,"13 km S of Esmeraldas, Ecuador",earthquake,2.7,4.2,0.062,25,reviewed,us,us
 2022-03-27T05:50:40.260Z,36.7131667,-121.3493333,3.19,0.87,md,14,193,0.006131,0.07,nc,nc73711041,2022-03-27T07:05:19.159Z,"9km SSW of Tres Pinos, CA",earthquake,0.68,0.27,0.202,13,reviewed,nc,nc
 2022-03-27T05:50:34.440Z,38.8253326,-122.7986679,1.71,0.35,md,11,65,0.009117,0.02,nc,nc73711031,2022-03-27T06:43:14.158Z,"6km NW of The Geysers, CA",earthquake,0.31,0.95,,1,automatic,nc,nc
-2022-03-27T05:35:34.655Z,51.6827,-178.5105,13.7,1.7,ml,,,,0.57,ak,ak0223ybej8f,2022-03-27T06:15:28.748Z,"131 km W of Adak, Alaska",earthquake,,4.2,,,reviewed,ak,ak
-2022-03-27T05:31:20.779Z,45.1571,-66.7708,10.68,1.4,ml,,165,0.063,0.24,us,us7000gxs4,2022-03-28T01:42:49.040Z,"24 km ENE of Saint Andrews, Canada",earthquake,4.8,2.6,0.148,6,reviewed,us,us
