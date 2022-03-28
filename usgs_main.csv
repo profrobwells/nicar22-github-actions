@@ -6553,3 +6553,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-28T10:19:02.569Z,59.5873,-152.9543,107.7,2.2,ml,,,,0.49,ak,ak022401tltl,2022-03-28T10:30:14.718Z,"63 km WNW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-03-28T10:18:06.880Z,34.0078333,-117.234,16.74,1.19,ml,39.0,93.0,0.07889,0.18,ci,ci39980383,2022-03-28T10:21:41.512Z,"5km SSE of Loma Linda, CA",earthquake,0.26,0.59,0.144,29.0,automatic,ci,ci
 2022-03-28T10:08:27.552Z,63.2038,-149.2506,78.3,1.7,ml,,,,0.96,ak,ak022401rave,2022-03-28T10:18:19.419Z,"25 km SW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-03-28T10:41:27.432Z,64.7491,-149.3069,19.5,1.3,ml,,,,0.26,ak,ak022401ydhj,2022-03-28T10:43:52.808Z,"18 km NNW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-28T10:34:54.760Z,38.8076668,-122.7985001,3.41,1.2,md,14.0,131.0,0.002516,0.03,nc,nc73711471,2022-03-28T10:36:30.778Z,"5km NW of The Geysers, CA",earthquake,0.41,0.66,0.14,4.0,automatic,nc,nc
+2022-03-28T10:32:00.717Z,38.5203,-119.5268,0.0,1.6,ml,17.0,99.86,0.066,0.279,nn,nn00836177,2022-03-28T10:35:31.886Z,"4 km W of Walker, California",earthquake,,0.2,0.16,8.0,automatic,nn,nn
+2022-03-28T08:54:05.900Z,18.219,-67.5583333333333,25.29,3.44,md,17.0,271.0,,0.28,pr,pr71342368,2022-03-28T10:41:04.900Z,"34 km WSW of Stella, Puerto Rico",earthquake,1.1,2.07,0.0325657298835269,5.0,reviewed,pr,pr
