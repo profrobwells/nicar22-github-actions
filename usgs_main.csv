@@ -6597,3 +6597,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-27T20:57:32.790Z,38.4716667,-112.8598333,1.69,-0.64,md,5.0,164.0,0.01291,0.04,uu,uu60487202,2022-03-28T14:56:04.940Z,"15 km ENE of Milford, Utah",earthquake,1.65,0.98,0.369,3.0,reviewed,uu,uu
 2022-03-28T15:24:32.140Z,33.1894989,-115.6116638,2.38,3.03,ml,63.0,43.0,0.01113,0.25,ci,ci39980583,2022-03-28T15:26:43.490Z,"10km WSW of Niland, CA",earthquake,0.26,0.29,0.405,23.0,automatic,ci,ci
 2022-03-28T15:06:35.530Z,38.8419991,-122.8785019,2.48,0.88,md,19.0,93.0,0.005401,0.02,nc,nc73711546,2022-03-28T15:24:12.688Z,"13km ENE of Cloverdale, CA",earthquake,0.26,0.48,0.27,4.0,automatic,nc,nc
+2022-03-28T08:19:19.250Z,37.4878333,-118.9318333,13.89,0.89,md,13.0,203.0,0.1248,0.03,nc,nc73711426,2022-03-28T15:33:05.908Z,"17km SSE of Mammoth Lakes, CA",earthquake,0.73,1.2,0.139,15.0,reviewed,nc,nc
