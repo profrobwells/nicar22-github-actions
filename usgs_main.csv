@@ -6843,3 +6843,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-29T12:56:21.510Z,34.2356667,-117.4795,12.49,1.36,ml,33.0,66.0,0.05772,0.25,ci,ci39981095,2022-03-29T13:00:04.858Z,"3km SE of Lytle Creek, CA",earthquake,0.43,0.81,0.233,29.0,automatic,ci,ci
 2022-03-29T13:31:08.682Z,60.2902,-140.7046,1.9,2.1,ml,,,,0.61,ak,ak02241r7u6r,2022-03-29T13:36:58.058Z,"99 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-29T13:24:07.610Z,33.5801667,-116.8081667,7.87,1.98,ml,74.0,28.0,0.03918,0.2,ci,ci39981127,2022-03-29T13:35:02.840Z,"13km WNW of Anza, CA",earthquake,0.18,0.55,0.165,26.0,automatic,ci,ci
+2022-03-29T13:49:20.844Z,58.6291,-151.1365,70.4,2.3,ml,,,,0.46,ak,ak02241rbq0k,2022-03-29T13:51:43.642Z,"89 km SSE of Port Graham, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2022-03-29T13:40:47.684Z,62.9902,-150.4584,8.6,1.5,ml,,,,0.42,ak,ak02241r9un4,2022-03-29T13:43:35.459Z,"57 km NNE of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-29T13:17:10.520Z,19.5105,-155.675333333333,3.66,1.01,md,13.0,147.0,,0.1,hv,hv72966112,2022-03-29T13:50:44.850Z,"20 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.45,0.87,0.247041350837834,7.0,reviewed,hv,hv
+2022-03-29T12:41:40.700Z,19.5085,-155.677,5.11,2.75,ml,16.0,142.0,,0.13,hv,hv72966042,2022-03-29T13:44:57.690Z,"20 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.54,0.81,0.15962009483495,12.0,reviewed,hv,hv
