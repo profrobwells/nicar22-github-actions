@@ -6828,3 +6828,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-29T11:29:34.881Z,64.7308,-148.9665,5.4,1.4,ml,,,,0.87,ak,ak02241q0lji,2022-03-29T11:34:58.615Z,"16 km NNE of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-29T11:46:55.002Z,38.5276,-119.5275,3.2,1.4,ml,8.0,195.34,0.059,0.1179,nn,nn00836238,2022-03-29T11:50:35.324Z,"4 km WNW of Walker, California",earthquake,,0.6,0.29,6.0,automatic,nn,nn
 2022-03-29T11:40:20.230Z,33.807,-117.0885,11.24,1.3,ml,9.0,131.0,0.3267,0.22,ci,ci39981063,2022-03-29T11:43:53.229Z,"5km E of Nuevo, CA",earthquake,1.45,31.61,0.16,19.0,automatic,ci,ci
+2022-03-29T12:10:45.278Z,61.7507,-151.487,82.2,1.7,ml,,,,0.66,ak,ak02241qhzd7,2022-03-29T12:14:12.638Z,"27 km S of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-03-29T11:44:38.630Z,17.9343333333333,-66.8753333333333,7.18,2.18,md,7.0,231.0,,0.24,pr,pr71342563,2022-03-29T12:15:43.750Z,Puerto Rico region,earthquake,1.26,0.59,0.105085407964549,4.0,reviewed,pr,pr
