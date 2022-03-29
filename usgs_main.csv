@@ -6841,3 +6841,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-29T13:12:49.190Z,19.1786670684814,-155.487838745117,38.2299995422363,2.06999993,md,42.0,88.0,,0.0900000036,hv,hv72966107,2022-03-29T13:16:19.660Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.68,1.07000005,0.75999999,23.0,automatic,hv,hv
 2022-03-29T13:01:23.980Z,35.7418333,-117.5541667,4.54,1.03,ml,11.0,155.0,0.08174,0.17,ci,ci39981103,2022-03-29T13:04:52.150Z,"14km WSW of Searles Valley, CA",earthquake,0.44,0.91,0.194,8.0,automatic,ci,ci
 2022-03-29T12:56:21.510Z,34.2356667,-117.4795,12.49,1.36,ml,33.0,66.0,0.05772,0.25,ci,ci39981095,2022-03-29T13:00:04.858Z,"3km SE of Lytle Creek, CA",earthquake,0.43,0.81,0.233,29.0,automatic,ci,ci
+2022-03-29T13:31:08.682Z,60.2902,-140.7046,1.9,2.1,ml,,,,0.61,ak,ak02241r7u6r,2022-03-29T13:36:58.058Z,"99 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-29T13:24:07.610Z,33.5801667,-116.8081667,7.87,1.98,ml,74.0,28.0,0.03918,0.2,ci,ci39981127,2022-03-29T13:35:02.840Z,"13km WNW of Anza, CA",earthquake,0.18,0.55,0.165,26.0,automatic,ci,ci
