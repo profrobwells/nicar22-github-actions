@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-30T06:58:52.630Z,38.8171654,-122.8083344,3.28,0.84,md,19,66,0.006367,0.01,nc,nc73712226,2022-03-30T07:00:28.779Z,"6km NW of The Geysers, CA",earthquake,0.26,0.94,,1,automatic,nc,nc
 2022-03-30T06:36:02.246Z,38.0076,-117.9481,0,1.3,ml,10,166.95,0.194,0.2509,nn,nn00836303,2022-03-30T06:39:56.937Z,"39 km NNE of Dyer, Nevada",earthquake,,12.9,0.53,5,automatic,nn,nn
-2022-03-30T06:23:42.930Z,19.1781666666667,-155.507,36.24,3.4,ml,52,100,,0.1,hv,hv72967212,2022-03-30T06:46:58.757Z,"4 km SW of Pāhala, Hawaii",earthquake,0.52,0.62,0.168907133699963,38,reviewed,hv,hv
+2022-03-30T06:23:42.930Z,19.1781666666667,-155.507,36.24,3.4,ml,52,100,,0.1,hv,hv72967212,2022-03-30T06:57:12.021Z,"4 km SW of Pāhala, Hawaii",earthquake,0.52,0.62,0.168907133699963,38,reviewed,hv,hv
 2022-03-30T06:18:16.280Z,19.2220001220703,-155.401672363281,32.439998626709,2.00999999,md,43,145,,0.129999995,hv,hv72967207,2022-03-30T06:36:16.707Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.49,0.689999998,1.23000002,15,automatic,hv,hv
 2022-03-30T06:15:56.560Z,19.2118339538574,-155.398498535156,30.5400009155273,1.78999996,md,30,160,,0.100000001,hv,hv72967202,2022-03-30T06:18:59.410Z,"8 km E of Pāhala, Hawaii",earthquake,0.65,0.949999988,1.82000005,4,automatic,hv,hv
 2022-03-30T06:02:28.112Z,-58,-25.5756,60.68,5.1,mb,,69,7.142,0.8,us,us7000gyb8,2022-03-30T06:18:39.040Z,"South Sandwich Islands region",earthquake,10.3,7,0.07,70,reviewed,us,us
@@ -34,7 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-30T03:57:03.352Z,58.9358,-153.9769,99,2.2,ml,,,,0.57,ak,ak022438yeu2,2022-03-30T04:08:45.943Z,"72 km SE of Kokhanok, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-30T03:52:33.120Z,27.1791,103.1198,33.19,4.5,mb,,117,6.391,0.56,us,us7000gyah,2022-03-30T04:31:13.040Z,"61 km WSW of Zhaotong, China",earthquake,10.5,6.7,0.11,24,reviewed,us,us
 2022-03-30T03:21:42.608Z,0.0184,124.4623,70.92,4.5,mb,,67,1.991,0.67,us,us7000gya8,2022-03-30T03:32:55.040Z,"148 km SSW of Tomohon, Indonesia",earthquake,8.6,7.8,0.144,14,reviewed,us,us
-2022-03-30T03:16:10.860Z,38.8266667,-122.8221667,1.81,0.22,md,12,67,0.009995,0.03,nc,nc73712176,2022-03-30T06:45:17.791Z,"8km NW of The Geysers, CA",earthquake,0.33,0.54,0.334,2,reviewed,nc,nc
+2022-03-30T03:16:10.860Z,38.8266667,-122.8221667,1.81,0.22,md,12,67,0.009995,0.03,nc,nc73712176,2022-03-30T06:56:13.863Z,"8km NW of The Geysers, CA",earthquake,0.33,0.54,0.334,2,reviewed,nc,nc
 2022-03-30T03:15:35.180Z,17.956,-66.9668333333333,13.89,2.02,md,5,204,,0.09,pr,pr71342663,2022-03-30T06:30:31.750Z,"6 km WSW of Fuig, Puerto Rico",earthquake,0.73,0.91,0.0962325809420312,4,reviewed,pr,pr
 2022-03-30T03:15:22.100Z,19.4729995727539,-155.457504272461,2.82999992370605,1.75,md,30,60,,0.129999995,hv,hv72966942,2022-03-30T03:18:43.440Z,"23 km W of Volcano, Hawaii",earthquake,0.35,1.79999995,1.48000002,6,automatic,hv,hv
 2022-03-30T03:11:20.080Z,17.9736666666667,-66.9768333333333,16.6,2.07,md,5,178,,0.11,pr,pr71342658,2022-03-30T06:26:45.980Z,"6 km WSW of Fuig, Puerto Rico",earthquake,0.89,1.1,0.112091114383626,4,reviewed,pr,pr
@@ -327,6 +328,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-29T07:07:21.620Z,44.7531667,-110.925,7.66,0.51,md,13,98,0.05815,0.22,uu,uu60487612,2022-03-29T19:35:02.480Z,"17 km NE of West Yellowstone, Montana",earthquake,0.45,0.71,0.299,7,reviewed,uu,uu
 2022-03-29T07:06:38.750Z,44.7505,-110.9181667,2.26,-0.45,md,7,132,0.06127,0.19,uu,uu60030284,2022-03-29T19:32:53.980Z,"17 km ENE of West Yellowstone, Montana",earthquake,0.44,31.61,0.11,5,reviewed,uu,uu
 2022-03-29T07:06:12.520Z,44.7503333,-110.9196667,6.33,0.16,md,8,133,0.06222,0.16,uu,uu60487617,2022-03-29T19:30:17.450Z,"17 km NE of West Yellowstone, Montana",earthquake,0.53,1.46,0.306,6,reviewed,uu,uu
-2022-03-29T06:59:21.880Z,52.1393333333333,-174.188666666667,11.88,1.54,ml,6,334,,0.09,av,av91525116,2022-03-29T22:44:36.180Z,"6 km S of Atka, Alaska",earthquake,1.04,0.64,0.319332812154057,6,reviewed,av,av
-2022-03-29T06:51:01.300Z,44.7433333,-110.909,2.4,-0.38,md,5,118,0.06133,0.13,uu,uu60030239,2022-03-29T17:15:16.590Z,"17 km ENE of West Yellowstone, Montana",earthquake,0.41,8.26,0.322,3,reviewed,uu,uu
-2022-03-29T06:50:38.820Z,44.7555,-110.9321667,9.13,0.99,ml,13,99,0.05286,0.16,uu,uu60487602,2022-03-29T17:11:07.790Z,"17 km NE of West Yellowstone, Montana",earthquake,0.43,0.74,0.059,2,reviewed,uu,uu
