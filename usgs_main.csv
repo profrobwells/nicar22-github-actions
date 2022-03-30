@@ -7326,3 +7326,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-30T19:09:13.280Z,46.0078333,-112.4575,-2.0,1.72,ml,16.0,125.0,0.068,0.12,mb,mb80541814,2022-03-30T19:38:41.840Z,"5 km E of Butte, Montana",quarry blast,0.36,31.61,0.232,12.0,reviewed,mb,mb
 2022-03-30T19:50:10.752Z,61.3161,-147.0173,16.8,1.5,ml,,,,0.87,ak,ak02243ifv2u,2022-03-30T19:53:01.562Z,"41 km WNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-30T19:47:55.931Z,63.394,-150.1674,117.7,1.4,ml,,,,0.69,ak,ak02243ifapy,2022-03-30T19:53:11.075Z,"60 km W of Cantwell, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2022-03-30T20:02:52.378Z,39.9851,-119.5795,9.8,1.4,ml,9.0,183.65,0.193,0.1298,nn,nn00836342,2022-03-30T20:06:05.348Z,"4 km NNE of Sutcliffe, Nevada",earthquake,,1.9,0.17,7.0,automatic,nn,nn
+2022-03-30T20:01:45.010Z,36.890667,-121.6194992,0.76,1.78,md,11.0,71.0,0.02293,0.08,nc,nc73712356,2022-03-30T20:12:11.801Z,"2km E of Aromas, CA",earthquake,0.29,0.72,0.12,8.0,automatic,nc,nc
+2022-03-30T19:59:17.795Z,68.0436,-155.1789,0.1,1.4,ml,,,,1.36,ak,ak02243iht19,2022-03-30T20:08:46.572Z,"143 km W of Anaktuvuk Pass, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-03-30T19:49:14.440Z,18.0335,-66.826,16.98,1.85,md,10.0,111.0,,0.12,pr,pr71342733,2022-03-30T20:03:26.420Z,"2 km E of Yauco, Puerto Rico",earthquake,0.4,0.66,0.0645561767612441,7.0,reviewed,pr,pr
+2022-03-30T06:50:20.950Z,60.0295,-153.095833333333,-1.44,-0.67,ml,4.0,183.0,,0.08,av,av91525736,2022-03-30T19:58:53.340Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.35,31.61,0.394871553303111,4.0,reviewed,av,av
+2022-03-30T06:35:45.020Z,58.2941666666667,-154.979666666667,2.87,-0.31,ml,8.0,133.0,,0.14,av,av91525726,2022-03-30T19:55:57.550Z,"86 km NNW of Karluk, Alaska",earthquake,0.33,0.84,0.185333369452328,8.0,reviewed,av,av
