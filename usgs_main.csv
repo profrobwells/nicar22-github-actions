@@ -7219,3 +7219,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-30T06:44:57.340Z,36.5643333,-121.0848333,10.83,1.13,md,19.0,122.0,0.03908,0.12,nc,nc73712221,2022-03-30T08:11:19.287Z,"6km NE of Pinnacles, CA",earthquake,0.33,0.5,0.127,15.0,reviewed,nc,nc
 2022-03-30T08:06:20.733Z,-4.8571,133.7139,10.0,4.8,mb,,84.0,2.417,0.7,us,us7000gycq,2022-03-30T08:21:34.040Z,"136 km NE of Tual, Indonesia",earthquake,6.8,1.6,0.131,18.0,reviewed,us,us
 2022-03-30T08:43:22.342Z,61.1097,-148.0431,8.6,1.1,ml,,,,1.29,ak,ak02243bumek,2022-03-30T08:45:53.864Z,"51 km NE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-30T08:56:16.550Z,60.7362,-147.6485,13.3,1.7,ml,,,,1.0,ak,ak02243bxe6a,2022-03-30T08:58:57.351Z,"54 km WSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-30T08:47:19.516Z,31.6718,-104.3863,6.4,3.3,ml,,58.0,0.097,0.36,us,us7000gyd7,2022-03-30T08:57:32.040Z,"55 km S of Whites City, New Mexico",earthquake,1.8,1.9,0.049,54.0,reviewed,us,us
+2022-03-30T08:39:10.500Z,18.0221666666667,-66.7595,14.14,2.18,md,15.0,110.0,,0.17,pr,pr71342673,2022-03-30T08:59:40.490Z,"1 km ENE of Magas Arriba, Puerto Rico",earthquake,0.41,0.51,0.161128304622299,9.0,reviewed,pr,pr
