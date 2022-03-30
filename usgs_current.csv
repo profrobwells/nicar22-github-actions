@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-30T11:47:18.986Z,36.6635,-116.2645,7,1.3,ml,18,83.99,0.062,0.2866,nn,nn00836312,2022-03-30T11:50:11.247Z,"51 km ESE of Beatty, Nevada",earthquake,,0.5,0.92,14,automatic,nn,nn
+2022-03-30T11:46:49.640Z,33.27,-116.807,14.48,0.77,ml,22,49,0.05277,0.17,ci,ci39981743,2022-03-30T11:50:27.539Z,"5km NW of Lake Henshaw, CA",earthquake,0.27,0.67,0.107,17,automatic,ci,ci
 2022-03-30T11:43:27.780Z,38.8093338,-122.8235016,2.1,1.01,md,21,62,0.004459,0.02,nc,nc73712266,2022-03-30T11:45:03.993Z,"7km WNW of The Geysers, CA",earthquake,0.22,0.44,0.14,3,automatic,nc,nc
-2022-03-30T11:18:26.250Z,36.6481667,-121.265831,8.57,1.45,md,11,134,0.05412,0.06,nc,nc73712261,2022-03-30T11:46:14.682Z,"16km SSE of Tres Pinos, CA",earthquake,0.53,0.82,0.3,8,automatic,nc,nc
+2022-03-30T11:18:26.250Z,36.6481667,-121.265831,8.57,1.45,md,11,134,0.05412,0.06,nc,nc73712261,2022-03-30T11:50:10.705Z,"16km SSE of Tres Pinos, CA",earthquake,0.53,0.82,0.3,8,automatic,nc,nc
 2022-03-30T11:03:37.860Z,17.8766666666667,-66.8943333333333,16.8,2.46,md,9,245,,0.23,pr,pr71342703,2022-03-30T11:28:28.200Z,"10 km S of Guánica, Puerto Rico",earthquake,1.57,1.27,0.057434748908415,5,reviewed,pr,pr
 2022-03-30T11:01:18.280Z,19.2231674194336,-155.406494140625,32.4099998474121,2.16,ml,46,142,,0.109999999,hv,hv72967432,2022-03-30T11:06:48.530Z,"7 km ENE of Pāhala, Hawaii",earthquake,0.53,0.829999983,3.06,6,automatic,hv,hv
 2022-03-30T11:00:55.841Z,-6.5588,147.2196,88.25,4.5,mb,,91,10.394,0.28,us,us7000gye0,2022-03-30T11:40:09.040Z,"30 km NE of Lae, Papua New Guinea",earthquake,12.9,8.7,0.124,19,reviewed,us,us
@@ -24,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-30T09:05:38.781Z,-29.6699,-176.7672,10,4.7,mb,,133,1.084,0.41,us,us7000gydd,2022-03-30T10:57:54.040Z,"Kermadec Islands region",earthquake,10.9,1.7,0.142,15,reviewed,us,us
 2022-03-30T09:02:36.453Z,62.2706,-150.1427,14.5,1.3,ml,,,,0.6,ak,ak02243c7an1,2022-03-30T09:18:40.478Z,"6 km SSW of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-30T08:56:16.550Z,60.7362,-147.6485,13.3,1.7,ml,,,,1,ak,ak02243bxe6a,2022-03-30T09:17:56.695Z,"54 km WSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-03-30T08:47:19.516Z,31.6718,-104.3863,6.4,3.3,ml,,58,0.097,0.36,us,us7000gyd7,2022-03-30T08:57:32.040Z,"55 km S of Whites City, New Mexico",earthquake,1.8,1.9,0.049,54,reviewed,us,us
+2022-03-30T08:47:19.215Z,31.6571378,-104.3861347,5.488867188,3.3,ml,9,80,0.09840824525,0.1,tx,tx2022gflr,2022-03-30T11:58:04.449Z,"57 km S of Whites City, New Mexico",earthquake,1.816749839,2.435037665,0.2,6,reviewed,tx,tx
 2022-03-30T08:47:06.190Z,17.979,-66.9598333333333,8.96,2.43,md,26,162,,0.15,pr,pr71342683,2022-03-30T09:05:22.630Z,"4 km WSW of Fuig, Puerto Rico",earthquake,0.26,0.43,0.086126918548012,17,reviewed,pr,pr
 2022-03-30T08:43:22.342Z,61.1097,-148.0431,8.6,1.1,ml,,,,1.29,ak,ak02243bumek,2022-03-30T08:45:53.864Z,"51 km NE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-30T08:39:10.500Z,18.0221666666667,-66.7595,14.14,2.18,md,15,110,,0.17,pr,pr71342673,2022-03-30T08:59:40.490Z,"1 km ENE of Magas Arriba, Puerto Rico",earthquake,0.41,0.51,0.161128304622299,9,reviewed,pr,pr
