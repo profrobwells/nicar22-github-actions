@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-30T19:50:10.752Z,61.3161,-147.0173,16.8,1.5,ml,,,,0.87,ak,ak02243ifv2u,2022-03-30T19:53:01.562Z,"41 km WNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-30T19:47:55.931Z,63.394,-150.1674,117.7,1.4,ml,,,,0.69,ak,ak02243ifapy,2022-03-30T19:53:11.075Z,"60 km W of Cantwell, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2022-03-30T19:39:10.270Z,36.1803333,-118.0131667,-0.33,1.12,ml,14,98,0.1989,0.17,ci,ci39982015,2022-03-30T19:42:45.606Z,"11km S of Olancha, CA",earthquake,0.44,31.61,0.177,9,automatic,ci,ci
-2022-03-30T19:35:17.432Z,62.6493,-152.2118,0,1.5,ml,,,,1,ak,ak02243icnvq,2022-03-30T19:43:06.453Z,"76 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-03-30T19:32:15.765Z,62.6907,-151.8135,0,1.5,ml,,,,0.97,ak,ak02243ic0j7,2022-03-30T19:41:35.905Z,"58 km WNW of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-03-30T19:35:17.432Z,62.6493,-152.2118,0,1.5,ml,,,,1,ak,ak02243icnvq,2022-03-30T19:45:52.399Z,"76 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-30T19:32:14.610Z,62.652,-152.229,8.4,1.6,ml,,,,1.23,ak,ak02243ic0j7,2022-03-30T19:45:53.133Z,"77 km WNW of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-03-30T19:09:13.280Z,46.0078333,-112.4575,-2,1.72,ml,16,125,0.068,0.12,mb,mb80541814,2022-03-30T19:38:41.840Z,"5 km E of Butte, Montana",quarry blast,0.36,31.61,0.232,12,reviewed,mb,mb
 2022-03-30T19:04:18.699Z,57.8349,-138.2506,0,3,ml,,,,0.89,ak,ak02243i60r0,2022-03-30T19:10:53.856Z,"119 km WSW of Elfin Cove, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-03-30T18:18:39.510Z,34.2033333,-116.831,7.76,1.04,ml,33,52,0.09481,0.13,ci,ci39981967,2022-03-30T18:55:41.482Z,"7km SSE of Big Bear City, CA",earthquake,0.17,0.45,0.086,16,reviewed,ci,ci
@@ -226,4 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-29T20:13:54.870Z,38.8343315,-122.8121643,1.88,0.36,md,14,76,0.01104,0.01,nc,nc73712031,2022-03-29T20:42:14.235Z,"8km W of Cobb, CA",earthquake,0.27,0.67,,1,automatic,nc,nc
 2022-03-29T20:11:20.510Z,33.3611667,-116.3743333,10.7,1.25,ml,38,69,0.05419,0.15,ci,ci39981423,2022-03-29T20:23:07.910Z,"12km N of Borrego Springs, CA",earthquake,0.22,0.37,0.139,26,reviewed,ci,ci
 2022-03-29T20:03:56.320Z,38.8353348,-122.81633,1.16,0.36,md,10,76,0.01288,0.02,nc,nc73712026,2022-03-29T20:05:30.030Z,"8km W of Cobb, CA",earthquake,0.29,0.72,,1,automatic,nc,nc
-2022-03-29T19:47:45.720Z,35.8646667,-117.668,6.26,2.14,ml,38,48,0.07526,0.13,ci,ci39981407,2022-03-29T21:42:47.240Z,"23km ESE of Little Lake, CA",earthquake,0.13,0.39,0.18,25,reviewed,ci,ci

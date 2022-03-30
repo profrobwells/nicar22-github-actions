@@ -7324,3 +7324,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-30T19:35:17.432Z,62.6493,-152.2118,0.0,1.5,ml,,,,1.0,ak,ak02243icnvq,2022-03-30T19:43:06.453Z,"76 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-30T19:32:15.765Z,62.6907,-151.8135,0.0,1.5,ml,,,,0.97,ak,ak02243ic0j7,2022-03-30T19:41:35.905Z,"58 km WNW of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-30T19:09:13.280Z,46.0078333,-112.4575,-2.0,1.72,ml,16.0,125.0,0.068,0.12,mb,mb80541814,2022-03-30T19:38:41.840Z,"5 km E of Butte, Montana",quarry blast,0.36,31.61,0.232,12.0,reviewed,mb,mb
+2022-03-30T19:50:10.752Z,61.3161,-147.0173,16.8,1.5,ml,,,,0.87,ak,ak02243ifv2u,2022-03-30T19:53:01.562Z,"41 km WNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-30T19:47:55.931Z,63.394,-150.1674,117.7,1.4,ml,,,,0.69,ak,ak02243ifapy,2022-03-30T19:53:11.075Z,"60 km W of Cantwell, Alaska",earthquake,,1.7,,,automatic,ak,ak
