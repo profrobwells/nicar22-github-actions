@@ -7530,3 +7530,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-31T10:34:39.860Z,38.8336678,-122.7913361,1.8,0.97,md,18.0,48.0,0.004797,0.02,nc,nc73712641,2022-03-31T10:36:17.285Z,"6km WNW of Cobb, CA",earthquake,0.23,0.44,0.13,4.0,automatic,nc,nc
 2022-03-31T10:16:22.060Z,-22.6503,170.7582,10.0,5.1,mb,,107.0,3.059,0.63,us,us7000gyp3,2022-03-31T10:37:16.040Z,southeast of the Loyalty Islands,earthquake,7.1,1.9,0.102,31.0,reviewed,us,us
 2022-03-31T05:17:31.416Z,31.65728923,-104.4329621,3.997802734,2.4,ml,17.0,80.0,0.1183804999,0.3,tx,tx2022ghaf,2022-03-31T10:39:54.357Z,"57 km S of Whites City, New Mexico",earthquake,2.104589297,2.832798141,0.2,16.0,reviewed,tx,tx
+2022-03-31T10:52:04.500Z,38.7478333,-122.725502,1.45,1.54,md,12.0,122.0,0.01375,0.06,nc,nc73712651,2022-03-31T10:54:34.956Z,"4km SW of Anderson Springs, CA",earthquake,0.36,0.53,0.11,5.0,automatic,nc,nc
+2022-03-31T10:49:44.480Z,35.8596667,-117.6926667,10.74,0.9,ml,14.0,75.0,0.07774,0.05,ci,ci39982439,2022-03-31T10:53:23.155Z,"21km ESE of Little Lake, CA",earthquake,0.16,0.3,0.218,11.0,automatic,ci,ci
