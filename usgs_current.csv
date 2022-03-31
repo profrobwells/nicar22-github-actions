@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-31T21:55:06.680Z,34.1043333,-116.8103333,2.42,0.93,ml,9,262,0.2309,0.32,ci,ci39983103,2022-03-31T21:58:41.442Z,"18km S of Big Bear City, CA",earthquake,4.31,31.61,0.08,10,automatic,ci,ci
+2022-03-31T21:54:15.230Z,33.485,-116.9073333,13.45,0.61,ml,19,64,0.09347,0.25,ci,ci39983095,2022-03-31T21:57:49.141Z,"6km NW of Aguanga, CA",earthquake,0.47,1.37,0.126,14,automatic,ci,ci
 2022-03-31T21:30:09.524Z,64.8145,-149.3951,35.1,1.2,ml,,,,1.21,ak,ak0224571scv,2022-03-31T21:35:29.041Z,"26 km NNW of Four Mile Road, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-03-31T21:28:21.250Z,38.8144989,-122.8190002,2.86,0.84,md,10,81,0.009739,0.01,nc,nc73712791,2022-03-31T21:29:57.505Z,"7km NW of The Geysers, CA",earthquake,0.44,0.93,,1,automatic,nc,nc
 2022-03-31T21:25:02.450Z,19.174165725708,-155.475173950195,33.0900001525879,2.29,ml,44,78,,0.150000006,hv,hv72969212,2022-03-31T21:36:04.040Z,"3 km S of Pāhala, Hawaii",earthquake,0.56,0.779999971,2.55,12,automatic,hv,hv
-2022-03-31T21:12:20.740Z,37.4115,-118.602,10.24,1.46,md,24,61,0.0659,0.06,nc,nc73712786,2022-03-31T21:46:10.843Z,"0km SW of Round Valley, CA",earthquake,0.31,0.86,0.124,18,reviewed,nc,nc
+2022-03-31T21:12:20.740Z,37.4115,-118.602,10.24,1.46,md,24,61,0.0659,0.06,nc,nc73712786,2022-03-31T22:01:15.938Z,"0km SW of Round Valley, CA",earthquake,0.31,0.86,0.124,18,reviewed,nc,nc
 2022-03-31T21:00:50.670Z,38.8214989,-122.7931671,3.21,0.35,md,10,90,0.01276,0.01,nc,nc73712781,2022-03-31T21:17:25.705Z,"6km NNW of The Geysers, CA",earthquake,0.63,1.1,,1,automatic,nc,nc
 2022-03-31T20:55:28.240Z,37.4086667,-118.6275,5.96,0.78,md,8,165,0.07542,0.01,nc,nc73712776,2022-03-31T21:41:23.816Z,"3km WSW of Round Valley, CA",earthquake,0.91,2.03,0.196,9,reviewed,nc,nc
 2022-03-31T20:10:49.140Z,36.1845,-118.0083333,3.91,0.78,ml,18,87,0.08576,0.12,ci,ci39983015,2022-03-31T20:39:06.832Z,"11km S of Olancha, CA",earthquake,0.25,0.57,0.085,5,reviewed,ci,ci
@@ -11,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-31T19:58:41.070Z,38.8064995,-122.7908325,0.62,0.73,md,17,48,0.003788,0.03,nc,nc73712761,2022-03-31T20:16:15.311Z,"4km NW of The Geysers, CA",earthquake,0.2,0.4,0.24,3,automatic,nc,nc
 2022-03-31T19:57:07.469Z,40.4055,-118.6147,9.9,2.4,ml,11,193.23,0.728,0.1705,nn,nn00836431,2022-03-31T21:00:04.181Z,"27 km NNW of Lovelock, Nevada",earthquake,,2.1,0.29,8,reviewed,nn,nn
 2022-03-31T19:50:51.261Z,64.9149,-147.9833,0,1.7,ml,,,,1.07,ak,ak022455zaqf,2022-03-31T20:01:58.481Z,"7 km N of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-03-31T19:50:40.304Z,-22.7317,170.6514,10,6.3,mww,,97,2.962,0.7,us,us7000gysz,2022-03-31T20:41:34.859Z,"southeast of the Loyalty Islands",earthquake,7.6,1.9,0.098,10,reviewed,us,us
+2022-03-31T19:50:40.304Z,-22.7317,170.6514,10,6.3,mww,,97,2.962,0.7,us,us7000gysz,2022-03-31T21:55:28.594Z,"southeast of the Loyalty Islands",earthquake,7.6,1.9,0.098,10,reviewed,us,us
 2022-03-31T19:49:35.179Z,64.6561,-151.767,17.9,1.2,ml,,,,0.63,ak,ak022455z1ql,2022-03-31T19:52:20.460Z,"59 km SSE of Tanana, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-31T19:47:50.750Z,34.4005,-116.464,3.84,1.4,ml,36,52,0.1276,0.14,ci,ci39982967,2022-03-31T20:30:07.294Z,"32km N of Yucca Valley, CA",earthquake,0.15,0.54,0.126,24,reviewed,ci,ci
 2022-03-31T19:46:43.370Z,35.668,-117.4753333,6.7,1.13,ml,26,85,0.08202,0.16,ci,ci39982959,2022-03-31T20:22:03.825Z,"13km SSW of Searles Valley, CA",earthquake,0.24,0.77,0.116,10,reviewed,ci,ci
@@ -201,7 +203,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-31T02:44:22.180Z,38.8313332,-122.8010025,1.48,0.85,md,9,64,0.01063,0.01,nc,nc73712506,2022-03-31T03:07:15.315Z,"7km W of Cobb, CA",earthquake,0.39,1.09,,1,automatic,nc,nc
 2022-03-31T02:41:22.530Z,37.4086667,-118.6005,10.31,1.06,md,19,66,0.06285,0.04,nc,nc73712501,2022-03-31T07:45:52.354Z,"1km SSW of Round Valley, CA",earthquake,0.32,0.81,0.133,15,reviewed,nc,nc
 2022-03-31T02:40:07.470Z,38.8424988,-122.8773346,2.05,0.86,md,15,91,0.006408,0.02,nc,nc73712496,2022-03-31T04:57:19.938Z,"13km NW of The Geysers, CA",earthquake,0.28,0.54,0.02,2,automatic,nc,nc
-2022-03-31T02:39:59.869Z,35.40516667,-97.87983333,10.06,2.36,ml,99,20,0.03329346669,0.26,ok,ok2022ggvb,2022-03-31T13:36:28.294Z,"Oklahoma",earthquake,,0.9,0.2,25,reviewed,ok,ok
+2022-03-31T02:39:59.869Z,35.40516667,-97.87983333,10.06,2.36,ml,99,20,0.03329346669,0.26,ok,ok2022ggvb,2022-03-31T21:54:41.527Z,"Oklahoma",earthquake,,0.9,0.2,25,reviewed,ok,ok
 2022-03-31T02:34:58.300Z,19.2038326263428,-155.41633605957,33.0299987792969,1.79999995,md,33,156,,0.119999997,hv,hv72968257,2022-03-31T02:38:13.360Z,"6 km E of Pāhala, Hawaii",earthquake,0.66,0.790000021,0.74000001,11,automatic,hv,hv
 2022-03-31T02:31:02.388Z,62.0757,-149.7851,47.7,1.1,ml,,,,0.51,ak,ak02244vqr1a,2022-03-31T02:32:46.109Z,"10 km SSE of Susitna North, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-03-31T02:19:54.540Z,19.1735000610352,-155.453826904297,30.3899993896484,2.04999995,md,26,169,,0.140000001,hv,hv72968237,2022-03-31T02:22:58.210Z,"4 km SE of Pāhala, Hawaii",earthquake,0.7,1.12,1.01999998,3,automatic,hv,hv
@@ -253,5 +255,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-30T22:27:38.864Z,63.2607,-149.3592,7.7,1.9,ml,,,,0.64,ak,ak02243k3ala,2022-03-30T22:29:42.113Z,"25 km SW of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-30T22:23:11.930Z,38.8246651,-122.8584976,2.17,0.8,md,17,85,0.003143,0.02,nc,nc73712411,2022-03-31T00:44:13.422Z,"10km WNW of The Geysers, CA",earthquake,0.23,0.41,0.11,4,automatic,nc,nc
 2022-03-30T22:22:50.700Z,38.816,-122.798,2.59,0.35,md,20,69,0.008292,0.02,nc,nc73712406,2022-03-31T05:04:16.972Z,"6km NW of The Geysers, CA",earthquake,0.23,0.5,0.169,3,reviewed,nc,nc
-2022-03-30T22:06:10.990Z,35.4135,-97.88833333,9.64,1.8,ml,57,45,0.03239364326,0.51,ok,ok2022ggma,2022-03-30T23:44:41.738Z,"5 km ENE of Union City, Oklahoma",earthquake,,1.5,0.18,30,reviewed,ok,ok
-2022-03-30T21:54:04.873Z,57.4553,-154.7906,0,2.3,ml,,,,0.78,ak,ak02243jnkp3,2022-03-30T21:56:39.623Z,"23 km WSW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
