@@ -7560,3 +7560,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-31T13:12:57.810Z,33.8363333,-117.029,13.37,0.94,ml,24.0,57.0,0.1299,0.17,ci,ci39982527,2022-03-31T13:16:33.992Z,"9km NW of San Jacinto, CA",earthquake,0.25,0.87,0.134,22.0,automatic,ci,ci
 2022-03-31T12:56:05.168Z,36.3695,-103.2039,5.0,3.4,mb_lg,,90.0,1.236,1.03,us,us7000gypi,2022-03-31T13:37:36.762Z,"9 km S of Clayton, New Mexico",earthquake,3.1,1.9,0.041,157.0,reviewed,us,us
 2022-03-31T02:55:43.680Z,39.4201667,-110.3058333,-2.14,1.93,md,9.0,197.0,0.01543,0.13,uu,uu60488012,2022-03-31T13:28:05.049Z,"16 km SSE of Sunnyside, Utah",earthquake,0.62,0.81,0.144,8.0,reviewed,uu,uu
+2022-03-31T13:39:51.432Z,58.9495,-154.4904,63.0,1.6,ml,,,,0.2,ak,ak022452ccl5,2022-03-31T13:46:39.242Z,"56 km SSE of Kokhanok, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-03-31T13:39:30.529Z,60.1965,-153.3269,147.3,1.9,ml,,,,0.52,ak,ak022452cakw,2022-03-31T13:49:30.390Z,"54 km E of Port Alsworth, Alaska",earthquake,,0.8,,,automatic,ak,ak
