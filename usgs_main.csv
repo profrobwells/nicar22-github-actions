@@ -7522,3 +7522,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-31T09:29:54.594Z,57.5568,-155.7861,16.1,2.0,ml,,,,0.22,ak,ak02244zwgv7,2022-03-31T09:31:34.946Z,"79 km W of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-31T09:49:09.505Z,61.3513,-146.6957,9.5,2.6,ml,,,,0.88,ak,ak0224500np0,2022-03-31T09:53:14.045Z,"30 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-31T09:49:03.239Z,61.27,-147.4866,23.8,2.5,ml,,,,0.56,ak,ak0224500n7x,2022-03-31T09:53:12.538Z,"60 km S of Glacier View, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2022-03-31T10:09:19.263Z,61.056,-148.1202,7.7,0.6,ml,,,,1.05,ak,ak022450djhk,2022-03-31T10:11:38.237Z,"43 km NE of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-03-31T09:54:23.934Z,57.134,-154.9035,147.2,3.2,ml,,,,0.9,ak,ak0224501qkv,2022-03-31T09:58:12.301Z,"49 km WNW of Akhiok, Alaska",earthquake,,2.7,,,automatic,ak,ak
