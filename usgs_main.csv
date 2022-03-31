@@ -7520,3 +7520,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-31T09:36:41.950Z,19.2351665496826,-155.384994506836,32.7099990844727,2.18000007,md,47.0,145.0,,0.129999995,hv,hv72968592,2022-03-31T09:42:13.740Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.56,0.790000021,0.529999971,25.0,automatic,hv,hv
 2022-03-31T09:33:08.800Z,33.4826667,-116.5576667,11.11,0.98,ml,34.0,80.0,0.03972,0.17,ci,ci39982407,2022-03-31T09:36:40.673Z,"13km SE of Anza, CA",earthquake,0.23,0.46,0.193,26.0,automatic,ci,ci
 2022-03-31T09:29:54.594Z,57.5568,-155.7861,16.1,2.0,ml,,,,0.22,ak,ak02244zwgv7,2022-03-31T09:31:34.946Z,"79 km W of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-03-31T09:49:09.505Z,61.3513,-146.6957,9.5,2.6,ml,,,,0.88,ak,ak0224500np0,2022-03-31T09:53:14.045Z,"30 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-31T09:49:03.239Z,61.27,-147.4866,23.8,2.5,ml,,,,0.56,ak,ak0224500n7x,2022-03-31T09:53:12.538Z,"60 km S of Glacier View, Alaska",earthquake,,1.5,,,automatic,ak,ak
