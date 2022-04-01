@@ -7902,3 +7902,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-01T18:01:21.500Z,33.8473333,-117.4956667,1.87,1.77,ml,48.0,26.0,0.05165,0.23,ci,ci39983879,2022-04-01T18:05:06.030Z,"4km SE of Home Gardens, CA",quarry blast,0.29,0.49,0.186,32.0,automatic,ci,ci
 2022-04-01T17:03:45.170Z,45.2966667,-112.0483333,-2.0,0.69,ml,6.0,131.0,0.064,0.1,mb,mb80541934,2022-04-01T17:56:44.320Z,"5 km ESE of Alder, Montana",quarry blast,1.17,31.61,0.194,3.0,reviewed,mb,mb
 2022-03-31T20:27:25.960Z,46.8778333,-112.513,15.37,0.79,ml,9.0,98.0,0.043,0.15,mb,mb80541939,2022-04-01T18:09:33.440Z,"15 km SE of Lincoln, Montana",earthquake,0.86,0.52,0.254,3.0,reviewed,mb,mb
+2022-04-01T04:37:04.840Z,37.4205,-118.5951667,8.29,1.01,md,17.0,106.0,0.07186,0.06,nc,nc73712946,2022-04-01T18:29:23.379Z,"1km NNE of Round Valley, CA",earthquake,0.25,0.72,0.16,13.0,reviewed,nc,nc
+2022-03-31T23:54:57.359Z,35.1,-95.5305,7.25,1.04,ml,39.0,87.0,0.1133777514,0.24,ok,ok2022gilc,2022-04-01T18:37:59.071Z,"12 km ESE of Crowder, Oklahoma",earthquake,,0.7,0.35,6.0,reviewed,ok,ok
