@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-04-02T09:19:55.350Z,19.2076663970947,-155.392166137695,32.3199996948242,1.92999995,md,24,167,,0.140000001,hv,hv72971072,2022-04-02T09:23:01.200Z,"9 km E of Pāhala, Hawaii",earthquake,0.89,1.14999998,0.959999979,3,automatic,hv,hv
-2022-04-02T09:15:32.060Z,38.6236649,-119.8205032,-0.63,1.83,md,8,96,0.2385,0.09,nc,nc73713311,2022-04-02T09:24:11.628Z,"8km SSW of Markleeville, CA",earthquake,0.59,10.76,0.3,4,automatic,nc,nc
+2022-04-02T09:15:32.060Z,38.6236649,-119.8205032,-0.63,1.83,md,8,96,0.2385,0.09,nc,nc73713311,2022-04-02T09:32:13.712Z,"8km SSW of Markleeville, CA",earthquake,0.59,10.76,0.3,4,automatic,nc,nc
 2022-04-02T09:07:31.527Z,60.4398,-152.2982,81.6,0.6,ml,,,,0.62,ak,ak02248auebm,2022-04-02T09:15:06.249Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-04-02T09:05:37.580Z,19.2061672210693,-155.392669677734,32.689998626709,2.66,ml,43,158,,0.180000007,hv,hv72971062,2022-04-02T09:16:13.040Z,"9 km E of Pāhala, Hawaii",earthquake,0.5,0.720000029,3.46,23,automatic,hv,hv
 2022-04-02T08:56:43.170Z,19.246166229248,-155.413665771484,33.4000015258789,1.84000003,md,24,143,,0.129999995,hv,hv72971052,2022-04-02T08:59:52.100Z,"8 km NE of Pāhala, Hawaii",earthquake,0.74,1.19000006,0.159999996,5,automatic,hv,hv
@@ -174,7 +174,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-01T15:57:56.530Z,17.9541666666667,-66.7355,15.07,1.94,md,15,166,,0.09,pr,pr71342948,2022-04-01T16:21:59.350Z,"4 km SSW of Tallaboa, Puerto Rico",earthquake,0.36,0.52,0.211416161868997,13,reviewed,pr,pr
 2022-04-01T15:47:19.590Z,38.7980003,-122.7486649,2.28,0.46,md,9,97,0.009021,0.02,nc,nc73713101,2022-04-01T16:14:12.676Z,"2km NNE of The Geysers, CA",earthquake,0.45,0.89,0.41,2,automatic,nc,nc
 2022-04-01T15:44:53.050Z,38.7891655,-122.7614975,2.49,1.83,md,30,62,0.01153,0.04,nc,nc73713096,2022-04-01T17:43:16.126Z,"1km NNW of The Geysers, CA",earthquake,0.24,0.42,0.14,9,automatic,nc,nc
-2022-04-01T15:31:59.620Z,40.8165,-123.4696667,26.05,3.02,ml,56,28,0.2071,0.14,nc,nc73713091,2022-04-02T09:24:11.509Z,"19km SE of Willow Creek, CA",earthquake,0.22,0.66,0.176,26,reviewed,nc,nc
+2022-04-01T15:31:59.620Z,40.8165,-123.4696667,26.05,3.02,ml,56,28,0.2071,0.14,nc,nc73713091,2022-04-02T09:32:13.556Z,"19km SE of Willow Creek, CA",earthquake,0.22,0.66,0.176,26,reviewed,nc,nc
 2022-04-01T15:30:06.340Z,19.3383331298828,-155.869995117188,5.32000017166138,1.78999996,md,33,218,,0.300000012,hv,hv72970132,2022-04-01T15:33:25.250Z,"13 km S of Honaunau-Napoopoo, Hawaii",earthquake,1.11,0.649999976,1.53999996,6,automatic,hv,hv
 2022-04-01T15:29:38.470Z,32.9933333,-116.4448333,12.99,0.82,ml,23,69,0.08392,0.13,ci,ci39983695,2022-04-01T21:36:51.953Z,"18km ESE of Julian, CA",earthquake,0.2,0.57,0.102,7,reviewed,ci,ci
 2022-04-01T15:22:07.272Z,38.2472,-118.3677,11.7,1.5,ml,18,150.4,0.108,0.1278,nn,nn00836493,2022-04-02T02:39:04.540Z,"27 km SW of Mina, Nevada",earthquake,,1.1,0.26,7,reviewed,nn,nn
@@ -254,5 +254,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-01T10:08:43.516Z,62.0599,-150.0842,40.4,1.9,ml,,,,0.87,ak,ak02246nwq2o,2022-04-01T10:13:37.191Z,"16 km SW of Susitna North, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-04-01T09:57:49.611Z,38.3483,-118.9237,9.3,2.4,ml,25,62.3,0.165,0.1145,nn,nn00836467,2022-04-02T05:18:16.150Z,"28 km ENE of Bridgeport, California",earthquake,,1.5,0.34,10,reviewed,nn,nn
 2022-04-01T09:48:51.960Z,35.40616667,-97.8785,6.55,1.51,ml,44,49,0.03419329011,0.28,ok,ok2022gjes,2022-04-01T13:55:40.116Z,"5 km ENE of Union City, Oklahoma",earthquake,,0.6,0.24,8,reviewed,ok,ok
-2022-04-01T09:32:01.772Z,9.0132,126.7193,35,4.9,mb,,85,2.236,0.77,us,us7000gyxy,2022-04-02T02:58:39.463Z,"46 km ENE of Aras-asan, Philippines",earthquake,7.9,1.9,0.051,119,reviewed,us,us
-2022-04-01T09:29:50.650Z,35.861,-117.6615,10.46,0.06,ml,8,98,0.06887,0.1,ci,ci39983511,2022-04-01T23:43:44.111Z,"24km ESE of Little Lake, CA",earthquake,0.33,0.87,0.073,3,reviewed,ci,ci
