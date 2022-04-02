@@ -8068,3 +8068,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-02T07:21:41.063Z,64.3948,-148.0195,5.9,1.3,ml,,,,0.31,ak,ak022489qjve,2022-04-02T07:28:20.221Z,"47 km SSW of South Van Horn, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-04-02T07:18:22.190Z,37.6346664,-119.0398331,-1.91,0.43,md,8.0,106.0,0.01184,0.04,nc,nc73713261,2022-04-02T07:19:58.094Z,"5km W of Mammoth Lakes, CA",earthquake,0.28,0.89,0.11,6.0,automatic,nc,nc
 2022-04-01T19:19:30.780Z,40.4981667,-122.1055,14.26,1.47,md,15.0,55.0,0.03611,0.17,nc,nc71127564,2022-04-02T07:27:42.683Z,"9km SE of Millville, CA",earthquake,0.58,0.97,0.201,14.0,reviewed,nc,nc
+2022-04-02T07:34:43.410Z,35.5356667,-117.0416667,0.15,1.57,ml,18.0,87.0,0.2198,0.17,ci,ci39984351,2022-04-02T07:38:22.358Z,"40km SE of Trona, CA",earthquake,0.42,31.61,0.106,20.0,automatic,ci,ci
+2022-04-02T07:32:20.740Z,40.3301659,-122.2603302,13.27,2.4,md,15.0,73.0,0.1593,0.16,nc,nc73713266,2022-04-02T07:38:10.904Z,"14km SSE of Anderson, CA",earthquake,0.71,1.43,0.1,13.0,automatic,nc,nc
