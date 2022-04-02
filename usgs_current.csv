@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-02T21:28:11.164Z,38.184,-117.9348,8.2,0.9,ml,9,167.74,0.042,0.2514,nn,nn00836590,2022-04-02T21:31:50.809Z,"27 km SSE of Mina, Nevada",earthquake,,0.8,0.25,5,automatic,nn,nn
 2022-04-02T21:22:09.660Z,38.8173332,-122.760498,1.89,0.45,md,11,118,0.01504,0.02,nc,nc73713526,2022-04-02T21:23:42.802Z,"3km W of Cobb, CA",earthquake,0.34,0.68,0.4,2,automatic,nc,nc
 2022-04-02T21:13:30.143Z,58.7063,-153.7081,78,1.9,ml,,,,0.36,ak,ak02248i0vrr,2022-04-02T21:20:50.691Z,"85 km NNW of Aleneva, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-04-02T21:04:34.821Z,64.4286,-146.7669,10.3,0.7,ml,,,,0.61,ak,ak02248hyyle,2022-04-02T21:10:11.006Z,"10 km NW of Harding-Birch Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -62,7 +63,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-02T13:41:57.620Z,33.191,-115.9835,3.61,1.02,ml,20,118,0.01812,0.24,ci,ci39984471,2022-04-02T13:45:41.700Z,"12km SSW of Salton City, CA",earthquake,0.45,0.45,0.108,20,automatic,ci,ci
 2022-04-02T13:39:27.190Z,33.1471667,-116.428,4.37,0.78,ml,18,79,0.121,0.22,ci,ci39984463,2022-04-02T13:43:12.683Z,"13km SSW of Borrego Springs, CA",earthquake,0.39,1.1,0.151,12,automatic,ci,ci
 2022-04-02T13:36:25.630Z,37.4093333,-118.5885,11.49,1.62,md,23,61,0.05957,0.05,nc,nc73713376,2022-04-02T20:59:11.779Z,"1km SE of Round Valley, CA",earthquake,0.33,0.84,0.082,23,reviewed,nc,nc
-2022-04-02T13:32:41.550Z,37.4086667,-118.5886667,12.4,2.09,md,26,61,0.05899,0.05,nc,nc73713371,2022-04-02T20:55:10.756Z,"1km SE of Round Valley, CA",earthquake,0.35,0.87,0.173,31,reviewed,nc,nc
+2022-04-02T13:32:41.550Z,37.4086667,-118.5886667,12.4,2.09,md,26,61,0.05899,0.05,nc,nc73713371,2022-04-02T21:32:15.964Z,"1km SE of Round Valley, CA",earthquake,0.35,0.87,0.173,31,reviewed,nc,nc
 2022-04-02T13:28:53.811Z,61.7085,-146.1087,19.6,1.6,ml,,,,0.92,ak,ak02248dcohx,2022-04-02T13:34:28.928Z,"41 km S of Tolsona, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-04-02T13:22:35.390Z,17.9888333333333,-66.8705,10.73,1.94,md,7,140,,0.21,pr,pr71343073,2022-04-02T13:51:16.380Z,"2 km ENE of Maria Antonia, Puerto Rico",earthquake,0.64,0.89,0.0263148561951103,3,reviewed,pr,pr
 2022-04-02T13:21:26.939Z,63.3437,-149.9876,99.8,1.9,ml,,,,0.67,ak,ak02248db4fz,2022-04-02T13:34:29.765Z,"52 km W of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -71,7 +72,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-02T12:34:05.907Z,60.4585,-151.8646,69.2,1.9,ml,,,,0.51,ak,ak02248csfil,2022-04-02T12:45:32.296Z,"31 km W of Kalifornsky, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-02T12:30:46.746Z,31.66828959,-104.4373715,5.128955078,2.6,ml,22,85,0.05405030127,0.3,tx,tx2022glfo,2022-04-02T13:59:18.677Z,"56 km S of Whites City, New Mexico",earthquake,2.144821144,1.978643322,0.1,15,reviewed,tx,tx
 2022-04-02T12:21:06.560Z,38.8371658,-122.8073349,2.35,0.85,md,15,53,0.01333,0.01,nc,nc73713361,2022-04-02T12:48:13.797Z,"8km WNW of Cobb, CA",earthquake,0.3,0.73,,1,automatic,nc,nc
-2022-04-02T12:19:24.050Z,37.4085,-118.6058333,5.03,1.4,md,18,103,0.224,0.05,nc,nc73713366,2022-04-02T20:55:10.884Z,"1km SW of Round Valley, CA",earthquake,0.31,6.68,0.105,17,reviewed,nc,nc
+2022-04-02T12:19:24.050Z,37.4085,-118.6058333,5.03,1.4,md,18,103,0.224,0.05,nc,nc73713366,2022-04-02T21:32:14.963Z,"1km SW of Round Valley, CA",earthquake,0.31,6.68,0.105,17,reviewed,nc,nc
 2022-04-02T12:16:52.250Z,36.4558333,-117.975,8.25,1.74,ml,20,116,0.08627,0.17,ci,ci39984423,2022-04-02T12:20:27.162Z,"17km SSE of Lone Pine, CA",earthquake,0.35,0.71,0.154,23,automatic,ci,ci
 2022-04-02T12:15:36.110Z,33.8581667,-116.8195,15.71,1.14,ml,43,37,0.03066,0.22,ci,ci39984415,2022-04-02T12:19:17.691Z,"7km SSW of Cabazon, CA",earthquake,0.28,0.63,0.201,27,automatic,ci,ci
 2022-04-02T12:14:35.330Z,38.8318329,-122.8198318,2.33,0.85,md,7,159,0.01136,0.01,nc,nc73713351,2022-04-02T12:36:13.712Z,"8km NW of The Geysers, CA",earthquake,0.88,2.19,,1,automatic,nc,nc
@@ -218,4 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-01T21:56:54.668Z,62.9254,-148.3555,14.7,1.5,ml,,,,0.8,ak,ak02246uqsyi,2022-04-01T21:59:04.710Z,"60 km SSE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-01T21:56:05.629Z,54.6162,-161.2891,25.5,1.8,ml,,,,0.61,ak,ak02246uqkjx,2022-04-01T22:32:11.702Z,"82 km SE of King Cove, Alaska",earthquake,,2.2,,,reviewed,ak,ak
 2022-04-01T21:49:18.142Z,49.3909,144.532,10,4.5,mb,,122,2.707,0.57,us,us7000gz4a,2022-04-01T22:16:56.040Z,"106 km E of Poronaysk, Russia",earthquake,9.3,1.9,0.088,38,reviewed,us,us
-2022-04-01T21:32:36.820Z,33.19,-115.6085,2.74,1.22,ml,12,118,0.01364,0.16,ci,ci39984119,2022-04-01T22:55:21.790Z,"10km WSW of Niland, CA",earthquake,0.52,0.27,0.47,9,reviewed,ci,ci
