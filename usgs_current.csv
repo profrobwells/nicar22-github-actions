@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-02T09:50:38.280Z,38.6211662,-119.8213348,-0.63,2.18,md,8,96,0.2388,0.08,nc,nc73713316,2022-04-02T09:57:14.707Z,"8km SSW of Markleeville, CA",earthquake,0.54,10.22,0.39,6,automatic,nc,nc
 2022-04-02T09:19:55.350Z,19.2076663970947,-155.392166137695,32.3199996948242,1.92999995,md,24,167,,0.140000001,hv,hv72971072,2022-04-02T09:23:01.200Z,"9 km E of Pāhala, Hawaii",earthquake,0.89,1.14999998,0.959999979,3,automatic,hv,hv
+2022-04-02T09:15:35.870Z,17.9945,-67.0075,9.95,2.01,md,5,137,,0.06,pr,pr71343058,2022-04-02T09:51:36.750Z,"4 km ENE of La Parguera, Puerto Rico",earthquake,0.54,0.77,0.115696071467529,4,reviewed,pr,pr
 2022-04-02T09:15:32.060Z,38.6236649,-119.8205032,-0.63,1.83,md,8,96,0.2385,0.09,nc,nc73713311,2022-04-02T09:47:11.648Z,"8km SSW of Markleeville, CA",earthquake,0.59,10.76,0.3,4,automatic,nc,nc
 2022-04-02T09:07:31.527Z,60.4398,-152.2982,81.6,0.6,ml,,,,0.62,ak,ak02248auebm,2022-04-02T09:15:06.249Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-04-02T09:05:37.580Z,19.2061672210693,-155.392669677734,32.689998626709,2.66,ml,43,158,,0.180000007,hv,hv72971062,2022-04-02T09:16:13.040Z,"9 km E of Pāhala, Hawaii",earthquake,0.5,0.720000029,3.46,23,automatic,hv,hv
@@ -81,9 +83,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-02T00:33:34.050Z,38.8100014,-122.7371674,2.93,0.45,md,9,127,0.01995,0.02,nc,nc73713216,2022-04-02T03:12:16.416Z,"2km SW of Cobb, CA",earthquake,0.44,1.33,0.08,2,automatic,nc,nc
 2022-04-02T00:32:21.830Z,19.1879997253418,-155.388168334961,31.7399997711182,2.11999989,md,27,173,,0.119999997,hv,hv72970612,2022-04-02T00:35:34.400Z,"9 km E of Pāhala, Hawaii",earthquake,0.88,1.01999998,0.0199999996,5,automatic,hv,hv
 2022-04-02T00:11:20.355Z,38.1206,-118.0005,14.6,0.9,ml,9,148.38,0.037,0.2446,nn,nn00836534,2022-04-02T00:15:31.826Z,"31 km SSE of Mina, Nevada",earthquake,,0.9,0.46,5,automatic,nn,nn
-2022-04-02T00:08:13.687Z,61.8193,-149.968,45.4,1.5,ml,,,,0.73,ak,ak022485ho7s,2022-04-02T00:15:46.508Z,"8 km NNE of Willow, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2022-04-02T00:08:13.687Z,61.8193,-149.968,45.4,1.5,ml,,,,0.73,ak,ak022485ho7s,2022-04-02T00:15:46.508Z,"Southern Alaska",earthquake,,1.3,,,automatic,ak,ak
 2022-04-02T00:07:42.969Z,36.6454,-115.8808,1.2,1.1,ml,17,113.22,0.118,0.2698,nn,nn00836532,2022-04-02T00:10:52.445Z,"20 km WNW of Indian Springs, Nevada",earthquake,,4,0.78,13,automatic,nn,nn
-2022-04-01T23:59:33.380Z,17.9831666666667,-66.9976666666667,13.41,2.45,md,6,159,,0.06,pr,pr71343013,2022-04-02T00:23:18.150Z,"5 km E of La Parguera, Puerto Rico",earthquake,0.6,0.39,0.0309424011766843,2,reviewed,pr,pr
+2022-04-01T23:59:33.380Z,17.9831666666667,-66.9976666666667,13.41,2.45,md,6,159,,0.06,pr,pr71343013,2022-04-02T00:23:18.150Z,"Puerto Rico region",earthquake,0.6,0.39,0.0309424011766843,2,reviewed,pr,pr
 2022-04-01T23:42:03.159Z,64.8163,-147.2684,16.2,1.2,ml,,,,0.96,ak,ak02246vuk65,2022-04-01T23:54:28.186Z,"8 km NNE of North Pole, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-01T23:35:16.290Z,19.115,-155.846333333333,41.42,2.26,md,34,224,,0.11,hv,hv72970532,2022-04-01T23:46:59.780Z,"9 km WNW of Hawaiian Ocean View, Hawaii",earthquake,0.5,0.62,0.104847912321113,13,reviewed,hv,hv
 2022-04-01T23:21:59.250Z,38.8264999,-122.8519974,1.8,0.86,md,6,139,0.003949,0.01,nc,nc73713196,2022-04-01T23:39:13.185Z,"10km WNW of The Geysers, CA",earthquake,0.82,1.13,,1,automatic,nc,nc
@@ -252,4 +254,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-01T10:15:06.510Z,35.8961667,-117.6973333,2.32,0.91,ml,14,71,0.06417,0.13,ci,ci39983519,2022-04-01T15:18:21.268Z,"19km ESE of Little Lake, CA",earthquake,0.21,0.37,0.134,10,reviewed,ci,ci
 2022-04-01T10:14:24.236Z,62.5395,-151.3791,86.7,1.9,ml,,,,0.49,ak,ak02246nxyvf,2022-04-01T10:26:31.993Z,"31 km W of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-04-01T10:08:43.516Z,62.0599,-150.0842,40.4,1.9,ml,,,,0.87,ak,ak02246nwq2o,2022-04-01T10:13:37.191Z,"16 km SW of Susitna North, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-04-01T09:57:49.611Z,38.3483,-118.9237,9.3,2.4,ml,25,62.3,0.165,0.1145,nn,nn00836467,2022-04-02T05:18:16.150Z,"28 km ENE of Bridgeport, California",earthquake,,1.5,0.34,10,reviewed,nn,nn
