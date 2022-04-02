@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-02T06:41:47.570Z,19.2465000152588,-155.398498535156,32.5800018310547,2.05999994,md,29,133,,0.140000001,hv,hv72970952,2022-04-02T06:44:56.040Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.64,1.02999997,0.839999974,16,automatic,hv,hv
+2022-04-02T06:40:51.177Z,35.6224823,-97.93963623,1.510193348,1.67,ml,18,52.852005,0.1057803854,1.100681698,ok,ok2022gkua,2022-04-02T06:42:38.902Z,"10 km N of El Reno, Oklahoma",earthquake,2.488100689,2.396745615,,13,automatic,ok,ok
+2022-04-02T06:31:31.470Z,33.163,-116.114,6.22,0.84,ml,21,81,0.0458,0.29,ci,ci39984311,2022-04-02T06:35:07.622Z,"3km NE of Ocotillo Wells, CA",earthquake,0.62,1.82,0.08,13,automatic,ci,ci
 2022-04-02T06:12:45.471Z,60.067,-152.7374,109.6,2,ml,,,,0.69,ak,ak022489375v,2022-04-02T06:15:39.425Z,"57 km WNW of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-02T05:59:21.199Z,61.8358,-150.2144,32.7,2.1,ml,,,,0.55,ak,ak022488rsai,2022-04-02T06:10:12.645Z,"13 km NW of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-02T05:49:42.490Z,19.3466663360596,-155.141662597656,4.6100001335144,1.97,ml,31,111,,0.170000002,hv,hv72970912,2022-04-02T05:55:12.370Z,"13 km S of Fern Forest, Hawaii",earthquake,0.46,0.949999988,0.2,4,automatic,hv,hv
@@ -46,9 +49,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-02T00:33:34.050Z,38.8100014,-122.7371674,2.93,0.45,md,9,127,0.01995,0.02,nc,nc73713216,2022-04-02T03:12:16.416Z,"2km SW of Cobb, CA",earthquake,0.44,1.33,0.08,2,automatic,nc,nc
 2022-04-02T00:32:21.830Z,19.1879997253418,-155.388168334961,31.7399997711182,2.11999989,md,27,173,,0.119999997,hv,hv72970612,2022-04-02T00:35:34.400Z,"9 km E of Pāhala, Hawaii",earthquake,0.88,1.01999998,0.0199999996,5,automatic,hv,hv
 2022-04-02T00:11:20.355Z,38.1206,-118.0005,14.6,0.9,ml,9,148.38,0.037,0.2446,nn,nn00836534,2022-04-02T00:15:31.826Z,"31 km SSE of Mina, Nevada",earthquake,,0.9,0.46,5,automatic,nn,nn
-2022-04-02T00:08:13.687Z,61.8193,-149.968,45.4,1.5,ml,,,,0.73,ak,ak022485ho7s,2022-04-02T00:15:46.508Z,"Southern Alaska",earthquake,,1.3,,,automatic,ak,ak
+2022-04-02T00:08:13.687Z,61.8193,-149.968,45.4,1.5,ml,,,,0.73,ak,ak022485ho7s,2022-04-02T00:15:46.508Z,"8 km NNE of Willow, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2022-04-02T00:07:42.969Z,36.6454,-115.8808,1.2,1.1,ml,17,113.22,0.118,0.2698,nn,nn00836532,2022-04-02T00:10:52.445Z,"20 km WNW of Indian Springs, Nevada",earthquake,,4,0.78,13,automatic,nn,nn
-2022-04-01T23:59:33.380Z,17.9831666666667,-66.9976666666667,13.41,2.45,md,6,159,,0.06,pr,pr71343013,2022-04-02T00:23:18.150Z,"Puerto Rico region",earthquake,0.6,0.39,0.0309424011766843,2,reviewed,pr,pr
+2022-04-01T23:59:33.380Z,17.9831666666667,-66.9976666666667,13.41,2.45,md,6,159,,0.06,pr,pr71343013,2022-04-02T00:23:18.150Z,"5 km E of La Parguera, Puerto Rico",earthquake,0.6,0.39,0.0309424011766843,2,reviewed,pr,pr
 2022-04-01T23:42:03.159Z,64.8163,-147.2684,16.2,1.2,ml,,,,0.96,ak,ak02246vuk65,2022-04-01T23:54:28.186Z,"8 km NNE of North Pole, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-01T23:35:16.290Z,19.115,-155.846333333333,41.42,2.26,md,34,224,,0.11,hv,hv72970532,2022-04-01T23:46:59.780Z,"9 km WNW of Hawaiian Ocean View, Hawaii",earthquake,0.5,0.62,0.104847912321113,13,reviewed,hv,hv
 2022-04-01T23:21:59.250Z,38.8264999,-122.8519974,1.8,0.86,md,6,139,0.003949,0.01,nc,nc73713196,2022-04-01T23:39:13.185Z,"10km WNW of The Geysers, CA",earthquake,0.82,1.13,,1,automatic,nc,nc
@@ -93,6 +96,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-01T20:02:24.320Z,36.205,-95.879,0,1.48,ml,55,115,0.3023406704,0.39,ok,ok2022gjyy,2022-04-01T21:13:20.809Z,"7 km SSW of Owasso, Oklahoma",quarry blast,,0.5,0.18,5,reviewed,ok,ok
 2022-04-01T20:02:02.918Z,63.0142,-150.6818,102.7,1.8,ml,,,,0.45,ak,ak02246ttooz,2022-04-01T20:04:52.720Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-04-01T20:00:22.350Z,33.954,-116.7668333,16.02,0.35,ml,8,195,0.1299,0.13,ci,ci39984015,2022-04-01T23:31:03.170Z,"4km NNE of Cabazon, CA",earthquake,0.57,1.26,0.008,3,reviewed,ci,ci
+2022-04-01T19:53:01.360Z,38.1158333,-122.175,-0.07,1.55,md,19,79,0.0215,0.13,nc,nc73713156,2022-04-02T06:35:37.491Z,"5km E of Vallejo, CA",quarry blast,0.27,31.61,0.308,22,reviewed,nc,nc
 2022-04-01T19:49:37.990Z,35.1436667,-118.9213333,7.76,1.5,ml,17,138,0.07663,0.2,ci,ci39984007,2022-04-02T00:06:40.230Z,"11km SW of Arvin, CA",earthquake,0.44,1.19,0.174,29,reviewed,ci,ci
 2022-04-01T19:37:20.830Z,38.8349991,-122.8115005,2,0.85,md,15,54,0.01164,0.02,nc,nc73713151,2022-04-01T21:02:15.323Z,"8km W of Cobb, CA",earthquake,0.27,0.59,,1,automatic,nc,nc
 2022-04-01T19:36:58.380Z,35.62116667,-97.948,6.09,1.83,ml,45,35,0.1088786343,0.23,ok,ok2022gjyc,2022-04-01T19:47:41.272Z,"9 km N of El Reno, Oklahoma",earthquake,,0.6,0.14,5,reviewed,ok,ok
@@ -264,4 +268,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-01T06:56:22.639Z,31.67343347,-104.3892399,6.645727539,3.8,ml,21,57,0.09520397973,0.3,tx,tx2022giza,2022-04-02T00:30:17.808Z,"55 km S of Whites City, New Mexico",earthquake,0.9923160555000001,1.102266479,0.1,12,reviewed,tx,tx
 2022-04-01T06:54:47.206Z,62.262,-150.8792,67.4,2,ml,,,,0.74,ak,ak02246lsuvi,2022-04-01T07:04:43.054Z,"26 km SSW of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-01T06:50:46.960Z,53.8625,-166.615833333333,8.4,-0.18,ml,6,143,,0.08,av,av91053478,2022-04-01T22:28:06.010Z,"5 km WSW of Unalaska, Alaska",earthquake,0.47,0.69,0.122062696061332,5,reviewed,av,av
-2022-04-01T06:27:52.586Z,31.6382,-104.4182,5,2.8,ml,,101,0.076,0.33,us,us7000gyw7,2022-04-01T06:39:11.040Z,"59 km S of Whites City, New Mexico",earthquake,1.3,1,0.074,35,reviewed,us,us
