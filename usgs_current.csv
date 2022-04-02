@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-02T20:18:56.020Z,36.8048325,-121.5414963,7.42,1.15,md,15,91,0.03199,0.14,nc,nc73713506,2022-04-02T20:20:33.222Z,"4km S of San Juan Bautista, CA",earthquake,0.55,0.86,0.26,10,automatic,nc,nc
+2022-04-02T20:22:56.150Z,33.9943352,-116.9881668,15.49,1.62,ml,66,55,0.06751,0.19,ci,ci39984791,2022-04-02T20:26:42.628Z,"6km E of Calimesa, CA",earthquake,0.2,0.59,0.213,26,automatic,ci,ci
+2022-04-02T20:18:56.020Z,36.8048325,-121.5414963,7.42,1.15,md,15,91,0.03199,0.14,nc,nc73713506,2022-04-02T20:35:21.637Z,"4km S of San Juan Bautista, CA",earthquake,0.55,0.86,0.26,10,automatic,nc,nc
 2022-04-02T20:02:29.440Z,38.809166,-122.7365036,2.7,0.85,md,9,124,0.02004,0.03,nc,nc73713501,2022-04-02T20:21:16.558Z,"2km SW of Cobb, CA",earthquake,0.53,1.22,,2,automatic,nc,nc
 2022-04-02T19:40:14.029Z,32.41607666,-101.5940596,7.067423503,3.1,ml,8,144,0.1946282478,0.1,tx,tx2022glts,2022-04-02T20:08:53.850Z,"western Texas",earthquake,1.380449073,2.944138455,0.2,6,reviewed,tx,tx
 2022-04-02T19:28:31.200Z,33.374,-116.8405,9.59,0.67,ml,25,61,0.1537,0.22,ci,ci39984767,2022-04-02T19:32:04.628Z,"3km NE of Palomar Observatory, CA",earthquake,0.34,1.59,0.182,18,automatic,ci,ci
@@ -33,6 +34,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-02T16:10:36.110Z,36.8549995,-121.5551682,3.99,1.55,md,7,143,0.04166,0.04,nc,nc73713416,2022-04-02T17:37:13.711Z,"2km NW of San Juan Bautista, CA",earthquake,0.57,1.21,0.06,7,automatic,nc,nc
 2022-04-02T16:08:11.390Z,17.972,-66.9253333333333,12.27,2.43,md,6,184,,0.07,pr,pr71343088,2022-04-02T20:17:12.110Z,"1 km W of Guánica, Puerto Rico",earthquake,0.54,0.3,0.156852642150339,3,reviewed,pr,pr
 2022-04-02T15:58:47.751Z,38.1892,-117.7801,3.9,2.1,ml,22,112.63,0.126,0.3151,nn,nn00836581,2022-04-02T16:02:27.461Z,"36 km SE of Mina, Nevada",earthquake,,1,0.19,14,automatic,nn,nn
+2022-04-02T15:52:13.308Z,52.2194,-173.331,78.7,2.5,ml,,,,0.59,ak,ak02248eomel,2022-04-02T20:32:03.788Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,0.7,,,reviewed,ak,ak
+2022-04-02T15:37:16.207Z,54.4659,-161.5283,18.1,1.9,ml,,,,0.54,ak,ak02248eldj0,2022-04-02T20:29:24.214Z,"83 km SE of King Cove, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2022-04-02T15:28:16.653Z,31.70688049,-104.2923358,6.979931641,2,ml,9,70,0.06777869899,0.2,tx,tx2022gllh,2022-04-02T17:23:13.927Z,"52 km S of Whites City, New Mexico",earthquake,1.419846011,2.126658453,0.2,9,reviewed,tx,tx
 2022-04-02T14:40:07.050Z,34.0270004,-117.1691666,13.44,1.26,ml,50,85,0.04789,0.19,ci,ci39984543,2022-04-02T14:43:39.122Z,"3km SSE of Redlands, CA",earthquake,0.29,0.68,0.187,9,automatic,ci,ci
 2022-04-02T14:35:05.040Z,35.9046667,-117.742,8.61,0.71,ml,9,166,0.07593,0.08,ci,ci39984527,2022-04-02T14:38:38.043Z,"15km ESE of Little Lake, CA",earthquake,0.36,0.69,0.204,4,automatic,ci,ci
@@ -61,7 +64,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-02T11:49:54.868Z,63.1226,-150.626,111.2,1.1,ml,,,,0.39,ak,ak02248cabem,2022-04-02T11:53:30.746Z,"70 km N of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-04-02T11:47:51.442Z,64.0009,-148.3638,33.3,1.5,ml,,,,1.34,ak,ak02248c9vpk,2022-04-02T11:49:54.345Z,"33 km ENE of Healy, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-04-02T11:44:04.284Z,64.6054,-150.3183,9.1,1.5,ml,,,,0.59,ak,ak02248c94x7,2022-04-02T11:50:31.705Z,"46 km SSE of Manley Hot Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-04-02T11:30:11.247Z,67.7858,-156.2047,4.7,2.2,ml,,,,0.62,ak,ak02248c65h6,2022-04-02T11:40:08.317Z,"102 km NNE of Kobuk, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-02T11:30:11.678Z,67.787,-156.2566,8.7,2,ml,,,,0.7,ak,ak02248c65h6,2022-04-02T20:24:14.688Z,"101 km NNE of Kobuk, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2022-04-02T11:24:12.667Z,31.02,139.8282,174.5,4.4,mb,,95,2.089,0.67,us,us7000gz7d,2022-04-02T11:50:37.040Z,"Izu Islands, Japan region",earthquake,7.9,7,0.066,67,reviewed,us,us
 2022-04-02T11:22:01.896Z,55.601,164.8474,34.09,4.6,mb,,94,4.453,0.5,us,us7000gz7f,2022-04-02T12:03:35.040Z,"163 km ESE of Ust’-Kamchatsk Staryy, Russia",earthquake,8.4,5.3,0.04,189,reviewed,us,us
 2022-04-02T11:16:45.681Z,31.7177,131.7496,45.22,4.7,mb,,101,1.125,0.58,us,us7000gz7b,2022-04-02T11:37:57.040Z,"38 km SE of Miyazaki, Japan",earthquake,6.2,7.3,0.058,91,reviewed,us,us
@@ -211,5 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-01T20:54:58.890Z,19.4443333333333,-155.597166666667,1.02,1.14,md,15,85,,0.15,hv,hv72970387,2022-04-02T00:38:15.690Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.38,0.53,0.278049534673564,9,reviewed,hv,hv
 2022-04-01T20:50:08.328Z,64.4022,-148.7616,18.5,0.8,ml,,,,0.71,ak,ak02246u3v0j,2022-04-01T22:29:03.190Z,"21 km ENE of Anderson, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2022-04-01T20:42:12.860Z,19.1163333333333,-155.674833333333,5.09,1.94,md,30,128,,0.16,hv,hv72970377,2022-04-02T00:10:11.100Z,"8 km NW of Wai‘ōhinu, Hawaii",earthquake,0.31,1.89,0.0713771838996025,13,reviewed,hv,hv
-2022-04-01T20:28:27.340Z,19.4888333333333,-155.7365,9.29,1.87,md,20,125,,0.12,hv,hv72970362,2022-04-01T23:24:08.680Z,"13 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.4,0.59,0.185954949264101,11,reviewed,hv,hv
-2022-04-01T20:23:10.610Z,19.4355,-155.6185,-0.37,2.52,md,24,139,,0.1,hv,hv72970357,2022-04-01T23:19:37.640Z,"25 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.21,0.26,0.0996365520234868,11,reviewed,hv,hv
