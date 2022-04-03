@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-03T21:21:56.540Z,38.8388329,-122.8115005,1.62,0.36,md,9,65,0.01546,0.01,nc,nc73713841,2022-04-03T21:23:33.181Z,"8km WNW of Cobb, CA",earthquake,0.32,1.35,,1,automatic,nc,nc
 2022-04-03T21:17:05.920Z,33.4015,-116.4258333,15.04,0.73,ml,17,78,0.1048,0.22,ci,ci39985415,2022-04-03T21:20:37.523Z,"17km NNW of Borrego Springs, CA",earthquake,0.53,1.1,0.155,14,automatic,ci,ci
 2022-04-03T21:14:50.990Z,37.6073341,-121.6518326,6.61,1.1,md,10,73,0.09694,0.08,nc,nc73713836,2022-04-03T21:25:11.355Z,"13km SE of Livermore, CA",earthquake,0.35,3.38,0.24,8,automatic,nc,nc
-2022-04-03T21:07:27.290Z,38.8364983,-122.809166,1.35,1.04,md,18,52,0.0131,0.06,nc,nc73713831,2022-04-03T21:09:03.402Z,"8km WNW of Cobb, CA",earthquake,0.24,0.49,0.15,2,automatic,nc,nc
+2022-04-03T21:07:27.290Z,38.8364983,-122.809166,1.35,1.04,md,18,52,0.0131,0.06,nc,nc73713831,2022-04-03T21:34:15.402Z,"8km WNW of Cobb, CA",earthquake,0.24,0.49,0.15,2,automatic,nc,nc
 2022-04-03T21:05:42.870Z,18.844165802002,-155.20133972168,8.82999992370605,2.06999993,md,20,271,,0.109999999,hv,hv72972387,2022-04-03T21:09:31.810Z,"46 km ESE of Naalehu, Hawaii",earthquake,1.34,0.689999998,1.95000005,6,automatic,hv,hv
 2022-04-03T20:50:23.660Z,18.8145008087158,-155.196838378906,8.11999988555908,2.05999994,md,25,284,,0.319999993,hv,hv72972377,2022-04-03T21:27:26.040Z,"49 km SE of Naalehu, Hawaii",earthquake,2.05,1.48000002,0.600000024,5,automatic,hv,hv
 2022-04-03T20:47:09.518Z,-57.4218,-25.2674,38.8,5.2,mb,,81,7.054,1.03,us,us7000gzff,2022-04-03T21:01:46.040Z,"South Sandwich Islands region",earthquake,8,8.7,0.085,46,reviewed,us,us
@@ -159,7 +159,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-03T04:18:36.056Z,64.874,-148.9862,5.4,1,ml,,,,0.58,ak,ak02249vgxzh,2022-04-03T04:22:13.967Z,"30 km NNE of Four Mile Road, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-04-03T04:17:51.480Z,35.3835,-117.8326667,2.17,1,ml,11,151,0.1163,0.14,ci,ci39984967,2022-04-03T04:21:30.075Z,"18km W of Johannesburg, CA",earthquake,0.52,0.91,0.215,15,automatic,ci,ci
 2022-04-03T04:12:22.571Z,59.8884,-152.5488,86,1.9,ml,,,,0.41,ak,ak02249vfmoc,2022-04-03T04:22:41.105Z,"42 km WNW of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-04-03T04:06:56.144Z,-33.7737,-70.6934,86.49,3.5,mb,,77,0.225,0.39,us,us7000gzar,2022-04-03T21:27:54.738Z,"Region Metropolitana, Chile",earthquake,3.2,4.7,0.35,2,reviewed,us,us
+2022-04-03T04:06:56.106Z,-33.7721,-70.6928,86.73,3.5,mb,,77,0.227,0.4,us,us7000gzar,2022-04-03T21:31:36.069Z,"5 km NE of Paine, Chile",earthquake,3.8,4.8,0.35,2,reviewed,us,us
 2022-04-03T04:02:47.880Z,17.9188333333333,-66.8871666666667,6.35,1.99,md,13,216,,0.21,pr,pr71343183,2022-04-03T04:28:34.170Z,"6 km SSE of Guánica, Puerto Rico",earthquake,0.73,0.4,0.0807929757403971,9,reviewed,pr,pr
 2022-04-03T03:52:53.300Z,17.9575,-66.9366666666667,12.5,2.39,md,9,205,,0.08,pr,pr71343178,2022-04-03T05:57:16.130Z,"3 km WSW of Guánica, Puerto Rico",earthquake,0.56,0.3,0.198073511203721,7,reviewed,pr,pr
 2022-04-03T03:28:54.630Z,19.2275,-155.382666666667,31,1.62,md,23,183,,0.12,hv,hv72971847,2022-04-03T03:42:18.620Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.77,0.93,0.167642109412981,12,reviewed,hv,hv
@@ -215,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-02T22:03:37.450Z,38.8203333,-122.7995,2.51,1.51,md,47,31,0.008808,0.03,nc,nc73713531,2022-04-03T03:22:13.994Z,"6km NW of The Geysers, CA",earthquake,0.15,0.29,0.063,13,reviewed,nc,nc
 2022-04-02T21:45:01.180Z,33.488,-116.4855,15.05,0.82,ml,21,76,0.06118,0.15,ci,ci39984839,2022-04-02T21:48:31.266Z,"19km ESE of Anza, CA",earthquake,0.3,0.48,0.146,21,automatic,ci,ci
 2022-04-02T21:41:24.350Z,32.5151,-104.4427,1.83,2.8,ml,,78,0.485,0.52,us,us7000gz9h,2022-04-02T21:55:00.040Z,"22 km WNW of La Huerta, New Mexico",earthquake,2.3,2.4,0.085,18,reviewed,us,us
-2022-04-02T21:34:01.010Z,17.9598333333333,-66.8818333333333,11.51,2.25,md,6,206,,0.12,pr,pr71343113,2022-04-02T22:22:12.550Z,"2 km SSE of Maria Antonia, Puerto Rico",earthquake,0.84,0.67,,1,reviewed,pr,pr
