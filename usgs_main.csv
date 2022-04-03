@@ -8454,3 +8454,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-03T21:38:45.503Z,34.4295,-106.8323,11.81,3.0,ml,,137.0,0.288,0.43,us,us7000gzg2,2022-04-03T22:19:28.040Z,"4 km SSW of Abeytas, New Mexico",earthquake,3.5,8.5,0.042,74.0,reviewed,us,us
 2022-04-03T02:29:30.283Z,54.5694,-163.2947,6.0,2.2,ml,,,,0.81,ak,ak02249ucg2q,2022-04-03T22:07:17.499Z,"32 km SSE of False Pass, Alaska",earthquake,,0.8,,,reviewed,ak,ak
 2022-04-03T01:10:41.600Z,52.3524,-175.2639,241.3,2.9,ml,,,,0.58,ak,ak02249tmy3t,2022-04-03T22:01:03.513Z,"74 km WNW of Atka, Alaska",earthquake,,0.8,,,reviewed,ak,ak
+2022-04-03T22:22:55.550Z,32.3988333,-115.2618333,11.46,1.91,ml,17.0,169.0,0.04193,0.31,ci,ci39985447,2022-04-03T22:26:39.205Z,"8km NW of Delta, B.C., MX",earthquake,0.96,1.15,0.36,18.0,automatic,ci,ci
