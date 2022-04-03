@@ -8262,3 +8262,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-03T00:47:46.309Z,38.1329,-118.0172,7.0,1.7,ml,17.0,138.05,0.046,0.2032,nn,nn00836603,2022-04-03T00:51:40.678Z,"29 km SSE of Mina, Nevada",earthquake,,0.3,0.56,10.0,automatic,nn,nn
 2022-04-03T00:45:28.230Z,17.993,-66.8273333333333,20.51,2.44,md,10.0,175.0,,0.17,pr,pr71343143,2022-04-03T01:34:26.920Z,"0 km W of Indios, Puerto Rico",earthquake,0.81,0.62,0.189247132171472,8.0,reviewed,pr,pr
 2022-04-03T00:41:32.650Z,38.7798347,-122.7675018,1.29,0.46,md,9.0,117.0,0.009203,0.01,nc,nc73713566,2022-04-03T00:59:18.183Z,"1km WNW of The Geysers, CA",earthquake,0.43,0.7,0.1,2.0,automatic,nc,nc
+2022-04-03T02:52:07.819Z,36.4353,-117.1046,4.2,0.5,ml,9.0,308.02,0.307,0.104,nn,nn00836607,2022-04-03T02:55:21.294Z,"22 km W of Furnace Creek, California",earthquake,,3.0,1.2,3.0,automatic,nn,nn
