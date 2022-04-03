@@ -8411,3 +8411,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-03T18:15:21.100Z,38.1459999,-122.4605026,5.92,1.41,md,12.0,107.0,0.008852,0.05,nc,nc73713766,2022-04-03T18:32:15.361Z,"6km NE of Black Point-Green Point, CA",earthquake,0.31,0.58,0.22,10.0,automatic,nc,nc
 2022-04-03T18:14:21.702Z,38.1516,-117.8819,10.0,0.6,ml,8.0,166.07,0.062,0.0795,nn,nn00836636,2022-04-03T18:18:15.105Z,"33 km SE of Mina, Nevada",earthquake,,1.0,0.46,4.0,automatic,nn,nn
 2022-04-03T17:19:05.226Z,34.4469,-106.8794,6.91,3.0,ml,,55.0,0.291,0.72,us,us7000gzeb,2022-04-03T18:11:47.040Z,"6 km WSW of Abeytas, New Mexico",earthquake,2.7,2.9,0.069,28.0,reviewed,us,us
+2022-04-03T18:30:52.840Z,33.9833333,-117.8606667,1.74,1.07,ml,14.0,111.0,0.06464,0.24,ci,ci39985375,2022-04-03T18:34:37.942Z,"4km S of Walnut, CA",earthquake,0.54,0.83,0.296,33.0,automatic,ci,ci
+2022-04-03T18:30:47.780Z,33.9591667,-118.0525,14.52,1.17,ml,12.0,95.0,0.08612,0.26,ci,ci39985367,2022-04-03T18:34:31.969Z,"1km W of South Whittier, CA",earthquake,0.83,1.72,0.259,4.0,automatic,ci,ci
