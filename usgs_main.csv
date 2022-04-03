@@ -8440,3 +8440,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-03T17:31:30.844Z,49.8554,155.733,66.07,4.4,mb,,164.0,3.481,0.78,us,us7000gzem,2022-04-03T21:08:19.040Z,"95 km SSW of Severo-Kuril’sk, Russia",earthquake,10.8,8.4,0.063,73.0,reviewed,us,us
 2022-04-03T17:29:31.234Z,-4.4681,-76.9306,113.33,4.5,mb,,107.0,3.15,0.89,us,us7000gzeg,2022-04-03T20:56:01.040Z,"49 km NW of Barranca, Peru",earthquake,3.9,10.6,0.106,26.0,reviewed,us,us
 2022-04-03T10:22:09.740Z,61.9493333333333,-144.137,10.5,0.22,ml,4.0,216.0,,0.1,av,av91528486,2022-04-03T20:55:38.920Z,"49 km ENE of Kenny Lake, Alaska",earthquake,0.93,0.58,0.193761876557324,5.0,reviewed,av,av
+2022-04-03T21:21:56.540Z,38.8388329,-122.8115005,1.62,0.36,md,9.0,65.0,0.01546,0.01,nc,nc73713841,2022-04-03T21:23:33.181Z,"8km WNW of Cobb, CA",earthquake,0.32,1.35,,1.0,automatic,nc,nc
+2022-04-03T21:17:05.920Z,33.4015,-116.4258333,15.04,0.73,ml,17.0,78.0,0.1048,0.22,ci,ci39985415,2022-04-03T21:20:37.523Z,"17km NNW of Borrego Springs, CA",earthquake,0.53,1.1,0.155,14.0,automatic,ci,ci
+2022-04-03T21:14:50.990Z,37.6073341,-121.6518326,6.61,1.1,md,10.0,73.0,0.09694,0.08,nc,nc73713836,2022-04-03T21:25:11.355Z,"13km SE of Livermore, CA",earthquake,0.35,3.38,0.24,8.0,automatic,nc,nc
+2022-04-03T04:06:56.144Z,-33.7737,-70.6934,86.49,3.5,mb,,77.0,0.225,0.39,us,us7000gzar,2022-04-03T21:27:54.738Z,"Region Metropolitana, Chile",earthquake,3.2,4.7,0.35,2.0,reviewed,us,us
