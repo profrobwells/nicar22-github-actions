@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-03T19:10:29.550Z,17.9673333333333,-66.8163333333333,12.18,2.15,md,11,207,,0.19,pr,pr71343253,2022-04-03T19:24:52.940Z,"2 km S of Indios, Puerto Rico",earthquake,0.74,0.63,0.0578815304699059,9,reviewed,pr,pr
 2022-04-03T18:55:23.470Z,18.8893337249756,-155.223831176758,11.4499998092651,2.75999999,md,25,259,,0.239999995,hv,hv72972302,2022-04-03T18:58:39.670Z,"42 km ESE of Naalehu, Hawaii",earthquake,1.63,1.07000005,2.27999997,6,automatic,hv,hv
 2022-04-03T18:53:25.601Z,59.7672,-153.0568,104.2,1.6,ml,,,,0.37,ak,ak0224a40hqo,2022-04-03T18:58:15.372Z,"58 km E of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-04-03T18:44:29.647Z,-22.7765,170.0847,10,4.8,mww,,185,2.441,0.51,us,us7000gzeu,2022-04-03T19:23:08.040Z,"264 km ESE of Tadine, New Caledonia",earthquake,7.5,1.9,0.098,10,reviewed,us,us
 2022-04-03T18:30:52.840Z,33.9833333,-117.8606667,1.74,1.07,ml,14,111,0.06464,0.24,ci,ci39985375,2022-04-03T18:34:37.942Z,"4km S of Walnut, CA",earthquake,0.54,0.83,0.296,33,automatic,ci,ci
 2022-04-03T18:30:47.780Z,33.9591667,-118.0525,14.52,1.17,ml,12,95,0.08612,0.26,ci,ci39985367,2022-04-03T18:34:31.969Z,"1km W of South Whittier, CA",earthquake,0.83,1.72,0.259,4,automatic,ci,ci
 2022-04-03T18:28:56.038Z,39.571,-119.0627,0.1,1.4,ml,9,113.04,0.285,0.4366,nn,nn00836637,2022-04-03T18:32:18.922Z,"16 km ESE of Fernley, Nevada",earthquake,,43.3,0.24,3,automatic,nn,nn
@@ -14,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-03T17:34:06.719Z,61.0573,-152.4105,108.7,1,ml,,,,0.38,ak,ak0224a3ay1o,2022-04-03T17:46:14.280Z,"68 km W of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-03T17:27:49.127Z,38.1469,-117.9906,9.6,1.2,ml,11,136.51,0.026,0.0944,nn,nn00836634,2022-04-03T17:31:36.720Z,"28 km SSE of Mina, Nevada",earthquake,,0.5,0.33,6,automatic,nn,nn
 2022-04-03T17:19:05.226Z,34.4469,-106.8794,6.91,3,ml,,55,0.291,0.72,us,us7000gzeb,2022-04-03T18:40:47.652Z,"6 km WSW of Abeytas, New Mexico",earthquake,2.7,2.9,0.069,28,reviewed,us,us
-2022-04-03T17:16:53.620Z,38.7980003,-122.8116684,2.68,0.49,md,12,80,0.01177,0.01,nc,nc73713756,2022-04-03T17:35:23.011Z,"5km WNW of The Geysers, CA",earthquake,0.33,0.77,0.35,2,automatic,nc,nc
+2022-04-03T17:16:53.620Z,38.7980003,-122.8116684,2.68,0.49,md,12,80,0.01177,0.01,nc,nc73713756,2022-04-03T19:18:15.628Z,"5km WNW of The Geysers, CA",earthquake,0.33,0.77,0.35,2,automatic,nc,nc
 2022-04-03T17:11:46.349Z,60.1086,-151.1797,51.9,1.8,ml,,,,0.66,ak,ak0224a363nd,2022-04-03T17:19:21.655Z,"18 km SE of Clam Gulch, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-04-03T17:08:36.810Z,33.769165,-117.4876633,14.81,1.22,ml,9,111,0.0127,0.23,ci,ci39985311,2022-04-03T17:12:25.428Z,"12km SSE of Home Gardens, CA",earthquake,1.05,2.04,0.322,10,automatic,ci,ci
 2022-04-03T17:00:18.950Z,38.6049995,-121.9348297,1.99,1.63,md,10,98,0.08014,0.34,nc,nc73713746,2022-04-03T18:36:15.378Z,"9km NNE of Winters, CA",earthquake,1.15,8.17,0.21,7,automatic,nc,nc
@@ -213,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-02T19:45:15.098Z,51.61,-173.4552,33.39,2.5,ml,,215,0.75,0.41,us,us7000gz99,2022-04-02T20:54:22.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,5.1,17.8,0.115,10,reviewed,us,us
 2022-04-02T19:40:14.029Z,32.41607666,-101.5940596,7.067423503,3.1,ml,8,144,0.1946282478,0.1,tx,tx2022glts,2022-04-02T20:08:53.850Z,"16 km SE of Ackerly, Texas",earthquake,1.380449073,2.944138455,0.2,6,reviewed,tx,tx
 2022-04-02T19:28:31.200Z,33.374,-116.8405,9.59,0.67,ml,25,61,0.1537,0.22,ci,ci39984767,2022-04-02T19:32:04.628Z,"3km NE of Palomar Observatory, CA",earthquake,0.34,1.59,0.182,18,automatic,ci,ci
-2022-04-02T19:21:23.487Z,38.1901,-117.7585,3.5,1.6,ml,11,215.93,0.12,0.1088,nn,nn00836589,2022-04-02T19:25:11.038Z,"37 km SE of Mina, Nevada",earthquake,,1.3,0.21,7,automatic,nn,nn
