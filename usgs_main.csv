@@ -8415,3 +8415,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-03T18:30:47.780Z,33.9591667,-118.0525,14.52,1.17,ml,12.0,95.0,0.08612,0.26,ci,ci39985367,2022-04-03T18:34:31.969Z,"1km W of South Whittier, CA",earthquake,0.83,1.72,0.259,4.0,automatic,ci,ci
 2022-04-03T18:53:25.601Z,59.7672,-153.0568,104.2,1.6,ml,,,,0.37,ak,ak0224a40hqo,2022-04-03T18:57:03.530Z,"58 km E of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-04-03T14:08:12.960Z,17.9766666666667,-67.0445,4.89,1.94,md,4.0,128.0,,0.03,pr,pr71343248,2022-04-03T18:52:37.940Z,"0 km NE of La Parguera, Puerto Rico",earthquake,0.37,0.54,0.0014108680122677,2.0,reviewed,pr,pr
+2022-04-03T18:55:23.470Z,18.8893337249756,-155.223831176758,11.4499998092651,2.75999999,md,25.0,259.0,,0.239999995,hv,hv72972302,2022-04-03T18:58:39.670Z,"42 km ESE of Naalehu, Hawaii",earthquake,1.63,1.07000005,2.27999997,6.0,automatic,hv,hv
