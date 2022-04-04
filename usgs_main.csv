@@ -8583,3 +8583,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-04T11:42:33.140Z,19.2409992218018,-155.386993408203,30.7600002288818,2.21,ml,33.0,141.0,,0.150000006,hv,hv72973042,2022-04-04T11:48:04.550Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.54,0.779999971,4.53,4.0,automatic,hv,hv
 2022-04-04T11:40:45.980Z,19.1876659393311,-155.471664428711,30.8500003814697,1.88,md,26.0,130.0,,0.150000006,hv,hv72973037,2022-04-04T11:44:00.500Z,"1 km SSE of Pāhala, Hawaii",earthquake,0.95,1.0,0.800000012,3.0,automatic,hv,hv
 2022-04-03T23:27:30.130Z,36.9803333,-90.2653333,28.38,2.43,md,20.0,141.0,0.2407,0.22,nm,nm60380722,2022-04-04T11:45:06.220Z,southeastern Missouri,earthquake,0.52,1.29,0.128,16.0,reviewed,nm,nm
+2022-04-04T11:47:46.474Z,64.4197,-146.679,0.0,1.5,ml,,,,0.64,ak,ak0224bnckba,2022-04-04T11:57:29.971Z,"6 km NW of Harding-Birch Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-04T11:47:45.360Z,38.0739,-118.0063,15.4,0.8,ml,9.0,170.99,0.075,0.3689,nn,nn00836666,2022-04-04T11:51:38.470Z,"36 km SSE of Mina, Nevada",earthquake,,1.1,0.29,5.0,automatic,nn,nn
+2022-04-04T11:47:43.448Z,57.9458,-157.5,11.6,1.7,ml,,,,0.57,ak,ak0224bnck2z,2022-04-04T11:57:30.753Z,"30 km SSW of Egegik, Alaska",earthquake,,0.4,,,automatic,ak,ak
