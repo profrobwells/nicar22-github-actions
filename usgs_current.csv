@@ -222,4 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-03T05:26:11.470Z,38.8428345,-122.8756638,2.35,0.66,md,9,87,0.006187,0.02,nc,nc73713611,2022-04-03T07:11:17.383Z,"13km NW of The Geysers, CA",earthquake,0.47,0.69,0.22,2,automatic,nc,nc
 2022-04-03T05:24:56.181Z,63.2444,-151.0735,0.6,1.5,ml,,,,0.73,ak,ak02249w3pfo,2022-04-03T05:34:11.730Z,"46 km SE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-03T05:16:36.954Z,-31.458,-67.0636,114.7,5.1,mww,,35,1.387,0.84,us,us7000gzay,2022-04-03T14:36:48.964Z,"99 km SSE of San Agustín de Valle Fértil, Argentina",earthquake,5.9,3.8,0.043,53,reviewed,us,us
-2022-04-03T04:54:42.670Z,36.0381667,-117.7781667,2.31,0.63,ml,9,147,0.01663,0.17,ci,ci39984983,2022-04-03T04:58:16.765Z,"15km E of Coso Junction, CA",earthquake,0.53,0.34,0.143,6,automatic,ci,ci
