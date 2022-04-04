@@ -8685,3 +8685,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-04T17:49:07.850Z,38.1866,-118.0232,11.1,2.3,ml,21.0,122.57,0.033,0.302,nn,nn00836685,2022-04-04T17:52:58.059Z,"23 km SSE of Mina, Nevada",earthquake,,0.3,0.28,12.0,automatic,nn,nn
 2022-04-04T15:38:20.510Z,35.8321667,-117.6565,10.63,-0.08,ml,5.0,109.0,0.05066,0.04,ci,ci39985903,2022-04-04T18:07:34.282Z,"24km N of Ridgecrest, CA",earthquake,0.23,0.7,0.112,2.0,reviewed,ci,ci
 2022-04-04T14:28:33.090Z,35.711,-117.4506667,2.69,-0.1,ml,6.0,180.0,0.1246,0.11,ci,ci39985879,2022-04-04T18:05:39.861Z,"8km SW of Searles Valley, CA",earthquake,0.93,1.38,0.052,2.0,reviewed,ci,ci
+2022-04-04T18:32:03.320Z,38.7993317,-122.7523346,2.19,1.42,md,7.0,165.0,0.005907,0.01,nc,nc73714236,2022-04-04T18:33:36.246Z,"2km N of The Geysers, CA",earthquake,0.56,1.24,,1.0,automatic,nc,nc
+2022-04-04T18:25:18.155Z,63.06,-150.3407,104.6,1.2,ml,,,,0.33,ak,ak0224brdtlz,2022-04-04T18:27:17.718Z,"66 km NNE of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2022-04-04T14:49:12.710Z,46.59216666666666,-121.808,10.26,1.11,ml,21.0,92.0,0.1423,0.18,uw,uw61827816,2022-04-04T18:17:08.130Z,"10 km W of Packwood, Washington",earthquake,0.39,1.57,0.1306971027207453,8.0,reviewed,uw,uw
