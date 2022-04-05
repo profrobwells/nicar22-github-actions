@@ -8907,3 +8907,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-05T14:20:52.180Z,38.7113333,-122.9085,8.05,1.54,md,53.0,56.0,0.0751,0.06,nc,nc73714711,2022-04-05T17:36:10.584Z,"12km NNW of Healdsburg, CA",earthquake,0.19,0.47,0.16,21.0,reviewed,nc,nc
 2022-04-05T11:16:29.390Z,46.693,-121.67766666666668,4.3,0.84,ml,15.0,115.0,0.0827,0.14,uw,uw61819477,2022-04-05T17:26:40.410Z,"9 km N of Packwood, Washington",earthquake,0.32,0.88,0.0834915452202713,4.0,reviewed,uw,uw
 2022-04-05T09:47:12.130Z,38.7745,-122.7381667,1.14,0.06,md,15.0,76.0,0.008797,0.03,nc,nc73714621,2022-04-05T17:36:52.627Z,"2km E of The Geysers, CA",earthquake,0.22,0.37,0.012,4.0,reviewed,nc,nc
+2022-04-05T17:42:32.703Z,61.1747,-150.5169,61.3,1.4,ml,,,,0.26,ak,ak0224defesm,2022-04-05T17:45:38.638Z,"29 km NNE of Point Possession, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-04-05T03:41:56.170Z,38.8181667,-122.7631667,1.65,0.51,md,31.0,79.0,0.01337,0.04,nc,nc73714511,2022-04-05T17:46:53.628Z,"4km W of Cobb, CA",earthquake,0.16,0.31,0.195,5.0,reviewed,nc,nc
