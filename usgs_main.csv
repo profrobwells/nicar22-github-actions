@@ -8782,3 +8782,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-05T04:02:52.650Z,35.864,-117.6871667,6.63,0.4,ml,7.0,87.0,0.08395,0.05,ci,ci39986567,2022-04-05T04:06:26.301Z,"21km ESE of Little Lake, CA",earthquake,0.2,0.67,0.143,5.0,automatic,ci,ci
 2022-04-05T03:56:26.070Z,35.8651667,-117.6956667,3.36,0.46,ml,8.0,104.0,0.07971,0.13,ci,ci39986559,2022-04-05T04:00:04.026Z,"21km ESE of Little Lake, CA",earthquake,0.34,1.79,0.248,4.0,automatic,ci,ci
 2022-04-04T22:21:28.697Z,47.4698,-70.4352,6.41,1.8,ml,,91.0,0.108,0.47,us,us7000gzrv,2022-04-05T04:16:21.040Z,"5 km ENE of Baie-Saint-Paul, Canada",earthquake,2.3,4.6,0.148,6.0,reviewed,us,us
+2022-04-05T04:35:57.820Z,19.1666660308838,-155.466995239258,32.3699989318848,2.52,ml,46.0,89.0,,0.100000001,hv,hv72973782,2022-04-05T04:41:28.640Z,"4 km SSE of Pāhala, Hawaii",earthquake,0.43,0.639999986,3.92,16.0,automatic,hv,hv
+2022-04-05T04:22:03.992Z,62.9141,-149.181,52.4,2.9,ml,,,,0.64,ak,ak0224d6kfc9,2022-04-05T04:34:20.250Z,"54 km SSW of Cantwell, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2022-04-04T05:27:39.724Z,47.5906,-70.3062,16.93,1.9,ml,,104.0,0.044,0.47,us,us7000gzry,2022-04-05T04:28:27.040Z,"13 km WSW of La Malbaie, Canada",earthquake,3.9,2.6,0.105,12.0,reviewed,us,us
