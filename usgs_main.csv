@@ -8931,3 +8931,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-05T17:01:29.034Z,11.3835,125.8821,56.26,4.6,mb,,97.0,4.296,0.75,us,us7000gzx4,2022-04-05T19:31:10.040Z,"29 km ENE of Hernani, Philippines",earthquake,9.4,7.6,0.059,91.0,reviewed,us,us
 2022-04-05T04:42:02.760Z,36.8357,-116.1944,6.2,-0.2,ml,11.0,91.52,0.086,0.1032,nn,nn00836722,2022-04-05T19:38:49.741Z,"51 km E of Beatty, Nevada",earthquake,,2.3,0.43,4.0,reviewed,nn,nn
 2022-04-05T04:33:50.715Z,37.0362,-116.3591,10.0,0.0,ml,8.0,144.17,0.124,0.1055,nn,nn00836721,2022-04-05T19:29:32.175Z,"38 km ENE of Beatty, Nevada",earthquake,,2.6,1.32,6.0,reviewed,nn,nn
+2022-04-05T05:25:17.567Z,36.6979,-116.3186,9.3,0.0,ml,6.0,334.88,0.09,0.0795,nn,nn00836723,2022-04-05T19:51:12.585Z,"45 km ESE of Beatty, Nevada",earthquake,,3.5,0.1,3.0,reviewed,nn,nn
