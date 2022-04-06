@@ -9133,3 +9133,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-06T08:01:48.240Z,52.0065,178.2605,4.63,1.9,ml,5.0,330.0,,0.17,av,av91530706,2022-04-06T16:59:20.340Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,3.55,3.15,0.290946676507205,5.0,reviewed,av,av
 2022-04-06T00:20:19.040Z,43.72666666666667,-121.2515,-0.34,0.11,ml,5.0,185.0,0.01232,0.07,uw,uw61819812,2022-04-06T17:14:03.500Z,"20 km ESE of Three Rivers, Oregon",earthquake,0.98,8.44,0.0206393162736771,2.0,reviewed,uw,uw
 2022-04-06T13:00:11.023Z,36.6061,-115.8786,11.0,0.4,ml,3.0,332.01,0.087,0.0144,nn,nn00836770,2022-04-06T17:32:49.464Z,"19 km WNW of Indian Springs, Nevada",earthquake,,4.8,0.0,1.0,reviewed,nn,nn
+2022-04-06T17:43:25.935Z,61.3647,-146.7586,18.1,2.8,ml,,,,0.77,ak,ak0224f1yyh3,2022-04-06T17:45:22.126Z,"34 km NW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-06T17:34:39.855Z,38.1128,-118.1321,0.0,0.6,ml,9.0,215.77,0.138,0.1757,nn,nn00836772,2022-04-06T17:38:29.395Z,"30 km S of Mina, Nevada",earthquake,,14.3,0.2,3.0,automatic,nn,nn
+2022-04-06T13:15:32.906Z,37.1807,-116.2302,2.7,0.9,ml,11.0,181.39,0.066,0.1661,nn,nn00836773,2022-04-06T17:42:07.754Z,"55 km ENE of Beatty, Nevada",earthquake,,5.6,0.35,8.0,reviewed,nn,nn
+2022-04-06T10:03:50.950Z,46.34216666666666,-122.22616666666669,5.34,1.0,ml,18.0,133.0,0.04721,0.15,uw,uw61819857,2022-04-06T17:43:07.000Z,"24 km S of Morton, Washington",earthquake,0.48,0.91,0.1756503655788404,7.0,reviewed,uw,uw
