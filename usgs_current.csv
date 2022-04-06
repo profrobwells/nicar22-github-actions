@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-06T05:24:41.360Z,38.7579994,-122.7178345,1.73,2.23,md,31,71,0.006562,0.05,nc,nc73714916,2022-04-06T05:26:18.834Z,"3km SW of Anderson Springs, CA",earthquake,0.23,0.31,0.06,10,automatic,nc,nc
+2022-04-06T05:34:47.708Z,65.3181,-149.9753,10.9,1.3,ml,,,,0.32,ak,ak0224eurvjw,2022-04-06T05:38:30.422Z,"22 km SSE of Rampart, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-06T05:31:54.580Z,32.9566667,-116.3751667,7.11,0.94,ml,8,193,0.4968,0.2,ci,ci39987167,2022-04-06T05:35:27.246Z,"21km NE of Pine Valley, CA",earthquake,2.22,31.61,0.259,7,automatic,ci,ci
+2022-04-06T05:24:41.360Z,38.7579994,-122.7178345,1.73,2.23,md,31,71,0.006562,0.05,nc,nc73714916,2022-04-06T05:31:10.838Z,"3km SW of Anderson Springs, CA",earthquake,0.23,0.31,0.06,10,automatic,nc,nc
 2022-04-06T05:20:39.114Z,62.8953,-148.3327,9.7,1.4,ml,,,,0.92,ak,ak0224euourr,2022-04-06T05:24:31.623Z,"63 km SSE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-06T05:06:19.177Z,64.8535,-148.7733,11.9,0.9,ml,,,,0.41,ak,ak0224eult7p,2022-04-06T05:22:07.165Z,"32 km NNE of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-06T04:51:12.242Z,61.0001,-151.3556,45.2,1.7,ml,,,,0.5,ak,ak0224eua0ai,2022-04-06T04:58:44.161Z,"14 km WSW of Tyonek, Alaska",earthquake,,1.5,,,automatic,ak,ak
@@ -37,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-06T00:39:47.890Z,36.4586667,-117.9448333,10.5,1.9,ml,20,88,0.1107,0.19,ci,ci39987111,2022-04-06T00:51:05.620Z,"18km SE of Lone Pine, CA",earthquake,0.42,1.03,0.225,25,automatic,ci,ci
 2022-04-06T00:13:46.070Z,32.7005,-115.9523333,10.14,1.06,ml,14,62,0.0586,0.21,ci,ci39987103,2022-04-06T00:17:28.201Z,"5km SE of Ocotillo, CA",earthquake,0.54,0.89,0.31,9,automatic,ci,ci
 2022-04-05T23:50:13.529Z,61.7877,-149.707,36,1.5,ml,,,,0.58,ak,ak0224di1oo8,2022-04-06T00:02:48.347Z,"18 km ENE of Willow, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2022-04-05T23:50:06.465Z,28.2341,105.0889,10,5.2,mb,,30,6.962,0.77,us,us7000h01q,2022-04-06T05:22:45.749Z,"44 km ESE of Xunchang, China",earthquake,3.1,1.8,0.037,239,reviewed,us,us
+2022-04-05T23:50:06.465Z,28.2341,105.0889,10,5.2,mb,,30,6.962,0.77,us,us7000h01q,2022-04-06T05:32:38.768Z,"44 km ESE of Xunchang, China",earthquake,3.1,1.8,0.037,239,reviewed,us,us
 2022-04-05T23:45:15.300Z,17.9985,-66.9575,15.77,1.74,md,6,144,,0.07,pr,pr71343508,2022-04-06T00:06:53.510Z,"4 km WNW of Fuig, Puerto Rico",earthquake,0.69,0.62,0.0893280096764987,6,reviewed,pr,pr
 2022-04-05T23:29:06.363Z,-23.8678,-66.9851,182.13,4.6,mb,,65,1.426,1,us,us7000h01m,2022-04-05T23:57:03.040Z,"78 km WNW of San Antonio de los Cobres, Argentina",earthquake,8.1,6.1,0.116,22,reviewed,us,us
 2022-04-05T23:26:33.460Z,35.7356667,-117.5435,3.27,1.11,ml,21,73,0.09118,0.1,ci,ci39987087,2022-04-05T23:48:52.149Z,"13km WSW of Searles Valley, CA",earthquake,0.17,0.91,0.064,10,reviewed,ci,ci
@@ -60,7 +62,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-05T20:13:36.740Z,33.8676667,-117.5035,-0.53,1.09,ml,27,56,0.06986,0.27,ci,ci39987015,2022-04-05T21:01:20.476Z,"2km SE of Home Gardens, CA",quarry blast,0.52,31.61,0.151,14,reviewed,ci,ci
 2022-04-05T20:06:37.039Z,63.1057,-151.521,12.2,1,ml,,,,0.6,ak,ak0224dg005z,2022-04-05T20:14:49.386Z,"49 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-05T19:57:13.347Z,63.1621,-151.4032,9.6,1.2,ml,,,,1.03,ak,ak0224dfpg92,2022-04-05T20:02:30.363Z,"45 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-04-05T19:53:01.690Z,38.843,-122.84,2.25,1.24,md,46,62,0.005641,0.04,nc,nc73714756,2022-04-06T04:19:11.425Z,"10km NW of The Geysers, CA",earthquake,0.14,0.22,0.043,11,reviewed,nc,nc
+2022-04-05T19:53:01.690Z,38.843,-122.84,2.25,1.24,md,46,62,0.005641,0.04,nc,nc73714756,2022-04-06T05:38:14.878Z,"10km NW of The Geysers, CA",earthquake,0.14,0.22,0.043,11,reviewed,nc,nc
 2022-04-05T19:37:08.751Z,59.3161,-153.1539,92.7,1.5,ml,,,,0.22,ak,ak0224dfl5kr,2022-04-05T19:44:42.606Z,"70 km W of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-04-05T19:02:46.894Z,27.0956,126.5455,10,4,mb,,71,1.562,0.61,us,us7000gzxh,2022-04-05T21:51:39.040Z,"147 km WNW of Ishikawa, Japan",earthquake,4,1.9,0.15,14,reviewed,us,us
 2022-04-05T18:41:42.456Z,-24.1751,-67.0345,215.76,4.6,mb,,104,1.607,1.16,us,us7000gzx9,2022-04-05T21:40:37.040Z,"72 km W of San Antonio de los Cobres, Argentina",earthquake,10.3,12.1,0.243,5,reviewed,us,us
