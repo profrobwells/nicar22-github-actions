@@ -9221,3 +9221,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-06T21:43:38.860Z,36.0993333,-117.8593333,2.17,1.44,ml,12.0,135.0,0.01857,0.12,ci,ci39987623,2022-04-06T21:47:13.867Z,"10km NE of Coso Junction, CA",earthquake,0.3,0.21,0.234,17.0,automatic,ci,ci
 2022-04-06T21:39:39.300Z,33.48,-116.4271667,13.69,0.84,ml,22.0,80.0,0.0433,0.16,ci,ci39987615,2022-04-06T21:43:14.328Z,"23km SSW of La Quinta, CA",earthquake,0.35,0.58,0.113,23.0,automatic,ci,ci
 2022-04-06T18:07:37.460Z,19.5681666666667,-156.175,31.13,2.32,md,48.0,264.0,,0.17,hv,hv72975452,2022-04-06T21:46:15.350Z,"20 km WSW of Kailua-Kona, Hawaii",earthquake,0.55,0.97,0.104297862341334,22.0,reviewed,hv,hv
+2022-04-06T21:52:55.850Z,62.1699,-150.246,48.5,1.8,ml,,,,0.58,ak,ak0224f4eon0,2022-04-06T21:58:37.341Z,"16 km S of Trapper Creek, Alaska",earthquake,,0.9,,,automatic,ak,ak

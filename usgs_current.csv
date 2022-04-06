@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-06T21:52:55.850Z,62.1699,-150.246,48.5,1.8,ml,,,,0.58,ak,ak0224f4eon0,2022-04-06T21:58:37.341Z,"16 km S of Trapper Creek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-04-06T21:43:38.860Z,36.0993333,-117.8593333,2.17,1.44,ml,12,135,0.01857,0.12,ci,ci39987623,2022-04-06T21:47:13.867Z,"10km NE of Coso Junction, CA",earthquake,0.3,0.21,0.234,17,automatic,ci,ci
 2022-04-06T21:39:39.300Z,33.48,-116.4271667,13.69,0.84,ml,22,80,0.0433,0.16,ci,ci39987615,2022-04-06T21:43:14.328Z,"23km SSW of La Quinta, CA",earthquake,0.35,0.58,0.113,23,automatic,ci,ci
 2022-04-06T21:35:18.390Z,33.3391667,-116.9266667,15.43,0.82,ml,17,51,0.05549,0.11,ci,ci39987607,2022-04-06T21:38:49.987Z,"6km WSW of Palomar Observatory, CA",earthquake,0.21,0.49,0.101,16,automatic,ci,ci
@@ -7,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-06T21:03:02.950Z,33.7756653,-116.140831,5,1.25,ml,16,245,0.07042,0.1,ci,ci39987575,2022-04-06T21:06:43.080Z,"9km NE of Indio, CA",earthquake,0.92,0.63,0.13,6,automatic,ci,ci
 2022-04-06T20:42:47.771Z,36.6774,-115.9152,1.3,0.6,ml,11,254.28,0.041,0.2911,nn,nn00836787,2022-04-06T20:46:02.574Z,"24 km WNW of Indian Springs, Nevada",earthquake,,0.7,0.22,7,automatic,nn,nn
 2022-04-06T20:42:24.250Z,33.7761667,-116.1693333,0.58,1.15,ml,24,112,0.04808,0.21,ci,ci39987551,2022-04-06T20:46:07.954Z,"8km NE of Indio, CA",earthquake,0.31,0.6,0.145,26,automatic,ci,ci
-2022-04-06T20:40:51.210Z,36.5841675,-121.4178314,1.63,1.38,md,6,139,0.01825,0.04,nc,nc73715181,2022-04-06T21:14:15.542Z,"9km NNE of Gonzales, CA",earthquake,0.69,0.44,0.13,7,automatic,nc,nc
+2022-04-06T20:40:50.780Z,36.576,-121.4273333,-0.43,1.24,md,18,49,0.02942,0.14,nc,nc73715181,2022-04-06T21:54:19.674Z,"8km N of Gonzales, CA",quarry blast,0.31,31.61,0.277,15,reviewed,nc,nc
 2022-04-06T20:31:09.350Z,38.7861667,-122.7665,2.43,1.99,md,63,36,0.01538,0.05,nc,nc73715176,2022-04-06T21:34:10.658Z,"1km NW of The Geysers, CA",earthquake,0.13,0.19,0.117,27,reviewed,nc,nc
 2022-04-06T20:26:32.110Z,19.2098331451416,-155.420669555664,33.1500015258789,2.4,ml,45,142,,0.140000001,hv,hv72975532,2022-04-06T20:32:01.410Z,"6 km E of Pāhala, Hawaii",earthquake,0.5,0.620000005,3.07,9,automatic,hv,hv
 2022-04-06T20:23:50.650Z,19.216667175293,-155.422668457031,32.75,2.46,ml,45,136,,0.129999995,hv,hv72975527,2022-04-06T20:29:21.620Z,"6 km ENE of Pāhala, Hawaii",earthquake,0.48,0.649999976,2.15,18,automatic,hv,hv
@@ -59,7 +60,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-06T17:47:03.120Z,37.6086667,-122.4836667,7.54,0.51,md,7,159,0.02661,0.06,nc,nc73715121,2022-04-06T20:11:23.164Z,"1km SSE of Pacifica, CA",earthquake,0.94,0.76,0.098,6,reviewed,nc,nc
 2022-04-06T17:43:25.917Z,61.318,-146.8225,13.3,2.8,ml,,,,1,ak,ak0224f1yyh3,2022-04-06T20:16:30.040Z,"32 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-06T17:34:39.855Z,38.1128,-118.1321,0,0.6,ml,9,215.77,0.138,0.1757,nn,nn00836772,2022-04-06T17:38:29.395Z,"30 km S of Mina, Nevada",earthquake,,14.3,0.2,3,automatic,nn,nn
-2022-04-06T17:30:43.220Z,38.827,-122.8008333,3.21,0.2,md,19,48,0.008066,0.02,nc,nc73715111,2022-04-06T21:07:15.187Z,"7km NW of The Geysers, CA",earthquake,0.24,0.7,0.257,4,reviewed,nc,nc
+2022-04-06T17:30:43.220Z,38.827,-122.8008333,3.21,0.2,md,19,48,0.008066,0.02,nc,nc73715111,2022-04-06T21:56:15.802Z,"7km NW of The Geysers, CA",earthquake,0.24,0.7,0.257,4,reviewed,nc,nc
 2022-04-06T17:28:22.230Z,33.4383333,-116.791,22.06,0.51,ml,9,155,0.1036,0.05,ci,ci39987423,2022-04-06T18:17:56.109Z,"7km E of Aguanga, CA",earthquake,0.27,0.54,0.225,4,reviewed,ci,ci
 2022-04-06T17:10:24.750Z,38.7878342,-122.7696686,2.06,1,md,18,81,0.01496,0.03,nc,nc73715101,2022-04-06T17:25:17.211Z,"2km NW of The Geysers, CA",earthquake,0.26,0.48,0.17,4,automatic,nc,nc
 2022-04-06T17:10:02.795Z,63.3744,-150.1943,15.4,1.3,ml,,,,0.79,ak,ak0224f1ru2f,2022-04-06T17:12:02.511Z,"62 km W of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -238,5 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-05T22:14:19.801Z,-21.0065,-178.2889,548.42,4.3,mb,,160,4.738,0.94,us,us7000h004,2022-04-05T23:14:53.040Z,"Fiji region",earthquake,14.4,8,0.096,31,reviewed,us,us
 2022-04-05T22:13:36.010Z,60.362,-153.0954,163,2.1,ml,,,,0.67,ak,ak0224dh8db4,2022-04-05T22:19:32.034Z,"69 km ENE of Port Alsworth, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-05T22:09:31.432Z,65.0625,-148.6975,17.1,1.5,ml,,,,0.61,ak,ak0224dh7i4a,2022-04-05T22:22:48.546Z,"32 km ESE of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-04-05T21:51:18.430Z,38.7523333,-122.7273333,1.13,1.55,md,41,77,0.009446,0.07,nc,nc73714786,2022-04-06T13:22:16.650Z,"4km SE of The Geysers, CA",earthquake,0.12,0.14,0.097,9,reviewed,nc,nc
-2022-04-05T21:50:37.630Z,38.7521667,-122.7268333,0.88,-0.1,md,15,77,0.009538,0.03,nc,nc73714781,2022-04-06T09:26:15.651Z,"4km SE of The Geysers, CA",earthquake,0.23,0.36,0.056,2,reviewed,nc,nc
