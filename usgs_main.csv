@@ -9171,3 +9171,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-06T16:01:21.130Z,46.2858333,-111.5933333,-2.0,1.36,ml,8.0,176.0,0.3,0.23,mb,mb80542399,2022-04-06T19:42:29.290Z,"6 km WSW of Townsend, Montana",quarry blast,1.33,31.61,0.21,6.0,reviewed,mb,mb
 2022-04-06T03:40:27.324Z,39.166,-119.5605,9.7,0.6,ml,6.0,171.14,0.083,0.1068,nn,nn00836781,2022-04-06T19:45:48.028Z,"8 km SSE of Dayton, Nevada",earthquake,,2.5,0.31,2.0,reviewed,nn,nn
 2022-04-05T23:40:50.520Z,38.8136667,-122.8176667,2.8,0.25,md,22.0,52.0,0.01019,0.02,nc,nc73714846,2022-04-06T19:43:06.339Z,"7km NW of The Geysers, CA",earthquake,0.23,0.28,0.207,4.0,reviewed,nc,nc
+2022-04-06T19:52:55.220Z,36.0055008,-117.8063354,-0.5,1.41,ml,14.0,69.0,0.02305,0.23,ci,ci39987519,2022-04-06T19:55:20.664Z,"12km NE of Little Lake, CA",earthquake,0.45,1.12,0.189,5.0,automatic,ci,ci
+2022-04-06T19:52:50.190Z,33.7821655,-116.159668,3.57,2.42,ml,89.0,83.0,0.05353,0.17,ci,ci39987511,2022-04-06T19:54:58.916Z,"9km NE of Indio, CA",earthquake,0.17,0.32,0.2,23.0,automatic,ci,ci
+2022-04-06T19:44:54.020Z,62.1931,-152.021,100.7,2.5,ml,,,,0.45,ak,ak0224f363k2,2022-04-06T19:55:10.725Z,"39 km NW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-04-06T18:03:37.212Z,0.7818,97.0106,10.0,4.8,mb,,143.0,0.766,0.91,us,us7000h078,2022-04-06T19:49:36.040Z,"187 km SSW of Singkil, Indonesia",earthquake,9.2,1.9,0.073,58.0,reviewed,us,us
