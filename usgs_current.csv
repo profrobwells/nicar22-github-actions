@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-07T06:59:35.778Z,38.524,-119.5304,1.9,1.7,ml,14,165.72,0.075,0.2019,nn,nn00836826,2022-04-07T07:03:23.197Z,"4 km WNW of Walker, California",earthquake,,4.2,0.2,11,automatic,nn,nn
+2022-04-07T06:56:42.407Z,63.0985,-151.4966,0,1.3,ml,,,,1.03,ak,ak0224gj1cwg,2022-04-07T06:59:32.688Z,"50 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-07T06:46:00.720Z,37.3795013,-122.2235031,10.44,0.96,md,8,110,0.03287,0.02,nc,nc73715386,2022-04-07T06:47:37.026Z,"1km ESE of Portola Valley, CA",earthquake,0.45,1.31,0.18,6,automatic,nc,nc
 2022-04-07T06:44:28.386Z,38.4929,-119.508,8.2,1.2,ml,10,174.64,0.056,0.2987,nn,nn00836823,2022-04-07T06:48:01.970Z,"3 km SW of Walker, California",earthquake,,0.5,1.08,3,automatic,nn,nn
-2022-04-07T06:41:22.140Z,38.7893333,-122.7681656,2.87,0.36,md,9,94,0.01307,0.01,nc,nc73715376,2022-04-07T06:42:57.027Z,"2km NW of The Geysers, CA",earthquake,0.48,1.43,,1,automatic,nc,nc
+2022-04-07T06:41:22.140Z,38.7893333,-122.7681656,2.87,0.36,md,9,94,0.01307,0.01,nc,nc73715376,2022-04-07T06:59:23.999Z,"2km NW of The Geysers, CA",earthquake,0.48,1.43,,1,automatic,nc,nc
 2022-04-07T06:31:22.511Z,61.8111,-150.8162,60.8,1.3,ml,,,,0.27,ak,ak0224givygr,2022-04-07T06:46:09.359Z,"33 km NNW of Susitna, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2022-04-07T06:11:43.188Z,38.2066,-117.9179,3.3,0.6,ml,9,178.79,0.053,0.2414,nn,nn00836822,2022-04-07T06:15:40.159Z,"26 km SE of Mina, Nevada",earthquake,,1,0.57,5,automatic,nn,nn
 2022-04-07T06:01:28.384Z,36.7359,-116.2939,11.3,0.2,ml,8,111.31,0.054,0.0534,nn,nn00836821,2022-04-07T06:04:10.015Z,"45 km ESE of Beatty, Nevada",earthquake,,1.7,0.16,2,automatic,nn,nn
@@ -270,7 +272,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-06T07:35:03.258Z,31.64612662,-104.2235119,7.648339844,2.5,ml,14,65,0.1131018085,0.2,tx,tx2022gsdu,2022-04-07T06:39:19.040Z,"54 km NW of Toyah, Texas",earthquake,1.869547302,2.846963252,0.2,8,reviewed,tx,tx
 2022-04-06T07:10:00.500Z,38.7898331,-122.7628326,1.8,0.87,md,16,66,0.01105,0.03,nc,nc73714936,2022-04-06T07:46:15.639Z,"2km NNW of The Geysers, CA",earthquake,0.27,0.5,0.11,4,automatic,nc,nc
 2022-04-06T07:09:32.970Z,38.789,-122.7608333,1.67,1.34,md,44,62,0.01164,0.05,nc,nc73714931,2022-04-07T02:51:15.601Z,"1km NNW of The Geysers, CA",earthquake,0.16,0.25,0.063,9,reviewed,nc,nc
-2022-04-06T07:05:29.000Z,44.4278333,-110.3218333,7.14,0.68,md,7,114,0.04464,0.12,uu,uu60489082,2022-04-06T13:23:19.690Z,"67 km ESE of West Yellowstone, Montana",earthquake,0.99,2.08,0.358,5,reviewed,uu,uu
-2022-04-06T07:00:51.262Z,61.6475,-150.9266,70.8,1.4,ml,,,,0.5,ak,ak0224evrgkx,2022-04-06T07:13:08.865Z,"24 km WNW of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-04-06T06:56:00.631Z,-0.0548,126.6971,61.1,4.7,mb,,78,1.059,0.67,us,us7000h03u,2022-04-06T11:53:19.040Z,"120 km SW of Ternate, Indonesia",earthquake,7.3,6.4,0.073,57,reviewed,us,us
-2022-04-06T06:55:31.010Z,35.9096667,-117.7438333,8.82,0.47,ml,12,61,0.07186,0.04,ci,ci39987183,2022-04-06T16:10:23.327Z,"15km ESE of Little Lake, CA",earthquake,0.14,0.38,0.068,4,reviewed,ci,ci
