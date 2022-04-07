@@ -9538,3 +9538,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-07T20:23:57.560Z,37.4903336,-118.8061676,6.27,1.57,md,16.0,125.0,0.1012,0.03,nc,nc73715661,2022-04-07T20:33:10.110Z,"14km SW of Toms Place, CA",earthquake,0.35,1.57,0.08,16.0,automatic,nc,nc
 2022-04-07T20:23:11.230Z,38.8106651,-122.8016663,2.11,0.34,md,8.0,110.0,0.005654,0.01,nc,nc73715656,2022-04-07T20:24:49.263Z,"5km NW of The Geysers, CA",earthquake,0.52,1.23,,1.0,automatic,nc,nc
 2022-04-07T20:14:42.490Z,65.2871,-158.2443,6.7,2.0,ml,,,,0.43,ak,ak0224gr4fax,2022-04-07T20:26:55.973Z,"52 km NNW of Koyukuk, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-07T20:33:50.460Z,19.3263339996338,-155.197998046875,0.689999997615814,1.76999998,md,36.0,89.0,,0.170000002,hv,hv72976622,2022-04-07T20:37:09.820Z,"13 km SSE of Volcano, Hawaii",earthquake,0.32,0.460000008,0.280000001,17.0,automatic,hv,hv
