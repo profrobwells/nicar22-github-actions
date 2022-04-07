@@ -9425,3 +9425,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-07T14:35:36.197Z,64.26,-149.9203,15.7,1.3,ml,,,,0.62,ak,ak0224gnob7u,2022-04-07T14:45:08.383Z,"35 km W of Clear, Alaska, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-07T10:01:42.874Z,-24.1147,-67.2022,193.8,4.5,mb,,93.0,1.463,1.02,us,us7000h0c4,2022-04-07T14:40:46.040Z,"90 km W of San Antonio de los Cobres, Argentina",earthquake,10.7,14.4,0.22,6.0,reviewed,us,us
 2022-04-07T14:47:42.544Z,64.0798,-148.5022,0.0,1.5,ml,,,,0.53,ak,ak0224gnqwb1,2022-04-07T14:50:27.869Z,"30 km ENE of Ferry, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-04-07T14:55:53.570Z,19.1906661987305,-155.482833862305,33.189998626709,2.13000011,md,43.0,76.0,,0.129999995,hv,hv72976317,2022-04-07T14:59:03.290Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.44,0.910000026,1.74000001,14.0,automatic,hv,hv
+2022-04-07T03:04:43.090Z,44.4661667,-115.2058333,6.5,1.92,ml,10.0,82.0,0.84,0.15,mb,mb80542469,2022-04-07T15:16:50.960Z,"34 km NW of Stanley, Idaho",earthquake,0.45,1.13,0.258,11.0,reviewed,mb,mb
+2022-04-06T23:56:40.600Z,44.2188333,-110.6431667,11.26,0.56,md,12.0,116.0,0.0944,0.22,uu,uu60489377,2022-04-07T15:16:03.350Z,"55 km ENE of Warm River, Idaho",earthquake,0.66,0.87,0.373,6.0,reviewed,uu,uu
+2022-04-06T21:39:42.410Z,33.4836667,-116.4273333,13.75,0.77,ml,21.0,79.0,0.03965,0.16,ci,ci37410524,2022-04-07T15:12:33.749Z,"23km SSW of La Quinta, CA",earthquake,0.4,0.59,0.113,9.0,reviewed,ci,ci
