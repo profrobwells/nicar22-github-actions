@@ -9593,3 +9593,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-07T23:25:01.850Z,35.5863333,-117.5936667,3.71,2.02,ml,28.0,50.0,0.1072,0.15,ci,ci39988351,2022-04-07T23:35:39.260Z,"8km ESE of Ridgecrest, CA",earthquake,0.24,0.82,0.156,25.0,automatic,ci,ci
 2022-04-07T23:24:17.349Z,67.7326,-161.1741,25.7,3.3,ml,,,,0.96,ak,ak0224gsyt9u,2022-04-07T23:36:09.774Z,"78 km ENE of Noatak, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-04-07T18:17:43.390Z,17.9586666666667,-66.8973333333333,15.12,2.03,md,7.0,206.0,,0.07,pr,pr71343698,2022-04-07T23:24:14.200Z,"1 km SE of Guánica, Puerto Rico",earthquake,0.45,0.37,0.194390283087555,5.0,reviewed,pr,pr
+2022-04-07T23:37:55.810Z,19.2028331756592,-155.436172485352,33.2900009155273,3.36,ml,52.0,134.0,,0.119999997,hv,hv72976872,2022-04-07T23:44:12.221Z,"4 km E of Pāhala, Hawaii",earthquake,0.48,0.560000002,3.53,36.0,automatic,hv,hv
+2022-04-07T23:11:52.860Z,60.049,-153.071833333333,1.5,-0.61,ml,4.0,177.0,,0.14,av,av91532356,2022-04-07T23:44:36.650Z,"64 km ENE of Pedro Bay, Alaska",earthquake,1.84,1.04,0.13352392038425,4.0,reviewed,av,av
