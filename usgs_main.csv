@@ -9336,3 +9336,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-07T05:55:24.160Z,37.309,-114.766,15.7,1.1,ml,8.0,206.54,0.863,0.4558,nn,nn00836820,2022-04-07T06:00:00.403Z,"35 km E of Alamo, Nevada",earthquake,,5.2,0.45,2.0,automatic,nn,nn
 2022-04-07T05:55:12.280Z,38.8201675,-122.7734985,0.0,0.46,md,7.0,90.0,0.008894,0.01,nc,nc73715366,2022-04-07T05:56:50.128Z,"4km W of Cobb, CA",earthquake,0.28,0.74,0.4,2.0,automatic,nc,nc
 2022-04-07T05:12:06.569Z,26.6468,126.3663,10.0,4.7,mb,,79.0,1.715,0.76,us,us7000h0b3,2022-04-07T06:01:54.040Z,"139 km WNW of Naha, Japan",earthquake,7.5,1.9,0.074,56.0,reviewed,us,us
+2022-04-07T06:31:22.511Z,61.8111,-150.8162,60.8,1.3,ml,,,,0.27,ak,ak0224givygr,2022-04-07T06:34:00.479Z,"33 km NNW of Susitna, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2022-04-07T06:11:43.188Z,38.2066,-117.9179,3.3,0.6,ml,9.0,178.79,0.053,0.2414,nn,nn00836822,2022-04-07T06:15:40.159Z,"26 km SE of Mina, Nevada",earthquake,,1.0,0.57,5.0,automatic,nn,nn
+2022-04-07T00:25:09.100Z,36.9691667,-121.6078333,3.24,0.81,md,13.0,69.0,0.02486,0.09,nc,nc73715226,2022-04-07T06:31:40.052Z,"5km SW of Gilroy, CA",earthquake,0.24,0.53,0.117,10.0,reviewed,nc,nc
+2022-04-06T06:39:01.776Z,51.5845,-174.9888,26.11,2.6,ml,,215.0,0.707,0.35,us,us7000h05b,2022-04-07T06:30:52.040Z,"87 km SW of Atka, Alaska",earthquake,4.1,12.2,0.115,10.0,reviewed,us,us
