@@ -9324,3 +9324,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-07T04:19:21.100Z,58.5429,-154.3981,4.7,2.2,ml,,,,0.28,ak,ak0224ghmijy,2022-04-07T04:25:26.043Z,"102 km SSE of Kokhanok, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-07T04:17:28.704Z,38.1565,-117.9607,9.2,0.7,ml,9.0,135.96,0.017,0.0653,nn,nn00836817,2022-04-07T04:21:39.985Z,"29 km SSE of Mina, Nevada",earthquake,,0.6,0.17,4.0,automatic,nn,nn
 2022-04-07T01:17:19.077Z,44.4419,-115.2477,18.06,2.5,ml,,60.0,0.839,0.48,us,us7000h09u,2022-04-07T04:33:41.040Z,"35 km NW of Stanley, Idaho",earthquake,2.5,10.1,0.055,44.0,reviewed,us,us
+2022-04-07T04:45:15.850Z,38.8131676,-122.7876663,1.33,0.88,md,18.0,50.0,0.005455,0.06,nc,nc73715346,2022-04-07T04:46:49.315Z,"5km NW of The Geysers, CA",earthquake,0.24,0.42,0.13,4.0,automatic,nc,nc
+2022-04-07T04:43:53.080Z,19.1695003509521,-155.480834960938,33.5699996948242,2.30999994,md,44.0,91.0,,0.119999997,hv,hv72975847,2022-04-07T04:49:24.320Z,"3 km S of Pāhala, Hawaii",earthquake,0.48,0.699999988,1.23000002,20.0,automatic,hv,hv
