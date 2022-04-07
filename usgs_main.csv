@@ -9556,3 +9556,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-07T05:11:33.251Z,38.9308,-118.7704,12.6,0.9,ml,8.0,158.44,0.37,0.071,nn,nn00836863,2022-04-07T21:31:35.133Z,"4 km ESE of Schurz, Nevada",earthquake,,15.4,0.0,1.0,reviewed,nn,nn
 2022-04-07T10:15:17.003Z,38.532,-119.5893,0.0,0.0,ml,3.0,254.37,0.077,0.0534,nn,nn00836867,2022-04-07T21:50:14.516Z,"8 km WSW of Coleville, California",earthquake,,81.1,0.13,2.0,reviewed,nn,nn
 2022-04-07T10:05:32.762Z,39.3907,-120.1687,12.1,-0.3,ml,4.0,144.71,0.124,0.1363,nn,nn00836866,2022-04-07T21:44:02.223Z,"7 km N of Truckee, California",earthquake,,4.5,0.22,3.0,reviewed,nn,nn
+2022-04-07T21:59:02.630Z,33.042,-116.757,25.53,0.87,ml,7.0,89.0,0.1709,0.25,ci,ci39988319,2022-04-07T22:02:37.048Z,"5km NNE of San Diego Country Estates, CA",earthquake,1.02,3.54,0.218,8.0,automatic,ci,ci
+2022-04-07T21:50:12.470Z,38.8348351,-122.8115005,1.8,0.36,md,7.0,161.0,0.01148,0.01,nc,nc73715676,2022-04-07T21:51:48.838Z,"8km W of Cobb, CA",earthquake,0.56,1.28,,1.0,automatic,nc,nc
+2022-04-07T12:09:42.740Z,38.5521,-119.5306,6.4,0.9,ml,5.0,226.35,0.035,0.0711,nn,nn00836871,2022-04-07T22:02:53.066Z,"2 km SW of Coleville, California",earthquake,,1.8,0.34,4.0,reviewed,nn,nn
+2022-04-07T12:09:14.809Z,40.1592,-119.6293,6.7,0.2,ml,3.0,239.34,0.08,0.0082,nn,nn00836870,2022-04-07T21:59:38.239Z,"23 km N of Sutcliffe, Nevada",earthquake,,25.3,0.05,2.0,reviewed,nn,nn
+2022-04-07T11:26:18.566Z,38.8763,-119.006,10.2,1.1,ml,8.0,143.38,0.213,0.09,nn,nn00836869,2022-04-07T21:56:30.978Z,"18 km SE of Yerington, Nevada",earthquake,,5.1,0.0,1.0,reviewed,nn,nn
+2022-04-07T11:25:15.988Z,38.5323,-119.5748,4.6,0.0,ml,3.0,251.1,0.069,0.0566,nn,nn00836868,2022-04-07T21:53:22.216Z,California-Nevada border region,earthquake,,12.8,0.02,2.0,reviewed,nn,nn
