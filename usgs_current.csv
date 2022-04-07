@@ -49,7 +49,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-07T00:54:30.150Z,38.8253326,-122.8066635,2.51,1.17,md,20,60,0.003292,0.01,nc,nc73715241,2022-04-07T01:17:26.086Z,"7km NW of The Geysers, CA",earthquake,0.24,0.75,,1,automatic,nc,nc
 2022-04-07T00:50:13.490Z,38.8216667,-122.7874985,2.64,0.35,md,6,77,0.009941,0.01,nc,nc73715236,2022-04-07T01:06:15.013Z,"6km W of Cobb, CA",earthquake,0.71,3.27,,1,automatic,nc,nc
 2022-04-07T00:36:53.165Z,14.2585,119.3984,10,5,mb,,110,9.067,0.65,us,us7000h09n,2022-04-07T00:57:11.040Z,"81 km WNW of Cabra, Philippines",earthquake,7.1,1.7,0.056,102,reviewed,us,us
-2022-04-07T00:30:35.693Z,34.9314,137.4802,11.51,4.7,mb,,63,0.557,0.79,us,us7000h09l,2022-04-07T04:27:49.607Z,"3 km NNW of Shinshiro, Japan",earthquake,2.2,3.3,0.061,82,reviewed,us,us
+2022-04-07T00:30:35.693Z,34.9314,137.4802,11.51,4.7,mb,,63,0.557,0.79,us,us7000h09l,2022-04-07T05:49:46.440Z,"3 km NNW of Shinshiro, Japan",earthquake,2.2,3.3,0.061,82,reviewed,us,us
 2022-04-07T00:27:06.690Z,34.3036667,-117.0056667,4.63,1.4,ml,35,86,0.08153,0.23,ci,ci39987695,2022-04-07T00:30:46.807Z,"11km NW of Big Bear Lake, CA",earthquake,0.4,0.98,0.157,27,automatic,ci,ci
 2022-04-07T00:25:59.459Z,60.1483,-152.8479,126.5,2.2,ml,,,,0.57,ak,ak0224gfa5c5,2022-04-07T00:35:52.040Z,"66 km WNW of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-07T00:25:04.940Z,41.61,-122.4246667,16.96,1.66,md,24,53,0.1501,0.15,nc,nc73715231,2022-04-07T04:37:17.217Z,"9km ESE of Grenada, CA",earthquake,0.28,0.69,0.204,14,reviewed,nc,nc
@@ -269,4 +269,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-06T06:18:20.683Z,37.1211,143.6383,40.76,4.4,mb,,183,4.176,1.36,us,us7000h03q,2022-04-06T08:20:38.040Z,"237 km E of Namie, Japan",earthquake,9.9,7.6,0.179,9,reviewed,us,us
 2022-04-06T06:14:05.265Z,12.7549,-88.2774,87.24,4.5,mb,,174,1.148,0.81,us,us7000h03p,2022-04-06T07:37:52.040Z,"53 km SSW of Chirilagua, El Salvador",earthquake,7.3,11,0.156,12,reviewed,us,us
 2022-04-06T06:02:45.390Z,17.9505,-66.9215,9.8,2.1,md,16,197,,0.1,pr,pr71343548,2022-04-06T06:38:31.140Z,"2 km SSW of Guánica, Puerto Rico",earthquake,0.33,0.32,0.115467816786961,9,reviewed,pr,pr
-2022-04-06T05:42:27.230Z,38.779335,-122.767334,2.05,0.15,md,12,90,0.00869,0.02,nc,nc73714926,2022-04-06T06:30:16.174Z,"1km WNW of The Geysers, CA",earthquake,0.42,0.68,0.09,3,automatic,nc,nc
