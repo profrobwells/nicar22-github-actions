@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-08T07:29:06.291Z,61.1647,-148.1175,17.3,1.4,ml,,,,0.32,ak,ak0224i709vp,2022-04-08T07:33:42.033Z,"53 km NE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-08T07:20:45.010Z,19.1744995117188,-155.479827880859,34.5,1.99000001,md,35,152,,0.119999997,hv,hv72977562,2022-04-08T07:23:55.230Z,"3 km S of Pāhala, Hawaii",earthquake,0.64,0.879999995,0.949999988,7,automatic,hv,hv
 2022-04-08T06:34:13.516Z,31.6612,-104.5172,8.87,2.6,ml,,71,0.015,0.29,us,us7000h0lj,2022-04-08T06:41:25.040Z,"58 km SSW of Whites City, New Mexico",earthquake,1.5,8.2,0.071,48,reviewed,us,us
 2022-04-08T06:28:22.030Z,33.1911667,-115.9935,6.83,1.24,ml,28,66,0.02203,0.25,ci,ci39988455,2022-04-08T06:31:55.459Z,"12km SSW of Salton City, CA",earthquake,0.41,0.88,0.18,27,automatic,ci,ci
-2022-04-08T06:20:01.220Z,36.623333,-119.2328339,23.68,2.52,md,21,83,0.1781,0.12,nc,nc73715851,2022-04-08T07:04:16.973Z,"7km E of Orange Cove, CA",earthquake,0.47,0.85,0.31,10,automatic,nc,nc
+2022-04-08T06:20:01.220Z,36.623333,-119.2328339,23.68,2.52,md,21,83,0.1781,0.12,nc,nc73715851,2022-04-08T07:28:44.438Z,"7km E of Orange Cove, CA",earthquake,0.47,0.85,0.31,10,automatic,nc,nc
 2022-04-08T06:00:28.800Z,37.5328333,-118.8203333,4.8,0.46,md,14,235,0.05752,0.03,nc,nc73715846,2022-04-08T06:20:39.335Z,"13km WSW of Toms Place, CA",earthquake,0.76,0.94,0.254,14,reviewed,nc,nc
 2022-04-08T05:46:12.230Z,19.1973323822021,-155.486999511719,32.8800010681152,2,md,45,75,,0.119999997,hv,hv72977477,2022-04-08T05:49:25.350Z,"1 km SW of Pāhala, Hawaii",earthquake,0.54,0.839999974,0.99000001,12,automatic,hv,hv
 2022-04-08T05:43:56.490Z,37.5408333,-118.8801667,5.36,0.18,md,10,197,0.0637,0.03,nc,nc73715841,2022-04-08T06:18:08.723Z,"14km SE of Mammoth Lakes, CA",earthquake,0.91,2.06,0.143,10,reviewed,nc,nc
@@ -273,8 +275,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-07T07:51:23.615Z,62.8408,-151.7793,0,2,ml,,,,0.86,ak,ak0224gjlogv,2022-04-07T08:01:00.772Z,"64 km NW of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-07T07:38:57.592Z,38.3267,23.5859,14.36,4.4,mb,,69,1.745,0.86,us,us7000h0bg,2022-04-07T17:15:16.040Z,"2 km S of Schimatári, Greece",earthquake,5.8,5.2,0.189,8,reviewed,us,us
 2022-04-07T07:38:01.470Z,51.8638333333333,-177.885166666667,5.85,-0.25,ml,4,198,,0.05,av,av91054018,2022-04-08T03:31:37.990Z,"86 km W of Adak, Alaska",earthquake,0.44,1.02,0.268569588979364,4,reviewed,av,av
-2022-04-07T07:31:44.256Z,36.8086,-115.9556,6,-0.1,ml,5,151.04,0.014,0.1671,nn,nn00836848,2022-04-08T02:38:49.298Z,"36 km NW of Indian Springs, Nevada",earthquake,,4.6,0.11,3,reviewed,nn,nn
-2022-04-07T07:30:40.490Z,58.4035,-154.810333333333,5.3,-0.04,ml,8,111,,0.17,av,av91054023,2022-04-08T03:35:18.910Z,"95 km NNW of Karluk, Alaska",earthquake,0.42,0.72,0.126575513243753,8,reviewed,av,av
-2022-04-07T07:24:29.644Z,36.7385,-116.2904,9.2,0,ml,10,106.31,0.054,0.0757,nn,nn00836847,2022-04-08T02:38:47.939Z,"45 km ESE of Beatty, Nevada",earthquake,,1.4,0.58,5,reviewed,nn,nn
-2022-04-07T07:23:43.730Z,38.8058319,-122.7813339,2.49,0.84,md,10,97,0.007434,0.01,nc,nc73715396,2022-04-07T07:52:16.299Z,"4km NW of The Geysers, CA",earthquake,0.67,1.11,,1,automatic,nc,nc
-2022-04-07T07:22:31.580Z,47.7356667,-113.7638333,6.67,0.16,md,7,211,0.21,0.03,mb,mb80542504,2022-04-07T16:13:55.020Z,"22 km SSE of Swan Lake, Montana",earthquake,0.68,3.49,0.143,2,reviewed,mb,mb
