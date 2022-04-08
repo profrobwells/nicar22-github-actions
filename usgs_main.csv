@@ -9775,3 +9775,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-08T14:27:15.130Z,19.219165802002,-155.418502807617,31.7399997711182,2.30999994,md,44.0,138.0,,0.129999995,hv,hv72977972,2022-04-08T14:30:33.350Z,"6 km ENE of Pāhala, Hawaii",earthquake,0.55,0.699999988,1.26999998,22.0,automatic,hv,hv
 2022-04-08T14:26:56.136Z,37.1545,-115.3652,1.9,1.5,ml,13.0,183.39,0.492,0.2792,nn,nn00836931,2022-04-08T14:30:31.224Z,"29 km SW of Alamo, Nevada",earthquake,,13.9,0.2,8.0,automatic,nn,nn
 2022-04-08T07:27:07.780Z,45.6651667,-112.3796667,0.97,1.11,ml,26.0,94.0,0.165,0.11,mb,mb80542554,2022-04-08T14:20:48.650Z,"13 km NNW of Twin Bridges, Montana",earthquake,0.26,0.66,0.08,12.0,reviewed,mb,mb
+2022-04-08T14:40:32.444Z,65.1465,-148.5456,15.6,1.3,ml,,,,0.95,ak,ak0224ib8q0c,2022-04-08T14:42:20.683Z,"37 km E of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-07T21:43:00.070Z,45.941,-111.477,-2.0,1.38,ml,9.0,157.0,0.28,0.34,mb,mb80542539,2022-04-08T14:37:28.210Z,"7 km NNW of Logan, Montana",quarry blast,19.98,31.61,0.124,5.0,reviewed,mb,mb
