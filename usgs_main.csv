@@ -9718,3 +9718,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-08T09:44:32.750Z,35.3165016,-118.5490036,3.21,2.01,ml,51.0,66.0,0.1078,0.17,ci,ci39988543,2022-04-08T09:46:37.912Z,"22km NNW of Tehachapi, CA",earthquake,0.23,1.03,0.269,30.0,automatic,ci,ci
 2022-04-08T09:41:36.690Z,35.3203333,-118.5396667,2.51,1.21,ml,19.0,82.0,0.1015,0.17,ci,ci39988535,2022-04-08T09:45:07.071Z,"22km NNW of Tehachapi, CA",earthquake,0.33,0.56,0.188,18.0,automatic,ci,ci
 2022-04-08T09:37:08.682Z,65.2997,-158.2413,6.1,3.0,ml,,,,0.63,ak,ak0224i88vy0,2022-04-08T09:46:24.973Z,"53 km NNW of Koyukuk, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-08T08:46:52.150Z,18.0163333333333,-66.838,16.78,2.19,md,14.0,131.0,,0.19,pr,pr71343738,2022-04-08T09:56:08.600Z,"2 km SSE of Yauco, Puerto Rico",earthquake,0.52,0.6,0.220119818564725,7.0,reviewed,pr,pr
