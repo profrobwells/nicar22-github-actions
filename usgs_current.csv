@@ -2,9 +2,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-09T14:36:16.930Z,35.7826667,-117.6073333,7.38,0.96,ml,13,85,0.03395,0.14,ci,ci39989375,2022-04-09T14:39:56.609Z,"18km W of Searles Valley, CA",earthquake,0.34,0.61,0.149,8,automatic,ci,ci
 2022-04-09T14:22:43.140Z,35.6371667,-117.4255,2.61,2.04,ml,26,99,0.05874,0.14,ci,ci39989367,2022-04-09T14:33:12.540Z,"15km S of Searles Valley, CA",earthquake,0.26,0.48,0.135,25,automatic,ci,ci
 2022-04-09T14:13:02.518Z,63.4858,-148.2709,5.3,1.2,ml,,,,0.74,ak,ak0224jym7ux,2022-04-09T14:22:19.704Z,"35 km ENE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-04-09T14:02:15.891Z,38.12,38.7038,10,5.3,mww,,77,1.013,0.88,us,us7000h0wh,2022-04-09T14:46:46.389Z,"12 km NE of Sincik, Turkey",earthquake,4.3,1.9,0.068,21,reviewed,us,us
+2022-04-09T14:02:15.891Z,38.12,38.7038,10,5.3,mww,,77,1.013,0.88,us,us7000h0wh,2022-04-09T14:56:46.778Z,"12 km NE of Sincik, Turkey",earthquake,4.3,1.9,0.068,21,reviewed,us,us
 2022-04-09T13:53:53.418Z,39.8634,-118.0294,9.2,1.7,ml,9,258.01,0.074,0.3911,nn,nn00836979,2022-04-09T13:57:48.011Z,"51 km SE of Lovelock, Nevada",earthquake,,0.6,0.28,5,automatic,nn,nn
-2022-04-09T13:48:26.940Z,38.8311653,-122.8170013,1.69,0.87,md,22,51,0.009459,0.01,nc,nc73716276,2022-04-09T14:06:13.206Z,"8km NW of The Geysers, CA",earthquake,0.2,0.43,0.3,4,automatic,nc,nc
+2022-04-09T13:48:26.940Z,38.8311653,-122.8170013,1.69,0.87,md,22,51,0.009459,0.01,nc,nc73716276,2022-04-09T14:54:12.505Z,"8km NW of The Geysers, CA",earthquake,0.2,0.43,0.3,4,automatic,nc,nc
 2022-04-09T13:29:29.620Z,33.2313333,-116.0188333,0.25,0.65,ml,8,220,0.5081,0.17,ci,ci39989343,2022-04-09T13:33:10.524Z,"10km SW of Salton City, CA",earthquake,1.91,31.61,0.044,2,automatic,ci,ci
 2022-04-09T13:22:32.230Z,38.8333321,-122.8176651,1.99,1.16,md,14,69,0.01156,0.01,nc,nc73716266,2022-04-09T14:02:13.181Z,"8km NW of The Geysers, CA",earthquake,0.24,0.92,0.34,2,automatic,nc,nc
 2022-04-09T13:14:38.600Z,35.3705,-118.4766667,7.07,2.37,ml,46,26,0.09128,0.19,ci,ci39989335,2022-04-09T13:25:31.390Z,"24km S of Bodfish, CA",earthquake,0.22,1,0.283,26,automatic,ci,ci
@@ -124,6 +124,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-08T21:08:02.140Z,35.6251667,-117.4678333,6.95,1.02,ml,19,110,0.03885,0.1,ci,ci39988935,2022-04-08T21:28:13.526Z,"17km SSW of Searles Valley, CA",earthquake,0.2,0.4,0.134,10,reviewed,ci,ci
 2022-04-08T21:03:21.610Z,51.87,179.643333333333,13.63,1.8,ml,6,267,,0.13,av,av91533481,2022-04-09T03:13:03.630Z,"256 km W of Adak, Alaska",earthquake,1.18,0.9,0.383870230551394,6,reviewed,av,av
 2022-04-08T21:01:14.026Z,31.68058579,-104.4199904,6.131567383,3.1,ml,21,52,0.0699020238,0.3,tx,tx2022gwvk,2022-04-08T21:14:50.040Z,"55 km S of Whites City, New Mexico",earthquake,0.9980426517,1.065926253,0.1,13,reviewed,tx,tx
+2022-04-08T20:57:35.510Z,47.1508333,-113.0926667,13.78,0.57,ml,8,182,0.216,0.14,mb,mb80542659,2022-04-09T14:50:54.520Z,"14 km NNE of Ovando, Montana",earthquake,0.73,1.69,0.106,2,reviewed,mb,mb
 2022-04-08T20:55:31.056Z,-1.8447,67.9701,10,4.7,mb,,44,10.017,0.86,us,us7000h0th,2022-04-08T21:19:27.040Z,"Carlsberg Ridge",earthquake,9.7,1.9,0.07,69,reviewed,us,us
 2022-04-08T20:42:38.780Z,19.2333335876465,-155.389495849609,32.189998626709,1.99000001,md,39,145,,0.119999997,hv,hv72978252,2022-04-08T20:45:47.120Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.59,0.790000021,0.550000012,12,automatic,hv,hv
 2022-04-08T20:22:06.700Z,52.3135,-174.144,3.21,-0.06,ml,7,87,,0.24,av,av91054323,2022-04-09T03:27:51.130Z,"13 km NNE of Atka, Alaska",earthquake,0.65,1.49,0.205391039201821,7,reviewed,av,av
