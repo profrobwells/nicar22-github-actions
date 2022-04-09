@@ -10042,3 +10042,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-09T15:02:39.970Z,38.788166,-122.7791672,1.2,0.85,md,9.0,123.0,0.008475,0.02,nc,nc73716291,2022-04-09T15:20:11.655Z,"2km WNW of The Geysers, CA",earthquake,0.36,0.62,,1.0,automatic,nc,nc
 2022-04-09T13:04:48.530Z,18.7418,-68.095,38.0,3.52,md,20.0,161.0,0.366,0.68,pr,pr2022099001,2022-04-09T15:20:18.350Z,"37 km ENE of Punta Cana, Dominican Republic",earthquake,4.01,6.1,0.15,7.0,reviewed,pr,pr
 2022-04-09T06:42:44.030Z,46.83,-112.5276667,13.46,0.47,ml,6.0,242.0,0.057,0.08,mb,mb80542664,2022-04-09T15:00:56.590Z,"18 km SE of Lincoln, Montana",earthquake,1.27,0.76,,0.0,reviewed,mb,mb
+2022-04-09T15:28:35.736Z,63.5836,-147.2454,11.7,1.2,ml,,,,0.9,ak,ak0224jzaxro,2022-04-09T15:35:44.258Z,"84 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-09T15:26:01.140Z,38.8390007,-122.8078308,2.61,0.36,md,9.0,92.0,0.01367,0.01,nc,nc73716306,2022-04-09T15:27:37.697Z,"8km WNW of Cobb, CA",earthquake,0.59,1.86,,1.0,automatic,nc,nc
