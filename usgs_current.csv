@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-09T17:40:54.310Z,19.5018329620361,-155.379669189453,21.2600002288818,1.78999996,md,35,90,,0.119999997,hv,hv72979057,2022-04-09T17:44:04.220Z,"16 km WNW of Volcano, Hawaii",earthquake,0.56,0.889999986,0.889999986,8,automatic,hv,hv
+2022-04-09T17:40:16.630Z,33.4985,-116.4891667,13.01,1.12,ml,29,62,0.05855,0.22,ci,ci39989519,2022-04-09T17:43:58.742Z,"18km ESE of Anza, CA",earthquake,0.32,0.62,0.204,30,automatic,ci,ci
 2022-04-09T17:39:45.510Z,38.8268318,-122.8134995,2.04,0.99,md,18,40,0.004352,0.02,nc,nc73716356,2022-04-09T17:41:23.006Z,"7km NW of The Geysers, CA",earthquake,0.22,0.48,0.56,2,automatic,nc,nc
 2022-04-09T17:35:58.810Z,33.698,-116.8776667,4.01,0.99,ml,14,103,0.03999,0.23,ci,ci39989503,2022-04-09T17:39:37.081Z,"6km SSE of Valle Vista, CA",earthquake,0.67,1.16,0.383,9,automatic,ci,ci
 2022-04-09T17:33:44.720Z,33.6436667,-116.6988333,13.66,0.71,ml,24,65,0.06853,0.13,ci,ci39989495,2022-04-09T17:37:20.158Z,"10km NNW of Anza, CA",earthquake,0.29,0.41,0.104,14,automatic,ci,ci
@@ -202,6 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-08T17:57:17.680Z,53.3788333333333,-168.184,0.86,-0.46,ml,5,285,,0.13,av,av91054273,2022-04-09T02:23:51.920Z,"66 km NE of Nikolski, Alaska",earthquake,0.6,0.27,0.347703410814996,6,reviewed,av,av
 2022-04-08T17:56:21.110Z,53.3795,-168.1945,0.59,-0.43,ml,4,292,,0.05,av,av91054268,2022-04-09T02:19:43.600Z,"66 km NE of Nikolski, Alaska",earthquake,0.47,0.25,0.459317578654749,5,reviewed,av,av
 2022-04-08T17:54:57.550Z,38.1674,-117.8242,10.1,1.3,ml,17,112.15,0.11,0.1156,nn,nn00836936,2022-04-09T02:39:28.056Z,"35 km SE of Mina, Nevada",earthquake,,1.7,0.61,6,reviewed,nn,nn
-2022-04-08T17:48:02.140Z,31.6739,-104.4259,10.38,2.6,ml,,71,0.064,0.7,us,us7000h0s2,2022-04-08T19:05:07.040Z,"western Texas",earthquake,1.2,7.6,0.057,89,reviewed,us,us
-2022-04-08T17:46:49.540Z,19.3785,-66.124,22.45,3.25,md,10,288,,0.34,pr,pr71343803,2022-04-08T18:30:48.108Z,"100 km N of San Juan, Puerto Rico",earthquake,1.85,28.75,0.121208470512978,7,reviewed,pr,pr
-2022-04-08T17:45:06.380Z,35.7746667,-117.5825,7.84,0.76,ml,15,80,0.04276,0.09,ci,ci39988823,2022-04-08T18:31:40.943Z,"16km W of Searles Valley, CA",earthquake,0.19,0.4,0.187,6,reviewed,ci,ci
