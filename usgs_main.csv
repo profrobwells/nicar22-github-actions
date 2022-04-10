@@ -10176,3 +10176,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-10T06:20:41.800Z,19.173999786377,-155.44416809082,34.2900009155273,1.80999994,md,32.0,161.0,,0.109999999,hv,hv72979432,2022-04-10T06:23:58.530Z,"4 km SE of Pāhala, Hawaii",earthquake,0.76,0.870000005,1.80999994,4.0,automatic,hv,hv
 2022-04-10T06:09:38.172Z,60.3189,-153.3645,169.5,1.8,ml,,,,0.4,ak,ak0224lhdbf2,2022-04-10T06:13:07.781Z,"54 km ENE of Port Alsworth, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-09T11:02:57.520Z,45.339333333333336,-121.6695,4.9,0.15,md,7.0,121.0,0.02152,0.1,uw,uw61829781,2022-04-10T06:01:06.790Z,"7 km ENE of Government Camp, Oregon",earthquake,0.36,0.63,0.2043420601115786,5.0,reviewed,uw,uw
+2022-04-10T06:32:19.608Z,63.1853,-150.6551,123.2,1.2,ml,,,,0.55,ak,ak0224lhi7fs,2022-04-10T06:42:46.870Z,"66 km SE of Denali National Park, Alaska",earthquake,,2.5,,,automatic,ak,ak
+2022-04-10T06:28:17.958Z,64.1624,-148.0766,0.0,1.6,ml,,,,0.99,ak,ak0224lhhcfw,2022-04-10T06:42:46.120Z,"53 km ENE of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
