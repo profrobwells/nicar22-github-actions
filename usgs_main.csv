@@ -10379,3 +10379,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-11T06:07:23.550Z,33.0431667,-116.4421667,9.26,1.11,ml,33.0,64.0,0.1358,0.23,ci,ci39990223,2022-04-11T06:11:01.440Z,"15km ESE of Julian, CA",earthquake,0.3,1.0,0.199,24.0,automatic,ci,ci
 2022-04-11T06:04:55.770Z,38.8251648,-122.8088303,-0.38,0.85,md,7.0,115.0,0.002017,0.02,nc,nc73716831,2022-04-11T06:22:16.933Z,"7km NW of The Geysers, CA",earthquake,0.28,4.77,,1.0,automatic,nc,nc
 2022-04-11T05:56:37.272Z,38.1337,-118.1034,0.4,1.0,ml,10.0,132.6,0.113,0.3907,nn,nn00837010,2022-04-11T05:59:51.952Z,"28 km S of Mina, Nevada",earthquake,,10.4,0.14,3.0,automatic,nn,nn
+2022-04-11T06:40:25.325Z,61.3255,-151.2002,60.6,1.5,ml,,,,0.66,ak,ak0224n53a2y,2022-04-11T06:45:31.874Z,"21 km NNW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-04-11T06:36:37.817Z,36.76877975,-98.05469513,0.3764556646,2.93,ml,71.0,82.45231867,0.08804150671,0.6918360969,ok,ok2022hbfk,2022-04-11T06:40:49.807Z,"8 km E of Nescatunga, Oklahoma",earthquake,1.665111275,1.225438283,,55.0,automatic,ok,ok
