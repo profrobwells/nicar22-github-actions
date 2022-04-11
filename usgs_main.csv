@@ -10381,3 +10381,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-11T05:56:37.272Z,38.1337,-118.1034,0.4,1.0,ml,10.0,132.6,0.113,0.3907,nn,nn00837010,2022-04-11T05:59:51.952Z,"28 km S of Mina, Nevada",earthquake,,10.4,0.14,3.0,automatic,nn,nn
 2022-04-11T06:40:25.325Z,61.3255,-151.2002,60.6,1.5,ml,,,,0.66,ak,ak0224n53a2y,2022-04-11T06:45:31.874Z,"21 km NNW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-11T06:36:37.817Z,36.76877975,-98.05469513,0.3764556646,2.93,ml,71.0,82.45231867,0.08804150671,0.6918360969,ok,ok2022hbfk,2022-04-11T06:40:49.807Z,"8 km E of Nescatunga, Oklahoma",earthquake,1.665111275,1.225438283,,55.0,automatic,ok,ok
+2022-04-11T06:52:43.330Z,36.0785,-117.857,3.05,1.09,ml,13.0,135.0,0.03904,0.12,ci,ci39990231,2022-04-11T06:56:12.220Z,"9km ENE of Coso Junction, CA",earthquake,0.35,0.67,0.19,13.0,automatic,ci,ci
+2022-04-11T06:48:03.100Z,38.8356667,-122.8051682,1.95,0.75,md,15.0,54.0,0.0119,0.01,nc,nc73716846,2022-04-11T06:49:37.650Z,"7km WNW of Cobb, CA",earthquake,0.26,0.73,0.1,2.0,automatic,nc,nc
