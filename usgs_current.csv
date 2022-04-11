@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-11T05:52:41.070Z,38.8171654,-122.8188324,2.46,0.75,md,15,60,0.009247,0.02,nc,nc73716826,2022-04-11T05:54:17.043Z,"7km NW of The Geysers, CA",earthquake,0.27,0.65,0.11,2,automatic,nc,nc
+2022-04-11T05:44:42.483Z,65.2624,-158.2788,4.9,2.2,ml,,,,0.62,ak,ak0224n4iqu7,2022-04-11T05:54:53.813Z,"50 km NNW of Koyukuk, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-11T05:35:57.350Z,17.8546666666667,-66.783,6.32,2.61,md,8,254,,0.06,pr,pr71344178,2022-04-11T05:55:14.140Z,"15 km SSE of Indios, Puerto Rico",earthquake,0.49,0.4,0.0330956041775377,5,reviewed,pr,pr
 2022-04-11T05:33:05.612Z,61.8115,-148.4588,17.3,0.9,ml,,,,0.55,ak,ak0224n4gayc,2022-04-11T05:35:22.056Z,"1 km N of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-11T05:20:19.660Z,17.9851666666667,-66.8926666666667,10.72,1.83,md,5,137,,0.1,pr,pr71344173,2022-04-11T05:41:37.780Z,"0 km NNW of Maria Antonia, Puerto Rico",earthquake,0.75,0.61,0.250969887602529,4,reviewed,pr,pr
 2022-04-11T05:12:09.609Z,60.7133,-147.5468,0,1.9,ml,,,,0.72,ak,ak0224n4btaa,2022-04-11T05:24:37.034Z,"50 km WSW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -183,6 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-10T06:20:41.800Z,19.173999786377,-155.44416809082,34.2900009155273,1.80999994,md,32,161,,0.109999999,hv,hv72979432,2022-04-10T06:23:58.530Z,"4 km SE of Pāhala, Hawaii",earthquake,0.76,0.870000005,1.80999994,4,automatic,hv,hv
 2022-04-10T06:11:38.310Z,33.653,-116.7198333,15.84,1.02,ml,41,36,0.04154,0.14,ci,ci39989799,2022-04-10T16:14:17.731Z,"10km S of Idyllwild, CA",earthquake,0.16,0.3,0.152,24,reviewed,ci,ci
 2022-04-10T06:09:38.172Z,60.3189,-153.3645,169.5,1.8,ml,,,,0.4,ak,ak0224lhdbf2,2022-04-10T06:32:06.497Z,"54 km ENE of Port Alsworth, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-04-10T05:54:48.526Z,63.4683,-147.079,4.2,1.2,ml,,,,0.47,ak,ak0224lh1jtg,2022-04-10T06:06:12.897Z,"84 km WNW of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-04-10T05:54:41.280Z,38.8325005,-122.8146667,1.93,1.16,md,17,63,0.009774,0.02,nc,nc73716556,2022-04-10T09:07:17.242Z,"8km NW of The Geysers, CA",earthquake,0.24,0.58,0.22,2,automatic,nc,nc
-2022-04-10T05:54:12.600Z,38.8321648,-122.8148346,1.85,1.21,md,25,51,0.009514,0.02,nc,nc73716546,2022-04-10T08:41:25.061Z,"8km NW of The Geysers, CA",earthquake,0.18,0.39,0.03,5,automatic,nc,nc
