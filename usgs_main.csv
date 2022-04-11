@@ -10390,3 +10390,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-11T07:25:31.729Z,62.1817,-151.3668,68.5,2.7,ml,,,,0.6,ak,ak0224n5lieo,2022-04-11T07:35:32.433Z,"21 km N of Skwentna, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-04-11T06:53:02.032Z,-6.598,149.0975,56.28,4.6,mb,,62.0,3.877,1.22,us,us7000h184,2022-04-11T07:22:28.040Z,"65 km SW of Kandrian, Papua New Guinea",earthquake,11.3,8.0,0.095,33.0,reviewed,us,us
 2022-04-10T08:00:15.110Z,38.7881667,-122.745,1.69,0.38,md,13.0,125.0,0.008128,0.02,nc,nc73716571,2022-04-11T07:21:43.000Z,"2km NE of The Geysers, CA",earthquake,0.3,0.51,0.258,2.0,reviewed,nc,nc
+2022-04-11T07:41:11.500Z,19.1886672973633,-155.413497924805,32.810001373291,2.66000009,md,46.0,160.0,,0.129999995,hv,hv72980552,2022-04-11T07:44:24.040Z,"7 km ESE of Pāhala, Hawaii",earthquake,0.56,0.709999979,0.389999986,36.0,automatic,hv,hv
+2022-04-11T07:11:36.192Z,-6.8459,148.5558,57.18,4.6,mb,,56.0,4.916,1.0,us,us7000h18c,2022-04-11T07:39:14.040Z,"84 km ESE of Finschhafen, Papua New Guinea",earthquake,10.4,8.9,0.129,18.0,reviewed,us,us
+2022-04-11T07:02:34.060Z,17.9045,-67.1305,7.95,1.33,md,3.0,298.0,,0.1,pr,pr71344193,2022-04-11T07:39:24.160Z,"9 km SE of Pole Ojea, Puerto Rico",earthquake,1.01,9.75,1.03280630132978,2.0,reviewed,pr,pr
