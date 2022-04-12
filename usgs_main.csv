@@ -10772,3 +10772,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-12T03:55:45.070Z,58.3008333333333,-154.904333333333,3.85,-0.59,ml,7.0,149.0,,0.2,av,av91054558,2022-04-12T19:14:56.560Z,"85 km NNW of Karluk, Alaska",earthquake,0.55,1.51,0.232877295484798,7.0,reviewed,av,av
 2022-04-12T03:55:35.450Z,59.3571666666667,-153.433,-0.57,-0.99,ml,5.0,168.0,,0.11,av,av91054553,2022-04-12T19:10:38.510Z,Southern Alaska,earthquake,0.59,0.29,0.155776704521325,5.0,reviewed,av,av
 2022-04-12T19:24:23.173Z,63.009,-149.8822,77.6,1.5,ml,,,,0.41,ak,ak0224p09tu5,2022-04-12T19:26:00.652Z,"63 km SW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-04-12T19:33:16.399Z,61.8485,-147.0743,9.6,1.8,ml,,,,0.64,ak,ak0224p0bqv0,2022-04-12T19:35:43.649Z,"11 km SSE of Eureka Roadhouse, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-12T19:31:03.440Z,33.9211667,-117.0808333,13.21,2.34,ml,81.0,22.0,0.08079,0.18,ci,ci39990831,2022-04-12T19:34:40.414Z,"8km SSW of Calimesa, CA",earthquake,0.17,0.44,0.164,25.0,automatic,ci,ci
+2022-04-12T04:23:42.610Z,58.5773333333333,-154.335166666667,0.92,0.14,ml,5.0,310.0,,0.3,av,av91536301,2022-04-12T19:35:55.620Z,"99 km SSE of Kokhanok, Alaska",earthquake,1.48,1.47,0.132412072318674,5.0,reviewed,av,av
