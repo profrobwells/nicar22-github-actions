@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-12T03:53:38.610Z,38.7788315,-122.7139969,1.8,1.26,md,17,142,0.01567,0.03,nc,nc73717311,2022-04-12T03:55:14.237Z,"2km WNW of Anderson Springs, CA",earthquake,0.3,0.45,0.12,5,automatic,nc,nc
+2022-04-12T03:47:59.660Z,19.2486667633057,-155.406005859375,31.2700004577637,2.27,ml,44,129,,0.140000001,hv,hv72981367,2022-04-12T03:53:30.020Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.52,0.670000017,3.9,17,automatic,hv,hv
+2022-04-12T03:47:39.583Z,62.9193,-149.2941,55.7,1.5,ml,,,,1.18,ak,ak0224oqvuwl,2022-04-12T03:51:20.667Z,"55 km SSW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-04-12T03:36:55.010Z,33.9293327,-116.9646683,15.3,1.24,ml,9,188,0.2503,0.16,ci,ci39990607,2022-04-12T03:40:23.411Z,"1km E of Beaumont, CA",earthquake,1.15,1.79,0.393,3,automatic,ci,ci
 2022-04-12T03:31:59.659Z,35.10353851,-95.54675293,2.04519558,1.98,ml,15,112.5222626,0.1170828491,0.3514130599,ok,ok2022hcuu,2022-04-12T03:34:55.694Z,"11 km ESE of Crowder, Oklahoma",earthquake,3.843298948,2.618970416,,13,automatic,ok,ok
 2022-04-12T03:28:58.763Z,59.7667,-152.2014,59.4,0.9,ml,,,,1.37,ak,ak0224oqrtgb,2022-04-12T03:35:14.499Z,"20 km W of Anchor Point, Alaska",earthquake,,2,,,automatic,ak,ak
@@ -83,6 +86,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-11T18:12:29.790Z,38.4500008,-119.4723358,7.82,1.85,md,5,139,0.06047,0,nc,nc73717001,2022-04-11T20:59:25.270Z,"7km S of Walker, CA",earthquake,2.98,5.37,0.16,4,automatic,nc,nc
 2022-04-11T17:59:35.750Z,17.9613333333333,-66.9723333333333,8.66,1.93,md,6,196,,0.02,pr,pr71344253,2022-04-11T18:15:22.680Z,"6 km WSW of Fuig, Puerto Rico",earthquake,0.7,0.78,0.0871520837801951,5,reviewed,pr,pr
 2022-04-11T17:51:37.100Z,38.8395004,-122.8748322,1.93,1.14,md,19,151,0.004875,0.03,nc,nc73716991,2022-04-11T20:33:16.064Z,"12km NW of The Geysers, CA",earthquake,0.43,0.53,0.09,2,automatic,nc,nc
+2022-04-11T17:44:54.030Z,58.2958333333333,-154.98,3.44,-0.26,ml,8,131,,0.15,av,av91536041,2022-04-12T03:57:01.570Z,"86 km NNW of Karluk, Alaska",earthquake,0.38,0.8,0.164865517893309,8,reviewed,av,av
 2022-04-11T17:38:42.806Z,42.3489,31.0657,13.89,4.5,mb,,27,1.878,0.79,us,us7000h1b2,2022-04-11T22:08:58.901Z,"116 km NNW of Zonguldak, Turkey",earthquake,4.9,2,0.191,8,reviewed,us,us
 2022-04-11T17:36:10.250Z,61.7511,-149.757,47.8,0.8,ml,,,,0.28,ak,ak0224nbm5ha,2022-04-11T18:30:24.934Z,"13 km NNE of Houston, Alaska",earthquake,,1.5,,,reviewed,ak,ak
 2022-04-11T17:33:01.119Z,62.5706,-152.0669,14.4,1,ml,,,,0.42,ak,ak0224nblhvo,2022-04-11T17:45:52.830Z,"67 km W of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -211,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-11T04:23:55.264Z,60.5903,-149.1115,4,1.8,ml,,,,0.91,ak,ak0224n3su53,2022-04-11T04:35:12.695Z,"18 km NE of Moose Pass, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-11T04:21:40.836Z,65.1187,-149.0187,3.5,1.5,ml,,,,0.88,ak,ak0224n3sdgv,2022-04-11T04:32:52.162Z,"15 km ESE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-11T04:02:59.490Z,58.2416666666667,-155.098833333333,5.27,-0.58,ml,7,138,,0.09,av,av91054468,2022-04-12T00:20:22.940Z,"84 km NNW of Karluk, Alaska",earthquake,0.27,0.61,0.166073411821657,7,reviewed,av,av
-2022-04-11T03:50:00.290Z,19.1889991760254,-155.413833618164,33.7299995422363,1.90999997,md,36,168,,0.109999999,hv,hv72980397,2022-04-11T03:53:06.050Z,"6 km ESE of Pāhala, Hawaii",earthquake,0.66,0.819999993,1.15999997,8,automatic,hv,hv
