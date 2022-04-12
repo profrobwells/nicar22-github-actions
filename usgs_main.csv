@@ -10680,3 +10680,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-12T10:35:36.355Z,60.3643,-152.2247,79.5,1.4,ml,,,,0.66,ak,ak0224ouzba9,2022-04-12T10:38:54.560Z,"46 km NW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-04-12T10:23:48.220Z,64.5216,-147.0116,0.2,1.5,ml,,,,0.8,ak,ak0224ouwrlw,2022-04-12T10:35:28.790Z,"5 km W of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-12T09:36:08.953Z,-17.7604,-69.2306,147.81,4.5,mb,,66.0,0.292,0.55,us,us7000h1g4,2022-04-12T10:48:55.040Z,"77 km E of Palca, Peru",earthquake,8.2,9.9,0.106,26.0,reviewed,us,us
+2022-04-12T10:57:51.444Z,62.7922,-151.8124,0.0,1.9,ml,,,,0.98,ak,ak0224ov427c,2022-04-12T10:59:53.801Z,"63 km WNW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-04-12T10:57:05.290Z,32.2726669,-115.3690033,-0.02,2.75,ml,23.0,84.0,0.1561,0.16,ci,ci39990663,2022-04-12T10:59:29.176Z,"19km WSW of Delta, B.C., MX",earthquake,0.35,0.71,0.242,26.0,automatic,ci,ci
+2022-04-12T10:54:25.392Z,36.37617111,-97.71019745,3.662861586,1.99,ml,30.0,59.02830505,0.178156659,0.7615497902,ok,ok2022hdjk,2022-04-12T10:57:47.414Z,"2 km N of Fairmont, Oklahoma",earthquake,2.284950987,1.849004439,,24.0,automatic,ok,ok
+2022-04-12T10:53:58.070Z,35.2503333,-118.0711667,0.0,1.68,ml,31.0,71.0,0.1074,0.17,ci,ci39990655,2022-04-12T10:57:49.169Z,"16km NNW of California City, CA",earthquake,0.3,31.61,0.167,27.0,automatic,ci,ci
