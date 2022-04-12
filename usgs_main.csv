@@ -10698,3 +10698,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-12T12:18:10.502Z,62.2088,-152.3373,0.0,1.2,ml,,,,1.47,ak,ak0224ow2hl3,2022-04-12T12:27:52.586Z,"54 km WNW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-04-12T12:15:00.320Z,18.0681666666667,-66.8513333333333,8.86,1.88,md,5.0,192.0,,0.06,pr,pr71344348,2022-04-12T12:33:46.540Z,"3 km N of Yauco, Puerto Rico",earthquake,2.4,4.58,0.140818978900524,4.0,reviewed,pr,pr
 2022-04-12T11:33:31.170Z,36.4876667,-89.5416667,8.16,2.03,md,32.0,44.0,0.05123,0.06,nm,nm60148843,2022-04-12T12:35:23.890Z,"7 km ESE of Marston, Missouri",earthquake,0.35,0.67,0.174,27.0,reviewed,nm,nm
+2022-04-12T13:14:51.760Z,62.713,-151.8653,7.6,1.6,ml,,,,0.79,ak,ak0224own594,2022-04-12T13:18:56.715Z,"61 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-12T13:13:29.883Z,38.6998,-119.5598,10.2,0.8,ml,10.0,164.07,0.118,0.1178,nn,nn00837044,2022-04-12T13:17:47.502Z,"1 km WNW of Topaz Lake, Nevada",earthquake,,1.2,0.58,4.0,automatic,nn,nn
+2022-04-12T13:07:28.877Z,57.6351,-154.6863,31.9,1.9,ml,,,,0.76,ak,ak0224owlle5,2022-04-12T13:19:22.256Z,"15 km WNW of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-04-12T13:01:34.230Z,38.8073349,-122.8003311,3.21,1.16,md,7.0,87.0,0.003979,0.01,nc,nc73717411,2022-04-12T13:18:18.007Z,"5km NW of The Geysers, CA",earthquake,0.65,2.36,,1.0,automatic,nc,nc
+2022-04-12T12:57:16.540Z,18.8798332214355,-155.514663696289,33.9900016784668,2.33999991,md,46.0,263.0,,0.150000006,hv,hv72981712,2022-04-12T13:00:35.590Z,"Hawaii region, Hawaii",earthquake,0.66,1.03999996,1.86000001,10.0,automatic,hv,hv
+2022-04-12T11:20:15.871Z,36.5255,70.0701,169.29,4.2,mb,,67.0,0.723,0.72,us,us7000h1gk,2022-04-12T13:16:01.040Z,"19 km ESE of Farkhār, Afghanistan",earthquake,8.4,3.5,0.127,17.0,reviewed,us,us
