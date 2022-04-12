@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-12T08:41:31.690Z,37.4646683,-121.8001633,2.81,1.65,md,22,77,0.03117,0.09,nc,nc73717371,2022-04-12T08:43:09.659Z,"10km ENE of Milpitas, CA",earthquake,0.25,0.58,0.17,19,automatic,nc,nc
+2022-04-12T08:53:56.041Z,59.909,-152.8737,96.3,1.7,ml,,,,0.77,ak,ak0224otwche,2022-04-12T08:57:07.691Z,"60 km WNW of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-12T08:48:49.334Z,63.477,-151.9185,12.3,2.6,ml,,,,0.86,ak,ak0224otv9b4,2022-04-12T08:53:41.046Z,"12 km SW of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-04-12T08:41:31.690Z,37.4646683,-121.8001633,2.81,1.65,md,22,77,0.03117,0.09,nc,nc73717371,2022-04-12T08:58:17.537Z,"10km ENE of Milpitas, CA",earthquake,0.25,0.58,0.17,19,automatic,nc,nc
+2022-04-12T08:33:54.447Z,-17.1189,-174.9844,264.75,4.8,mb,,52,4.115,1.09,us,us7000h1fv,2022-04-12T08:49:12.040Z,"180 km SW of Hihifo, Tonga",earthquake,10.1,7.6,0.093,36,reviewed,us,us
 2022-04-12T08:30:47.731Z,38.1722,-117.8867,10.1,1.4,ml,8,111.09,0.066,0.1425,nn,nn00837039,2022-04-12T08:34:26.210Z,"31 km SE of Mina, Nevada",earthquake,,0.7,0.41,6,automatic,nn,nn
 2022-04-12T08:29:09.869Z,57.5425,-155.5079,88.5,2.8,ml,,,,0.51,ak,ak0224otr3ql,2022-04-12T08:39:52.584Z,"63 km W of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-12T08:19:27.737Z,60.2938,-151.8463,59.5,2,ml,,,,0.59,ak,ak0224otozwb,2022-04-12T08:29:41.118Z,"26 km WNW of Clam Gulch, Alaska",earthquake,,0.8,,,automatic,ak,ak
