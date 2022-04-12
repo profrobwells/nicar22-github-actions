@@ -10620,3 +10620,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-11T19:04:56.590Z,58.2971666666667,-154.919333333333,5.14,-0.41,ml,8.0,147.0,,0.16,av,av91536066,2022-04-12T04:38:18.920Z,"85 km NNW of Karluk, Alaska",earthquake,0.46,1.12,0.273701347646637,8.0,reviewed,av,av
 2022-04-11T19:03:15.490Z,61.2426666666667,-151.904666666667,13.48,0.14,ml,5.0,248.0,,0.08,av,av91536061,2022-04-12T04:35:18.000Z,"45 km WNW of Beluga, Alaska",earthquake,0.82,1.23,0.168946411522481,5.0,reviewed,av,av
 2022-04-11T12:26:13.066Z,50.1352,-179.9618,10.0,3.4,ml,,272.0,1.33,0.7,us,us7000h1b3,2022-04-12T04:33:33.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,7.3,2.0,0.097,14.0,reviewed,us,us
+2022-04-12T05:16:56.662Z,63.2974,-147.3394,30.3,1.7,ml,,,,0.99,ak,ak0224orw482,2022-04-12T05:18:56.264Z,"81 km E of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-04-11T20:57:02.680Z,58.319,-154.816,3.9,-0.48,ml,7.0,167.0,,0.12,av,av91054508,2022-04-12T05:23:41.250Z,"86 km NNW of Karluk, Alaska",earthquake,0.51,1.14,0.149764581140021,7.0,reviewed,av,av
+2022-04-11T20:48:38.220Z,58.3245,-154.819666666667,5.38,-0.19,ml,8.0,164.0,,0.16,av,av91054503,2022-04-12T05:19:05.830Z,"86 km NNW of Karluk, Alaska",earthquake,0.58,1.03,0.160257173533272,8.0,reviewed,av,av
