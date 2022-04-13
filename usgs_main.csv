@@ -11059,3 +11059,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-13T03:14:11.960Z,35.7646667,-117.5821667,7.77,0.9,ml,15.0,92.0,0.05247,0.16,ci,ci39991175,2022-04-13T17:41:18.132Z,"16km W of Searles Valley, CA",earthquake,0.32,0.67,0.051,4.0,reviewed,ci,ci
 2022-04-13T17:48:16.100Z,38.7073326,-122.9111633,7.31,1.84,md,38.0,57.0,0.0795,0.04,nc,nc73717936,2022-04-13T17:51:00.607Z,"11km NNW of Healdsburg, CA",earthquake,0.23,0.74,0.14,13.0,automatic,nc,nc
 2022-04-13T17:43:34.380Z,63.0658,-151.451,3.3,1.5,ml,,,,0.4,ak,ak0224qmqeku,2022-04-13T17:50:22.046Z,"54 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-13T18:07:01.598Z,61.0555,-150.3777,19.1,1.2,ml,,,,0.47,ak,ak0224qn41vz,2022-04-13T18:09:18.630Z,"22 km NE of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-13T17:51:44.170Z,40.6006667,-121.8075,9.57,2.35,md,27.0,54.0,0.114,0.2,nc,nc73717941,2022-04-13T18:09:38.788Z,"14km NNE of Shingletown, CA",earthquake,0.41,1.51,0.26,23.0,reviewed,nc,nc
+2022-04-13T15:25:26.830Z,38.464,-122.6906667,8.6,1.15,md,21.0,47.0,0.1452,0.06,nc,nc73717891,2022-04-13T18:01:10.689Z,"2km NE of Santa Rosa, CA",earthquake,0.15,0.62,0.277,17.0,reviewed,nc,nc
