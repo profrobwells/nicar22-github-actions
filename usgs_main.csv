@@ -11002,3 +11002,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-13T13:19:18.360Z,18.013,-67.1015,5.52,1.51,md,4.0,184.0,,0.09,pr,pr71344468,2022-04-13T14:06:12.180Z,"3 km SW of Palmarejo, Puerto Rico",earthquake,1.11,1.08,0.0476127787379812,3.0,reviewed,pr,pr
 2022-04-13T04:00:10.680Z,44.7368333,-111.0893333,10.97,1.05,ml,17.0,80.0,0.06058,0.18,uu,uu60491272,2022-04-13T14:12:52.290Z,"8 km N of West Yellowstone, Montana",earthquake,0.47,0.76,0.233,2.0,reviewed,uu,uu
 2022-04-12T23:41:51.880Z,44.738,-111.0943333,11.2,0.24,md,11.0,99.0,0.05881,0.12,uu,uu60491217,2022-04-13T14:40:05.620Z,"8 km ESE of Hebgen Lake Estates, Montana",earthquake,0.54,1.2,0.313,6.0,reviewed,uu,uu
+2022-04-13T14:49:03.005Z,63.3772,-149.7764,15.5,1.2,ml,,,,0.52,ak,ak0224qkzbng,2022-04-13T14:51:57.717Z,"41 km W of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-13T14:43:41.110Z,38.8300018,-122.8153305,1.69,0.36,md,7.0,115.0,0.01793,0.01,nc,nc73717881,2022-04-13T14:45:14.605Z,"8km NW of The Geysers, CA",earthquake,0.57,1.37,,1.0,automatic,nc,nc
+2022-04-13T12:10:47.040Z,33.7131667,-116.7536667,17.06,0.62,ml,21.0,75.0,0.03299,0.1,ci,ci37412284,2022-04-13T14:46:57.450Z,"4km SW of Idyllwild, CA",earthquake,0.28,0.49,0.248,8.0,reviewed,ci,ci
+2022-04-12T22:52:31.950Z,40.862,-111.6453333,11.25,1.79,ml,38.0,46.0,0.1479,0.13,uu,uu60491207,2022-04-13T14:51:25.250Z,"13 km NNW of Summit Park, Utah",earthquake,0.2,0.43,0.125,5.0,reviewed,uu,uu
