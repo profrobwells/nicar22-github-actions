@@ -11072,3 +11072,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-13T19:30:04.469Z,64.7591,-147.5879,17.6,1.0,ml,,,,0.4,ak,ak0224qnuf6m,2022-04-13T19:31:33.763Z,"5 km SSW of Badger, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-13T19:24:57.060Z,36.0763333,-117.4678333,-0.2,1.38,ml,16.0,167.0,0.1774,0.14,ci,ci39991663,2022-04-13T19:28:25.703Z,"35km N of Searles Valley, CA",earthquake,0.64,31.61,0.099,15.0,automatic,ci,ci
 2022-04-13T04:46:20.274Z,31.64553457,-104.2488011,9.653564453,2.1,ml,10.0,86.0,0.02949764641,0.2,tx,tx2022hest,2022-04-13T19:24:28.406Z,"56 km NW of Toyah, Texas",earthquake,1.182024498,1.051370342,0.1,7.0,reviewed,tx,tx
+2022-04-13T19:13:01.444Z,-27.7555,63.9313,10.0,5.3,mb,,72.0,7.98,1.01,us,us7000h1xi,2022-04-13T19:32:23.040Z,Southwest Indian Ridge,earthquake,8.2,1.8,0.054,117.0,reviewed,us,us
+2022-04-13T08:30:35.550Z,46.24033333333333,-122.63083333333331,16.49,1.99,ml,45.0,45.0,0.1989,0.16,uw,uw61822352,2022-04-13T19:40:02.790Z,"21 km E of Castle Rock, Washington",earthquake,0.29,0.71,0.1449849351278114,17.0,reviewed,uw,uw
