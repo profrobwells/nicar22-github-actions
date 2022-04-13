@@ -11001,3 +11001,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-13T14:11:14.690Z,38.8408318,-122.8778305,2.48,0.62,md,13.0,90.0,0.005106,0.02,nc,nc73717871,2022-04-13T14:12:48.173Z,"13km NW of The Geysers, CA",earthquake,0.35,0.53,0.27,2.0,automatic,nc,nc
 2022-04-13T13:19:18.360Z,18.013,-67.1015,5.52,1.51,md,4.0,184.0,,0.09,pr,pr71344468,2022-04-13T14:06:12.180Z,"3 km SW of Palmarejo, Puerto Rico",earthquake,1.11,1.08,0.0476127787379812,3.0,reviewed,pr,pr
 2022-04-13T04:00:10.680Z,44.7368333,-111.0893333,10.97,1.05,ml,17.0,80.0,0.06058,0.18,uu,uu60491272,2022-04-13T14:12:52.290Z,"8 km N of West Yellowstone, Montana",earthquake,0.47,0.76,0.233,2.0,reviewed,uu,uu
+2022-04-12T23:41:51.880Z,44.738,-111.0943333,11.2,0.24,md,11.0,99.0,0.05881,0.12,uu,uu60491217,2022-04-13T14:40:05.620Z,"8 km ESE of Hebgen Lake Estates, Montana",earthquake,0.54,1.2,0.313,6.0,reviewed,uu,uu
