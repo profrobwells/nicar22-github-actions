@@ -11022,3 +11022,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-13T03:45:47.110Z,44.7338333,-111.0903333,11.49,0.41,md,13.0,76.0,0.06339,0.11,uu,uu60491267,2022-04-13T15:24:35.830Z,"8 km N of West Yellowstone, Montana",earthquake,0.41,0.95,0.283,8.0,reviewed,uu,uu
 2022-04-13T03:17:33.900Z,44.727,-111.0981667,11.05,0.45,md,13.0,74.0,0.06942,0.12,uu,uu60491257,2022-04-13T15:21:28.540Z,"7 km N of West Yellowstone, Montana",earthquake,0.57,1.35,0.174,6.0,reviewed,uu,uu
 2022-04-13T03:15:21.420Z,44.7326667,-111.0951667,11.99,0.54,md,14.0,74.0,0.06401,0.12,uu,uu60491252,2022-04-13T15:17:50.540Z,"7 km N of West Yellowstone, Montana",earthquake,0.5,0.71,0.366,9.0,reviewed,uu,uu
+2022-04-13T15:48:03.600Z,38.8288345,-122.8146667,1.94,0.93,md,24.0,44.0,0.006509,0.02,nc,nc73717896,2022-04-13T15:49:40.036Z,"8km NW of The Geysers, CA",earthquake,0.19,0.38,0.05,5.0,automatic,nc,nc
+2022-04-13T11:51:41.420Z,44.734,-111.091,12.31,0.32,md,13.0,96.0,0.06314,0.13,uu,uu60491302,2022-04-13T15:57:30.270Z,"8 km N of West Yellowstone, Montana",earthquake,0.56,1.17,0.269,7.0,reviewed,uu,uu
+2022-04-13T08:20:26.950Z,33.8216667,-116.263,-0.87,0.88,ml,20.0,135.0,0.05719,0.24,ci,ci39991231,2022-04-13T15:59:17.879Z,"12km E of Thousand Palms, CA",earthquake,0.87,1.09,0.103,7.0,reviewed,ci,ci
