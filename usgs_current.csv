@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-14T11:43:05.400Z,38.8160019,-122.8206635,2.75,1.42,md,32,50,0.009746,0.03,nc,nc73718251,2022-04-14T11:44:41.844Z,"7km NW of The Geysers, CA",earthquake,0.2,0.37,0.02,8,automatic,nc,nc
+2022-04-14T11:40:41.330Z,34.0096667,-116.4443333,8.8,0.74,ml,15,89,0.0747,0.12,ci,ci39992159,2022-04-14T11:44:08.293Z,"8km NE of Desert Hot Springs, CA",earthquake,0.32,0.58,0.136,8,automatic,ci,ci
 2022-04-14T11:30:09.950Z,36.0326667,-117.6926667,1.9,0.94,ml,11,124,0.05931,0.13,ci,ci39992151,2022-04-14T11:33:44.501Z,"22km ENE of Little Lake, CA",earthquake,0.29,0.47,0.103,10,automatic,ci,ci
 2022-04-14T11:18:09.210Z,36.0311667,-117.69,1.36,2.06,ml,24,94,0.06129,0.16,ci,ci39992143,2022-04-14T11:21:42.154Z,"22km ENE of Little Lake, CA",earthquake,0.25,0.37,0.149,26,automatic,ci,ci
 2022-04-14T11:12:29.690Z,38.8219986,-122.7656631,2.17,0.97,md,21,117,0.009088,0.03,nc,nc73718241,2022-04-14T11:14:04.273Z,"4km W of Cobb, CA",earthquake,0.25,0.44,0.11,5,automatic,nc,nc
