@@ -11354,3 +11354,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-14T15:49:54.379Z,-22.0537,-66.0732,262.9,4.9,mww,,39.0,2.142,1.01,us,us7000h29w,2022-04-14T16:09:54.040Z,"Jujuy, Argentina",earthquake,7.5,7.2,0.093,11.0,reviewed,us,us
 2022-04-14T15:47:31.600Z,18.0165,-66.823,17.42,1.92,md,4.0,158.0,,0.01,pr,pr71344583,2022-04-14T16:27:40.080Z,"2 km N of Indios, Puerto Rico",earthquake,0.86,1.19,0.210063322696264,4.0,reviewed,pr,pr
 2022-04-14T04:29:32.300Z,38.8251667,-122.7616667,2.05,0.58,md,11.0,123.0,0.008339,0.02,nc,nc73718111,2022-04-14T16:09:02.504Z,"3km W of Cobb, CA",earthquake,0.36,0.55,,1.0,reviewed,nc,nc
+2022-04-14T16:57:33.133Z,36.7563,-115.1635,1.9,1.4,ml,8.0,325.34,0.647,0.2973,nn,nn00837169,2022-04-14T17:01:45.789Z,"49 km ENE of Indian Springs, Nevada",earthquake,,28.1,0.46,5.0,automatic,nn,nn
+2022-04-14T16:48:39.271Z,60.9222,-144.8321,13.5,1.1,ml,,,,0.74,ak,ak0224s9pefl,2022-04-14T16:58:41.940Z,"65 km NE of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-04-14T13:47:46.240Z,31.6505,-115.9188333,11.1,2.33,ml,13.0,135.0,0.2828,0.11,ci,ci39992223,2022-04-14T16:53:27.109Z,"62km E of Maneadero, B.C., MX",earthquake,0.38,0.53,0.196,5.0,reviewed,ci,ci
