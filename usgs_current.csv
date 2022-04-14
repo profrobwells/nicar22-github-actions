@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-14T07:57:32.171Z,60.5159,-151.6055,65.6,1.1,ml,,,,0.44,ak,ak0224s4eew1,2022-04-14T07:59:23.719Z,"19 km SW of Salamatof, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2022-04-14T07:49:28.850Z,33.3055,-116.2471667,7.78,0.92,ml,23,76,0.07713,0.18,ci,ci39992047,2022-04-14T07:53:02.823Z,"13km ENE of Borrego Springs, CA",earthquake,0.32,0.98,0.083,20,automatic,ci,ci
+2022-04-14T07:26:09.555Z,-22.7852,-179.0196,568.81,4.4,mb,,108,5.718,0.38,us,us7000h23r,2022-04-14T07:51:53.040Z,"south of the Fiji Islands",earthquake,15.8,9.8,0.112,23,reviewed,us,us
 2022-04-14T07:26:06.471Z,64.582,-150.029,19.8,1.2,ml,,,,0.59,ak,ak0224s47ppj,2022-04-14T07:50:12.142Z,"43 km W of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-14T07:21:02.136Z,64.5869,-150.0085,28.7,1.2,ml,,,,0.88,ak,ak0224s46msl,2022-04-14T07:33:58.654Z,"42 km W of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-14T07:13:04.200Z,36.0735,-117.4758333,0.48,1.25,ml,13,191,0.1712,0.13,ci,ci39992039,2022-04-14T07:16:30.288Z,"35km N of Searles Valley, CA",earthquake,0.46,0.45,0.081,12,automatic,ci,ci
@@ -255,9 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-13T08:16:15.200Z,38.8363342,-122.8066635,1.87,0.85,md,11,104,0.01291,0.01,nc,nc73717781,2022-04-13T09:04:13.265Z,"7km WNW of Cobb, CA",earthquake,0.36,0.91,,1,automatic,nc,nc
 2022-04-13T08:15:34.260Z,38.7868347,-122.7411652,1.64,0.37,md,8,181,0.004995,0.01,nc,nc73717776,2022-04-13T08:53:16.192Z,"2km NE of The Geysers, CA",earthquake,0.55,1.03,,1,automatic,nc,nc
 2022-04-13T08:14:07.876Z,61.5558,-146.3422,18,2.2,ml,,,,0.79,ak,ak0224qh78cl,2022-04-13T08:26:17.601Z,"47 km N of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-04-13T08:08:10.060Z,38.8330002,-122.815834,1.49,0.97,md,20,47,0.01059,0.03,nc,nc73717766,2022-04-13T08:31:13.048Z,"8km NW of The Geysers, CA",earthquake,0.21,0.56,0.25,2,automatic,nc,nc
-2022-04-13T08:04:46.325Z,63.1256,-151.5984,15.9,1.8,ml,,,,1.03,ak,ak0224qh566r,2022-04-13T08:09:43.444Z,"46 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-04-13T08:01:16.300Z,33.511,-116.4805,15.56,0.58,ml,21,94,0.06269,0.11,ci,ci39991215,2022-04-13T15:43:56.084Z,"19km ESE of Anza, CA",earthquake,0.28,0.42,0.077,7,reviewed,ci,ci
-2022-04-13T08:00:32.840Z,18.9446666666667,-67.922,41.23,3.23,md,12,232,,0.4,pr,pr71344428,2022-04-13T08:21:23.770Z,"64 km NE of Punta Cana, Dominican Republic",earthquake,3.77,8.42,0.0420253237006984,3,reviewed,pr,pr
-2022-04-13T07:55:03.263Z,65.2121,-152.9202,0.8,2.2,ml,,,,1.37,ak,ak0224qguktr,2022-04-13T08:03:04.908Z,"39 km W of Tanana, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-04-13T07:53:13.500Z,54.555,-163.316166666667,10.88,0.92,ml,6,242,,0.13,av,av91054618,2022-04-13T22:11:50.140Z,"33 km S of False Pass, Alaska",earthquake,0.75,0.86,0.123733311254026,6,reviewed,av,av
