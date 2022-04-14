@@ -121,9 +121,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-14T02:34:32.340Z,44.7303333,-111.0883333,11.28,1.19,ml,15,74,0.06534,0.17,uu,uu60491427,2022-04-14T13:23:30.570Z,"7 km N of West Yellowstone, Montana",earthquake,0.38,0.76,0.275,2,reviewed,uu,uu
 2022-04-14T02:27:18.062Z,62.6189,-151.3509,83.8,1.5,ml,,,,0.91,ak,ak0224s18s7r,2022-04-14T02:35:25.037Z,"33 km WNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-04-14T01:52:48.890Z,19.3255,-155.132666666667,4.91,2.21,ml,47,118,,0.13,hv,hv72983207,2022-04-14T02:09:20.890Z,"15 km S of Fern Forest, Hawaii",earthquake,0.25,0.47,0.211010426117529,18,reviewed,hv,hv
-2022-04-14T01:51:36.070Z,33.4735,-116.4953333,12.42,0.81,ml,26,60,0.07657,0.2,ci,ci39991911,2022-04-14T01:55:07.350Z,"19km ESE of Anza, CA",earthquake,0.3,0.64,0.117,22,automatic,ci,ci
+2022-04-14T01:51:36.010Z,33.4718333,-116.5008333,12.65,0.85,ml,37,59,0.08116,0.14,ci,ci39991911,2022-04-14T14:31:08.280Z,"18km ESE of Anza, CA",earthquake,0.19,0.34,0.091,17,reviewed,ci,ci
 2022-04-14T01:49:08.120Z,63.2188,-150.6493,114.2,1.5,ml,,,,0.53,ak,ak0224s0s1ki,2022-04-14T01:51:44.570Z,"64 km SE of Denali National Park, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2022-04-14T01:46:36.000Z,33.4818333,-116.4988333,14.06,0.66,ml,22,59,0.07384,0.28,ci,ci39991903,2022-04-14T01:50:16.111Z,"18km ESE of Anza, CA",earthquake,0.56,0.9,0.086,17,automatic,ci,ci
+2022-04-14T01:46:36.140Z,33.4741667,-116.4993333,12.85,0.66,ml,30,67,0.07872,0.14,ci,ci39991903,2022-04-14T14:24:00.239Z,"18km ESE of Anza, CA",earthquake,0.22,0.39,0.097,13,reviewed,ci,ci
 2022-04-14T01:40:41.810Z,18.871,-66.3928333333333,56.36,3.36,md,18,237,,0.31,pr,pr71344523,2022-04-14T04:37:02.030Z,"Puerto Rico region",earthquake,1.53,2.16,0.116591265372626,4,reviewed,pr,pr
 2022-04-14T01:29:10.886Z,-26.3799,-70.9358,27.92,4.4,mb,,170,0.38,0.47,us,us7000h21f,2022-04-14T01:56:07.040Z,"88 km W of Diego de Almagro, Chile",earthquake,2.9,10.3,0.239,5,reviewed,us,us
 2022-04-14T01:21:15.478Z,43.1535,-126.1197,10,3.3,ml,,230,1.543,0.68,us,us7000h21e,2022-04-14T01:55:45.372Z,"138 km W of Langlois, Oregon",earthquake,3.8,1.9,0.037,96,reviewed,us,us
@@ -201,7 +201,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-13T20:19:22.069Z,26.8345,126.4812,10,4.8,mb,,44,1.6,1,us,us7000h1yk,2022-04-13T20:48:34.040Z,"Ryukyu Islands, Japan",earthquake,6.9,1.8,0.07,63,reviewed,us,us
 2022-04-13T20:11:14.930Z,33.0318333,-116.4263333,7.82,1.12,ml,30,85,0.04642,0.18,ci,ci39991695,2022-04-14T00:14:11.662Z,"17km ESE of Julian, CA",earthquake,0.28,0.71,0.186,14,reviewed,ci,ci
 2022-04-13T20:10:33.190Z,19.3391666666667,-155.107333333333,3.49,2.17,ml,48,152,,0.19,hv,hv72982907,2022-04-13T20:56:09.650Z,"14 km SSE of Fern Forest, Hawaii",earthquake,0.32,0.82,0.176499155254012,13,reviewed,hv,hv
-2022-04-13T20:10:22.650Z,35.2568333,-118.6198333,9.13,1.33,ml,24,81,0.06201,0.16,ci,ci39991687,2022-04-14T00:10:25.610Z,"20km ENE of Arvin, CA",earthquake,0.22,0.52,0.144,19,reviewed,ci,ci
+2022-04-13T20:10:22.650Z,35.2568333,-118.6198333,9.13,1.33,ml,24,81,0.06201,0.16,ci,ci39991687,2022-04-14T14:26:32.188Z,"20km ENE of Arvin, CA",earthquake,0.22,0.52,0.144,19,reviewed,ci,ci
 2022-04-13T20:01:35.050Z,33.6975,-116.708,17.63,0.73,ml,27,57,0.01457,0.12,ci,ci39991679,2022-04-13T21:01:16.874Z,"5km SSE of Idyllwild, CA",earthquake,0.25,0.32,0.103,11,reviewed,ci,ci
 2022-04-13T19:58:22.495Z,62.6207,-150.3469,73,1.1,ml,,,,0.48,ak,ak0224qo0gla,2022-04-13T20:04:26.262Z,"22 km NNW of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-04-13T19:56:19.570Z,42.35783333333333,-122.98933333333333,6.74,1.56,ml,13,86,0.1412,0.12,uw,uw61822462,2022-04-14T05:45:41.987Z,"5 km NNW of Jacksonville, Oregon",earthquake,0.31,0.74,0.0818704759633122,6,reviewed,uw,uw
