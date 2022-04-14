@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-14T03:33:48.607Z,56.584,112.1594,10,4.7,mb,,124,7.008,0.94,us,us7000h21x,2022-04-14T03:49:51.040Z,"55 km NNE of Novyy Uoyan, Russia",earthquake,11,1.9,0.067,68,reviewed,us,us
 2022-04-14T03:17:32.390Z,34.1691667,-117.4203333,7.04,0.96,ml,20,89,0.05734,0.18,ci,ci39991959,2022-04-14T03:21:13.208Z,"6km SSW of Devore, CA",earthquake,0.4,0.81,0.184,18,automatic,ci,ci
 2022-04-14T03:15:13.245Z,62.1833,-149.4657,33,1.1,ml,,,,0.76,ak,ak0224s1rmxo,2022-04-14T03:17:19.977Z,"20 km E of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-14T03:14:16.266Z,62.4277,-148.2295,82.5,1.2,ml,,,,0.83,ak,ak0224s1rfga,2022-04-14T03:15:57.231Z,"71 km N of Chickaloon, Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -267,10 +268,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-13T04:00:27.660Z,38.823,-122.8013333,3.08,1.85,md,60,30,0.006839,0.04,nc,nc73717696,2022-04-13T10:32:12.849Z,"6km NW of The Geysers, CA",earthquake,0.12,0.23,0.227,33,reviewed,nc,nc
 2022-04-13T04:00:10.680Z,44.7368333,-111.0893333,10.97,1.05,ml,17,80,0.06058,0.18,uu,uu60491272,2022-04-13T14:12:52.290Z,"8 km N of West Yellowstone, Montana",earthquake,0.47,0.76,0.233,2,reviewed,uu,uu
 2022-04-13T03:58:18.744Z,60.1774,-153.2211,39.7,0.9,ml,,,,0.67,ak,ak0224qehinm,2022-04-13T04:00:12.510Z,"60 km E of Port Alsworth, Alaska",earthquake,,2.2,,,automatic,ak,ak
-2022-04-13T03:54:53.710Z,17.947,-66.9413333333333,14.67,2.04,md,8,210,,0.06,pr,pr71344408,2022-04-13T04:04:07.970Z,"4 km SW of Guánica, Puerto Rico",earthquake,0.61,0.37,0.022407891254854,6,reviewed,pr,pr
-2022-04-13T03:51:02.790Z,19.2205009460449,-155.426666259766,33.1300010681152,1.77999997,md,30,146,,0.129999995,hv,hv72982297,2022-04-13T03:54:20.460Z,"5 km ENE of Pāhala, Hawaii",earthquake,0.64,0.779999971,0.980000019,7,automatic,hv,hv
-2022-04-13T03:50:47.150Z,38.8223343,-122.8028336,2.7,0.98,md,18,55,0.005754,0.02,nc,nc73717691,2022-04-13T04:21:14.515Z,"6km NW of The Geysers, CA",earthquake,0.26,0.68,0.19,3,automatic,nc,nc
-2022-04-13T03:45:58.620Z,19.191333770752,-155.394332885742,31.6900005340576,1.83000004,md,40,162,,0.129999995,hv,hv72982292,2022-04-13T03:49:10.660Z,"8 km E of Pāhala, Hawaii",earthquake,0.93,0.879999995,0.699999988,11,automatic,hv,hv
-2022-04-13T03:45:47.110Z,44.7338333,-111.0903333,11.49,0.41,md,13,76,0.06339,0.11,uu,uu60491267,2022-04-13T15:24:35.830Z,"8 km N of West Yellowstone, Montana",earthquake,0.41,0.95,0.283,8,reviewed,uu,uu
-2022-04-13T03:42:39.780Z,-18.7071,-69.6634,124.01,4.3,mb,,113,0.398,0.74,us,us7000h1ms,2022-04-13T03:58:21.040Z,"71 km ESE of Arica, Chile",earthquake,4.2,6.2,0.168,10,reviewed,us,us
-2022-04-13T03:40:57.640Z,19.1646671295166,-155.460327148438,33.1199989318848,2.07999992,md,43,123,,0.109999999,hv,hv72982287,2022-04-13T03:44:08.420Z,"4 km SSE of Pāhala, Hawaii",earthquake,0.57,0.709999979,1.00999999,16,automatic,hv,hv
