@@ -11571,3 +11571,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-15T10:47:59.700Z,38.8180008,-122.8225021,2.95,0.5,md,13.0,54.0,0.0111,0.01,nc,nc73717800,2022-04-15T10:49:38.130Z,"7km NW of The Geysers, CA",earthquake,0.27,0.83,0.36,2.0,automatic,nc,nc
 2022-04-15T11:00:36.183Z,63.1117,-150.701,107.3,1.4,ml,,,,0.26,ak,ak0224ttzaaq,2022-04-15T11:03:56.058Z,"68 km N of Petersville, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-04-15T11:36:29.723Z,63.8807,-150.8735,17.4,3.4,ml,,,,0.9,ak,ak0224tu6zgj,2022-04-15T11:39:12.398Z,"56 km NE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-15T11:39:15.020Z,19.2346668243408,-155.396331787109,30.5,1.78999996,md,32.0,145.0,,0.150000006,hv,hv72984537,2022-04-15T11:42:36.400Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.59,0.879999995,1.40999997,6.0,automatic,hv,hv
+2022-04-15T11:27:29.623Z,4.1386,95.9511,66.16,4.9,mb,,46.0,3.249,0.73,us,us7000h2gq,2022-04-15T11:46:44.040Z,"19 km W of Meulaboh, Indonesia",earthquake,7.8,6.7,0.066,72.0,reviewed,us,us
