@@ -11570,3 +11570,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-15T10:49:53.050Z,38.8338318,-122.8093338,2.13,0.98,md,17.0,55.0,0.01044,0.04,nc,nc73717805,2022-04-15T10:51:28.261Z,"8km W of Cobb, CA",earthquake,0.26,0.6,0.27,2.0,automatic,nc,nc
 2022-04-15T10:47:59.700Z,38.8180008,-122.8225021,2.95,0.5,md,13.0,54.0,0.0111,0.01,nc,nc73717800,2022-04-15T10:49:38.130Z,"7km NW of The Geysers, CA",earthquake,0.27,0.83,0.36,2.0,automatic,nc,nc
 2022-04-15T11:00:36.183Z,63.1117,-150.701,107.3,1.4,ml,,,,0.26,ak,ak0224ttzaaq,2022-04-15T11:03:56.058Z,"68 km N of Petersville, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2022-04-15T11:36:29.723Z,63.8807,-150.8735,17.4,3.4,ml,,,,0.9,ak,ak0224tu6zgj,2022-04-15T11:39:12.398Z,"56 km NE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
