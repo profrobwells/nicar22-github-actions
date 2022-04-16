@@ -11874,3 +11874,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-16T07:29:53.151Z,60.7288,-146.6094,17.8,1.6,ml,,,,0.42,ak,ak0224vfb5g3,2022-04-16T07:32:00.900Z,"15 km SSE of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-16T07:23:52.230Z,19.2386665344238,-155.398162841797,31.4899997711182,2.27,ml,47.0,138.0,,0.119999997,hv,hv72986452,2022-04-16T07:29:23.650Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.49,0.670000017,4.44,7.0,automatic,hv,hv
 2022-04-16T07:30:16.800Z,34.2838333,-117.5153333,11.19,1.6,ml,50.0,27.0,0.07629,0.19,ci,ci40238048,2022-04-16T07:41:05.490Z,"3km NNW of Lytle Creek, CA",earthquake,0.23,0.53,0.172,28.0,automatic,ci,ci
+2022-04-16T07:48:35.000Z,34.2615013,-118.3841629,10.16,2.01,ml,61.0,45.0,0.03504,0.23,ci,ci40238056,2022-04-16T07:51:03.352Z,"2km SW of Lake View Terrace, CA",earthquake,0.27,0.54,0.291,25.0,automatic,ci,ci
+2022-04-16T05:03:12.574Z,31.6701,-104.6178,5.0,2.5,ml,,73.0,0.099,0.44,us,us7000h2mp,2022-04-16T07:51:43.040Z,"60 km SSW of Whites City, New Mexico",earthquake,1.7,2.0,0.079,38.0,reviewed,us,us
