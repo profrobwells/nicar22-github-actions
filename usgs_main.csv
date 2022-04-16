@@ -11846,3 +11846,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-16T02:10:49.272Z,43.9776,-67.6314,10.0,2.6,ml,,154.0,0.74,0.61,us,us7000h2lz,2022-04-16T05:08:09.040Z,"58 km ESE of Cranberry Isles, Maine",earthquake,3.3,2.0,0.059,38.0,reviewed,us,us
 2022-04-16T00:43:12.130Z,36.9545,-121.6826667,11.84,1.04,md,18.0,83.0,0.02886,0.05,nc,nc73718105,2022-04-16T05:08:56.674Z,"5km E of Interlaken, CA",earthquake,0.26,0.43,0.088,12.0,reviewed,nc,nc
 2022-04-16T00:35:26.180Z,36.821,-119.3526667,26.38,2.29,md,17.0,144.0,0.1469,0.13,nc,nc73718100,2022-04-16T05:09:26.605Z,"13km NW of Squaw Valley, CA",earthquake,0.4,0.59,0.104,20.0,reviewed,nc,nc
+2022-04-16T05:20:01.750Z,38.8226662,-122.7878342,1.33,0.35,md,7.0,113.0,0.01093,0.03,nc,nc73718200,2022-04-16T05:27:29.866Z,"6km W of Cobb, CA",earthquake,0.63,1.24,,1.0,automatic,nc,nc
+2022-04-16T05:16:43.590Z,35.9553333,-117.7128333,2.0,0.74,ml,13.0,129.0,0.05121,0.11,ci,ci40237992,2022-04-16T05:20:18.900Z,"18km E of Little Lake, CA",earthquake,0.41,0.43,0.146,7.0,automatic,ci,ci
+2022-04-16T05:16:25.202Z,61.3931,-152.0841,11.2,1.4,ml,,,,0.99,ak,ak0224ve1frc,2022-04-16T05:19:09.838Z,"60 km WNW of Beluga, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-04-16T05:15:19.976Z,38.184,-117.865,7.8,0.7,ml,9.0,182.79,0.087,0.1907,nn,nn00837299,2022-04-16T05:19:20.711Z,"31 km SE of Mina, Nevada",earthquake,,1.4,0.39,5.0,automatic,nn,nn
+2022-04-15T13:59:13.357Z,-17.4672,168.6669,217.46,4.3,mb,,69.0,2.451,0.7,us,us7000h2hs,2022-04-16T05:19:04.040Z,"47 km NE of Port-Vila, Vanuatu",earthquake,8.9,7.4,0.09,35.0,reviewed,us,us
