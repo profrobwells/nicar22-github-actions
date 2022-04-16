@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-16T14:36:05.870Z,38.8266678,-122.8134995,2.17,1.58,md,13,73,0.004224,0.01,nc,nc73718355,2022-04-16T14:46:26.052Z,"7km NW of The Geysers, CA",earthquake,0.29,0.86,0.73,3,automatic,nc,nc
 2022-04-16T14:13:11.350Z,33.5605,-116.3805,9.63,0.68,ml,15,113,0.08127,0.14,ci,ci40238208,2022-04-16T14:16:49.211Z,"13km SSW of La Quinta, CA",earthquake,0.36,0.78,0.181,15,automatic,ci,ci
 2022-04-16T14:05:38.933Z,60.7449,-143.5262,18.9,1.1,ml,,,,0.48,ak,ak0224vjc0ed,2022-04-16T14:17:07.940Z,"83 km SSW of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-16T14:04:37.890Z,32.642,-115.7168333,8.84,2.28,ml,33,106,0.01088,0.26,ci,ci40238200,2022-04-16T14:08:31.161Z,"14km WNW of Progreso, B.C., MX",earthquake,0.53,0.85,0.194,26,automatic,ci,ci
@@ -264,6 +265,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-15T15:06:47.720Z,40.4643333,-124.4016667,25.83,2.56,md,21,217,0.05023,0.08,nc,nc73717865,2022-04-15T23:18:07.487Z,"17km SW of Ferndale, CA",earthquake,0.38,0.57,0.225,25,reviewed,nc,nc
 2022-04-15T15:02:04.200Z,19.2145004272461,-155.414169311523,32.25,2,md,26,158,,0.109999999,hv,hv72985062,2022-04-15T15:05:49.580Z,"6 km E of Pāhala, Hawaii",earthquake,0.69,0.790000021,1.38999999,6,automatic,hv,hv
 2022-04-15T14:59:02.330Z,19.2378330230713,-155.39582824707,32.0800018310547,2.15,ml,37,139,,0.140000001,hv,hv72985047,2022-04-15T15:04:33.230Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.57,0.730000019,0.17,3,automatic,hv,hv
-2022-04-15T14:42:39.950Z,38.8478317,-122.8193359,1.76,0.37,md,9,137,0.007504,0.01,nc,nc73717855,2022-04-15T17:09:14.163Z,"9km WNW of Cobb, CA",earthquake,0.42,1.18,,1,automatic,nc,nc
-2022-04-15T14:39:22.925Z,38.4154,-118.9163,11.8,0.9,ml,8,165.6,0.362,0.1342,nn,nn00837285,2022-04-16T02:38:47.623Z,"California-Nevada border region",earthquake,,4.7,0.17,2,reviewed,nn,nn
-2022-04-15T14:38:53.620Z,47.8883333,-114.1471667,2.03,1.58,ml,18,106,0.169,0.15,mb,mb80543079,2022-04-15T22:21:45.510Z,"4 km ESE of Rollins, Montana",earthquake,0.75,1.39,0.425,4,reviewed,mb,mb
