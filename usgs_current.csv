@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-16T21:18:15.200Z,36.5788345,-121.1568298,6.29,1.35,md,6,122,0.02408,0.04,nc,nc73718545,2022-04-16T21:22:18.480Z,"5km NNW of Pinnacles, CA",earthquake,0.66,0.97,0.14,5,automatic,nc,nc
+2022-04-16T21:10:58.860Z,36.042,-117.5755,0.74,2.65,ml,27,81,0.1082,0.16,ci,ci40238472,2022-04-16T21:22:00.340Z,"32km ENE of Little Lake, CA",earthquake,0.34,0.52,0.143,26,automatic,ci,ci
 2022-04-16T20:52:29.870Z,19.1921672821045,-155.485168457031,31.0599994659424,2.33,ml,41,146,,0.119999997,hv,hv72987252,2022-04-16T20:58:00.960Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.62,0.730000019,4.93,4,automatic,hv,hv
 2022-04-16T20:50:58.090Z,33.6728333,-116.727,13.76,0.77,ml,20,96,0.0397,0.14,ci,ci40238448,2022-04-16T20:54:34.892Z,"8km S of Idyllwild, CA",earthquake,0.35,0.49,0.213,20,automatic,ci,ci
 2022-04-16T20:41:51.849Z,60.3197,-143.4801,3.1,1.1,ml,,,,0.73,ak,ak0224vn4csw,2022-04-16T20:43:27.848Z,"127 km SSW of McCarthy, Alaska",earthquake,,2.7,,,automatic,ak,ak
-2022-04-16T20:37:01.600Z,40.3156662,-124.495163,13.7,2.01,md,7,317,0.1613,0.02,nc,nc73718525,2022-04-16T20:45:26.329Z,"18km W of Petrolia, CA",earthquake,4.97,1.11,0.07,5,automatic,nc,nc
+2022-04-16T20:37:01.600Z,40.3156662,-124.495163,13.7,2.01,md,7,317,0.1613,0.02,nc,nc73718525,2022-04-16T21:23:16.559Z,"18km W of Petrolia, CA",earthquake,4.97,1.11,0.07,5,automatic,nc,nc
 2022-04-16T20:31:27.600Z,34.5478333,-119.2855,7.06,1.1,ml,5,187,0.1101,0.09,ci,ci40238440,2022-04-16T20:35:00.772Z,"12km NNW of Ojai, CA",earthquake,0.79,2.21,0.159,13,automatic,ci,ci
 2022-04-16T20:27:31.970Z,19.244499206543,-155.398330688477,32.6500015258789,1.84000003,md,34,138,,0.100000001,hv,hv72987222,2022-04-16T20:30:38.230Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.56,0.790000021,1.82000005,6,automatic,hv,hv
 2022-04-16T20:08:58.120Z,38.831501,-122.8146667,1.63,0.77,md,15,56,0.008854,0.01,nc,nc73718520,2022-04-16T20:15:37.142Z,"8km NW of The Geysers, CA",earthquake,0.25,0.62,0.49,2,automatic,nc,nc
@@ -36,7 +38,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-16T17:14:47.450Z,38.8193321,-122.7608337,1.96,0.45,md,10,121,0.01319,0.02,nc,nc73718425,2022-04-16T17:44:53.140Z,"3km W of Cobb, CA",earthquake,0.34,0.77,0.4,2,automatic,nc,nc
 2022-04-16T17:11:43.547Z,62.7529,-149.5334,54.9,1.6,ml,,,,0.5,ak,ak0224vl5lv6,2022-04-16T17:27:00.216Z,"44 km NE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-04-16T17:10:33.627Z,-33.9896,-72.3744,6.11,5,mww,,69,0.714,0.8,us,us7000h2q1,2022-04-16T19:39:19.108Z,"83 km WSW of San Antonio, Chile",earthquake,3,3.4,0.073,18,reviewed,us,us
-2022-04-16T17:09:37.570Z,38.8213333,-122.7641667,2.22,1.21,md,42,64,0.01017,0.03,nc,nc73718420,2022-04-16T20:25:27.196Z,"4km W of Cobb, CA",earthquake,0.15,0.23,0.045,7,reviewed,nc,nc
+2022-04-16T17:09:37.570Z,38.8213333,-122.7641667,2.22,1.21,md,42,64,0.01017,0.03,nc,nc73718420,2022-04-16T21:10:53.479Z,"4km W of Cobb, CA",earthquake,0.15,0.23,0.045,7,reviewed,nc,nc
 2022-04-16T17:00:39.693Z,36.0479,22.5741,62.33,4.7,mb,,57,1.243,0.82,us,us7000h2q0,2022-04-16T19:20:48.040Z,"39 km WSW of Kýthira, Greece",earthquake,6.2,6.1,0.045,159,reviewed,us,us
 2022-04-16T16:25:31.161Z,57.8124,-154.365,31.5,1.9,ml,,,,0.55,ak,ak0224vkn5bw,2022-04-16T16:44:26.598Z,"27 km N of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-16T16:23:51.170Z,38.803,-122.7755,1.13,0.48,md,13,72,0.01102,0.02,nc,nc73718405,2022-04-16T19:28:52.809Z,"3km NNW of The Geysers, CA",earthquake,0.26,0.5,0.307,3,reviewed,nc,nc
@@ -105,7 +107,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-16T09:10:47.720Z,38.7879982,-122.7789993,1.28,0.93,md,12,133,0.00868,0.02,nc,nc73718275,2022-04-16T10:00:04.400Z,"2km WNW of The Geysers, CA",earthquake,0.35,0.45,0.22,3,automatic,nc,nc
 2022-04-16T09:03:51.307Z,-31.6417,-72.166,10,4,mwr,,136,1.066,0.91,us,us7000h2nk,2022-04-16T09:34:49.040Z,"94 km W of Illapel, Chile",earthquake,1.9,1.9,0.043,53,reviewed,us,us
 2022-04-16T09:03:46.610Z,19.2173328399658,-155.419998168945,33.2200012207031,2.51,ml,48,137,,0.129999995,hv,hv72986572,2022-04-16T09:16:34.040Z,"6 km ENE of Pāhala, Hawaii",earthquake,0.54,0.670000017,3.36,20,automatic,hv,hv
-2022-04-16T08:54:37.330Z,36.5144997,-121.0888367,8.66,1.18,md,8,116,0.06412,0.07,nc,nc73718260,2022-04-16T20:30:23.227Z,"5km ESE of Pinnacles, CA",earthquake,0.63,1.6,0.07,5,automatic,nc,nc
+2022-04-16T08:54:37.460Z,36.5146667,-121.0938333,6.99,1.31,md,17,88,0.04397,0.08,nc,nc73718260,2022-04-16T21:21:53.554Z,"5km ESE of Pinnacles, CA",earthquake,0.38,0.49,0.289,13,reviewed,nc,nc
 2022-04-16T08:53:58.380Z,36.514,-121.0873333,6.62,2.27,md,58,68,0.04909,0.14,nc,nc73718255,2022-04-16T14:54:38.101Z,"5km ESE of Pinnacles, CA",earthquake,0.21,0.25,0.196,62,reviewed,nc,nc
 2022-04-16T08:46:57.750Z,38.8266678,-122.814003,1.79,0.85,md,8,115,0.004483,0.02,nc,nc73718250,2022-04-16T11:24:01.884Z,"7km NW of The Geysers, CA",earthquake,0.41,0.95,,1,automatic,nc,nc
 2022-04-16T08:38:50.840Z,33.584,-116.814,7.19,0.23,ml,10,167,0.05386,0.17,ci,ci40238088,2022-04-16T08:42:16.289Z,"13km WNW of Anza, CA",earthquake,0.76,0.73,0.094,4,automatic,ci,ci
@@ -232,6 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-15T21:54:04.760Z,38.8163338,-122.7958298,2.51,0.34,md,7,161,0.008364,0.01,nc,nc73718030,2022-04-15T22:12:03.060Z,"6km NW of The Geysers, CA",earthquake,0.88,1.63,,1,automatic,nc,nc
 2022-04-15T21:29:58.000Z,34.061,-118.7755,10.12,2.17,ml,59,68,0.06215,0.21,ci,ci40237704,2022-04-16T06:07:19.725Z,"7km NNE of Malibu, CA",earthquake,0.24,0.43,0.138,25,reviewed,ci,ci
 2022-04-15T21:24:56.850Z,19.203332901001,-155.400329589844,31.0599994659424,1.84000003,md,31,165,,0.119999997,hv,hv72985662,2022-04-15T21:28:35.190Z,"8 km E of Pāhala, Hawaii",earthquake,0.6,0.860000014,0.529999971,9,automatic,hv,hv
-2022-04-15T21:17:10.278Z,0.6456,97.0615,10,4.8,mb,,58,0.831,0.7,us,us7000h2kq,2022-04-15T21:38:47.040Z,"Nias region, Indonesia",earthquake,6.5,1.9,0.061,82,reviewed,us,us
-2022-04-15T21:16:47.620Z,32.9275,-116.2425,12.42,1.3,ml,40,59,0.05789,0.17,ci,ci40237696,2022-04-16T00:28:04.820Z,"26km SSW of Ocotillo Wells, CA",earthquake,0.2,0.71,0.128,22,reviewed,ci,ci
-2022-04-15T21:10:39.590Z,19.1921666666667,-155.412,30.19,1.43,md,21,170,,0.18,hv,hv72985637,2022-04-16T01:17:00.200Z,"7 km E of Pāhala, Hawaii",earthquake,0.72,0.82,0.0483371950082851,13,reviewed,hv,hv
