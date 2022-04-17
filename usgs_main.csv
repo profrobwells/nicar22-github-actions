@@ -12165,3 +12165,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-17T11:17:46.399Z,-1.3877,136.7803,45.87,4.9,mb,,71.0,4.776,0.77,us,us7000h2vy,2022-04-17T11:38:10.040Z,"81 km ESE of Biak, Indonesia",earthquake,8.9,6.7,0.063,78.0,reviewed,us,us
 2022-04-17T11:54:08.035Z,60.7723,-149.0853,14.2,2.1,ml,,,,0.78,ak,ak0224x5dhst,2022-04-17T11:57:42.336Z,"Kenai Peninsula, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-17T11:32:35.741Z,-1.5808,136.8865,37.68,4.6,mb,,63.0,4.82,0.49,us,us7000h2w1,2022-04-17T11:53:24.040Z,"100 km ESE of Biak, Indonesia",earthquake,9.4,8.0,0.094,34.0,reviewed,us,us
+2022-04-17T12:19:39.685Z,5.3419,126.281,84.38,4.5,mb,,45.0,1.853,0.53,us,us7000h2wb,2022-04-17T12:36:56.040Z,"90 km E of Sarangani, Philippines",earthquake,7.6,1.5,0.099,30.0,reviewed,us,us
+2022-04-17T12:19:36.904Z,59.6759,-154.514,200.0,2.1,ml,,,,0.53,ak,ak0224x5ri35,2022-04-17T12:28:30.937Z,"13 km N of Pope-Vannoy Landing, Alaska",earthquake,,2.2,,,automatic,ak,ak
+2022-04-17T12:06:11.610Z,33.486,-116.553,7.36,0.48,ml,15.0,81.0,0.04202,0.08,ci,ci40238968,2022-04-17T12:09:47.480Z,"14km SE of Anza, CA",earthquake,0.2,0.35,0.188,10.0,automatic,ci,ci
+2022-04-17T12:00:46.832Z,60.7569,-149.0481,13.2,1.7,ml,,,,0.47,ak,ak0224x5nfql,2022-04-17T12:12:59.776Z,"19 km W of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
