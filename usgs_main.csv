@@ -12180,3 +12180,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-17T13:19:26.954Z,63.5046,-151.2386,4.2,1.4,ml,,,,1.12,ak,ak0224x6cwdz,2022-04-17T13:22:52.968Z,"24 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-17T13:10:30.030Z,37.0843333,-117.9395,3.42,1.99,ml,6.0,118.0,0.2344,0.02,ci,ci40238984,2022-04-17T13:14:22.388Z,"32km ESE of Big Pine, CA",earthquake,0.3,0.83,0.282,13.0,automatic,ci,ci
 2022-04-17T13:32:35.480Z,35.9343333,-117.7128333,9.76,1.06,ml,14.0,59.0,0.05246,0.12,ci,ci40239000,2022-04-17T13:36:16.497Z,"18km E of Little Lake, CA",earthquake,0.31,0.58,0.408,8.0,automatic,ci,ci
+2022-04-17T14:03:30.580Z,34.1453333,-117.4223333,3.91,0.94,ml,28.0,97.0,0.08935,0.22,ci,ci40239016,2022-04-17T14:08:03.579Z,"6km NNE of Fontana, CA",earthquake,0.39,1.01,0.17,29.0,automatic,ci,ci
+2022-04-17T13:58:45.464Z,63.9661,-150.3639,19.0,1.2,ml,,,,0.98,ak,ak0224x6laqm,2022-04-17T14:02:02.739Z,"61 km W of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
