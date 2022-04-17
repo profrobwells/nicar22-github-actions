@@ -12099,3 +12099,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-17T06:10:02.011Z,65.1273,-148.9707,4.5,1.0,ml,,,,0.31,ak,ak0224x24vs9,2022-04-17T06:21:16.135Z,"17 km E of Minto, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2022-04-17T06:05:54.110Z,17.9216666666667,-67.0243333333333,13.89,2.29,md,5.0,223.0,,0.32,pr,pr71344828,2022-04-17T06:27:45.510Z,"6 km SSE of La Parguera, Puerto Rico",earthquake,1.53,1.71,0.162573593447395,2.0,reviewed,pr,pr
 2022-04-17T05:49:28.807Z,-1.3804,136.9426,10.0,5.3,mww,,52.0,4.933,0.85,us,us7000h2ti,2022-04-17T06:09:45.040Z,"98 km ESE of Biak, Indonesia",earthquake,6.0,1.8,0.089,12.0,reviewed,us,us
+2022-04-17T06:36:12.780Z,38.8388329,-122.8103333,1.73,0.85,md,14.0,60.0,0.01542,0.01,nc,nc73718710,2022-04-17T06:42:53.236Z,"8km WNW of Cobb, CA",earthquake,0.26,0.61,,1.0,automatic,nc,nc
