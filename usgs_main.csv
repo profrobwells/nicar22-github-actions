@@ -12082,3 +12082,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-17T04:43:00.049Z,61.0719,-150.3589,50.1,1.4,ml,,,,0.56,ak,ak0224x1531w,2022-04-17T04:49:07.141Z,"24 km NE of Point Possession, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-04-17T04:38:49.100Z,38.8313332,-122.8156662,1.75,0.85,md,18.0,63.0,0.00905,0.02,nc,nc73718685,2022-04-17T04:46:15.509Z,"8km NW of The Geysers, CA",earthquake,0.24,0.43,,1.0,automatic,nc,nc
 2022-04-17T04:34:50.123Z,-17.3967,121.6562,10.0,4.4,mb,,78.0,3.86,0.73,us,us7000h2t5,2022-04-17T04:51:10.040Z,"83 km NW of Bilingurr, Australia",earthquake,7.7,1.7,0.269,5.0,reviewed,us,us
+2022-04-17T05:09:58.570Z,38.8354988,-122.7911682,1.88,1.14,md,19.0,53.0,0.002976,0.01,nc,nc73718690,2022-04-17T05:16:40.093Z,"6km WNW of Cobb, CA",earthquake,0.22,0.4,0.03,3.0,automatic,nc,nc
+2022-04-17T05:09:56.180Z,60.3059,-139.662,0.0,1.6,ml,,,,0.68,ak,ak0224x1jcn6,2022-04-17T05:15:15.727Z,"84 km N of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-17T05:06:44.770Z,19.2514991760254,-155.389831542969,30.4300003051758,1.87,md,27.0,134.0,,0.150000006,hv,hv72987452,2022-04-17T05:09:58.510Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.64,0.829999983,0.589999974,5.0,automatic,hv,hv
+2022-04-17T05:01:46.374Z,61.3349,-150.018,19.1,2.1,ml,,,,0.86,ak,ak0224x1hm60,2022-04-17T05:13:00.382Z,"3 km SW of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
