@@ -12539,3 +12539,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-18T16:05:25.960Z,36.628,-118.0756667,-1.66,1.81,ml,20.0,55.0,0.1878,0.19,ci,ci40239904,2022-04-18T19:59:30.550Z,"5km N of Lone Pine, CA",earthquake,0.28,0.47,0.167,8.0,reviewed,ci,ci
 2022-04-18T04:14:58.470Z,44.3073333,-115.1726667,5.49,1.92,ml,11.0,82.0,0.817,0.2,mb,mb80543364,2022-04-18T20:05:11.320Z,southern Idaho,earthquake,0.47,1.57,0.19,14.0,reviewed,mb,mb
 2022-04-18T03:19:04.280Z,45.5215,-111.635,0.12,-0.09,ml,3.0,223.0,0.076,0.04,mb,mb80543359,2022-04-18T19:56:46.370Z,"20 km NNE of Ennis, Montana",earthquake,1.22,5.25,,0.0,reviewed,mb,mb
+2022-04-18T20:27:07.802Z,60.3761,-153.4642,0.0,1.4,ml,,,,0.73,ak,ak0224yy3yda,2022-04-18T20:34:08.610Z,"50 km ENE of Port Alsworth, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-18T16:37:50.240Z,36.0978333,-117.6086667,2.85,1.07,ml,18.0,98.0,0.1062,0.09,ci,ci40240008,2022-04-18T20:29:27.146Z,"31km E of Coso Junction, CA",earthquake,0.19,0.54,0.135,7.0,reviewed,ci,ci
+2022-04-18T16:22:26.130Z,33.513,-116.7481667,4.91,0.21,ml,13.0,218.0,0.05304,0.12,ci,ci40239976,2022-04-18T20:25:23.702Z,"8km SW of Anza, CA",earthquake,0.42,0.53,0.09,4.0,reviewed,ci,ci
+2022-04-18T16:12:10.930Z,35.5755,-117.5085,7.53,0.29,ml,5.0,214.0,0.0393,0.11,ci,ci37495965,2022-04-18T20:23:16.195Z,"16km ESE of Ridgecrest, CA",earthquake,2.14,0.56,0.002,1.0,reviewed,ci,ci
