@@ -251,5 +251,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-17T08:01:41.670Z,17.8963333333333,-66.8861666666667,14.73,2.62,md,17,223,,0.2,pr,pr71344848,2022-04-17T08:29:20.030Z,"8 km SSE of Guánica, Puerto Rico",earthquake,0.71,0.54,0.187113913890604,11,reviewed,pr,pr
 2022-04-17T07:57:09.690Z,19.2333335876465,-155.382339477539,30.4300003051758,1.98000002,md,42,148,,0.119999997,hv,hv72987557,2022-04-17T08:00:22.470Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.56,0.720000029,1.47000003,23,automatic,hv,hv
 2022-04-17T07:56:56.030Z,32.9128333,-115.8085,5.07,1.31,ml,20,66,0.03296,0.23,ci,ci40238784,2022-04-17T08:00:34.807Z,"22km SW of Westmorland, CA",earthquake,0.42,0.67,0.168,16,automatic,ci,ci
-2022-04-17T07:48:52.908Z,60.158,-140.8845,16.2,1.2,ml,,,,1.02,ak,ak0224x2ykil,2022-04-17T08:04:24.209Z,"94 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-04-17T07:46:36.426Z,-15.6828,167.7723,199.4,5.8,mww,,35,0.596,0.71,us,us7000h2u9,2022-04-18T00:53:52.082Z,"58 km NE of Norsup, Vanuatu",earthquake,8.7,5.3,0.098,10,reviewed,us,us
