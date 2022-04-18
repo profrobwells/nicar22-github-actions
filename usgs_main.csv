@@ -12507,3 +12507,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-18T17:55:52.790Z,36.0773333,-117.8935,4.4,0.84,ml,8.0,181.0,0.05092,0.14,ci,ci40240128,2022-04-18T17:59:38.274Z,"6km NE of Coso Junction, CA",earthquake,0.62,0.68,0.24,8.0,automatic,ci,ci
 2022-04-18T12:32:24.430Z,48.1458333,-113.0431667,23.12,1.32,ml,13.0,102.0,0.473,0.13,mb,mb80543319,2022-04-18T18:03:17.200Z,"21 km SW of Heart Butte, Montana",earthquake,0.46,0.69,0.151,4.0,reviewed,mb,mb
 2022-04-18T05:10:54.080Z,47.7271667,-113.8178333,0.6,-0.25,md,6.0,198.0,0.189,0.11,mb,mb80543314,2022-04-18T17:55:40.400Z,"18 km E of Finley Point, Montana",earthquake,0.83,1.46,0.026,2.0,reviewed,mb,mb
+2022-04-18T18:25:50.481Z,61.6345,-147.6634,19.3,1.8,ml,,,,0.91,ak,ak0224ywwr0g,2022-04-18T18:29:06.616Z,"19 km S of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-18T18:19:46.750Z,38.8269997,-122.7958298,2.5,0.84,md,8.0,89.0,0.01169,0.01,nc,nc73719755,2022-04-18T18:26:18.797Z,"6km W of Cobb, CA",earthquake,0.47,1.54,,1.0,automatic,nc,nc
+2022-04-18T18:16:08.090Z,33.443,-116.6281667,4.33,0.47,ml,18.0,89.0,0.05595,0.14,ci,ci40240192,2022-04-18T18:19:47.459Z,"13km SSE of Anza, CA",earthquake,0.33,0.47,0.051,8.0,automatic,ci,ci
+2022-04-18T18:15:27.770Z,38.8256683,-122.8253326,0.45,0.85,md,13.0,61.0,0.01514,0.04,nc,nc73719750,2022-04-18T18:22:03.619Z,"8km NW of The Geysers, CA",earthquake,0.22,0.85,,1.0,automatic,nc,nc
