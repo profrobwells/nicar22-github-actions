@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-18T21:48:53.060Z,33.5141678,-116.7429962,2.51,0.96,ml,31,36,0.04795,0.11,ci,ci40240448,2022-04-18T21:50:58.226Z,"8km SW of Anza, CA",earthquake,0.24,0.32,0.212,15,automatic,ci,ci
+2022-04-18T21:48:53.030Z,33.5118333,-116.7451667,2.74,0.94,ml,34,46,0.04611,0.17,ci,ci40240448,2022-04-18T21:52:21.958Z,"8km SW of Anza, CA",earthquake,0.2,0.27,0.167,27,automatic,ci,ci
 2022-04-18T21:44:41.730Z,33.5093333,-116.7465,3.18,1.16,ml,37,29,0.04509,0.2,ci,ci40240432,2022-04-18T21:48:17.870Z,"8km SW of Anza, CA",earthquake,0.21,0.64,0.146,29,automatic,ci,ci
-2022-04-18T21:43:46.560Z,36.581665,-121.1256638,9.35,1.31,md,7,152,0.0491,0.11,nc,nc73719820,2022-04-18T21:50:50.900Z,"6km NNE of Pinnacles, CA",earthquake,0.76,1.47,0.19,7,automatic,nc,nc
+2022-04-18T21:43:46.560Z,36.581665,-121.1256638,9.35,1.31,md,7,152,0.0491,0.11,nc,nc73719820,2022-04-18T21:55:18.190Z,"6km NNE of Pinnacles, CA",earthquake,0.76,1.47,0.19,7,automatic,nc,nc
 2022-04-18T21:42:58.680Z,38.8305016,-122.810997,1.9,0.75,md,13,76,0.007133,0.01,nc,nc73719805,2022-04-18T21:50:28.948Z,"8km NW of The Geysers, CA",earthquake,0.25,0.69,0.1,2,automatic,nc,nc
-2022-04-18T21:42:46.440Z,38.8306656,-122.8111649,2.04,0.85,md,15,46,0.00731,0.02,nc,nc73719800,2022-04-18T21:49:24.924Z,"8km NW of The Geysers, CA",earthquake,0.27,0.78,,1,automatic,nc,nc
+2022-04-18T21:42:46.440Z,38.8306656,-122.8111649,2.04,0.85,md,15,46,0.00731,0.02,nc,nc73719800,2022-04-18T22:00:38.226Z,"8km NW of The Geysers, CA",earthquake,0.27,0.78,,1,automatic,nc,nc
 2022-04-18T21:20:43.970Z,33.7276667,-116.0736667,2.09,1.13,ml,37,48,0.07687,0.26,ci,ci40240408,2022-04-18T21:24:19.011Z,"11km ENE of Coachella, CA",earthquake,0.38,0.63,0.136,27,automatic,ci,ci
 2022-04-18T21:16:44.290Z,33.3228333,-116.8471667,14.62,0.94,ml,26,56,0.03332,0.21,ci,ci40240400,2022-04-18T21:20:22.760Z,"4km SSE of Palomar Observatory, CA",earthquake,0.34,0.71,0.119,21,automatic,ci,ci
 2022-04-18T21:13:13.700Z,32.3081667,-115.1756667,11,2.22,ml,11,268,0.1559,0.25,ci,ci40240392,2022-04-18T21:16:46.740Z,"6km SSE of Delta, B.C., MX",earthquake,2.35,1.53,0.23,21,automatic,ci,ci
@@ -256,6 +256,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-18T00:39:57.350Z,34.2005,-117.439,7.99,1.49,ml,55,42,0.01241,0.2,ci,ci40239336,2022-04-18T00:50:23.740Z,"4km SW of Devore, CA",earthquake,0.25,0.51,0.118,28,automatic,ci,ci
 2022-04-18T00:37:04.392Z,38.4749,21.5717,10,4.2,mb,,101,1.323,0.84,us,us7000h2zh,2022-04-18T01:20:21.040Z,"6 km SSE of Gavaloú, Greece",earthquake,4.7,1.9,0.264,4,reviewed,us,us
 2022-04-18T00:29:01.900Z,38.8236656,-122.7663345,1.79,1.22,md,30,62,0.007348,0.04,nc,nc73719145,2022-04-18T03:47:57.356Z,"4km W of Cobb, CA",earthquake,0.23,0.36,0.09,8,automatic,nc,nc
+2022-04-18T00:26:54.000Z,40.0533,-119.6345,13.5,0.1,ml,3,183.32,0.139,0.0339,nn,nn00837397,2022-04-18T22:04:36.716Z,"11 km NNW of Sutcliffe, Nevada",earthquake,,6.9,0.03,2,reviewed,nn,nn
 2022-04-18T00:21:47.200Z,38.821167,-122.7659988,1.92,1.25,md,25,114,0.009781,0.03,nc,nc73719140,2022-04-18T03:21:34.192Z,"4km W of Cobb, CA",earthquake,0.25,0.39,0.16,5,automatic,nc,nc
 2022-04-18T00:21:23.471Z,60.1337,-152.6196,91.4,1.3,ml,,,,0.51,ak,ak0224ym6154,2022-04-18T00:32:58.272Z,"53 km WNW of Happy Valley, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-04-18T00:20:31.250Z,17.8715,-66.8513333333333,8.12,1.65,md,6,252,,0.05,pr,pr71344923,2022-04-18T00:36:32.760Z,"12 km SSE of Maria Antonia, Puerto Rico",earthquake,0.83,1.52,0.249743617032378,6,reviewed,pr,pr
@@ -274,7 +275,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-17T23:10:03.810Z,35.0368333,-117.6803333,-0.78,1.19,ml,23,70,0.103,0.15,ci,ci40239280,2022-04-18T18:44:46.752Z,"5km NNW of Boron, CA",quarry blast,0.41,31.61,0.106,12,reviewed,ci,ci
 2022-04-17T23:06:42.050Z,34.0431667,-117.2276667,4.83,1.34,ml,59,44,0.07715,0.17,ci,ci40239272,2022-04-18T21:30:46.700Z,"3km E of Loma Linda, CA",earthquake,0.18,0.51,0.228,23,reviewed,ci,ci
 2022-04-17T23:04:18.900Z,44.342,-115.1945,7.71,2.36,ml,10,83,0.83,0.24,mb,mb80543244,2022-04-18T15:27:21.940Z,"24 km NW of Stanley, Idaho",earthquake,0.57,1.34,0.136,13,reviewed,mb,mb
-2022-04-17T22:59:29.000Z,40.3268318,-124.3533325,16.18,1.81,md,8,290,0.053,0.04,nc,nc73719100,2022-04-18T01:57:34.732Z,"6km W of Petrolia, CA",earthquake,2.45,1.3,0.17,4,automatic,nc,nc
+2022-04-17T22:59:28.670Z,40.3325,-124.3725,17.84,1.98,md,17,218,0.0496,0.06,nc,nc73719100,2022-04-18T22:03:26.240Z,"8km W of Petrolia, CA",earthquake,0.84,0.27,0.08,9,reviewed,nc,nc
 2022-04-17T22:59:21.900Z,38.8248333,-122.7716667,0.72,0.05,md,19,62,0.005794,0.04,nc,nc73719095,2022-04-18T21:15:54.962Z,"4km W of Cobb, CA",earthquake,0.19,0.23,0.137,3,reviewed,nc,nc
 2022-04-17T22:56:58.290Z,44.8035,-110.8131667,4.76,0.73,md,7,255,0.0306,0.15,uu,uu60492237,2022-04-18T15:17:53.600Z,"21 km SSW of Mammoth, Wyoming",earthquake,2.34,0.98,0.423,4,reviewed,uu,uu
 2022-04-17T22:56:15.930Z,38.8163333,-122.7968333,2.05,0.41,md,27,47,0.008438,0.06,nc,nc73719090,2022-04-18T20:54:53.826Z,"6km NW of The Geysers, CA",earthquake,0.18,0.37,0.093,4,reviewed,nc,nc
@@ -286,4 +287,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-17T22:17:11.980Z,44.5878333,-112.5083333,8.84,2.44,ml,39,83,0.082,0.2,mb,mb80543234,2022-04-18T15:07:37.570Z,"8 km SE of Lima, Montana",earthquake,0.26,0.5,0.281,25,reviewed,mb,mb
 2022-04-17T22:16:59.720Z,33.2525,-116.2373333,8.18,0.41,ml,19,72,0.06126,0.12,ci,ci40239248,2022-04-18T20:31:21.241Z,"13km E of Borrego Springs, CA",earthquake,0.23,0.67,0.096,5,reviewed,ci,ci
 2022-04-17T22:10:22.080Z,37.62,-118.9623333,4.47,0.18,md,7,158,0.03818,0.05,nc,nc73719070,2022-04-17T23:08:53.840Z,"2km SE of Mammoth Lakes, CA",earthquake,0.8,1.15,0.175,6,reviewed,nc,nc
-2022-04-17T22:03:10.150Z,33.708,-116.812,15.83,0.75,ml,31,83,0.08161,0.11,ci,ci40239232,2022-04-18T20:27:20.410Z,"9km ESE of Valle Vista, CA",earthquake,0.22,0.34,0.183,21,reviewed,ci,ci
