@@ -12598,3 +12598,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-18T22:36:03.500Z,43.64266666666666,-123.33933333333331,-0.24,1.79,ml,8.0,129.0,0.04604,0.09,uw,uw61823882,2022-04-18T22:50:29.560Z,"2 km SW of Drain, Oregon",explosion,0.36,31.61,0.1659214794344776,4.0,reviewed,uw,uw
 2022-04-18T11:13:09.420Z,38.1751,-118.1921,10.2,0.9,ml,10.0,163.2,0.187,0.1084,nn,nn00837406,2022-04-18T22:51:20.173Z,"24 km SSW of Mina, Nevada",earthquake,,5.4,0.46,4.0,reviewed,nn,nn
 2022-04-18T10:56:14.262Z,40.1752,-119.6406,8.2,0.2,ml,3.0,251.21,0.07,0.1126,nn,nn00837405,2022-04-18T22:45:07.365Z,"25 km N of Sutcliffe, Nevada",earthquake,,6.0,0.03,2.0,reviewed,nn,nn
+2022-04-18T23:07:29.352Z,62.7849,-151.4873,91.6,1.5,ml,,,,0.87,ak,ak0224yzs0iv,2022-04-18T23:09:17.446Z,"49 km NW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-04-18T22:49:32.557Z,32.4062,-101.5904,5.0,2.5,mb_lg,,59.0,0.316,0.54,us,us7000h368,2022-04-18T23:06:02.040Z,"17 km SE of Ackerly, Texas",earthquake,1.4,1.9,0.081,41.0,reviewed,us,us
+2022-04-18T13:07:31.103Z,38.1657,-118.1939,11.8,0.4,ml,7.0,166.96,0.258,0.0872,nn,nn00837410,2022-04-18T23:06:57.379Z,"26 km SSW of Mina, Nevada",earthquake,,11.9,0.02,2.0,reviewed,nn,nn
+2022-04-18T12:10:41.278Z,38.3597,-118.6567,6.0,-0.3,ml,6.0,300.79,0.161,0.094,nn,nn00837408,2022-04-18T23:00:42.959Z,"18 km S of Hawthorne, Nevada",earthquake,,57.0,0.0,1.0,reviewed,nn,nn
+2022-04-18T12:09:33.823Z,39.9551,-120.028,8.2,0.3,ml,3.0,202.94,0.156,0.052,nn,nn00837407,2022-04-18T22:57:36.358Z,"10 km SE of Doyle, California",earthquake,,11.3,0.13,2.0,reviewed,nn,nn
