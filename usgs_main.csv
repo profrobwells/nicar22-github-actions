@@ -12356,3 +12356,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-18T04:55:19.320Z,33.6381667,-116.7015,13.64,0.42,ml,22.0,80.0,0.06853,0.14,ci,ci40239480,2022-04-18T04:58:51.955Z,"10km NNW of Anza, CA",earthquake,0.31,0.58,0.197,9.0,automatic,ci,ci
 2022-04-18T05:28:46.685Z,59.6568,-153.0797,111.6,2.0,ml,,,,0.5,ak,ak0224yp6r0s,2022-04-18T05:32:05.500Z,"59 km ESE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-04-18T05:24:42.140Z,38.715168,-122.8665009,2.97,1.39,md,15.0,191.0,0.05576,0.05,nc,nc73719455,2022-04-18T05:31:21.476Z,"12km N of Healdsburg, CA",earthquake,0.45,1.6,0.04,6.0,automatic,nc,nc
+2022-04-18T05:37:08.670Z,19.24049949646,-155.384338378906,29.9099998474121,2.33999991,md,38.0,147.0,,0.109999999,hv,hv72988372,2022-04-18T05:40:17.710Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.46,0.779999971,1.32000005,15.0,automatic,hv,hv
