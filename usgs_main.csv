@@ -12543,3 +12543,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-18T16:37:50.240Z,36.0978333,-117.6086667,2.85,1.07,ml,18.0,98.0,0.1062,0.09,ci,ci40240008,2022-04-18T20:29:27.146Z,"31km E of Coso Junction, CA",earthquake,0.19,0.54,0.135,7.0,reviewed,ci,ci
 2022-04-18T16:22:26.130Z,33.513,-116.7481667,4.91,0.21,ml,13.0,218.0,0.05304,0.12,ci,ci40239976,2022-04-18T20:25:23.702Z,"8km SW of Anza, CA",earthquake,0.42,0.53,0.09,4.0,reviewed,ci,ci
 2022-04-18T16:12:10.930Z,35.5755,-117.5085,7.53,0.29,ml,5.0,214.0,0.0393,0.11,ci,ci37495965,2022-04-18T20:23:16.195Z,"16km ESE of Ridgecrest, CA",earthquake,2.14,0.56,0.002,1.0,reviewed,ci,ci
+2022-04-17T22:56:15.930Z,38.8163333,-122.7968333,2.05,0.41,md,27.0,47.0,0.008438,0.06,nc,nc73719090,2022-04-18T20:40:14.608Z,"6km NW of The Geysers, CA",earthquake,0.18,0.37,0.093,4.0,reviewed,nc,nc
