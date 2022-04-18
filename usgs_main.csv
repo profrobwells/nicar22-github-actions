@@ -12414,3 +12414,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-18T10:52:27.880Z,38.8146667,-122.8174973,2.63,0.84,md,14.0,55.0,0.01047,0.02,nc,nc73719585,2022-04-18T10:56:26.025Z,"7km NW of The Geysers, CA",earthquake,0.32,0.68,,1.0,automatic,nc,nc
 2022-04-18T10:28:08.940Z,17.9566,-66.6948,7.0,3.36,md,22.0,160.0,0.1236,0.12,pr,pr2022108000,2022-04-18T10:56:59.748Z,"4 km SSE of Tallaboa, Puerto Rico",earthquake,0.24,0.26,0.06,13.0,reviewed,pr,pr
 2022-04-18T10:25:23.920Z,17.9528333333333,-66.9561666666667,9.28,2.5,md,24.0,208.0,,0.24,pr,pr71344953,2022-04-18T11:12:38.350Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.55,0.83,0.230069315572204,8.0,reviewed,pr,pr
+2022-04-18T11:31:18.310Z,57.6427,-152.9496,0.0,1.8,ml,,,,0.72,ak,ak0224ysrxj9,2022-04-18T11:34:19.173Z,"17 km WSW of Womens Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-04-18T11:25:39.750Z,38.8260002,-122.8573303,2.57,0.37,md,13.0,66.0,0.001583,0.02,nc,nc73719595,2022-04-18T11:29:40.345Z,"10km WNW of The Geysers, CA",earthquake,0.32,0.61,,1.0,automatic,nc,nc
+2022-04-18T09:02:03.070Z,17.9446666666667,-66.8481666666667,11.86,2.45,md,7.0,215.0,,0.06,pr,pr71344943,2022-04-18T11:33:31.200Z,"5 km SE of Maria Antonia, Puerto Rico",earthquake,0.56,0.33,0.121853048468872,5.0,reviewed,pr,pr
