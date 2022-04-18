@@ -12377,3 +12377,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-18T07:06:49.338Z,60.2258,-153.1276,144.2,1.5,ml,,,,0.68,ak,ak0224yq8wtf,2022-04-18T07:13:47.742Z,"65 km E of Port Alsworth, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-04-18T07:04:33.053Z,59.7479,-151.4817,47.0,1.6,ml,,,,0.57,ak,ak0224yq8fzd,2022-04-18T07:13:49.167Z,"8 km NNW of Kachemak, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-18T06:13:53.066Z,4.1663,126.6291,49.33,4.6,mb,,83.0,3.067,0.59,us,us7000h30s,2022-04-18T07:01:15.040Z,"Kepulauan Talaud, Indonesia",earthquake,7.8,7.6,0.078,49.0,reviewed,us,us
+2022-04-18T07:14:02.290Z,38.847332,-122.8146667,0.96,0.37,md,8.0,76.0,0.009975,0.01,nc,nc73719510,2022-04-18T07:18:53.204Z,"8km WNW of Cobb, CA",earthquake,0.31,1.08,,1.0,automatic,nc,nc
