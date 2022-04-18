@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-18T15:46:21.650Z,38.824501,-122.7639999,1.84,0.85,md,7,198,0.007541,0.03,nc,nc73719675,2022-04-18T15:49:49.512Z,"4km W of Cobb, CA",earthquake,0.62,2.03,,1,automatic,nc,nc
+2022-04-18T15:50:06.780Z,38.8359985,-122.8143311,1.43,0.36,md,8,97,0.01302,0.01,nc,nc73719680,2022-04-18T15:54:03.689Z,"8km W of Cobb, CA",earthquake,0.42,0.84,,1,automatic,nc,nc
+2022-04-18T15:46:21.650Z,38.824501,-122.7639999,1.84,0.85,md,7,198,0.007541,0.03,nc,nc73719675,2022-04-18T15:52:59.522Z,"4km W of Cobb, CA",earthquake,0.62,2.03,,1,automatic,nc,nc
 2022-04-18T15:43:21.360Z,33.2418333,-117.4281667,16.95,1.04,ml,21,173,0.06042,0.2,ci,ci40239880,2022-04-18T15:46:59.044Z,"5km WNW of Camp Pendleton South, CA",earthquake,0.56,0.83,0.127,15,automatic,ci,ci
 2022-04-18T15:33:25.380Z,33.24,-117.4261667,14.28,1.74,ml,53,127,0.05794,0.22,ci,ci40239864,2022-04-18T15:37:09.510Z,"4km WNW of Camp Pendleton South, CA",earthquake,0.38,0.58,0.224,27,automatic,ci,ci
-2022-04-18T15:32:45.620Z,38.7886658,-122.7474976,1.8,0.54,md,14,85,0.01001,0.02,nc,nc73719670,2022-04-18T15:39:29.807Z,"2km NNE of The Geysers, CA",earthquake,0.27,0.6,0.38,4,automatic,nc,nc
+2022-04-18T15:32:45.620Z,38.7886658,-122.7474976,1.8,0.54,md,14,85,0.01001,0.02,nc,nc73719670,2022-04-18T15:50:02.866Z,"2km NNE of The Geysers, CA",earthquake,0.27,0.6,0.38,4,automatic,nc,nc
 2022-04-18T15:19:05.842Z,61.5936,-149.2354,34,1.6,ml,,,,1.01,ak,ak0224yv32gp,2022-04-18T15:28:15.433Z,"2 km N of Gateway, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-18T15:17:56.130Z,35.8576667,-117.6886667,10.79,0.58,ml,7,90,0.07897,0.04,ci,ci40239856,2022-04-18T15:21:24.209Z,"22km ESE of Little Lake, CA",earthquake,0.2,0.54,0.127,6,automatic,ci,ci
 2022-04-18T14:49:59.670Z,38.8235016,-122.8460007,1.92,0.37,md,10,87,0.008578,0.01,nc,nc73719660,2022-04-18T15:12:20.639Z,"9km WNW of The Geysers, CA",earthquake,0.33,0.85,,1,automatic,nc,nc
@@ -184,6 +185,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-17T23:52:36.930Z,33.5845,-116.3903333,12.65,0.72,ml,23,70,0.06137,0.22,ci,ci40239328,2022-04-17T23:56:17.363Z,"12km SW of La Quinta, CA",earthquake,0.46,0.76,0.267,14,automatic,ci,ci
 2022-04-17T23:51:08.270Z,38.8230019,-122.7631683,1.97,2.44,md,41,58,0.009131,0.07,nc,nc73719115,2022-04-18T00:14:26.207Z,"4km W of Cobb, CA",earthquake,0.19,0.29,0.11,19,automatic,nc,nc
 2022-04-17T23:49:54.790Z,33.992,-117.0098333,0.41,0.79,ml,10,88,0.08106,0.2,ci,ci40239312,2022-04-17T23:53:28.790Z,"4km E of Calimesa, CA",earthquake,0.46,0.93,0.196,8,automatic,ci,ci
+2022-04-17T23:49:11.182Z,52.6207,-168.5654,53.8,2.5,ml,,,,0.47,ak,ak0224xchn76,2022-04-18T15:57:46.644Z,"40 km SSE of Nikolski, Alaska",earthquake,,6.5,,,reviewed,ak,ak
 2022-04-17T23:34:04.684Z,63.2007,-150.4577,118.9,1.7,ml,,,,0.21,ak,ak0224xceegk,2022-04-17T23:44:46.400Z,"73 km ESE of Denali National Park, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2022-04-17T23:30:30.306Z,65.0231,-147.0365,4.5,1.7,ml,,,,0.98,ak,ak0224xcdlko,2022-04-17T23:44:33.459Z,"16 km N of Two Rivers, Alaska",explosion,,0.3,,,automatic,ak,ak
 2022-04-17T23:25:21.040Z,33.5538333,-116.675,7.48,0.25,ml,21,64,0.05329,0.18,ci,ci40239296,2022-04-17T23:28:57.825Z,"0km SW of Anza, CA",earthquake,0.32,0.67,0.22,8,automatic,ci,ci
