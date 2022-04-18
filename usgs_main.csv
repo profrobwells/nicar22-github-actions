@@ -12428,3 +12428,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-18T11:38:38.052Z,21.6419,121.1015,10.0,5.3,mww,,57.0,1.17,0.64,us,us7000h326,2022-04-18T12:10:04.775Z,"54 km SE of Hengchun, Taiwan",earthquake,6.2,1.8,0.063,24.0,reviewed,us,us
 2022-04-18T09:57:12.050Z,35.0729,25.236,10.0,4.0,mb,,185.0,0.355,1.26,us,us7000h31m,2022-04-18T12:24:21.320Z,"8 km SSW of Arkalochóri, Greece",earthquake,2.8,2.0,0.172,9.0,reviewed,us,us
 2022-04-18T09:56:20.184Z,16.9259,-100.3622,42.82,4.4,mb,,182.0,1.829,1.06,us,us7000h31p,2022-04-18T12:18:10.040Z,"16 km SW of Cayaco, Mexico",earthquake,10.2,10.1,0.04,177.0,reviewed,us,us
+2022-04-18T12:51:09.427Z,38.1488,-118.2151,4.1,1.1,ml,10.0,176.35,0.201,0.2048,nn,nn00837367,2022-04-18T12:55:12.463Z,"28 km SSW of Mina, Nevada",earthquake,,2.7,0.26,6.0,automatic,nn,nn
+2022-04-18T12:50:43.465Z,61.8154,-148.4551,12.0,0.7,ml,,,,0.2,ak,ak0224ythhqy,2022-04-18T12:52:40.482Z,"2 km N of Chickaloon, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-18T12:49:22.080Z,33.5126667,-116.7428333,2.55,1.27,ml,44.0,26.0,0.04805,0.17,ci,ci40239704,2022-04-18T13:00:01.560Z,"8km SW of Anza, CA",earthquake,0.16,0.27,0.11,25.0,automatic,ci,ci
+2022-04-18T12:38:26.410Z,33.5523333,-116.6765,7.14,0.4,ml,16.0,66.0,0.04094,0.15,ci,ci40239696,2022-04-18T12:42:05.831Z,"0km SW of Anza, CA",earthquake,0.33,0.72,0.241,8.0,automatic,ci,ci
+2022-04-18T12:34:28.900Z,33.417,-116.357,11.58,0.77,ml,25.0,130.0,0.1567,0.2,ci,ci40239688,2022-04-18T12:38:03.939Z,"18km N of Borrego Springs, CA",earthquake,0.38,1.16,0.094,18.0,automatic,ci,ci
+2022-04-18T12:27:24.808Z,17.8311,-100.4529,35.0,4.5,mb,,171.0,1.817,0.86,us,us7000h329,2022-04-18T12:58:16.850Z,"35 km SSW of Valle Luz, Mexico",earthquake,9.8,2.0,0.033,275.0,reviewed,us,us
