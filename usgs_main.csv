@@ -12824,3 +12824,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-19T17:47:57.770Z,19.1573333740234,-155.481994628906,35.1599998474121,2.18000007,md,35.0,127.0,,0.129999995,hv,hv72989557,2022-04-19T17:51:05.110Z,"5 km S of Pāhala, Hawaii",earthquake,0.59,0.980000019,1.41999996,14.0,automatic,hv,hv
 2022-04-19T17:39:46.080Z,38.8284988,-122.8146667,2.07,1.61,md,24.0,59.0,0.006232,0.03,nc,nc73720310,2022-04-19T17:49:26.218Z,"8km NW of The Geysers, CA",earthquake,0.21,0.38,0.02,5.0,automatic,nc,nc
 2022-04-18T19:56:00.480Z,33.7333333,-116.0815,1.34,0.26,ml,7.0,121.0,0.08253,0.1,ci,ci37496053,2022-04-19T17:50:03.116Z,"10km NE of Coachella, CA",earthquake,0.29,0.67,0.119,4.0,reviewed,ci,ci
+2022-04-19T18:04:53.143Z,57.3817,-154.2253,38.3,2.1,ml,,,,0.71,ak,ak02250kbloi,2022-04-19T18:08:26.505Z,"23 km SW of Larsen Bay, Alaska",earthquake,,4.4,,,automatic,ak,ak
+2022-04-19T17:54:59.750Z,38.786499,-122.7350006,2.14,0.21,md,9.0,86.0,0.003525,0.01,nc,nc73720315,2022-04-19T18:01:36.720Z,"2km ENE of The Geysers, CA",earthquake,0.33,0.89,0.17,2.0,automatic,nc,nc
