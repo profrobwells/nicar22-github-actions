@@ -12801,3 +12801,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-19T15:45:52.140Z,35.6965,-117.5146667,7.57,0.96,ml,8.0,160.0,0.1178,0.08,ci,ci40241080,2022-04-19T15:49:30.475Z,"13km SW of Searles Valley, CA",earthquake,0.55,0.83,0.159,8.0,automatic,ci,ci
 2022-04-19T15:41:05.610Z,38.8126678,-122.739502,2.33,1.18,md,30.0,65.0,0.01985,0.06,nc,nc73720260,2022-04-19T15:47:46.161Z,"2km SW of Cobb, CA",earthquake,0.27,0.54,0.08,7.0,automatic,nc,nc
 2022-04-19T15:04:17.893Z,-31.2468,-68.527,111.43,4.5,mb,,182.0,0.326,0.38,us,us7000h3cb,2022-04-19T15:37:56.040Z,"20 km N of San Martín, Argentina",earthquake,10.3,4.5,0.382,3.0,reviewed,us,us
+2022-04-19T11:04:23.510Z,45.651,-111.6991667,2.01,0.14,ml,4.0,170.0,0.073,0.17,mb,mb80543564,2022-04-19T16:02:25.200Z,"8 km SE of Harrison, Montana",earthquake,5.16,7.38,,0.0,reviewed,mb,mb
+2022-04-19T00:56:56.120Z,44.5301667,-112.5055,1.13,0.7,ml,7.0,148.0,0.102,0.14,mb,mb80543569,2022-04-19T16:09:47.790Z,"13 km SSE of Lima, Montana",earthquake,1.04,3.01,0.179,2.0,reviewed,mb,mb
+2022-04-18T21:53:00.680Z,44.614,-113.0018333,4.7,0.76,ml,8.0,152.0,0.24,0.14,mb,mb80543559,2022-04-19T15:55:32.350Z,"29 km ESE of Leadore, Idaho",earthquake,0.66,8.4,0.084,2.0,reviewed,mb,mb
