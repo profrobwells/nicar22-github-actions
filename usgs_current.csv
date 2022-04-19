@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-19T19:20:50.110Z,34.0093346,-116.9873352,15.77,1.68,ml,46,57,0.05562,0.2,ci,ci40241368,2022-04-19T19:23:02.190Z,"6km ESE of Yucaipa, CA",earthquake,0.29,0.67,0.214,26,automatic,ci,ci
 2022-04-19T18:36:38.790Z,32.9085,-115.5118333,4.82,1.69,ml,11,93,0.04171,0.23,ci,ci40241336,2022-04-19T18:40:24.760Z,"8km SSE of Brawley, CA",earthquake,0.61,0.99,0.155,26,automatic,ci,ci
 2022-04-19T18:28:41.300Z,18.623,-65.1685,39.46,3.01,md,8,296,,0.28,pr,pr71345113,2022-04-19T18:38:41.020Z,"38 km NNE of Culebra, Puerto Rico",earthquake,3.88,5,0.0365188471333842,4,reviewed,pr,pr
 2022-04-19T18:28:25.667Z,7.014,126.9703,56.57,4.9,mb,,41,1.382,0.83,us,us7000h3e3,2022-04-19T18:48:03.040Z,"52 km ESE of Manay, Philippines",earthquake,7.3,6.8,0.046,155,reviewed,us,us
-2022-04-19T18:15:05.380Z,32.9051667,-115.509,4.98,2.82,ml,31,56,0.04366,0.29,ci,ci40241296,2022-04-19T18:31:41.714Z,"8km SSE of Brawley, CA",earthquake,0.43,1.01,0.191,25,automatic,ci,ci
+2022-04-19T18:15:05.380Z,32.9051667,-115.509,4.98,2.82,ml,31,56,0.04366,0.29,ci,ci40241296,2022-04-19T19:11:24.502Z,"8km SSE of Brawley, CA",earthquake,0.43,1.01,0.191,25,automatic,ci,ci
 2022-04-19T18:08:11.760Z,38.796833,-122.9838333,0.78,1.2,md,11,107,0.03669,0.05,nc,nc73720325,2022-04-19T19:00:27.645Z,"3km ESE of Cloverdale, CA",earthquake,0.33,0.89,0.22,4,automatic,nc,nc
 2022-04-19T18:04:53.143Z,57.3817,-154.2253,38.3,2.1,ml,,,,0.71,ak,ak02250kbloi,2022-04-19T18:16:36.450Z,"23 km SW of Larsen Bay, Alaska",earthquake,,4.4,,,automatic,ak,ak
 2022-04-19T18:01:56.540Z,36.7691667,-113.0138333,16.92,1.59,ml,8,178,0.2909,0.08,uu,uu60492557,2022-04-19T18:54:46.340Z,"20 km S of Centennial Park, Arizona",earthquake,1.1,0.64,0.085,2,reviewed,uu,uu
@@ -247,6 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-18T19:31:44.030Z,35.6758333,-117.4911667,1.94,0.26,ml,6,163,0.09221,0.19,ci,ci40240264,2022-04-18T21:37:13.096Z,"13km SW of Searles Valley, CA",earthquake,1.27,0.64,0.061,3,reviewed,ci,ci
 2022-04-18T19:30:06.513Z,63.1877,-150.6352,6.3,1.3,ml,,,,0.67,ak,ak0224yxj5sw,2022-04-18T19:33:09.420Z,"67 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-18T19:26:48.310Z,33.7891667,-116.0916667,3.35,0.98,ml,23,101,0.1084,0.15,ci,ci40240256,2022-04-18T20:51:47.767Z,"14km ENE of Indio, CA",earthquake,0.19,0.91,0.107,6,reviewed,ci,ci
-2022-04-18T19:15:56.228Z,63.5681,-150.7412,0.2,1.2,ml,,,,0.58,ak,ak0224yxg1wm,2022-04-18T19:18:18.820Z,"48 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-04-18T19:13:23.460Z,38.7861671,-122.7523346,-0.18,0.95,md,16,91,0.01255,0.06,nc,nc73719770,2022-04-18T19:44:54.380Z,"1km NNE of The Geysers, CA",earthquake,0.28,0.57,0.19,3,automatic,nc,nc
-2022-04-18T19:10:14.681Z,62.5218,-153.1272,13.2,1.4,ml,,,,0.26,ak,ak0224yxew4g,2022-04-18T19:15:10.399Z,"84 km SE of Nikolai, Alaska",earthquake,,0.4,,,automatic,ak,ak
