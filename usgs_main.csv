@@ -12765,3 +12765,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-19T12:44:11.246Z,17.9665,-101.7924,35.0,4.9,mww,,89.0,1.754,0.8,us,us7000h3bw,2022-04-19T13:28:07.762Z,"2 km SE of La Unión, Mexico",earthquake,7.2,1.9,0.098,10.0,reviewed,us,us
 2022-04-19T12:32:14.350Z,19.2758,-65.1295,29.0,3.67,md,19.0,285.0,0.9803,0.3,pr,pr2022109002,2022-04-19T13:09:18.960Z,"105 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.82,18.75,0.09,10.0,reviewed,pr,pr
 2022-04-18T23:10:11.610Z,44.6505,-110.4625,4.91,1.73,ml,21.0,103.0,0.07133,0.16,uu,uu60492397,2022-04-19T13:11:54.430Z,"40 km SSE of Mammoth, Wyoming",earthquake,0.37,0.41,0.085,3.0,reviewed,uu,uu
+2022-04-19T13:48:06.200Z,35.9413333,-117.6778333,3.4,2.66,ml,28.0,62.0,0.02322,0.17,ci,ci40241024,2022-04-19T13:51:44.222Z,"21km E of Little Lake, CA",earthquake,0.23,0.52,0.157,25.0,automatic,ci,ci
+2022-04-19T05:52:24.500Z,44.5896667,-110.4863333,4.84,0.59,md,12.0,123.0,0.06741,0.12,uu,uu60492437,2022-04-19T13:55:01.210Z,"46 km SSE of Mammoth, Wyoming",earthquake,0.39,0.74,0.401,6.0,reviewed,uu,uu
