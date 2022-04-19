@@ -12818,3 +12818,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-19T16:53:20.560Z,38.7908325,-122.7600021,0.78,1.02,md,17.0,117.0,0.01971,0.03,nc,nc73720285,2022-04-19T17:14:52.990Z,"2km NNW of The Geysers, CA",earthquake,0.26,0.58,0.13,3.0,automatic,nc,nc
 2022-04-19T16:36:30.921Z,6.9924,126.7285,79.99,4.6,mb,,109.0,1.143,0.46,us,us7000h3dm,2022-04-19T17:01:17.040Z,"29 km ESE of San Ignacio, Philippines",earthquake,9.7,7.4,0.065,74.0,reviewed,us,us
 2022-04-19T03:12:59.720Z,46.8915,-112.5211667,9.18,0.87,ml,10.0,96.0,0.055,0.13,mb,mb80543579,2022-04-19T17:05:27.020Z,"14 km ESE of Lincoln, Montana",earthquake,0.47,0.71,0.078,4.0,reviewed,mb,mb
+2022-04-19T17:36:37.890Z,63.1864,-144.8003,2.1,1.7,ml,,,,0.63,ak,ak02250jwzsu,2022-04-19T17:39:27.181Z,"42 km ENE of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-04-19T17:33:37.180Z,19.1891670227051,-155.445007324219,33.0900001525879,1.83000004,md,33.0,140.0,,0.150000006,hv,hv72989552,2022-04-19T17:36:39.850Z,"3 km ESE of Pāhala, Hawaii",earthquake,0.81,1.07000005,1.09000003,12.0,automatic,hv,hv
+2022-04-19T14:01:07.097Z,51.7858,-173.1052,35.0,3.5,ml,,317.0,0.785,0.29,us,us7000h3d7,2022-04-19T17:28:48.040Z,"88 km ESE of Atka, Alaska",earthquake,6.7,2.0,0.148,6.0,reviewed,us,us
