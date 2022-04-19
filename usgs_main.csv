@@ -12868,3 +12868,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-19T20:56:35.960Z,32.9465,-115.5123333,2.21,1.86,ml,15.0,154.0,0.0606,0.2,ci,ci40241488,2022-04-19T21:00:21.592Z,"4km SSE of Brawley, CA",earthquake,0.67,0.63,0.205,27.0,automatic,ci,ci
 2022-04-19T19:30:35.550Z,6.9884,126.8138,70.14,4.6,mb,,92.0,1.228,1.05,us,us7000h3eg,2022-04-19T21:02:08.040Z,"38 km ESE of San Ignacio, Philippines",earthquake,7.8,6.9,0.05,121.0,reviewed,us,us
 2022-04-19T14:39:51.736Z,37.8952,-118.57,0.0,0.7,ml,6.0,345.49,0.36,0.0545,nn,nn00837465,2022-04-19T20:57:26.394Z,"11 km NW of Benton, California",earthquake,,0.0,0.0,1.0,reviewed,nn,nn
+2022-04-19T21:17:02.920Z,32.9115,-115.5085,3.66,1.49,ml,11.0,164.0,0.04504,0.17,ci,ci40241528,2022-04-19T21:20:41.732Z,"8km SSE of Brawley, CA",earthquake,0.87,0.52,0.149,19.0,automatic,ci,ci
+2022-04-19T19:32:27.675Z,1.8313,-75.8732,31.12,4.6,mb,,75.0,2.21,0.77,us,us7000h3ef,2022-04-19T21:25:47.040Z,"3 km NNE of Acevedo, Colombia",earthquake,3.4,5.1,0.08,48.0,reviewed,us,us
+2022-04-19T17:37:26.697Z,38.4861,-119.5355,6.7,1.1,ml,4.0,159.66,0.078,0.1967,nn,nn00837468,2022-04-19T21:22:09.318Z,"6 km WSW of Walker, California",earthquake,,7.7,0.14,2.0,reviewed,nn,nn
