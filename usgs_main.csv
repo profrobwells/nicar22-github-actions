@@ -12710,3 +12710,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-19T07:28:34.740Z,36.0975,-117.8673333,5.01,1.18,ml,14.0,89.0,0.02244,0.14,ci,ci40240872,2022-04-19T07:32:03.502Z,"9km NE of Coso Junction, CA",earthquake,0.31,0.54,0.168,14.0,automatic,ci,ci
 2022-04-19T07:06:06.007Z,25.4653,123.4629,183.25,4.8,mb,,55.0,1.075,0.86,us,us7000h3ah,2022-04-19T07:27:15.040Z,"120 km NNE of Yonakuni, Japan",earthquake,7.5,6.0,0.038,216.0,reviewed,us,us
 2022-04-19T07:44:12.270Z,19.1648330688477,-155.488006591797,34.7900009155273,2.13,ml,49.0,148.0,,0.119999997,hv,hv72989222,2022-04-19T07:49:43.240Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.49,0.699999988,4.56,8.0,automatic,hv,hv
+2022-04-19T08:15:02.790Z,36.4635,-117.9651667,9.46,1.47,ml,12.0,131.0,0.09566,0.17,ci,ci40240888,2022-04-19T08:18:49.786Z,"17km SE of Lone Pine, CA",earthquake,0.4,0.7,0.218,15.0,automatic,ci,ci
+2022-04-19T08:13:22.827Z,61.5528,-141.2171,0.0,1.8,ml,,,,0.63,ak,ak02250ef4qr,2022-04-19T08:16:55.834Z,"91 km E of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-19T08:00:13.672Z,60.6143,-150.5617,52.1,1.4,ml,,,,0.51,ak,ak02250ecbpz,2022-04-19T08:02:07.764Z,"14 km NE of Sterling, Alaska",earthquake,,2.1,,,automatic,ak,ak
+2022-04-19T07:58:28.723Z,61.9978,-148.933,36.6,1.4,ml,,,,0.63,ak,ak02250e3cs4,2022-04-19T08:00:54.094Z,"26 km NNW of Sutton-Alpine, Alaska",earthquake,,0.7,,,automatic,ak,ak
