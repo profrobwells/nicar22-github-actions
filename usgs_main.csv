@@ -12984,3 +12984,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-20T06:21:25.938Z,38.5214,-119.5042,5.2,0.9,ml,11.0,185.48,0.054,0.144,nn,nn00837504,2022-04-20T06:25:20.758Z,"2 km WNW of Walker, California",earthquake,,0.6,0.1,2.0,automatic,nn,nn
 2022-04-19T23:49:56.580Z,53.8601666666667,-166.845166666667,3.14,-0.05,ml,4.0,146.0,,0.05,av,av91055373,2022-04-20T06:24:32.650Z,"20 km W of Dutch Harbor, Alaska",earthquake,0.4,1.21,0.242751693491585,4.0,reviewed,av,av
 2022-04-19T23:49:14.710Z,53.8591666666667,-166.843166666667,3.92,0.47,ml,5.0,144.0,,0.06,av,av91055368,2022-04-20T06:19:48.660Z,"20 km W of Dutch Harbor, Alaska",earthquake,0.27,0.92,0.100686329525703,6.0,reviewed,av,av
+2022-04-20T06:46:49.300Z,17.9421666666667,-66.8778333333333,10.26,1.98,md,9.0,255.0,,0.06,pr,pr71345188,2022-04-20T07:20:40.710Z,"4 km SSE of Maria Antonia, Puerto Rico",earthquake,0.97,0.44,0.0626416945213726,7.0,reviewed,pr,pr
