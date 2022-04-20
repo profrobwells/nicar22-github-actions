@@ -1,7 +1,16 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-20T03:50:48.530Z,33.8774986,-117.2721634,29.41,1.31,ml,14,145,0.05785,0.24,ci,ci40241808,2022-04-20T03:54:25.288Z,"2km SSW of March Air Reserve Base, CA",earthquake,1.03,1.15,0.466,4,automatic,ci,ci
+2022-04-20T03:47:56.740Z,32.9015,-115.5045,3.07,1.67,ml,17,93,0.04729,0.3,ci,ci40241800,2022-04-20T03:51:43.270Z,"8km NE of Imperial, CA",earthquake,0.56,0.74,0.122,26,automatic,ci,ci
+2022-04-20T03:26:11.350Z,17.9668333333333,-66.9555,9.31,1.99,md,5,189,,0.09,pr,pr71345173,2022-04-20T03:39:04.960Z,"4 km WSW of Fuig, Puerto Rico",earthquake,1.12,1.18,0.00120555721960192,3,reviewed,pr,pr
+2022-04-20T03:25:12.060Z,35.94,-117.6771667,2.65,1.76,ml,20,59,0.02312,0.13,ci,ci40241784,2022-04-20T03:28:56.122Z,"21km E of Little Lake, CA",earthquake,0.22,0.28,0.202,27,automatic,ci,ci
+2022-04-20T03:05:34.400Z,33.6943333,-116.7236667,15.86,0.54,ml,17,117,0.01856,0.11,ci,ci40241776,2022-04-20T03:09:03.997Z,"5km S of Idyllwild, CA",earthquake,0.31,0.47,0.146,12,automatic,ci,ci
+2022-04-20T03:02:02.133Z,60.6825,-152.1852,93.2,2,ml,,,,0.79,ak,ak02251ywwqa,2022-04-20T03:05:32.677Z,"47 km W of Salamatof, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2022-04-20T02:59:54.650Z,38.7593346,-122.7343369,2.06,0.72,md,7,159,0.007744,0.01,nc,nc73720520,2022-04-20T03:47:25.795Z,"3km SE of The Geysers, CA",earthquake,0.65,1.18,0.17,2,automatic,nc,nc
+2022-04-20T02:58:54.030Z,38.8096657,-122.7854996,0.29,1.55,md,30,40,0.005198,0.06,nc,nc73720515,2022-04-20T03:36:14.721Z,"4km NW of The Geysers, CA",earthquake,0.17,0.32,0.1,6,automatic,nc,nc
+2022-04-20T02:47:57.230Z,17.9511666666667,-66.9255,9.67,1.82,md,6,219,,0.1,pr,pr71345168,2022-04-20T03:01:02.210Z,"2 km SW of Guánica, Puerto Rico",earthquake,0.98,0.6,0.120057992001652,4,reviewed,pr,pr
 2022-04-20T02:14:28.550Z,60.0362,-152.5929,125.5,1.7,ml,,,,0.82,ak,ak02251ye3pr,2022-04-20T02:17:44.042Z,"49 km WNW of Happy Valley, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2022-04-20T02:14:24.730Z,38.8035011,-122.8170013,3.16,0.25,md,13,70,0.01092,0.02,nc,nc73720480,2022-04-20T02:41:24.436Z,"6km WNW of The Geysers, CA",earthquake,0.38,0.92,0.11,2,automatic,nc,nc
-2022-04-20T02:13:17.250Z,38.803833,-122.8168335,2.69,1.55,md,32,61,0.01088,0.02,nc,nc73720475,2022-04-20T02:30:20.377Z,"6km WNW of The Geysers, CA",earthquake,0.19,0.36,0.05,7,automatic,nc,nc
+2022-04-20T02:13:17.250Z,38.803833,-122.8168335,2.69,1.55,md,32,61,0.01088,0.02,nc,nc73720475,2022-04-20T02:56:44.505Z,"6km WNW of The Geysers, CA",earthquake,0.19,0.36,0.05,7,automatic,nc,nc
 2022-04-20T01:47:20.383Z,64.616,-146.9026,0.8,1.7,ml,,,,0.67,ak,ak02251xzq5l,2022-04-20T01:58:30.096Z,"8 km SE of Eielson Air Force Base, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-20T01:43:25.970Z,38.8148346,-122.8044968,1.51,0.5,md,12,81,0.009594,0.02,nc,nc73720465,2022-04-20T02:01:18.204Z,"6km NW of The Geysers, CA",earthquake,0.26,0.59,0.35,2,automatic,nc,nc
 2022-04-20T01:28:44.270Z,-20.2082,66.0709,10,5,mb,,151,9.718,0.41,us,us7000h3gm,2022-04-20T01:57:26.040Z,"Mauritius - Reunion region",earthquake,7.9,1.9,0.123,21,reviewed,us,us
@@ -160,6 +169,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-19T09:48:22.030Z,41.8831667,-112.5383333,1.58,0.48,md,6,123,0.2049,0.08,uu,uu60492467,2022-04-19T15:08:03.360Z,"12 km NW of Howell, Utah",earthquake,0.52,31.61,0.222,4,reviewed,uu,uu
 2022-04-19T09:35:41.640Z,35.108,-95.53783333,6.93,1.92,ml,38,86,0.1097784577,0.32,ok,ok2022hqbi,2022-04-19T15:40:03.229Z,"12 km E of Crowder, Oklahoma",earthquake,,1.1,0.3,4,reviewed,ok,ok
 2022-04-19T09:31:49.223Z,63.9596,-148.6581,65.9,1.7,ml,,,,1.43,ak,ak02250f4h9m,2022-04-19T09:34:34.812Z,"18 km NE of Healy, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2022-04-19T09:27:25.550Z,52.1613333333333,-174.194666666667,10.17,1.57,ml,7,324,,0.1,av,av91541231,2022-04-20T02:59:39.980Z,"3 km S of Atka, Alaska",earthquake,0.77,0.44,0.314832331461161,7,reviewed,av,av
 2022-04-19T09:21:49.539Z,35.09833333,-95.52416667,7.57,1.8,ml,72,53,0.112477928,0.29,ok,ok2022hqaw,2022-04-19T14:17:41.856Z,"13 km ESE of Crowder, Oklahoma",earthquake,,0.6,0.36,4,reviewed,ok,ok
 2022-04-19T08:43:09.696Z,59.9837,-151.4594,58.1,2.4,ml,,,,0.54,ak,ak02250elj67,2022-04-19T08:53:11.942Z,"13 km ESE of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-04-19T08:42:03.919Z,61.1552,-146.8812,10.6,1.4,ml,,,,1.05,ak,ak02250elb1j,2022-04-19T08:45:11.264Z,"28 km W of Valdez, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -225,14 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-19T04:12:28.920Z,47.68666666666667,-120.0565,4.05,0.21,ml,4,167,0.06948,0.07,uw,uw61823942,2022-04-20T01:55:18.680Z,"4 km NNE of Waterville, Washington",earthquake,0.37,1.33,0.09585483368293612,3,reviewed,uw,uw
 2022-04-19T04:04:22.244Z,-8.6274,118.2648,140.77,4.6,mb,,86,3.881,0.98,us,us7000h38u,2022-04-19T04:25:29.040Z,"24 km WSW of Dompu, Indonesia",earthquake,4.4,9.7,0.164,11,reviewed,us,us
 2022-04-19T04:04:04.008Z,60.3166,-152.3576,97.4,1.6,ml,,,,0.58,ak,ak02250bzff8,2022-04-19T04:06:54.707Z,"48 km NW of Ninilchik, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2022-04-19T03:48:56.736Z,61.5566,-146.4502,30.3,1.1,ml,,,,1.1,ak,ak02250bnje3,2022-04-19T03:52:00.981Z,"47 km N of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-04-19T03:45:51.610Z,34.5615,-118.5476667,16.98,1.41,ml,33,39,0.1224,0.25,ci,ci40240760,2022-04-19T03:56:52.020Z,"11km NE of Castaic, CA",earthquake,0.36,1,0.198,29,automatic,ci,ci
-2022-04-19T03:38:07.550Z,19.2096666666667,-155.371833333333,33.36,3.25,ml,58,160,,0.14,hv,hv72989102,2022-04-19T05:55:21.897Z,"11 km E of Pāhala, Hawaii",earthquake,0.4,0.46,0.153044287150747,35,reviewed,hv,hv
-2022-04-19T03:36:31.180Z,58.2813333333333,-154.958166666667,3.11,-0.16,ml,6,139,,0.23,av,av91055293,2022-04-19T23:47:12.690Z,"84 km NNW of Karluk, Alaska",earthquake,1.28,3.02,0.0902948512106093,6,reviewed,av,av
-2022-04-19T03:33:07.005Z,63.5952,-147.1447,71.1,1.3,ml,,,,0.85,ak,ak02250bk7u9,2022-04-19T03:44:19.460Z,"85 km SW of Delta Junction, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-04-19T03:30:32.100Z,17.9516666666667,-66.7976666666667,12.83,2.4,md,21,171,,0.13,pr,pr71345023,2022-04-19T03:47:12.480Z,"5 km SSE of Indios, Puerto Rico",earthquake,0.41,0.29,0.298467356192725,10,reviewed,pr,pr
-2022-04-19T03:30:02.120Z,38.7951667,-122.9866667,1.07,1.48,md,40,67,0.03398,0.06,nc,nc73719970,2022-04-20T01:10:45.913Z,"3km ESE of Cloverdale, CA",earthquake,0.18,0.36,0.149,20,reviewed,nc,nc
-2022-04-19T03:28:00.000Z,38.822834,-122.7935028,2.78,0.84,md,7,104,0.01296,0.02,nc,nc73719965,2022-04-19T05:35:56.872Z,"6km NNW of The Geysers, CA",earthquake,0.64,1.55,,1,automatic,nc,nc
-2022-04-19T03:13:15.839Z,35.103,-95.53583333,7.49,1.93,ml,59,57,0.112477928,0.36,ok,ok2022hpos,2022-04-19T13:46:25.552Z,"12 km E of Crowder, Oklahoma",earthquake,,1,0.17,6,reviewed,ok,ok
-2022-04-19T03:12:59.720Z,46.8915,-112.5211667,9.18,0.87,ml,10,96,0.055,0.13,mb,mb80543579,2022-04-19T17:05:27.020Z,"14 km ESE of Lincoln, Montana",earthquake,0.47,0.71,0.078,4,reviewed,mb,mb
-2022-04-19T03:03:46.662Z,61.266,-152.1274,103.1,1.9,ml,,,,0.56,ak,ak02250bdvb9,2022-04-19T03:13:35.617Z,"57 km WNW of Tyonek, Alaska",earthquake,,0.8,,,automatic,ak,ak
