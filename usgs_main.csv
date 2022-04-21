@@ -13316,3 +13316,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-21T11:21:13.643Z,61.1494,-148.4694,0.0,1.6,ml,,,,0.81,ak,ak02253rbtfl,2022-04-21T11:24:03.880Z,"41 km SE of Knik River, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-21T11:04:17.069Z,65.1378,-148.9801,11.2,1.1,ml,,,,0.53,ak,ak02253r86n9,2022-04-21T11:09:27.584Z,"17 km E of Minto, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-21T10:39:43.320Z,18.4106,-68.8535,115.0,3.92,md,23.0,184.0,0.4833,0.15,pr,pr2022111000,2022-04-21T11:23:07.278Z,"12 km E of La Romana, Dominican Republic",earthquake,0.96,0.88,0.16,10.0,reviewed,pr,pr
+2022-04-21T11:33:10.494Z,65.1236,-149.04,13.4,1.4,ml,,,,0.5,ak,ak02253redws,2022-04-21T11:35:52.260Z,"14 km ESE of Minto, Alaska",earthquake,,0.5,,,automatic,ak,ak
