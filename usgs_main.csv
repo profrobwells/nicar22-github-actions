@@ -13420,3 +13420,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-21T19:28:01.162Z,62.2941,-150.3414,18.5,1.1,ml,,,,0.65,ak,ak02253w4rg4,2022-04-21T19:29:53.156Z,Central Alaska,earthquake,,0.2,,,automatic,ak,ak
 2022-04-21T19:24:41.600Z,32.9118333,-115.5156667,4.37,1.54,ml,16.0,146.0,0.03928,0.25,ci,ci40243320,2022-04-21T19:28:24.944Z,"8km S of Brawley, CA",earthquake,0.84,1.01,0.181,23.0,automatic,ci,ci
 2022-04-21T19:22:46.360Z,38.7816658,-122.7356644,-0.91,1.09,md,13.0,79.0,0.001774,0.25,nc,nc73721350,2022-04-21T19:24:45.209Z,"2km ENE of The Geysers, CA",earthquake,0.53,2.12,0.11,6.0,automatic,nc,nc
+2022-04-21T19:36:17.960Z,38.8033333,-122.7710037,3.29,0.35,md,9.0,112.0,0.01247,0.1,nc,nc73721360,2022-04-21T19:38:54.105Z,"3km NNW of The Geysers, CA",earthquake,0.51,1.42,0.29,2.0,automatic,nc,nc
+2022-04-21T19:35:37.580Z,19.228666305542,-155.414505004883,33.9000015258789,2.36,ml,38.0,134.0,,0.129999995,hv,hv72991742,2022-04-21T19:41:07.820Z,"7 km ENE of Pāhala, Hawaii",earthquake,0.67,0.819999993,0.21,3.0,automatic,hv,hv
