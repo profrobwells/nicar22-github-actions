@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-21T08:50:22.810Z,33.4783325,-116.4506683,12.17,1.14,ml,40,72,0.1036,0.17,ci,ci40242968,2022-04-21T08:52:28.198Z,"22km ESE of Anza, CA",earthquake,0.27,0.75,0.218,10,automatic,ci,ci
-2022-04-21T08:35:47.590Z,19.2705001831055,-155.375335693359,2.55999994277954,3.25,ml,41,131,,0.209999993,hv,hv72991222,2022-04-21T08:51:48.490Z,"13 km NE of Pāhala, Hawaii",earthquake,0.4,1.13999999,3.38,31,reviewed,hv,hv
+2022-04-21T09:05:08.810Z,19.2706661224365,-155.385665893555,-0.46000000834465,1.75,md,35,127,,0.230000004,hv,hv72991252,2022-04-21T09:08:28.590Z,"12 km NE of Pāhala, Hawaii",earthquake,0.44,0.349999994,0.74000001,16,automatic,hv,hv
+2022-04-21T08:50:22.760Z,33.4788333,-116.4423333,12.35,1.05,ml,43,44,0.1079,0.19,ci,ci40242968,2022-04-21T08:54:00.689Z,"23km ESE of Anza, CA",earthquake,0.25,0.56,0.145,27,automatic,ci,ci
+2022-04-21T08:35:47.510Z,19.2558333333333,-155.366833333333,3.25,3.42,ml,14,169,,0.11,hv,hv72991222,2022-04-21T08:59:15.860Z,"13 km ENE of Pāhala, Hawaii",earthquake,0.54,0.71,0.226022957246044,38,reviewed,hv,hv
 2022-04-21T08:21:26.754Z,59.021,-155.4378,250,2.1,ml,,,,0.93,ak,ak02253pjjr7,2022-04-21T08:24:21.691Z,"42 km SE of Igiugig, Alaska",earthquake,,4.6,,,automatic,ak,ak
+2022-04-21T08:21:07.323Z,31.9667,-102.3108,1.47,2.6,mb_lg,,42,0.203,0.55,us,us6000hf7q,2022-04-21T08:57:19.482Z,"8 km SE of Gardendale, Texas",earthquake,1.3,5.7,0.208,6,reviewed,us,us
 2022-04-21T07:44:40.025Z,61.9611,-150.8479,12,1.4,ml,,,,0.57,ak,ak02253p32nf,2022-04-21T08:04:03.012Z,"29 km E of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-04-21T07:42:46.447Z,11.5538,-86.9919,25.33,6.7,mww,,47,0.937,0.91,us,us6000hf75,2022-04-21T08:51:10.032Z,"58 km WSW of Masachapa, Nicaragua",earthquake,4.7,3.7,0.049,40,reviewed,us,us
+2022-04-21T07:42:46.447Z,11.5538,-86.9919,25.33,6.7,mww,,47,0.937,0.91,us,us6000hf75,2022-04-21T09:08:15.183Z,"58 km WSW of Masachapa, Nicaragua",earthquake,4.7,3.7,0.049,40,reviewed,us,us
 2022-04-21T07:42:42.150Z,17.9541666666667,-66.9095,9.56,2.29,md,7,205,,0.23,pr,pr71345293,2022-04-21T07:56:49.424Z,"1 km S of Guánica, Puerto Rico",earthquake,1.16,0.82,0.143854195980437,4,reviewed,pr,pr
 2022-04-21T07:38:44.203Z,38.5539,-119.4114,1.6,1.5,ml,9,133.06,0.054,0.1193,nn,nn00837590,2022-04-21T07:42:54.995Z,"7 km NE of Walker, California",earthquake,,0.9,0.22,5,automatic,nn,nn
 2022-04-21T07:18:03.050Z,38.8193321,-122.7633362,2.22,0.85,md,9,175,0.01225,0.02,nc,nc73721180,2022-04-21T07:43:16.955Z,"4km W of Cobb, CA",earthquake,0.46,0.97,,1,automatic,nc,nc
@@ -240,7 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-20T09:20:46.804Z,38.6894,-119.569,11,0.3,ml,6,111.12,0.111,0.0608,nn,nn00837560,2022-04-21T02:38:37.903Z,"2 km WSW of Topaz Lake, Nevada",earthquake,,3.2,0.33,3,reviewed,nn,nn
 2022-04-20T09:15:11.180Z,38.836834,-122.8001633,2.14,0.83,md,18,65,0.007828,0.02,nc,nc73720650,2022-04-20T11:24:13.701Z,"7km WNW of Cobb, CA",earthquake,0.27,0.68,0.29,3,automatic,nc,nc
 2022-04-20T09:11:11.800Z,44.3446667,-115.192,8.18,1.61,ml,8,123,0.828,0.27,mb,mb80543629,2022-04-20T14:52:19.710Z,"24 km NW of Stanley, Idaho",earthquake,0.7,2.01,0.206,9,reviewed,mb,mb
-2022-04-20T09:09:23.350Z,38.7841682,-122.7196655,1.68,0.67,md,10,92,0.01337,0.03,nc,nc73720645,2022-04-20T10:57:14.527Z,"3km WNW of Anderson Springs, CA",earthquake,0.5,1.57,0.16,2,automatic,nc,nc
-2022-04-20T09:07:40.899Z,6.4025,127.0403,45.48,5.3,mww,,92,1.595,0.84,us,us7000h3i1,2022-04-20T09:25:50.040Z,"94 km ESE of Bobon, Philippines",earthquake,8.1,6.5,0.075,17,reviewed,us,us
-2022-04-20T08:59:09.697Z,60.418,-151.9501,75.8,1.7,ml,,,,1,ak,ak0225228b5l,2022-04-20T09:07:23.576Z,"35 km W of Cohoe, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-04-20T08:57:29.940Z,32.9093333,-115.5158333,5.23,1.97,ml,35,73,0.03856,0.27,ci,ci40242008,2022-04-20T20:09:20.660Z,"8km S of Brawley, CA",earthquake,0.26,0.47,0.178,18,reviewed,ci,ci
