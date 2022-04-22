@@ -13553,3 +13553,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-22T04:08:04.040Z,38.8253326,-122.8566666,2.31,0.37,md,11.0,65.0,0.01705,0.01,nc,nc73721555,2022-04-22T04:44:14.434Z,"10km WNW of The Geysers, CA",earthquake,0.33,1.2,,1.0,automatic,nc,nc
 2022-04-22T04:05:43.150Z,38.8251648,-122.8563309,2.48,1.43,md,11.0,113.0,0.002414,0.01,nc,nc73721545,2022-04-22T04:55:45.514Z,"10km WNW of The Geysers, CA",earthquake,0.37,1.08,,1.0,automatic,nc,nc
 2022-04-22T03:51:27.849Z,14.0026,92.9602,10.0,4.9,mb,,93.0,5.987,0.81,us,us6000hfgp,2022-04-22T04:41:25.040Z,"256 km N of Bamboo Flat, India",earthquake,6.9,1.7,0.081,50.0,reviewed,us,us
+2022-04-22T05:27:33.000Z,56.167,-161.392,224.0,4.8,Ml,63.0,71.99999424000046,0.7734495,0.61,at,at00raq75x,2022-04-22T05:37:56.986Z,"21 km NNW of Nelson Lagoon, Alaska",earthquake,0.0,0.0,,20.0,reviewed,at,at
+2022-04-22T05:27:30.303Z,59.2208,-153.4682,95.5,1.9,ml,,,,0.84,ak,ak02255bbw05,2022-04-22T05:29:42.431Z,"69 km ESE of Pope-Vannoy Landing, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-04-22T05:17:44.206Z,38.5496,-119.499,8.5,1.6,ml,16.0,88.66,0.04,0.3828,nn,nn00837668,2022-04-22T05:21:10.687Z,"1 km SSE of Coleville, California",earthquake,,0.4,0.22,9.0,automatic,nn,nn
+2022-04-22T05:02:34.940Z,36.6773338,-121.3054962,4.85,3.47,ml,52.0,64.0,0.04462,0.11,nc,nc73721575,2022-04-22T05:40:01.787Z,"13km S of Tres Pinos, CA",earthquake,0.19,0.58,0.274,33.0,automatic,nc,nc
