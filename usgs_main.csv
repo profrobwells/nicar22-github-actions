@@ -13641,3 +13641,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-22T14:28:02.470Z,19.1693325042725,-155.491165161133,33.5099983215332,2.12,ml,42.0,99.0,,0.140000001,hv,hv72992572,2022-04-22T14:33:32.760Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.58,0.649999976,4.43,7.0,automatic,hv,hv
 2022-04-22T14:24:27.975Z,63.234,-150.3919,8.0,1.2,ml,,,,0.57,ak,ak02255go53r,2022-04-22T14:27:46.582Z,"74 km WSW of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-22T14:19:17.160Z,36.6744995,-121.2981644,2.93,2.39,md,33.0,65.0,0.04391,0.08,nc,nc73721800,2022-04-22T14:31:15.938Z,"13km S of Tres Pinos, CA",earthquake,0.23,0.83,0.18,36.0,automatic,nc,nc
+2022-04-22T14:33:32.775Z,59.6727,-153.3052,106.2,2.3,ml,,,,0.75,ak,ak02255gq2xp,2022-04-22T14:39:47.879Z,"46 km ESE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
