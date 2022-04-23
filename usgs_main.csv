@@ -13997,3 +13997,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-23T20:29:24.470Z,19.1551666259766,-155.481170654297,32.810001373291,1.84000003,md,31.0,211.0,,0.119999997,hv,hv72993537,2022-04-23T20:32:31.300Z,"5 km S of Pāhala, Hawaii",earthquake,0.92,1.08000004,0.0199999996,5.0,automatic,hv,hv
 2022-04-23T20:23:45.424Z,61.4968,-149.8788,32.7,1.6,ml,,,,0.64,ak,ak022577rwvi,2022-04-23T20:25:38.239Z,"4 km SE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-23T20:23:12.420Z,38.8089981,-122.7925034,2.76,0.86,md,17.0,47.0,0.0162,0.03,nc,nc73722375,2022-04-23T20:24:50.532Z,"5km NW of The Geysers, CA",earthquake,0.26,0.67,0.06,3.0,automatic,nc,nc
+2022-04-23T20:44:03.430Z,38.8103333,-122.9286652,4.11,0.85,md,8.0,217.0,0.02462,0.02,nc,nc73722400,2022-04-23T20:45:40.377Z,"8km E of Cloverdale, CA",earthquake,0.65,1.15,0.04,3.0,automatic,nc,nc
