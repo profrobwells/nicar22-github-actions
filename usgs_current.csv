@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-23T09:10:53.550Z,38.8370018,-122.7916641,1.68,0.36,md,8,90,0.001743,0.02,nc,nc73722210,2022-04-23T09:12:30.282Z,"6km WNW of Cobb, CA",earthquake,0.46,1.04,,1,automatic,nc,nc
+2022-04-23T09:10:53.550Z,38.8370018,-122.7916641,1.68,0.36,md,8,90,0.001743,0.02,nc,nc73722210,2022-04-23T09:27:17.767Z,"6km WNW of Cobb, CA",earthquake,0.46,1.04,,1,automatic,nc,nc
 2022-04-23T08:53:22.106Z,62.3197,-152.0251,103.3,2,ml,,,,0.33,ak,ak022570t3aw,2022-04-23T08:56:56.477Z,"49 km NW of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-04-23T08:49:17.530Z,33.898,-117.799,2.81,1.06,ml,23,67,0.06974,0.19,ci,ci40244264,2022-04-23T08:52:53.202Z,"2km NE of Yorba Linda, CA",earthquake,0.32,0.48,0.126,29,automatic,ci,ci
 2022-04-23T08:48:08.002Z,62.3398,-151.185,74.7,1.7,ml,,,,0.3,ak,ak022570rzmo,2022-04-23T08:50:35.039Z,"27 km SW of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -86,7 +86,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-22T21:32:41.530Z,38.7798347,-122.7676697,1.01,1.12,md,27,87,0.009224,0.04,nc,nc73721965,2022-04-22T22:21:20.824Z,"1km WNW of The Geysers, CA",earthquake,0.22,0.32,0.15,6,automatic,nc,nc
 2022-04-22T21:10:52.977Z,31.6918408,-104.3102548,7.725463867,2.7,ml,18,58,0.04365457108,0.3,tx,tx2022hwkt,2022-04-22T21:50:00.040Z,"54 km S of Whites City, New Mexico",earthquake,1.026159937,0.9013421563,0.1,8,reviewed,tx,tx
 2022-04-22T21:08:22.830Z,44.8133333,-110.8115,6.94,0.33,md,8,110,0.03736,0.11,uu,uu60493897,2022-04-22T21:48:16.790Z,"20 km SSW of Mammoth, Wyoming",earthquake,0.66,0.8,0.222,4,reviewed,uu,uu
-2022-04-22T21:07:48.292Z,43.0608,18.1759,10,5.7,mww,,24,1.018,0.9,us,us6000hfqj,2022-04-23T09:11:38.264Z,"14 km NNE of Ljubinje, Bosnia and Herzegovina",earthquake,4.2,1.8,0.039,63,reviewed,us,us
+2022-04-22T21:07:48.292Z,43.0608,18.1759,10,5.7,mww,,24,1.018,0.9,us,us6000hfqj,2022-04-23T09:27:41.417Z,"14 km NNE of Ljubinje, Bosnia and Herzegovina",earthquake,4.2,1.8,0.039,63,reviewed,us,us
 2022-04-22T20:43:10.280Z,46.35816666666667,-122.423,3.89,0.34,ml,13,121,0.07703,0.13,uw,uw61833426,2022-04-22T23:25:48.720Z,"19 km SSE of Mossyrock, Washington",earthquake,0.75,2.09,0.1728670818875393,4,reviewed,uw,uw
 2022-04-22T20:41:26.430Z,38.7966652,-122.7555008,2.09,0.56,md,12,90,0.005144,0.01,nc,nc73721955,2022-04-22T21:29:29.507Z,"2km N of The Geysers, CA",earthquake,0.29,0.61,0.07,3,automatic,nc,nc
 2022-04-22T20:31:18.860Z,19.406665802002,-155.240997314453,2.16000008583069,1.82,ml,13,94,,0.140000001,hv,hv72992782,2022-04-22T20:36:49.410Z,"4 km S of Volcano, Hawaii",earthquake,0.33,0.300000012,1.27,4,automatic,hv,hv
@@ -225,9 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-22T09:46:51.760Z,19.1681671142578,-155.374328613281,29.8600006103516,2.00999999,md,35,199,,0.119999997,hv,hv72992327,2022-04-22T09:49:54.050Z,"11 km ESE of Pāhala, Hawaii",earthquake,0.77,0.790000021,2.00999999,4,automatic,hv,hv
 2022-04-22T09:45:52.855Z,31.62997725,-104.2357726,6.157275391,2.4,ml,9,88,0.146868407,0.3,tx,tx2022hvoe,2022-04-22T16:48:24.620Z,"54 km NW of Toyah, Texas",earthquake,1.232107037,2.398190448,0.2,6,reviewed,tx,tx
 2022-04-22T09:31:19.833Z,38.6876,-119.5678,11.8,0.7,ml,6,110.57,0.109,0.0444,nn,nn00837724,2022-04-23T02:39:02.986Z,"2 km WSW of Topaz Lake, Nevada",earthquake,,3.2,0.44,4,reviewed,nn,nn
-2022-04-22T09:28:15.860Z,37.047,-112.877,17.87,1.78,ml,8,140,0.05346,0.09,uu,uu60493772,2022-04-22T15:27:44.650Z,"9 km ENE of Hildale, Utah",earthquake,0.55,0.6,0.2,5,reviewed,uu,uu
-2022-04-22T09:23:14.157Z,61.3473,-150.1373,23.1,2.9,ml,,,,0.86,ak,ak02255doqcg,2022-04-22T17:59:30.446Z,"8 km W of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-04-22T09:22:13.890Z,52.0618333333333,178.364833333333,-1.9,3.08,ml,8,313,,0.11,av,av91542961,2022-04-22T22:30:55.320Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.81,1.59,0.227520926770178,13,reviewed,av,av
-2022-04-22T09:21:36.729Z,28.40240479,-98.25241268,2.9590250650000005,2.4,ml,12,108,0.1284211995,0.3,tx,tx2022hvnj,2022-04-23T04:24:01.793Z,"9 km SW of Three Rivers, Texas",earthquake,3.129795326,3.192472493,0.2,4,reviewed,tx,tx
-2022-04-22T09:15:34.100Z,38.8339996,-122.8171692,2.03,0.85,md,6,167,0.01195,0.01,nc,nc73721665,2022-04-22T10:01:15.341Z,"8km NW of The Geysers, CA",earthquake,0.69,1.33,,1,automatic,nc,nc
-2022-04-22T09:14:12.690Z,60.1645,-146.7426,10.1,1.9,ml,,,,0.61,ak,ak02255dmtkv,2022-04-22T09:27:57.417Z,"68 km SW of Cordova, Alaska",earthquake,,0.4,,,automatic,ak,ak
