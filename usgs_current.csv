@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-23T09:37:09.380Z,38.8274994,-122.8043365,1.75,0.94,md,24,44,0.006073,0.02,nc,nc73722215,2022-04-23T09:38:45.159Z,"7km NW of The Geysers, CA",earthquake,0.2,0.36,0.06,5,automatic,nc,nc
 2022-04-23T09:10:53.550Z,38.8370018,-122.7916641,1.68,0.36,md,8,90,0.001743,0.02,nc,nc73722210,2022-04-23T09:27:17.767Z,"6km WNW of Cobb, CA",earthquake,0.46,1.04,,1,automatic,nc,nc
 2022-04-23T08:53:22.106Z,62.3197,-152.0251,103.3,2,ml,,,,0.33,ak,ak022570t3aw,2022-04-23T08:56:56.477Z,"49 km NW of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-04-23T08:49:17.530Z,33.898,-117.799,2.81,1.06,ml,23,67,0.06974,0.19,ci,ci40244264,2022-04-23T08:52:53.202Z,"2km NE of Yorba Linda, CA",earthquake,0.32,0.48,0.126,29,automatic,ci,ci
@@ -86,7 +87,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-22T21:32:41.530Z,38.7798347,-122.7676697,1.01,1.12,md,27,87,0.009224,0.04,nc,nc73721965,2022-04-22T22:21:20.824Z,"1km WNW of The Geysers, CA",earthquake,0.22,0.32,0.15,6,automatic,nc,nc
 2022-04-22T21:10:52.977Z,31.6918408,-104.3102548,7.725463867,2.7,ml,18,58,0.04365457108,0.3,tx,tx2022hwkt,2022-04-22T21:50:00.040Z,"54 km S of Whites City, New Mexico",earthquake,1.026159937,0.9013421563,0.1,8,reviewed,tx,tx
 2022-04-22T21:08:22.830Z,44.8133333,-110.8115,6.94,0.33,md,8,110,0.03736,0.11,uu,uu60493897,2022-04-22T21:48:16.790Z,"20 km SSW of Mammoth, Wyoming",earthquake,0.66,0.8,0.222,4,reviewed,uu,uu
-2022-04-22T21:07:48.292Z,43.0608,18.1759,10,5.7,mww,,24,1.018,0.9,us,us6000hfqj,2022-04-23T09:27:41.417Z,"14 km NNE of Ljubinje, Bosnia and Herzegovina",earthquake,4.2,1.8,0.039,63,reviewed,us,us
+2022-04-22T21:07:48.292Z,43.0608,18.1759,10,5.7,mww,,24,1.018,0.9,us,us6000hfqj,2022-04-23T09:32:47.830Z,"14 km NNE of Ljubinje, Bosnia and Herzegovina",earthquake,4.2,1.8,0.039,63,reviewed,us,us
 2022-04-22T20:43:10.280Z,46.35816666666667,-122.423,3.89,0.34,ml,13,121,0.07703,0.13,uw,uw61833426,2022-04-22T23:25:48.720Z,"19 km SSE of Mossyrock, Washington",earthquake,0.75,2.09,0.1728670818875393,4,reviewed,uw,uw
 2022-04-22T20:41:26.430Z,38.7966652,-122.7555008,2.09,0.56,md,12,90,0.005144,0.01,nc,nc73721955,2022-04-22T21:29:29.507Z,"2km N of The Geysers, CA",earthquake,0.29,0.61,0.07,3,automatic,nc,nc
 2022-04-22T20:31:18.860Z,19.406665802002,-155.240997314453,2.16000008583069,1.82,ml,13,94,,0.140000001,hv,hv72992782,2022-04-22T20:36:49.410Z,"4 km S of Volcano, Hawaii",earthquake,0.33,0.300000012,1.27,4,automatic,hv,hv
@@ -200,7 +201,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-22T11:39:23.660Z,33.468,-116.5031667,12.95,2.12,ml,76,29,0.08511,0.17,ci,ci40243768,2022-04-22T19:36:34.190Z,"18km ESE of Anza, CA",earthquake,0.14,0.28,0.195,26,reviewed,ci,ci
 2022-04-22T11:38:21.740Z,38.821167,-122.8001633,2.65,0.84,md,6,123,0.008055,0.01,nc,nc73721730,2022-04-22T11:40:53.182Z,"6km NW of The Geysers, CA",earthquake,0.97,1.56,,1,automatic,nc,nc
 2022-04-22T11:27:53.620Z,38.822834,-122.8008347,2.25,1.21,md,31,49,0.007239,0.05,nc,nc73721725,2022-04-22T15:01:15.132Z,"6km NW of The Geysers, CA",earthquake,0.21,0.4,0.02,4,automatic,nc,nc
-2022-04-22T11:26:55.860Z,38.8225,-122.8023333,2.78,1.35,md,44,32,0.006112,0.03,nc,nc73721720,2022-04-23T07:33:10.052Z,"6km NW of The Geysers, CA",earthquake,0.15,0.28,0.098,10,reviewed,nc,nc
+2022-04-22T11:26:55.860Z,38.8225,-122.8023333,2.78,1.35,md,44,32,0.006112,0.03,nc,nc73721720,2022-04-23T09:38:15.834Z,"6km NW of The Geysers, CA",earthquake,0.15,0.28,0.098,10,reviewed,nc,nc
 2022-04-22T11:19:37.430Z,38.821167,-122.8018341,2.68,0.74,md,16,98,0.00681,0.02,nc,nc73721715,2022-04-22T11:21:14.025Z,"6km NW of The Geysers, CA",earthquake,0.34,0.56,0.1,2,automatic,nc,nc
 2022-04-22T11:19:33.290Z,38.825,-122.803,2.64,0.43,md,30,33,0.005753,0.02,nc,nc73721710,2022-04-23T06:40:15.755Z,"7km NW of The Geysers, CA",earthquake,0.16,0.37,0.253,4,reviewed,nc,nc
 2022-04-22T11:18:04.850Z,38.8201667,-122.8018333,3.49,0.24,md,20,51,0.007199,0.02,nc,nc73721705,2022-04-23T06:16:17.623Z,"6km NW of The Geysers, CA",earthquake,0.27,0.68,0.313,2,reviewed,nc,nc
@@ -224,4 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-22T09:48:19.693Z,31.63146973,-104.2318502,14.72176107,2.3,ml,7,101,0.2815084682,0.3,tx,tx2022hvoh,2022-04-23T06:38:33.150Z,"54 km NW of Toyah, Texas",earthquake,3.825855587,5.28928574,0.2,5,reviewed,tx,tx
 2022-04-22T09:46:51.760Z,19.1681671142578,-155.374328613281,29.8600006103516,2.00999999,md,35,199,,0.119999997,hv,hv72992327,2022-04-22T09:49:54.050Z,"11 km ESE of Pāhala, Hawaii",earthquake,0.77,0.790000021,2.00999999,4,automatic,hv,hv
 2022-04-22T09:45:52.855Z,31.62997725,-104.2357726,6.157275391,2.4,ml,9,88,0.146868407,0.3,tx,tx2022hvoe,2022-04-22T16:48:24.620Z,"54 km NW of Toyah, Texas",earthquake,1.232107037,2.398190448,0.2,6,reviewed,tx,tx
-2022-04-22T09:31:19.833Z,38.6876,-119.5678,11.8,0.7,ml,6,110.57,0.109,0.0444,nn,nn00837724,2022-04-23T02:39:02.986Z,"2 km WSW of Topaz Lake, Nevada",earthquake,,3.2,0.44,4,reviewed,nn,nn
