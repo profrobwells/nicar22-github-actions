@@ -14010,3 +14010,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-23T21:30:06.960Z,38.8045006,-122.8081665,1.22,1.46,md,26.0,65.0,0.01063,0.03,nc,nc73722440,2022-04-23T21:39:11.327Z,"5km NW of The Geysers, CA",earthquake,0.17,0.36,0.05,7.0,automatic,nc,nc
 2022-04-23T21:29:40.760Z,38.8041649,-122.8073349,1.16,2.1,md,32.0,48.0,0.01014,0.04,nc,nc73722430,2022-04-23T21:36:11.179Z,"5km NW of The Geysers, CA",earthquake,0.17,0.27,0.15,11.0,automatic,nc,nc
 2022-04-23T05:01:56.108Z,64.7253,-148.5438,8.5,0.3,ml,,,,0.75,ak,ak02256yppmc,2022-04-23T21:33:46.547Z,"28 km WSW of Ester, Alaska",earthquake,,0.7,,,reviewed,ak,ak
+2022-04-23T21:46:35.370Z,38.8339996,-122.81633,1.36,0.85,md,11.0,58.0,0.01166,0.02,nc,nc73722455,2022-04-23T21:48:11.327Z,"8km NW of The Geysers, CA",earthquake,0.3,0.85,,1.0,automatic,nc,nc
+2022-04-23T21:27:19.970Z,17.9536666666667,-66.8433333333333,12.84,2.85,md,7.0,207.0,,0.08,pr,pr71345688,2022-04-23T21:49:27.110Z,"5 km SSW of Indios, Puerto Rico",earthquake,0.58,0.39,0.108044529022901,4.0,reviewed,pr,pr
+2022-04-23T21:22:47.798Z,50.4743,-129.6779,10.0,5.3,mww,,152.0,0.999,0.69,us,us6000hfx7,2022-04-23T21:50:27.603Z,"184 km W of Port McNeill, Canada",earthquake,3.7,1.7,0.05,39.0,reviewed,us,us
