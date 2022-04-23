@@ -13820,3 +13820,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-23T02:57:52.970Z,33.4228333,-117.3475,11.79,0.87,ml,17.0,91.0,0.02683,0.14,ci,ci40244112,2022-04-23T03:01:29.109Z,"10km WNW of Fallbrook, CA",earthquake,0.28,0.76,0.135,13.0,automatic,ci,ci
 2022-04-23T02:56:43.020Z,38.8308334,-122.8130035,1.61,0.85,md,10.0,66.0,0.007772,0.02,nc,nc73722085,2022-04-23T03:17:22.611Z,"8km NW of The Geysers, CA",earthquake,0.27,0.78,,1.0,automatic,nc,nc
 2022-04-23T02:44:41.970Z,36.9029999,-120.94767,9.2,2.07,md,21.0,102.0,0.1605,0.07,nc,nc73722080,2022-04-23T03:06:10.559Z,"19km SSW of Los Banos, CA",earthquake,0.3,0.79,0.15,16.0,automatic,nc,nc
+2022-04-23T03:40:37.240Z,65.1608,-148.9945,9.4,1.4,ml,,,,0.39,ak,ak02256xr63j,2022-04-23T03:44:47.944Z,"16 km E of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-23T03:38:32.991Z,62.1016,-148.1081,38.7,0.9,ml,,,,0.3,ak,ak02256xqqd1,2022-04-23T03:40:52.802Z,"38 km NNE of Chickaloon, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-04-23T03:30:25.310Z,35.59,-117.3835,5.46,2.23,ml,30.0,106.0,0.06424,0.17,ci,ci40244152,2022-04-23T03:41:25.800Z,"19km S of Trona, CA",earthquake,0.36,0.7,0.117,24.0,automatic,ci,ci
+2022-04-23T03:28:26.120Z,35.6696667,-117.4726667,8.72,1.53,ml,18.0,112.0,0.08342,0.16,ci,ci40244144,2022-04-23T03:31:59.667Z,"12km SSW of Searles Valley, CA",earthquake,0.4,1.02,0.107,19.0,automatic,ci,ci
+2022-04-23T03:22:36.490Z,32.7406667,-116.0451667,8.73,1.41,ml,26.0,42.0,0.02285,0.29,ci,ci40244136,2022-04-23T03:26:11.542Z,"5km W of Ocotillo, CA",earthquake,0.46,0.93,0.12,21.0,automatic,ci,ci
