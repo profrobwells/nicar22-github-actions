@@ -13941,3 +13941,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-23T10:17:10.940Z,46.895,-112.52,13.52,0.39,ml,10.0,96.0,0.056,0.14,mb,mb80543879,2022-04-23T15:19:56.090Z,"14 km ESE of Lincoln, Montana",earthquake,0.46,0.65,0.171,2.0,reviewed,mb,mb
 2022-04-23T07:11:57.120Z,46.9695,-112.8836667,9.85,0.73,ml,21.0,76.0,0.157,0.2,mb,mb80543874,2022-04-23T15:12:58.070Z,"15 km W of Lincoln, Montana",earthquake,0.63,1.04,0.068,3.0,reviewed,mb,mb
 2022-04-23T03:29:38.040Z,44.9678333,-112.9811667,8.6,0.83,ml,6.0,171.0,0.169,0.12,mb,mb80543884,2022-04-23T15:26:41.790Z,"38 km SW of Dillon, Montana",earthquake,0.73,2.2,0.14,3.0,reviewed,mb,mb
+2022-04-23T15:38:07.230Z,19.191333770752,-155.489669799805,32.3499984741211,2.25,ml,45.0,70.0,,0.170000002,hv,hv72993417,2022-04-23T15:43:38.930Z,"1 km SW of Pāhala, Hawaii",earthquake,0.54,0.790000021,3.83,6.0,automatic,hv,hv
+2022-04-23T15:13:00.260Z,18.023,-66.7803333333333,18.23,2.19,md,11.0,125.0,,0.18,pr,pr71345593,2022-04-23T15:39:08.820Z,"1 km ENE of Guayanilla, Puerto Rico",earthquake,0.5,0.81,0.122994482005293,7.0,reviewed,pr,pr
