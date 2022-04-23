@@ -13943,3 +13943,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-23T03:29:38.040Z,44.9678333,-112.9811667,8.6,0.83,ml,6.0,171.0,0.169,0.12,mb,mb80543884,2022-04-23T15:26:41.790Z,"38 km SW of Dillon, Montana",earthquake,0.73,2.2,0.14,3.0,reviewed,mb,mb
 2022-04-23T15:38:07.230Z,19.191333770752,-155.489669799805,32.3499984741211,2.25,ml,45.0,70.0,,0.170000002,hv,hv72993417,2022-04-23T15:43:38.930Z,"1 km SW of Pāhala, Hawaii",earthquake,0.54,0.790000021,3.83,6.0,automatic,hv,hv
 2022-04-23T15:13:00.260Z,18.023,-66.7803333333333,18.23,2.19,md,11.0,125.0,,0.18,pr,pr71345593,2022-04-23T15:39:08.820Z,"1 km ENE of Guayanilla, Puerto Rico",earthquake,0.5,0.81,0.122994482005293,7.0,reviewed,pr,pr
+2022-04-23T14:07:03.600Z,37.7545,101.4734,10.0,4.8,mb,,117.0,10.7,0.91,us,us6000hfup,2022-04-23T15:46:03.040Z,"103 km W of Wuwei, China",earthquake,11.6,1.9,0.055,103.0,reviewed,us,us
+2022-04-23T07:33:20.220Z,44.3653333,-113.0871667,1.07,1.44,ml,12.0,101.0,0.11,0.12,mb,mb80543889,2022-04-23T15:52:30.080Z,"41 km SSE of Leadore, Idaho",earthquake,0.33,0.88,0.214,7.0,reviewed,mb,mb
