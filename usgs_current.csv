@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-24T20:39:58.610Z,38.7878342,-122.7471695,2.02,0.69,md,11,84,0.0161,0.02,nc,nc73722820,2022-04-24T20:41:33.271Z,"1km NE of The Geysers, CA",earthquake,0.28,0.64,0.23,4,automatic,nc,nc
 2022-04-24T20:07:47.790Z,18.1623333333333,-66.3026666666667,22.84,2.52,md,14,81,,0.15,pr,pr71345913,2022-04-24T20:23:17.720Z,"2 km S of Barranquitas, Puerto Rico",earthquake,0.4,0.64,0.171913630718808,9,reviewed,pr,pr
 2022-04-24T20:05:41.770Z,38.821167,-122.7610016,1.81,0.87,md,22,125,0.01161,0.04,nc,nc73722815,2022-04-24T20:22:16.580Z,"3km W of Cobb, CA",earthquake,0.28,0.42,0.13,4,automatic,nc,nc
 2022-04-24T19:46:51.619Z,62.0272,-150.5641,31.9,1.2,ml,,,,1.55,ak,ak02258uurph,2022-04-24T19:49:11.498Z,"36 km SSW of Trapper Creek, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -11,6 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-24T19:01:01.300Z,36.5671,-116.2736,2.7,1.8,ml,22,89.66,0.094,0.225,nn,nn00837801,2022-04-24T19:04:16.026Z,"47 km NNW of Pahrump, Nevada",earthquake,,0.6,0.82,13,automatic,nn,nn
 2022-04-24T19:00:48.616Z,59.7824,-151.1919,65.8,1.2,ml,,,,0.81,ak,ak02258ukwjh,2022-04-24T19:07:58.381Z,"7 km NE of Fritz Creek, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2022-04-24T18:58:56.820Z,36.6008339,-121.1848297,1.8,1.62,md,12,128,0.02908,0.08,nc,nc73722805,2022-04-24T19:31:11.259Z,"8km NNW of Pinnacles, CA",earthquake,0.48,0.68,0.08,8,automatic,nc,nc
+2022-04-24T18:57:25.761Z,-21.1803,-178.7067,554.7,4.3,mb,,148,4.585,0.79,us,us6000hg36,2022-04-24T20:45:39.040Z,"Fiji region",earthquake,14.7,8.4,0.081,43,reviewed,us,us
 2022-04-24T18:40:26.150Z,17.9806666666667,-66.8495,16.62,2.1,md,5,190,,0.11,pr,pr71345893,2022-04-24T18:57:52.790Z,"3 km WSW of Indios, Puerto Rico",earthquake,0.72,0.78,0.0428369015776107,3,reviewed,pr,pr
 2022-04-24T18:30:04.837Z,61.0087,-151.4246,64.5,1.7,ml,,,,0.88,ak,ak02258u5t1l,2022-04-24T18:37:49.659Z,"16 km WSW of Tyonek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-04-24T18:25:12.039Z,-6.485,130.2678,104.46,4.6,mb,,60,1.805,0.64,us,us6000hg2y,2022-04-24T18:42:12.040Z,"290 km WSW of Tual, Indonesia",earthquake,8.5,8.4,0.085,41,reviewed,us,us
@@ -222,4 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-23T20:53:42.060Z,38.8246651,-122.8119965,1.24,0.85,md,8,87,0.001966,0.01,nc,nc73722405,2022-04-23T21:23:19.103Z,"7km NW of The Geysers, CA",earthquake,0.33,0.92,,1,automatic,nc,nc
 2022-04-23T20:51:20.920Z,35.7805,-117.6023333,6.62,1.33,ml,21,136,0.03538,0.18,ci,ci40244544,2022-04-23T20:54:50.607Z,"18km W of Searles Valley, CA",earthquake,0.33,0.63,0.219,16,automatic,ci,ci
 2022-04-23T20:50:58.758Z,1.3925,127.266,155.65,4.5,mb,,81,0.624,0.69,us,us6000hfx5,2022-04-23T21:08:41.040Z,"67 km N of Ternate, Indonesia",earthquake,5.8,5.2,0.054,101,reviewed,us,us
-2022-04-23T20:44:03.430Z,38.8103333,-122.9286652,4.11,0.85,md,8,217,0.02462,0.02,nc,nc73722400,2022-04-23T21:12:14.040Z,"8km E of Cloverdale, CA",earthquake,0.65,1.15,0.04,3,automatic,nc,nc
