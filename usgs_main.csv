@@ -14258,3 +14258,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-24T22:28:46.070Z,33.93,-118.3126667,20.14,1.56,ml,29.0,108.0,0.05113,0.25,ci,ci40245272,2022-04-24T22:32:29.572Z,"4km ESE of Lennox, CA",earthquake,0.5,0.72,0.205,30.0,automatic,ci,ci
 2022-04-24T21:46:09.755Z,-17.6823,-69.5695,146.24,4.3,mb,,107.0,0.125,0.87,us,us6000hg3v,2022-04-24T22:32:49.040Z,"42 km ENE of Palca, Peru",earthquake,6.4,5.4,0.307,3.0,reviewed,us,us
 2022-04-24T22:48:07.740Z,62.1941,-150.0244,11.1,1.5,ml,,,,0.48,ak,ak02258wnekm,2022-04-24T22:49:58.027Z,"9 km WNW of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-24T22:58:59.050Z,38.8273315,-122.8131638,2.14,0.85,md,14.0,74.0,0.004613,0.01,nc,nc73722850,2022-04-24T23:00:35.739Z,"7km NW of The Geysers, CA",earthquake,0.27,0.78,,1.0,automatic,nc,nc
