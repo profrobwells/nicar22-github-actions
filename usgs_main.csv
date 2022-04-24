@@ -14154,3 +14154,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-24T10:41:14.155Z,11.3538,-87.0802,10.0,4.3,mb,,204.0,1.135,0.6,us,us6000hg1g,2022-04-24T10:57:08.040Z,"78 km SW of Masachapa, Nicaragua",earthquake,3.7,2.0,0.074,52.0,reviewed,us,us
 2022-04-24T09:45:27.240Z,17.9306666666667,-66.8388333333333,11.93,2.76,md,31.0,184.0,,0.18,pr,pr71345858,2022-04-24T11:04:15.630Z,"7 km SSW of Indios, Puerto Rico",earthquake,0.46,0.32,0.224840015496026,17.0,reviewed,pr,pr
 2022-04-24T07:29:16.239Z,-41.3308,173.7547,60.73,3.5,ml,,79.0,0.304,0.54,us,us6000hg0k,2022-04-24T11:46:12.050Z,South Island of New Zealand,earthquake,4.1,7.5,0.077,22.0,reviewed,us,us
+2022-04-24T11:55:42.438Z,60.0012,-152.9299,99.3,1.6,ml,,,,0.4,ak,ak02258q57lv,2022-04-24T11:57:48.019Z,"66 km WNW of Anchor Point, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-04-24T11:30:02.805Z,-21.1982,-68.5207,139.69,4.6,mb,,92.0,0.915,0.49,us,us6000hg1p,2022-04-24T11:50:09.040Z,"145 km NNE of Calama, Chile",earthquake,6.1,5.8,0.109,25.0,reviewed,us,us
