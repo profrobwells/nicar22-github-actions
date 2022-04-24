@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-04-24T19:46:51.619Z,62.0272,-150.5641,31.9,1.2,ml,,,,1.55,ak,ak02258uurph,2022-04-24T19:49:11.498Z,"36 km SSW of Trapper Creek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-24T19:39:08.110Z,35.9438333,-117.711,3.98,0.85,ml,14,69,0.04936,0.14,ci,ci40245192,2022-04-24T19:42:41.133Z,"18km E of Little Lake, CA",earthquake,0.3,0.68,0.209,10,automatic,ci,ci
-2022-04-24T19:37:54.830Z,38.8235016,-122.7656631,2.15,0.21,md,7,121,0.00771,0.01,nc,nc73722810,2022-04-24T19:39:32.838Z,"4km W of Cobb, CA",earthquake,0.64,1.17,0.16,2,automatic,nc,nc
+2022-04-24T19:37:54.830Z,38.8235016,-122.7656631,2.15,0.21,md,7,121,0.00771,0.01,nc,nc73722810,2022-04-24T19:52:14.389Z,"4km W of Cobb, CA",earthquake,0.64,1.17,0.16,2,automatic,nc,nc
 2022-04-24T19:28:42.620Z,35.6,-117.7728333,8.75,1.04,ml,6,253,0.3412,0.34,ci,ci40245168,2022-04-24T19:32:18.555Z,"6km SE of Inyokern, CA",earthquake,9,31.61,0.062,6,automatic,ci,ci
-2022-04-24T19:22:41.685Z,57.0065,-154.4497,40.1,2,ml,,,,0.4,ak,ak02258uplqh,2022-04-24T19:33:55.956Z,"18 km WNW of Akhiok, Alaska",earthquake,,7.9,,,automatic,ak,ak
+2022-04-24T19:22:41.685Z,57.0065,-154.4497,40.1,2,ml,,,,0.4,ak,ak02258uplqh,2022-04-24T19:53:22.466Z,"18 km WNW of Akhiok, Alaska",earthquake,,7.9,,,automatic,ak,ak
 2022-04-24T19:20:51.086Z,61.544,-151.9917,107.5,1.5,ml,,,,0.77,ak,ak02258up720,2022-04-24T19:24:44.902Z,"58 km SSW of Skwentna, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-04-24T19:19:51.444Z,64.6799,-149.3021,15.9,1.4,ml,,,,0.76,ak,ak02258uozd4,2022-04-24T19:31:04.935Z,"12 km NW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-24T19:01:01.300Z,36.5671,-116.2736,2.7,1.8,ml,22,89.66,0.094,0.225,nn,nn00837801,2022-04-24T19:04:16.026Z,"47 km NNW of Pahrump, Nevada",earthquake,,0.6,0.82,13,automatic,nn,nn
@@ -104,6 +104,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-24T07:09:49.861Z,63.2671,-150.6414,36,1.5,ml,,,,0.74,ak,ak02258nhmtm,2022-04-24T07:12:02.005Z,"62 km ESE of Denali National Park, Alaska",earthquake,,2,,,automatic,ak,ak
 2022-04-24T07:04:53.160Z,19.238166809082,-155.398834228516,31.1800003051758,1.94000006,md,32,138,,0.140000001,hv,hv72993932,2022-04-24T07:08:12.570Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.63,0.889999986,0.400000006,11,automatic,hv,hv
 2022-04-24T06:58:17.550Z,19.2059993743896,-155.496505737305,36.4799995422363,2.04,ml,48,70,,0.100000001,hv,hv72993922,2022-04-24T07:23:59.040Z,"1 km W of Pāhala, Hawaii",earthquake,0.51,0.850000024,4.87,5,automatic,hv,hv
+2022-04-24T06:48:45.704Z,56.1958,-156.2922,45.9,1.9,ml,,,,0.57,ak,ak02258n4kfu,2022-04-24T19:59:12.207Z,"131 km E of Chignik, Alaska",earthquake,,1.4,,,reviewed,ak,ak
 2022-04-24T06:37:44.830Z,38.824501,-122.803833,2.5,0.75,md,19,35,0.004999,0.01,nc,nc73722640,2022-04-24T07:11:17.801Z,"7km NW of The Geysers, CA",earthquake,0.25,0.6,0.28,3,automatic,nc,nc
 2022-04-24T06:24:45.596Z,-20.2007,-177.1171,342.45,4.4,mb,,121,5.182,0.68,us,us6000hg0c,2022-04-24T07:00:37.040Z,"224 km WNW of Haveluloto, Tonga",earthquake,10.8,8.4,0.042,164,reviewed,us,us
 2022-04-24T06:23:29.995Z,60.9527,-151.4897,64.2,1.6,ml,,,,0.78,ak,ak02258mz5po,2022-04-24T06:27:02.844Z,"23 km SW of Tyonek, Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -229,4 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-23T20:07:50.490Z,35.8391667,-117.6766667,6.26,2.46,ml,29,48,0.06844,0.15,ci,ci40244520,2022-04-23T22:55:01.476Z,"23km ESE of Little Lake, CA",earthquake,0.24,0.67,0.195,25,automatic,ci,ci
 2022-04-23T20:04:29.900Z,19.154333114624,-155.489334106445,35.9500007629395,2.43,ml,44,134,,0.119999997,hv,hv72993527,2022-04-23T20:23:10.040Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.53,0.699999988,4.17,8,automatic,hv,hv
 2022-04-23T20:02:22.631Z,62.9435,-148.2352,61.5,1.6,ml,,,,0.5,ak,ak022577nd2x,2022-04-23T20:05:03.431Z,"61 km SE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-04-23T19:56:31.105Z,-58.1211,-24.9005,10,4.8,mb,,70,7.517,0.65,us,us6000hfwy,2022-04-23T20:16:10.040Z,"South Sandwich Islands region",earthquake,7.2,1.9,0.098,32,reviewed,us,us
