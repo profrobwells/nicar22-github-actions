@@ -14208,3 +14208,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-24T16:53:21.720Z,19.1704998016357,-155.470336914062,32.2999992370605,1.82000005,md,30.0,159.0,,0.109999999,hv,hv72994197,2022-04-24T16:56:27.450Z,"3 km SSE of Pāhala, Hawaii",earthquake,0.7,1.13999999,1.82000005,4.0,automatic,hv,hv
 2022-04-24T02:19:03.770Z,38.1706667,-112.3821667,5.99,1.05,md,7.0,269.0,0.3583,0.12,uu,uu60494117,2022-04-24T17:02:07.680Z,"9 km W of Circleville, Utah",earthquake,1.52,9.42,0.093,5.0,reviewed,uu,uu
 2022-04-24T01:59:00.520Z,38.192,-112.3718333,7.56,2.0,ml,12.0,127.0,0.2278,0.12,uu,uu60494112,2022-04-24T16:51:18.770Z,"9 km WNW of Circleville, Utah",earthquake,1.05,0.79,0.252,3.0,reviewed,uu,uu
+2022-04-24T17:23:02.680Z,34.0078333,-116.4425,7.59,1.4,ml,46.0,52.0,0.07261,0.18,ci,ci40245088,2022-04-24T17:26:53.841Z,"8km NE of Desert Hot Springs, CA",earthquake,0.22,0.63,0.177,25.0,automatic,ci,ci
+2022-04-24T17:10:40.196Z,66.3017,-157.0074,0.0,1.9,ml,,,,0.86,ak,ak02258tg5ub,2022-04-24T17:15:55.137Z,"65 km S of Shungnak, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-24T05:02:03.720Z,38.2283333,-112.3966667,7.93,1.49,ml,10.0,229.0,0.1979,0.21,uu,uu60494127,2022-04-24T17:21:42.930Z,"12 km WNW of Circleville, Utah",earthquake,1.87,5.05,0.222,3.0,reviewed,uu,uu
+2022-04-24T02:24:00.460Z,38.1925,-112.3673333,12.06,1.86,ml,13.0,240.0,0.2309,0.14,uu,uu60494122,2022-04-24T17:10:22.550Z,"8 km WNW of Circleville, Utah",earthquake,1.42,1.26,0.233,3.0,reviewed,uu,uu
