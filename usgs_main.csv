@@ -14061,3 +14061,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-24T02:30:02.449Z,61.291,-150.3843,42.1,2.4,ml,,,,0.73,ak,ak02258kmv5c,2022-04-24T02:40:21.711Z,Southern Alaska,earthquake,,0.7,,,automatic,ak,ak
 2022-04-24T02:29:15.490Z,36.085,-117.8671667,2.17,0.88,ml,9.0,151.0,0.03401,0.12,ci,ci40244688,2022-04-24T02:32:46.617Z,"8km ENE of Coso Junction, CA",earthquake,0.43,0.38,0.119,6.0,automatic,ci,ci
 2022-04-24T02:16:47.386Z,37.0594,21.1242,10.0,4.0,mb,,102.0,0.651,1.37,us,us6000hfyw,2022-04-24T03:02:27.040Z,"42 km WSW of Filiatrá, Greece",earthquake,6.1,1.9,0.232,7.0,reviewed,us,us
+2022-04-24T03:36:48.010Z,33.9311676,-118.3296661,19.73,1.84,ml,30.0,91.0,0.06493,0.24,ci,ci40244736,2022-04-24T03:38:54.044Z,"2km ESE of Lennox, CA",earthquake,0.65,0.93,0.162,24.0,automatic,ci,ci
+2022-04-24T03:33:53.560Z,33.918,-118.3003333,27.29,1.76,ml,31.0,98.0,0.04829,0.4,ci,ci40244728,2022-04-24T03:37:42.035Z,"3km NNE of Gardena, CA",earthquake,0.97,0.81,0.168,29.0,automatic,ci,ci
+2022-04-24T03:33:19.560Z,33.9171667,-118.3161667,22.79,1.79,ml,37.0,92.0,0.0498,0.26,ci,ci40244720,2022-04-24T03:37:07.032Z,"3km NNW of Gardena, CA",earthquake,0.45,0.72,0.179,32.0,automatic,ci,ci
+2022-04-24T03:26:05.610Z,33.952,-118.3068333,7.48,1.47,ml,26.0,138.0,0.1658,0.28,ci,ci40244712,2022-04-24T03:29:49.196Z,"4km E of Inglewood, CA",earthquake,0.62,2.25,0.159,30.0,automatic,ci,ci
+2022-04-24T03:25:33.689Z,35.10861588,-95.55345154,1.489749193,2.07,ml,11.0,202.4105072,0.1160399169,0.360361336,ok,ok2022hysq,2022-04-24T03:28:23.625Z,"10 km E of Crowder, Oklahoma",earthquake,5.367844931,2.902911844,,8.0,automatic,ok,ok
+2022-04-24T03:23:06.310Z,33.9295,-118.3225,19.35,1.73,ml,36.0,117.0,0.05898,0.21,ci,ci40244704,2022-04-24T03:34:16.400Z,"3km ESE of Lennox, CA",earthquake,0.4,0.71,0.163,29.0,automatic,ci,ci
+2022-04-24T03:19:50.751Z,17.8926,-68.266,10.0,3.0,ml,,204.0,0.628,0.21,us,us6000hfz0,2022-04-24T03:34:18.040Z,"64 km SE of Boca de Yuma, Dominican Republic",earthquake,3.8,1.8,0.057,41.0,reviewed,us,us
+2022-04-24T03:16:17.531Z,63.2519,-151.0884,0.0,1.6,ml,,,,0.64,ak,ak02258l5bxd,2022-04-24T03:30:08.747Z,"45 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-24T02:37:49.896Z,-6.0247,113.0233,594.08,4.3,mb,,75.0,2.675,0.95,us,us6000hfyz,2022-04-24T03:13:37.040Z,"117 km NNE of Bangkalan, Indonesia",earthquake,15.0,9.5,0.138,17.0,reviewed,us,us
