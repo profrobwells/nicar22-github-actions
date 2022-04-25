@@ -14418,3 +14418,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-24T21:27:07.169Z,35.44983333,-97.747,6.61,1.36,ml,37.0,50.0,0.1277749262,0.14,ok,ok2022iach,2022-04-25T13:59:30.701Z,"6 km SSE of Yukon, Oklahoma",earthquake,,0.3,0.15,4.0,reviewed,ok,ok
 2022-04-25T14:20:50.244Z,61.8065,-150.9745,63.9,1.4,ml,,,,0.36,ak,ak0225af9dgc,2022-04-25T14:23:20.608Z,Southern Alaska,earthquake,,1.5,,,automatic,ak,ak
 2022-04-25T14:09:08.769Z,59.4012,-138.8568,16.7,1.8,ml,,,,0.24,ak,ak0225af6xdo,2022-04-25T14:11:57.566Z,"51 km ESE of Yakutat, Alaska",earthquake,,2.0,,,automatic,ak,ak
+2022-04-25T14:32:51.980Z,38.7895012,-122.7608337,1.74,1.77,md,30.0,80.0,0.01114,0.05,nc,nc73723195,2022-04-25T14:35:46.267Z,"1km NNW of The Geysers, CA",earthquake,0.22,0.35,0.06,8.0,automatic,nc,nc
+2022-04-25T14:27:38.350Z,35.9576667,-117.686,1.45,1.13,ml,15.0,94.0,0.0305,0.16,ci,ci40245704,2022-04-25T14:31:09.250Z,"20km E of Little Lake, CA",earthquake,0.31,0.43,0.133,13.0,automatic,ci,ci
+2022-04-25T14:25:22.780Z,33.603,-116.6668333,16.62,0.69,ml,24.0,43.0,0.04722,0.17,ci,ci40245696,2022-04-25T14:28:53.211Z,"5km N of Anza, CA",earthquake,0.32,0.59,0.151,15.0,automatic,ci,ci
+2022-04-24T18:06:04.310Z,46.6261667,-113.1401667,8.49,1.53,ml,28.0,56.0,0.283,0.16,mb,mb80543979,2022-04-25T14:31:18.030Z,"4 km S of Drummond, Montana",earthquake,0.28,1.1,0.136,9.0,reviewed,mb,mb
+2022-04-24T16:53:39.130Z,47.4495,-113.9363333,12.17,0.95,ml,17.0,75.0,0.073,0.25,mb,mb80543969,2022-04-25T14:38:30.860Z,"10 km E of Kicking Horse, Montana",earthquake,0.5,0.98,0.256,3.0,reviewed,mb,mb
