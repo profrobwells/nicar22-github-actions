@@ -14511,3 +14511,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-25T14:03:49.288Z,-20.6379,-69.6924,88.68,3.7,ml,,148.0,0.446,0.8,us,us6000hg81,2022-04-25T20:48:50.460Z,"67 km SE of Iquique, Chile",earthquake,3.1,8.9,0.071,26.0,reviewed,us,us
 2022-04-25T02:57:05.450Z,45.9941667,-111.3981667,5.88,0.65,ml,4.0,163.0,0.204,0.06,mb,mb80544094,2022-04-25T20:43:35.310Z,"4 km SSW of Ponderosa Pines, Montana",earthquake,0.63,6.05,0.275,2.0,reviewed,mb,mb
 2022-04-25T20:50:24.170Z,33.207,-116.7233333,12.04,0.55,ml,17.0,56.0,0.04144,0.14,ci,ci40246048,2022-04-25T20:54:00.711Z,"5km SE of Lake Henshaw, CA",earthquake,0.33,0.53,0.082,8.0,automatic,ci,ci
+2022-04-25T21:14:12.180Z,33.7011667,-116.909,7.81,0.19,ml,11.0,169.0,0.01871,0.23,ci,ci40246056,2022-04-25T21:17:41.901Z,"5km SSW of Valle Vista, CA",earthquake,1.62,1.79,0.077,6.0,automatic,ci,ci
+2022-04-25T21:05:23.420Z,38.8336678,-122.8128357,1.0,0.94,md,14.0,53.0,0.01048,0.02,nc,nc73723360,2022-04-25T21:07:01.482Z,"8km W of Cobb, CA",earthquake,0.22,0.71,0.29,2.0,automatic,nc,nc
+2022-04-25T19:15:26.240Z,36.2472,70.4994,142.3,4.2,mb,,71.0,0.878,0.3,us,us6000hgad,2022-04-25T21:00:34.040Z,"67 km ESE of Farkhār, Afghanistan",earthquake,2.9,6.2,0.108,26.0,reviewed,us,us
+2022-04-25T18:21:32.310Z,46.8983333,-112.521,10.72,0.51,ml,9.0,96.0,0.059,0.12,mb,mb80544104,2022-04-25T21:15:51.990Z,"13 km ESE of Lincoln, Montana",earthquake,0.44,0.7,0.182,2.0,reviewed,mb,mb
+2022-04-25T08:26:59.640Z,45.8105,-111.59,13.34,-0.91,md,3.0,270.0,0.203,0.02,mb,mb80544099,2022-04-25T21:08:00.390Z,"4 km ESE of Willow Creek, Montana",earthquake,2.09,1.67,,1.0,reviewed,mb,mb
