@@ -14340,3 +14340,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-25T04:49:30.909Z,72.3209,125.4527,10.0,4.4,mb,,80.0,1.267,0.63,us,us6000hg65,2022-04-25T05:29:35.040Z,"137 km WNW of Tiksi, Russia",earthquake,7.2,1.9,0.07,58.0,reviewed,us,us
 2022-04-25T04:27:46.850Z,17.9595,-66.8426666666667,12.02,1.98,md,8.0,204.0,,0.19,pr,pr71345958,2022-04-25T05:32:07.810Z,"4 km SSW of Indios, Puerto Rico",earthquake,0.72,0.59,0.0565358881183362,5.0,reviewed,pr,pr
 2022-04-24T05:46:04.980Z,46.787333333333336,-121.95183333333334,7.55,-0.07,md,12.0,197.0,0.05299,0.14,uw,uw61833736,2022-04-25T05:20:51.830Z,"6 km ENE of Ashford, Washington",earthquake,0.5,0.6,0.3167626639372928,10.0,reviewed,uw,uw
+2022-04-25T05:40:20.690Z,39.0309982,-123.0403366,9.16,1.39,md,10.0,109.0,0.1943,0.06,nc,nc73723010,2022-04-25T05:41:56.214Z,"11km W of Lakeport, CA",earthquake,0.56,4.57,,1.0,automatic,nc,nc
