@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-25T08:36:26.400Z,38.8276672,-122.8056641,1.74,0.35,md,9,75,0.005483,0.01,nc,nc73723065,2022-04-25T08:38:01.375Z,"7km NW of The Geysers, CA",earthquake,0.33,0.96,,1,automatic,nc,nc
 2022-04-25T07:55:24.630Z,32.633,-115.6776667,2.73,1.49,ml,13,122,0.04421,0.29,ci,ci40245536,2022-04-25T07:59:05.844Z,"11km NW of Progreso, B.C., MX",earthquake,1.2,0.63,0.163,20,automatic,ci,ci
 2022-04-25T07:44:58.220Z,33.9818333,-118.8593333,19.65,1.79,ml,40,108,0.04908,0.23,ci,ci40245528,2022-04-25T07:48:43.787Z,"5km WSW of Malibu, CA",earthquake,0.46,0.49,0.191,29,automatic,ci,ci
 2022-04-25T07:42:30.323Z,61.7478,-150.7976,59.8,1.5,ml,,,,0.25,ak,ak0225ab80fs,2022-04-25T08:08:10.997Z,"27 km NNW of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -216,7 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-24T09:15:57.880Z,19.2598323822021,-155.395172119141,30.7800006866455,1.86000001,md,30,147,,0.159999996,hv,hv72993972,2022-04-24T09:19:15.120Z,"10 km NE of Pāhala, Hawaii",earthquake,0.91,0.639999986,1.86000001,4,automatic,hv,hv
 2022-04-24T09:08:51.500Z,18.0111666666667,-66.8345,15.45,2.17,md,6,150,,0.08,pr,pr71345838,2022-04-24T09:29:52.650Z,"2 km NW of Indios, Puerto Rico",earthquake,0.53,0.74,0.0527381858829803,5,reviewed,pr,pr
 2022-04-24T09:07:01.020Z,18.047,-66.7651666666667,12.66,1.55,md,7,156,,0.44,pr,pr71345833,2022-04-24T09:27:47.070Z,"2 km SW of Santo Domingo, Puerto Rico",earthquake,1.6,2.34,0.200106185775589,5,reviewed,pr,pr
-2022-04-24T08:34:18.310Z,36.3135,-118.0845,-0.53,1.57,ml,20,92,0.1262,0.17,ci,ci40244856,2022-04-24T13:23:59.019Z,"8km WNW of Olancha, CA",earthquake,0.39,31.61,0.106,19,reviewed,ci,ci
-2022-04-24T08:27:25.600Z,35.5965,-117.3941667,8.19,1.28,ml,19,132,0.05634,0.19,ci,ci40244848,2022-04-24T08:38:32.090Z,"19km S of Trona, CA",earthquake,0.47,0.78,0.133,16,automatic,ci,ci
-2022-04-24T08:25:38.060Z,19.2261657714844,-155.417831420898,34.2799987792969,2.34,ml,50,134,,0.140000001,hv,hv72993952,2022-04-24T08:33:28.593Z,"6 km ENE of Pāhala, Hawaii",earthquake,0.5,0.720000029,3.42,13,automatic,hv,hv
-2022-04-24T08:24:16.070Z,19.2299995422363,-155.397994995117,32.9500007629395,2.00999999,md,45,154,,0.159999996,hv,hv72993947,2022-04-24T08:27:21.610Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.58,0.75,1.14999998,23,automatic,hv,hv
