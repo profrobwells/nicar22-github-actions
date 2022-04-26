@@ -14804,3 +14804,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-26T22:44:20.080Z,33.4961667,-116.5028333,13.64,0.58,ml,18.0,74.0,0.06554,0.15,ci,ci40246632,2022-04-26T22:47:56.376Z,"17km ESE of Anza, CA",earthquake,0.41,0.58,0.135,14.0,automatic,ci,ci
 2022-04-26T22:43:28.436Z,61.4916,-149.8591,32.9,1.7,ml,,,,0.56,ak,ak0225c7p2ko,2022-04-26T22:45:56.487Z,"6 km ESE of Big Lake, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2022-04-26T22:01:24.094Z,39.6115,-119.505,9.6,0.5,ml,4.0,174.58,0.135,0.0949,nn,nn00837926,2022-04-26T22:44:05.429Z,"17 km ESE of Spanish Springs, Nevada",earthquake,,9.5,0.23,2.0,reviewed,nn,nn
+2022-04-26T22:54:35.830Z,36.0946655,-120.6888351,0.08,1.48,md,8.0,198.0,0.07937,0.13,nc,nc73724861,2022-04-26T23:05:10.602Z,"21km ENE of San Ardo, CA",earthquake,1.38,11.82,0.31,4.0,automatic,nc,nc
+2022-04-26T22:47:52.567Z,63.0845,-150.6452,130.9,1.0,ml,,,,0.33,ak,ak0225c7pyeg,2022-04-26T22:53:27.219Z,"65 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-04-26T22:40:17.750Z,17.8815,-66.8823333333333,13.89,2.18,md,4.0,244.0,,0.03,pr,pr71346288,2022-04-26T22:57:39.500Z,"10 km SSE of Guánica, Puerto Rico",earthquake,1.37,0.61,0.081538253438179,4.0,reviewed,pr,pr
