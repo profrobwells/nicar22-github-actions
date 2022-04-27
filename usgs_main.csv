@@ -14928,3 +14928,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-27T10:52:22.556Z,59.988,-152.9337,104.7,1.1,ml,,,,0.85,ak,ak0225do54sr,2022-04-27T10:58:28.682Z,"66 km WNW of Anchor Point, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-04-27T10:51:12.388Z,38.1694,-117.8181,11.8,0.8,ml,9.0,190.17,0.115,0.1547,nn,nn00837939,2022-04-27T10:55:21.229Z,"35 km SE of Mina, Nevada",earthquake,,1.0,0.46,5.0,automatic,nn,nn
 2022-04-27T10:44:44.890Z,35.9840012,-89.8893356,12.72,1.5,md,12.0,111.0,0.1061,0.1,nm,nm60392026,2022-04-27T10:55:26.540Z,"6 km NNE of Blytheville, Arkansas",earthquake,0.62,0.89,0.1,5.0,reviewed,nm,nm
+2022-04-27T11:11:14.220Z,38.8198318,-122.7626648,1.99,0.36,md,8.0,196.0,0.01204,0.02,nc,nc73725061,2022-04-27T11:12:46.154Z,"3km W of Cobb, CA",earthquake,0.72,1.2,,1.0,automatic,nc,nc
+2022-04-27T11:09:00.322Z,60.3775,-152.3141,94.6,1.2,ml,,,,0.72,ak,ak0225dohaxk,2022-04-27T11:19:40.123Z,"51 km NW of Ninilchik, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2022-04-27T11:07:52.138Z,61.2797,-146.3203,21.9,1.0,ml,,,,1.15,ak,ak0225dogzgt,2022-04-27T11:10:53.826Z,"16 km N of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-27T11:01:32.880Z,15.9924,-96.4734,22.47,4.9,mb,,188.0,2.541,0.54,us,us6000hgnw,2022-04-27T11:16:42.040Z,"1 km NW of Los Naranjos Esquipulas, Mexico",earthquake,10.0,7.5,0.034,273.0,reviewed,us,us
