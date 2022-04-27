@@ -14934,3 +14934,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-27T11:01:32.880Z,15.9924,-96.4734,22.47,4.9,mb,,188.0,2.541,0.54,us,us6000hgnw,2022-04-27T11:16:42.040Z,"1 km NW of Los Naranjos Esquipulas, Mexico",earthquake,10.0,7.5,0.034,273.0,reviewed,us,us
 2022-04-27T11:23:43.819Z,60.1136,-141.7389,0.0,1.1,ml,,,,0.57,ak,ak0225doke93,2022-04-27T11:29:00.154Z,"129 km WNW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-27T11:19:11.732Z,58.642,-154.1421,82.1,1.9,ml,,,,0.44,ak,ak0225dojgy8,2022-04-27T11:22:55.641Z,"95 km SSE of Kokhanok, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-04-27T11:33:17.662Z,60.0674,-141.7802,6.9,1.4,ml,,,,0.82,ak,ak0225domhfr,2022-04-27T11:36:33.246Z,"128 km WNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
