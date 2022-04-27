@@ -15003,3 +15003,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-27T16:54:11.779Z,38.1666,-117.8852,10.2,0.5,ml,8.0,171.43,0.065,0.0977,nn,nn00837948,2022-04-27T16:58:12.848Z,"31 km SE of Mina, Nevada",earthquake,,1.0,0.54,4.0,automatic,nn,nn
 2022-04-27T16:53:12.100Z,36.6435013,-121.3188324,3.84,1.55,md,8.0,137.0,0.03274,0.09,nc,nc73725146,2022-04-27T17:09:13.154Z,"16km S of Tres Pinos, CA",earthquake,0.58,1.14,0.14,9.0,automatic,nc,nc
 2022-04-27T09:51:10.490Z,18.0113333333333,-66.541,17.64,2.22,md,5.0,236.0,,0.5,pr,pr71346458,2022-04-27T16:51:54.970Z,"0 km WSW of Capitanejo, Puerto Rico",earthquake,5.31,3.1,0.067421456609605,2.0,reviewed,pr,pr
+2022-04-27T13:35:52.750Z,18.0656666666667,-66.9491666666667,8.05,2.11,md,3.0,199.0,,0.05,pr,pr71346498,2022-04-27T17:18:50.320Z,"1 km SE of Sabana Grande, Puerto Rico",earthquake,1.15,31.61,0.0214500298943956,3.0,reviewed,pr,pr
