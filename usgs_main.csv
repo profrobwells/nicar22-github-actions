@@ -15303,3 +15303,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-28T00:04:53.071Z,39.2185,-120.0832,9.8,0.0,ml,4.0,141.0,0.035,0.0639,nn,nn00838014,2022-04-28T17:36:31.882Z,"0 km S of Carnelian Bay, California",earthquake,,2.2,0.0,1.0,reviewed,nn,nn
 2022-04-28T17:44:10.223Z,59.8793,-139.4428,0.0,1.5,ml,,,,1.21,ak,ak0225ffsrum,2022-04-28T17:47:56.555Z,"40 km NNE of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-28T00:52:00.697Z,38.2491,-118.3579,9.5,0.5,ml,8.0,148.6,0.116,0.0982,nn,nn00838015,2022-04-28T17:45:49.007Z,"26 km SW of Mina, Nevada",earthquake,,4.6,0.42,3.0,reviewed,nn,nn
+2022-04-28T03:42:57.368Z,37.9956,-118.605,5.5,0.7,ml,6.0,346.77,0.268,0.1445,nn,nn00838017,2022-04-28T17:58:14.967Z,"22 km NNW of Benton, California",earthquake,,51.5,0.0,1.0,reviewed,nn,nn
+2022-04-28T01:02:40.246Z,39.3463,-119.9893,3.5,0.1,ml,6.0,93.4,0.065,0.1149,nn,nn00838016,2022-04-28T17:52:03.516Z,"6 km SSE of Floriston, California",earthquake,,4.8,0.56,3.0,reviewed,nn,nn
