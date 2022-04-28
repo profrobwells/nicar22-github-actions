@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-28T08:49:17.450Z,34.3246667,-118.7175,10.4,1.42,ml,28,95,0.05796,0.25,ci,ci40247472,2022-04-28T08:52:57.220Z,"6km NNE of Simi Valley, CA",earthquake,0.44,0.68,0.176,27,automatic,ci,ci
 2022-04-28T08:39:14.662Z,57.7865,-154.84,78.6,1.1,ml,,,,0.35,ak,ak0225faet62,2022-04-28T08:41:09.487Z,"33 km NW of Karluk, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2022-04-28T08:22:38.988Z,31.7328,-104.0797,5,2.7,ml,,102,0.205,0.29,us,us7000h5kz,2022-04-28T08:36:59.040Z,"45 km W of Mentone, Texas",earthquake,1,2,0.063,52,reviewed,us,us
 2022-04-28T08:10:20.320Z,34.1183333,-118.2258333,8.07,0.57,ml,14,66,0.06275,0.26,ci,ci40247464,2022-04-28T08:13:55.324Z,"2km W of Highland Park, CA",earthquake,0.63,1.43,0.12,6,automatic,ci,ci
@@ -179,7 +180,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-27T13:38:29.550Z,38.8423333,-122.841,1.86,0.33,md,18,127,0.005702,0.01,nc,nc73725101,2022-04-27T18:22:13.600Z,"10km NW of The Geysers, CA",earthquake,0.24,0.58,0.338,2,reviewed,nc,nc
 2022-04-27T13:35:52.750Z,18.0656666666667,-66.9491666666667,8.05,2.11,md,3,199,,0.05,pr,pr71346498,2022-04-27T17:18:50.320Z,"1 km SE of Sabana Grande, Puerto Rico",earthquake,1.15,31.61,0.0214500298943956,3,reviewed,pr,pr
 2022-04-27T13:31:48.790Z,35.8943333,-117.7248333,9.69,1.19,ml,20,60,0.08068,0.06,ci,ci40246920,2022-04-27T18:31:17.867Z,"17km ESE of Little Lake, CA",quarry blast,0.13,0.29,0.28,14,reviewed,ci,ci
-2022-04-27T13:27:07.660Z,36.4428333,-121.0191667,2.62,1.32,md,23,103,0.01811,0.19,nc,nc73725096,2022-04-28T07:49:14.707Z,"15km SE of Pinnacles, CA",earthquake,0.49,0.51,0.107,15,reviewed,nc,nc
+2022-04-27T13:27:07.660Z,36.4428333,-121.0191667,2.62,1.32,md,23,103,0.01811,0.19,nc,nc73725096,2022-04-28T08:58:11.150Z,"15km SE of Pinnacles, CA",earthquake,0.49,0.51,0.107,15,reviewed,nc,nc
 2022-04-27T13:26:02.060Z,36.4416667,-121.0113333,2.44,1.27,md,23,104,0.01807,0.2,nc,nc73725091,2022-04-28T08:32:10.978Z,"16km SE of Pinnacles, CA",earthquake,0.34,0.5,0.178,14,reviewed,nc,nc
 2022-04-27T13:24:32.740Z,36.0298333,-117.7771667,1.96,0.91,ml,15,77,0.0107,0.07,ci,ci40246912,2022-04-27T18:26:00.754Z,"16km E of Coso Junction, CA",earthquake,0.12,0.11,0.207,7,reviewed,ci,ci
 2022-04-27T13:11:58.455Z,61.7117,-148.6861,26.6,1.6,ml,,,,1.35,ak,ak0225dpoq11,2022-04-27T13:20:12.627Z,"8 km SSE of Sutton-Alpine, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -244,5 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-27T09:08:19.930Z,53.9863333333333,-166.1485,14.69,0.01,ml,7,321,,0.05,av,av91056493,2022-04-28T00:03:04.210Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.76,1.28,0.254277871360283,6,reviewed,av,av
 2022-04-27T09:02:55.770Z,33.8876667,-117.8196667,8.18,1.78,ml,71,38,0.0425,0.22,ci,ci40246808,2022-04-27T19:19:28.590Z,"1km W of Yorba Linda, CA",earthquake,0.2,0.44,0.107,23,reviewed,ci,ci
 2022-04-27T09:02:13.420Z,43.4715,-110.3255,5.23,1.42,ml,11,140,0.247,0.19,mb,mb80544239,2022-04-27T14:04:26.910Z,"29 km SE of Kelly, Wyoming",earthquake,0.83,11.32,0.183,8,reviewed,mb,mb
-2022-04-27T08:57:58.340Z,17.9818333333333,-66.9538333333333,11.09,2,md,3,175,,0.04,pr,pr71346448,2022-04-27T09:07:30.610Z,"4 km W of Fuig, Puerto Rico",earthquake,2.21,0.88,0.0853649013655045,3,reviewed,pr,pr
-2022-04-27T08:54:24.770Z,51.9451666666667,178.333333333333,8.65,1.6,ml,4,342,,0.1,av,av91056453,2022-04-27T22:56:30.860Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,2.05,2.54,0.148227659567438,4,reviewed,av,av
