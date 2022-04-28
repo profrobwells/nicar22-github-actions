@@ -15217,3 +15217,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-28T10:09:49.400Z,33.3478333,-116.3463333,14.82,0.74,ml,18.0,77.0,0.03399,0.23,ci,ci40247496,2022-04-28T10:13:25.702Z,"11km NNE of Borrego Springs, CA",earthquake,0.45,0.84,0.103,14.0,automatic,ci,ci
 2022-04-28T10:09:12.880Z,38.8325005,-122.8193359,1.84,0.36,md,9.0,80.0,0.01162,0.01,nc,nc73725571,2022-04-28T10:10:49.731Z,"8km NW of The Geysers, CA",earthquake,0.4,1.11,,1.0,automatic,nc,nc
 2022-04-28T10:03:21.751Z,41.2195,142.282,54.44,4.7,mb,,134.0,1.016,0.88,us,us7000h5l9,2022-04-28T10:26:42.456Z,"89 km E of Mutsu, Japan",earthquake,4.6,7.1,0.037,225.0,reviewed,us,us
+2022-04-28T10:53:52.170Z,38.7941666,-122.784668,3.32,0.84,md,18.0,89.0,0.002724,0.03,nc,nc73725611,2022-04-28T10:55:24.777Z,"3km NW of The Geysers, CA",earthquake,0.3,0.55,,3.0,automatic,nc,nc
