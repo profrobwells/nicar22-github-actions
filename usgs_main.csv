@@ -15190,3 +15190,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-28T07:17:44.889Z,38.169,-117.8952,10.0,0.9,ml,9.0,170.2,0.059,0.1013,nn,nn00837993,2022-04-28T07:21:44.626Z,"30 km SE of Mina, Nevada",earthquake,,0.8,0.52,5.0,automatic,nn,nn
 2022-04-28T07:33:44.870Z,33.8308333,-116.7063333,15.13,0.75,ml,17.0,161.0,0.1165,0.19,ci,ci40247456,2022-04-28T07:37:20.794Z,"10km N of Idyllwild, CA",earthquake,0.57,0.75,0.157,11.0,automatic,ci,ci
 2022-04-28T07:30:56.180Z,36.5718346,-121.1159973,9.47,2.53,md,24.0,123.0,0.05587,0.09,nc,nc73725491,2022-04-28T07:39:11.817Z,"5km NNE of Pinnacles, CA",earthquake,0.34,0.76,0.18,25.0,automatic,nc,nc
+2022-04-28T07:47:04.792Z,63.5187,-147.5019,0.0,1.6,ml,,,,0.78,ak,ak0225f9v2j3,2022-04-28T07:49:43.801Z,"73 km E of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
