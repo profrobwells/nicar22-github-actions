@@ -15655,3 +15655,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-29T22:44:23.770Z,18.005,-67.0021666666667,9.31,1.93,md,3.0,193.0,,0.04,pr,pr71346773,2022-04-29T23:09:00.890Z,"5 km NE of La Parguera, Puerto Rico",earthquake,3.28,2.8,0.0735470615768457,3.0,reviewed,pr,pr
 2022-04-29T22:43:11.580Z,44.7473333,-110.789,4.57,0.26,md,7.0,245.0,0.06,0.12,uu,uu60494952,2022-04-29T23:00:13.910Z,"26 km SSW of Mammoth, Wyoming",earthquake,0.8,0.94,0.104,5.0,reviewed,uu,uu
 2022-04-29T22:11:18.068Z,39.415,-119.9322,8.8,0.7,ml,10.0,69.6,0.144,0.1599,nn,nn00838102,2022-04-29T23:08:40.631Z,"8 km ENE of Floriston, California",earthquake,,2.9,0.44,6.0,reviewed,nn,nn
+2022-04-29T23:18:05.171Z,38.5827,-119.4469,7.8,0.9,ml,8.0,108.48,0.057,0.0802,nn,nn00838103,2022-04-29T23:22:24.553Z,"5 km ENE of Coleville, California",earthquake,,5.8,0.45,4.0,automatic,nn,nn
