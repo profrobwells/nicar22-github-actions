@@ -15450,3 +15450,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-29T06:24:20.534Z,63.5144,-147.7843,20.5,1.0,ml,,,,0.46,ak,ak0225gwo35v,2022-04-29T06:27:02.604Z,"59 km ENE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-04-29T06:18:56.145Z,40.092,-117.8016,16.0,1.2,ml,8.0,140.16,0.361,0.3552,nn,nn00838045,2022-04-29T06:23:38.999Z,"58 km E of Lovelock, Nevada",earthquake,,0.6,0.17,2.0,automatic,nn,nn
 2022-04-29T06:07:53.260Z,33.3631667,-116.9658333,8.36,0.87,ml,26.0,51.0,0.06095,0.21,ci,ci40248144,2022-04-29T06:11:32.939Z,"10km W of Palomar Observatory, CA",earthquake,0.25,0.81,0.102,19.0,automatic,ci,ci
+2022-04-29T06:43:30.770Z,38.7931671,-122.7271652,2.05,0.47,md,8.0,99.0,0.01242,0.03,nc,nc73726096,2022-04-29T06:53:11.452Z,"3km NE of The Geysers, CA",earthquake,0.36,1.13,0.07,2.0,automatic,nc,nc
+2022-04-29T06:41:40.630Z,38.8325005,-122.8105011,2.34,0.36,md,10.0,93.0,0.009098,0.02,nc,nc73726091,2022-04-29T06:50:10.440Z,"8km W of Cobb, CA",earthquake,0.39,1.17,,1.0,automatic,nc,nc
+2022-04-29T06:12:19.830Z,17.9721666666667,-66.8745,17.4,1.58,md,6.0,196.0,,0.12,pr,pr71346708,2022-04-29T06:52:24.170Z,"1 km ESE of Maria Antonia, Puerto Rico",earthquake,0.82,0.63,0.0644399257760548,4.0,reviewed,pr,pr
