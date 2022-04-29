@@ -15517,3 +15517,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-29T13:10:12.196Z,61.2006,-147.021,0.0,1.6,ml,,,,0.45,ak,ak0225h0r3m9,2022-04-29T13:13:02.857Z,"37 km WNW of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-29T13:01:20.515Z,31.5739,-104.2165,7.58,2.5,ml,,87.0,0.26,0.28,us,us7000h5u8,2022-04-29T13:08:54.040Z,"49 km NW of Toyah, Texas",earthquake,0.9,5.2,0.064,32.0,reviewed,us,us
 2022-04-29T10:36:18.303Z,17.8148,145.8684,250.92,4.3,mb,,79.0,16.181,0.42,us,us7000h5tq,2022-04-29T13:21:57.040Z,"288 km N of Saipan, Northern Mariana Islands",earthquake,12.0,7.9,0.066,64.0,reviewed,us,us
+2022-04-29T13:49:00.966Z,61.5671,-150.4712,17.6,1.1,ml,,,,0.45,ak,ak0225h0zfsg,2022-04-29T13:51:23.692Z,"3 km NE of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
