@@ -15442,3 +15442,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-29T05:23:26.120Z,33.6445,-116.7876667,14.05,0.65,ml,18.0,59.0,0.05221,0.29,ci,ci40248112,2022-04-29T05:27:02.687Z,"12km SSW of Idyllwild, CA",earthquake,0.61,0.75,0.17,10.0,automatic,ci,ci
 2022-04-29T04:24:18.110Z,18.3461,-68.3063,107.0,3.85,md,15.0,274.0,0.1838,0.06,pr,pr2022119000,2022-04-29T05:37:09.322Z,"28 km SSE of Punta Cana, Dominican Republic",earthquake,6.77,1.29,0.11,7.0,reviewed,pr,pr
 2022-04-29T05:26:27.830Z,17.9605,-66.8606666666667,15.25,2.05,md,4.0,273.0,,0.08,pr,pr71346703,2022-04-29T05:42:00.640Z,"3 km ESE of Maria Antonia, Puerto Rico",earthquake,2.03,0.81,0.313072131185607,2.0,reviewed,pr,pr
+2022-04-29T06:05:25.870Z,34.2248344,-117.1933365,11.66,1.37,ml,21.0,129.0,0.1188,0.36,ci,ci40248136,2022-04-29T06:07:33.057Z,"3km S of Lake Arrowhead, CA",earthquake,1.31,2.49,0.355,9.0,automatic,ci,ci
+2022-04-29T05:55:44.590Z,35.6144981,-120.7226639,4.82,1.63,md,24.0,63.0,,0.1,nc,nc73726081,2022-04-29T06:06:10.187Z,"4km WSW of Paso Robles, CA",earthquake,0.35,1.83,0.24,14.0,automatic,nc,nc
