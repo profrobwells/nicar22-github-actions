@@ -15794,3 +15794,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-30T14:21:27.090Z,35.9333333,-117.7041667,9.68,0.5,ml,7.0,131.0,0.046,0.05,ci,ci40249152,2022-04-30T14:24:54.368Z,"18km E of Little Lake, CA",earthquake,0.54,0.93,0.039,2.0,automatic,ci,ci
 2022-04-30T14:45:19.236Z,62.9869,-150.2898,66.6,1.5,ml,,,,1.13,ak,ak0225ip3edc,2022-04-30T14:50:20.802Z,"59 km NNE of Petersville, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2022-04-30T14:56:18.030Z,33.8975,-116.8881667,16.69,0.62,ml,13.0,86.0,0.09885,0.18,ci,ci40249160,2022-04-30T14:59:53.213Z,"3km SSW of Banning, CA",earthquake,0.6,1.85,0.067,8.0,automatic,ci,ci
+2022-04-30T15:21:43.460Z,33.7038333,-116.8175,13.64,1.0,ml,43.0,47.0,0.07786,0.22,ci,ci40249184,2022-04-30T15:27:06.769Z,"9km SE of Valle Vista, CA",earthquake,0.26,0.48,0.179,25.0,reviewed,ci,ci
+2022-04-30T15:11:37.040Z,34.0408333,-117.2956667,14.65,1.31,ml,25.0,156.0,0.08136,0.24,ci,ci40249176,2022-04-30T15:15:15.309Z,"2km ENE of Grand Terrace, CA",earthquake,0.63,1.01,0.195,30.0,automatic,ci,ci
+2022-04-30T14:21:14.540Z,17.9596666666667,-66.8768333333333,17.74,2.31,md,7.0,202.0,,0.1,pr,pr71346873,2022-04-30T15:11:36.520Z,"2 km SSE of Maria Antonia, Puerto Rico",earthquake,0.71,0.63,0.0687177514281347,5.0,reviewed,pr,pr
