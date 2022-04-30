@@ -15746,3 +15746,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-30T08:52:22.920Z,35.6150017,-117.5804977,8.51,1.49,ml,27.0,84.0,0.07449,0.15,ci,ci40248992,2022-04-30T08:54:34.377Z,"9km E of Ridgecrest, CA",earthquake,0.3,0.79,0.153,7.0,automatic,ci,ci
 2022-04-30T08:47:38.480Z,33.7288333,-116.707,19.52,0.36,ml,10.0,132.0,0.01525,0.11,ci,ci40248984,2022-04-30T08:51:11.646Z,"2km SE of Idyllwild, CA",earthquake,0.46,0.62,0.128,6.0,automatic,ci,ci
 2022-04-30T08:23:02.396Z,52.7675,-171.3324,115.61,3.7,mb,,172.0,1.515,0.46,us,us7000h61d,2022-04-30T08:48:35.040Z,"167 km W of Nikolski, Alaska",earthquake,7.5,10.0,0.14,13.0,reviewed,us,us
+2022-04-30T08:41:34.500Z,18.1906666666667,-67.2863333333333,16.15,2.68,md,14.0,182.0,,0.17,pr,pr71346828,2022-04-30T09:04:45.900Z,"15 km SW of La Playa, Puerto Rico",earthquake,0.54,0.72,0.0917783925490887,8.0,reviewed,pr,pr
