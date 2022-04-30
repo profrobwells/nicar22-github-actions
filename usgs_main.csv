@@ -15761,3 +15761,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-30T11:16:56.769Z,61.5126,-146.4789,33.4,1.4,ml,,,,0.42,ak,ak0225in4yr0,2022-04-30T11:20:23.650Z,"43 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-30T11:00:19.015Z,-35.2949,78.5926,10.0,4.9,mb,,58.0,2.628,0.42,us,us7000h626,2022-04-30T11:21:29.040Z,Mid-Indian Ridge,earthquake,10.6,1.8,0.089,40.0,reviewed,us,us
 2022-04-30T11:25:34.443Z,-22.9107,-66.6118,222.51,4.3,mb,,45.0,1.445,0.83,us,us7000h629,2022-04-30T11:44:57.040Z,"96 km WSW of Abra Pampa, Argentina",earthquake,8.3,8.4,0.073,53.0,reviewed,us,us
+2022-04-30T11:55:06.369Z,61.7517,-148.5356,20.2,0.9,ml,,,,0.65,ak,ak0225ind7sc,2022-04-30T11:58:08.449Z,"6 km SW of Chickaloon, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-30T11:51:28.148Z,61.8152,-151.9242,113.8,1.9,ml,,,,0.68,ak,ak0225incelq,2022-04-30T11:54:45.206Z,"33 km SW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
