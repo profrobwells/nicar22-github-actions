@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-01T14:17:43.152Z,56.2059,-156.671,36.9,3.4,ml,,,,1.05,ak,ak0225kcgsqf,2022-05-01T14:21:40.511Z,"107 km E of Chignik, Alaska",earthquake,,11.7,,,automatic,ak,ak
+2022-05-01T14:39:39.980Z,38.7906685,-122.8195038,6.99,0.36,md,8,183,0.01242,0.01,nc,nc73727561,2022-05-01T14:41:14.805Z,"6km WNW of The Geysers, CA",earthquake,1.19,5.83,,1,automatic,nc,nc
+2022-05-01T14:17:43.152Z,56.2059,-156.671,36.9,3.4,ml,,,,1.05,ak,ak0225kcgsqf,2022-05-01T14:30:10.040Z,"107 km E of Chignik, Alaska",earthquake,,11.7,,,automatic,ak,ak
 2022-05-01T13:52:59.755Z,35.9071,77.9478,10,4.5,mb,,106,5.814,0.38,us,us7000h67m,2022-05-01T14:17:12.040Z,"151 km NE of Thang, India",earthquake,6,1.9,0.124,21,reviewed,us,us
 2022-05-01T13:50:33.350Z,38.8236656,-122.7943344,2.6,0.98,md,21,60,0.0123,0.01,nc,nc73727546,2022-05-01T14:07:14.389Z,"6km NNW of The Geysers, CA",earthquake,0.22,0.66,0.19,3,automatic,nc,nc
 2022-05-01T13:16:37.520Z,33.9711667,-116.8163333,17.69,2.31,ml,73,25,0.06323,0.22,ci,ci40249760,2022-05-01T13:27:30.900Z,"6km NNW of Cabazon, CA",earthquake,0.22,0.45,0.27,25,automatic,ci,ci
@@ -15,13 +16,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-01T12:11:32.040Z,38.685833,-122.8213348,5.8,1.94,md,39,89,0.05591,0.05,nc,nc73727521,2022-05-01T14:00:14.341Z,"9km NNE of Healdsburg, CA",earthquake,0.31,0.68,0.1,14,automatic,nc,nc
 2022-05-01T11:40:46.030Z,35.9565,-117.9821667,2.7,0.77,ml,12,111,0.0903,0.07,ci,ci40249736,2022-05-01T13:52:04.752Z,"7km WNW of Little Lake, CA",earthquake,0.28,0.99,0.16,7,reviewed,ci,ci
 2022-05-01T11:18:11.250Z,33.2565,-116.8246667,13.78,0.49,ml,16,76,0.0589,0.15,ci,ci40249720,2022-05-01T11:21:41.619Z,"6km WNW of Lake Henshaw, CA",earthquake,0.39,0.63,0.085,8,automatic,ci,ci
-2022-05-01T11:15:56.460Z,48.4235,-122.3055,13.54,3.56,ml,40,33,0.07714,0.26,uw,uw61835766,2022-05-01T14:25:03.741Z,"2 km E of Mount Vernon, Washington",earthquake,0.4,0.8,0.16376372494244062,11,reviewed,uw,uw
+2022-05-01T11:15:56.460Z,48.4235,-122.3055,13.54,3.56,ml,40,33,0.07714,0.26,uw,uw61835766,2022-05-01T14:40:31.172Z,"2 km E of Mount Vernon, Washington",earthquake,0.4,0.8,0.16376372494244062,11,reviewed,uw,uw
 2022-05-01T11:09:24.450Z,38.7976685,-122.8161697,3.59,0.35,md,9,123,0.01385,0.01,nc,nc73727506,2022-05-01T11:50:14.559Z,"6km WNW of The Geysers, CA",earthquake,0.57,1.78,,1,automatic,nc,nc
 2022-05-01T11:02:21.297Z,59.7264,-152.6791,84.3,2.1,ml,,,,0.24,ak,ak0225kal8hj,2022-05-01T11:14:08.436Z,"47 km W of Anchor Point, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-05-01T11:02:13.270Z,38.822834,-122.8001633,2.41,0.94,md,27,33,0.007762,0.02,nc,nc73727501,2022-05-01T11:39:17.601Z,"6km NW of The Geysers, CA",earthquake,0.21,0.44,0.06,5,automatic,nc,nc
 2022-05-01T10:58:35.114Z,62.8558,-148.3105,45.9,1.7,ml,,,,0.87,ak,ak0225kabtzv,2022-05-01T11:14:07.628Z,"67 km SSE of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-05-01T10:56:47.486Z,61.9532,-150.0146,45.9,1.6,ml,,,,0.33,ak,ak0225kabfix,2022-05-01T11:08:02.995Z,"22 km N of Willow, Alaska",earthquake,,3.5,,,automatic,ak,ak
-2022-05-01T10:53:26.010Z,36.8553352,-121.5985031,5.63,2.45,md,54,66,,0.2,nc,nc73727496,2022-05-01T13:59:51.620Z,"5km SE of Aromas, CA",earthquake,0.31,0.65,0.15,58,automatic,nc,nc
+2022-05-01T10:53:26.010Z,36.8553352,-121.5985031,5.63,2.45,md,54,66,,0.2,nc,nc73727496,2022-05-01T14:34:48.463Z,"5km SE of Aromas, CA",earthquake,0.31,0.65,0.15,58,automatic,nc,nc
 2022-05-01T10:53:06.880Z,38.8235016,-122.8085022,2.26,0.74,md,18,69,0.001232,0.02,nc,nc73727491,2022-05-01T11:28:13.407Z,"7km NW of The Geysers, CA",earthquake,0.25,0.59,0.1,2,automatic,nc,nc
 2022-05-01T10:52:00.570Z,33.3363333,-116.9028333,13.96,0.51,ml,25,73,0.03779,0.18,ci,ci40249712,2022-05-01T11:01:32.126Z,"4km WSW of Palomar Observatory, CA",earthquake,0.3,0.58,0.117,12,automatic,ci,ci
 2022-05-01T10:51:05.150Z,18.0238333333333,-66.7861666666667,14.13,1.71,md,6,159,,0.07,pr,pr71346948,2022-05-01T11:47:32.130Z,"0 km NE of Guayanilla, Puerto Rico",earthquake,0.4,1.24,0.141489801493565,5,reviewed,pr,pr
