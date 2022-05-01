@@ -15960,3 +15960,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-01T04:19:52.890Z,46.19866666666667,-122.17916666666666,3.74,0.36,ml,17.0,79.0,0.008196,0.16,uw,uw61835741,2022-05-01T06:44:04.760Z,"38 km NNE of Amboy, Washington",earthquake,0.47,0.71,0.1322313584712429,10.0,reviewed,uw,uw
 2022-05-01T07:12:10.350Z,38.7970009,-122.8151703,3.75,0.35,md,8.0,125.0,0.01282,0.01,nc,nc73727306,2022-05-01T07:13:47.049Z,"6km WNW of The Geysers, CA",earthquake,0.63,2.07,,1.0,automatic,nc,nc
 2022-05-01T07:02:30.334Z,36.5992,-116.2675,14.7,0.1,ml,9.0,254.45,0.074,0.2292,nn,nn00838124,2022-05-01T07:05:16.254Z,"50 km NNW of Pahrump, Nevada",earthquake,,2.7,0.29,4.0,automatic,nn,nn
+2022-05-01T07:20:22.835Z,60.9704,-150.5135,33.5,2.1,ml,,,,0.83,ak,ak0225k8bd2s,2022-05-01T07:25:51.230Z,"10 km ENE of Point Possession, Alaska",earthquake,,0.2,,,automatic,ak,ak
