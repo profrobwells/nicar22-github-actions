@@ -16014,3 +16014,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-01T11:09:24.450Z,38.7976685,-122.8161697,3.59,0.35,md,9.0,123.0,0.01385,0.01,nc,nc73727506,2022-05-01T11:15:25.327Z,"6km WNW of The Geysers, CA",earthquake,0.57,1.78,,1.0,automatic,nc,nc
 2022-05-01T11:15:56.460Z,48.4235,-122.3055,13.54,3.56,ml,40.0,33.0,0.07714,0.26,uw,uw61835766,2022-05-01T11:34:05.090Z,"2 km E of Mount Vernon, Washington",earthquake,0.4,0.8,0.1637637249424406,11.0,reviewed,uw,uw
 2022-05-01T11:40:46.030Z,35.9544983,-117.9820023,2.99,1.03,ml,16.0,80.0,0.09134,0.09,ci,ci40249736,2022-05-01T11:42:51.779Z,"7km WNW of Little Lake, CA",earthquake,0.38,1.62,0.139,3.0,automatic,ci,ci
+2022-05-01T10:51:05.150Z,18.0238333333333,-66.7861666666667,14.13,1.71,md,6.0,159.0,,0.07,pr,pr71346948,2022-05-01T11:47:32.130Z,"0 km NE of Guayanilla, Puerto Rico",earthquake,0.4,1.24,0.141489801493565,5.0,reviewed,pr,pr
