@@ -16307,3 +16307,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-01T19:36:17.690Z,35.9645,-117.6788333,3.66,0.66,ml,9.0,112.0,0.02841,0.05,ci,ci40249904,2022-05-02T17:31:21.511Z,"21km E of Little Lake, CA",earthquake,0.23,0.38,0.083,3.0,reviewed,ci,ci
 2022-05-01T19:36:01.810Z,35.612,-117.4485,7.29,0.6,ml,7.0,126.0,0.02779,0.09,ci,ci37496861,2022-05-02T17:29:02.626Z,"18km SSW of Searles Valley, CA",earthquake,0.78,0.46,0.25,2.0,reviewed,ci,ci
 2022-05-01T18:27:14.180Z,33.4935,-116.4788333,10.08,0.68,ml,16.0,150.0,0.05348,0.12,ci,ci40249880,2022-05-02T17:26:44.973Z,"19km ESE of Anza, CA",earthquake,0.35,0.6,0.038,2.0,reviewed,ci,ci
+2022-05-02T07:23:50.520Z,36.0721667,-117.9006667,6.2,0.82,ml,19.0,89.0,0.05857,0.12,ci,ci40250160,2022-05-02T17:43:27.206Z,"5km NE of Coso Junction, CA",earthquake,0.16,0.31,0.154,4.0,reviewed,ci,ci
+2022-05-01T21:58:11.000Z,44.886,-111.4883333,12.7,0.62,ml,9.0,240.0,0.069,0.12,mb,mb80544644,2022-05-02T17:40:59.020Z,"26 km WNW of Hebgen Lake Estates, Montana",earthquake,1.45,0.42,0.208,5.0,reviewed,mb,mb
