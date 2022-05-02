@@ -16221,3 +16221,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-02T09:42:35.520Z,35.6044998,-117.5780029,9.35,1.21,ml,11.0,103.0,0.09607,0.13,ci,ci40250240,2022-05-02T09:46:04.748Z,"9km ESE of Ridgecrest, CA",earthquake,0.55,1.4,0.162,4.0,automatic,ci,ci
 2022-05-02T09:41:11.249Z,61.4894,-149.7459,32.0,1.6,ml,,,,0.47,ak,ak0225lx61x0,2022-05-02T09:45:13.040Z,"3 km NNW of Knik, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-02T09:35:00.990Z,36.2013333,-118.192,2.54,1.26,ml,18.0,109.0,0.2546,0.12,ci,ci40250232,2022-05-02T09:38:31.287Z,"19km WSW of Olancha, CA",earthquake,0.2,0.93,0.119,11.0,automatic,ci,ci
+2022-05-02T09:53:50.030Z,36.2011681,-118.194664,2.53,2.08,ml,39.0,75.0,0.2133,0.16,ci,ci40250248,2022-05-02T09:55:55.814Z,"19km WSW of Olancha, CA",earthquake,0.23,0.95,0.192,25.0,automatic,ci,ci
+2022-05-02T09:46:45.060Z,38.7953339,-122.7656631,0.87,1.41,md,25.0,69.0,0.007038,0.04,nc,nc73728166,2022-05-02T09:55:15.070Z,"2km NNW of The Geysers, CA",earthquake,0.2,0.34,0.05,5.0,automatic,nc,nc
