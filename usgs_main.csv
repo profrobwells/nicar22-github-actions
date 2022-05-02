@@ -16218,3 +16218,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-02T09:16:05.170Z,36.1980019,-118.1894989,1.41,3.04,ml,54.0,52.0,0.2082,0.19,ci,ci40250208,2022-05-02T09:27:56.205Z,"19km WSW of Olancha, CA",earthquake,0.2,0.89,0.246,20.0,automatic,ci,ci
 2022-05-02T09:11:30.760Z,33.159,-116.4698333,11.88,1.31,ml,41.0,46.0,0.1175,0.24,ci,ci40250200,2022-05-02T09:22:15.000Z,"14km SW of Borrego Springs, CA",earthquake,0.3,0.8,0.234,26.0,automatic,ci,ci
 2022-05-02T09:10:13.210Z,33.0766667,-116.4131667,0.41,0.43,ml,12.0,93.0,0.1527,0.22,ci,ci40250192,2022-05-02T09:13:45.566Z,"18km E of Julian, CA",earthquake,0.47,31.61,0.075,4.0,automatic,ci,ci
+2022-05-02T09:42:35.520Z,35.6044998,-117.5780029,9.35,1.21,ml,11.0,103.0,0.09607,0.13,ci,ci40250240,2022-05-02T09:46:04.748Z,"9km ESE of Ridgecrest, CA",earthquake,0.55,1.4,0.162,4.0,automatic,ci,ci
+2022-05-02T09:41:11.249Z,61.4894,-149.7459,32.0,1.6,ml,,,,0.47,ak,ak0225lx61x0,2022-05-02T09:45:13.040Z,"3 km NNW of Knik, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-05-02T09:35:00.990Z,36.2013333,-118.192,2.54,1.26,ml,18.0,109.0,0.2546,0.12,ci,ci40250232,2022-05-02T09:38:31.287Z,"19km WSW of Olancha, CA",earthquake,0.2,0.93,0.119,11.0,automatic,ci,ci
