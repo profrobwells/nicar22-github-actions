@@ -16250,3 +16250,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-02T12:48:07.452Z,51.1105,177.8716,30.68,4.5,mb,,185.0,0.952,0.44,us,us7000h6cz,2022-05-02T13:09:52.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,8.8,6.2,0.044,151.0,reviewed,us,us
 2022-05-02T12:42:37.170Z,33.667,-116.7365,17.4,1.04,ml,43.0,43.0,0.04783,0.2,ci,ci40250320,2022-05-02T12:46:08.833Z,"8km SSW of Idyllwild, CA",earthquake,0.26,0.46,0.142,26.0,automatic,ci,ci
 2022-05-02T12:34:26.924Z,-30.0104,-178.6642,234.86,5.5,mww,,50.0,0.987,0.91,us,us7000h6cu,2022-05-02T13:09:58.080Z,"Kermadec Islands, New Zealand",earthquake,9.7,4.6,0.071,19.0,reviewed,us,us
+2022-05-02T13:38:14.980Z,35.8558333,-117.6673333,5.62,0.8,ml,8.0,97.0,0.06942,0.14,ci,ci40250368,2022-05-02T13:41:45.178Z,"23km ESE of Little Lake, CA",earthquake,0.37,1.33,0.083,8.0,automatic,ci,ci
+2022-05-02T13:21:30.450Z,19.1906661987305,-155.476837158203,32.25,2.38000011,md,45.0,141.0,,0.140000001,hv,hv73001362,2022-05-02T13:24:44.320Z,"1 km S of Pāhala, Hawaii",earthquake,0.57,0.75999999,1.60000002,22.0,automatic,hv,hv
