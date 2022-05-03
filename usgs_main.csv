@@ -16513,3 +16513,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-03T13:48:05.290Z,39.7291679,-120.8546677,12.36,2.34,md,8.0,89.0,0.4054,0.03,nc,nc73728831,2022-05-03T13:52:11.450Z,"10km E of Little Grass Valley, CA",earthquake,0.44,5.04,0.17,5.0,automatic,nc,nc
 2022-05-03T13:48:03.560Z,38.8231659,-122.8013306,2.83,0.88,md,24.0,48.0,0.006834,0.02,nc,nc73728826,2022-05-03T13:56:09.479Z,"6km NW of The Geysers, CA",earthquake,0.21,0.51,0.23,4.0,automatic,nc,nc
 2022-05-03T13:20:41.063Z,-23.8609,-66.8568,226.64,4.0,mb,,239.0,1.514,0.61,us,us7000h6sx,2022-05-03T13:52:14.040Z,"67 km NW of San Antonio de los Cobres, Argentina",earthquake,12.9,14.5,0.517,1.0,reviewed,us,us
+2022-05-03T14:17:53.382Z,65.1458,-148.9882,10.0,1.2,ml,,,,0.43,ak,ak0225nnjii2,2022-05-03T14:20:36.351Z,"16 km E of Minto, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-05-03T14:14:59.350Z,38.6928329,-122.7626648,5.03,1.52,md,23.0,218.0,0.01835,0.04,nc,nc73728841,2022-05-03T14:16:35.569Z,"9km S of The Geysers, CA",earthquake,0.6,0.58,0.09,6.0,automatic,nc,nc
+2022-05-03T14:08:25.260Z,33.8525,-117.6635,10.5,1.77,ml,21.0,87.0,0.06057,0.23,ci,ci40251184,2022-05-03T14:12:06.164Z,"9km WSW of Corona, CA",earthquake,0.46,0.6,0.376,19.0,automatic,ci,ci
+2022-05-03T00:36:53.790Z,33.6036667,-116.8096667,5.67,0.38,ml,28.0,84.0,0.03931,0.12,ci,ci37496989,2022-05-03T14:12:23.306Z,"14km WNW of Anza, CA",earthquake,0.19,0.42,0.144,7.0,reviewed,ci,ci
+2022-05-03T00:36:42.260Z,33.6013333,-116.8086667,4.67,0.01,ml,8.0,155.0,0.03797,0.08,ci,ci37496997,2022-05-03T14:17:42.331Z,"14km WNW of Anza, CA",earthquake,0.55,0.28,0.111,4.0,reviewed,ci,ci
