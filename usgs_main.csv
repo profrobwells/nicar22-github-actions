@@ -16470,3 +16470,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-03T10:37:54.100Z,36.0791664,-117.8356705,1.44,2.03,ml,29.0,67.0,0.04136,0.13,ci,ci40251072,2022-05-03T10:40:02.879Z,"11km ENE of Coso Junction, CA",earthquake,0.22,0.31,0.205,26.0,automatic,ci,ci
 2022-05-03T09:50:04.325Z,-30.7778,-71.4448,47.65,4.2,mb,,118.0,0.193,0.46,us,us7000h6s8,2022-05-03T10:29:40.040Z,"30 km SW of Ovalle, Chile",earthquake,4.9,6.8,0.264,5.0,reviewed,us,us
 2022-05-03T10:44:31.550Z,38.8388329,-122.8215027,1.31,1.05,md,16.0,81.0,0.01092,0.06,nc,nc73728676,2022-05-03T10:53:10.360Z,"9km WNW of Cobb, CA",earthquake,0.26,0.63,0.15,2.0,automatic,nc,nc
+2022-05-03T11:07:46.549Z,61.1736,-151.429,64.6,1.8,ml,,,,0.45,ak,ak0225nlp1zi,2022-05-03T11:10:26.557Z,"18 km W of Beluga, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2022-05-03T10:54:20.240Z,38.8363342,-122.8113327,1.6,0.85,md,10.0,57.0,0.01296,0.01,nc,nc73728681,2022-05-03T11:03:10.411Z,"8km WNW of Cobb, CA",earthquake,0.32,1.22,,1.0,automatic,nc,nc
+2022-05-03T10:49:28.390Z,17.9731666666667,-66.8058333333333,14.07,2.27,md,4.0,206.0,,0.11,pr,pr71347238,2022-05-03T11:01:23.250Z,"2 km SSE of Indios, Puerto Rico",earthquake,3.18,0.77,0.107505824150534,4.0,reviewed,pr,pr
