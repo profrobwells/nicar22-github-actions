@@ -16454,3 +16454,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-03T07:52:01.154Z,36.11129379,-97.86581421,4.678524494,1.72,ml,19.0,90.26513672,0.1101811975,0.2180217886,ok,ok2022ipmy,2022-05-03T07:55:03.907Z,"2 km E of Hennessey, Oklahoma",earthquake,3.057642179,2.41238431,,15.0,automatic,ok,ok
 2022-05-03T07:49:03.257Z,-25.324,179.8529,488.24,5.0,mb,,76.0,4.394,1.28,us,us7000h6ry,2022-05-03T08:02:40.040Z,south of the Fiji Islands,earthquake,11.3,7.5,0.087,42.0,reviewed,us,us
 2022-05-03T07:43:02.290Z,17.9965,-66.8365,16.2,2.07,md,3.0,330.0,,0.08,pr,pr71347213,2022-05-03T07:54:21.540Z,"1 km W of Indios, Puerto Rico",earthquake,4.29,0.96,0.084652560184463,3.0,reviewed,pr,pr
+2022-05-03T08:04:57.540Z,17.9455,-66.7908333333333,10.9,2.31,md,12.0,188.0,,0.14,pr,pr71347223,2022-05-03T08:16:52.260Z,"6 km SSE of Indios, Puerto Rico",earthquake,0.61,0.47,0.0369336135490714,5.0,reviewed,pr,pr
+2022-05-03T07:44:15.304Z,-20.8427,-178.4796,596.21,4.5,mb,,127.0,4.496,0.89,us,us7000h6ru,2022-05-03T08:16:14.040Z,Fiji region,earthquake,9.4,7.5,0.077,49.0,reviewed,us,us
