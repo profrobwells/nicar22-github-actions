@@ -16456,3 +16456,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-03T07:43:02.290Z,17.9965,-66.8365,16.2,2.07,md,3.0,330.0,,0.08,pr,pr71347213,2022-05-03T07:54:21.540Z,"1 km W of Indios, Puerto Rico",earthquake,4.29,0.96,0.084652560184463,3.0,reviewed,pr,pr
 2022-05-03T08:04:57.540Z,17.9455,-66.7908333333333,10.9,2.31,md,12.0,188.0,,0.14,pr,pr71347223,2022-05-03T08:16:52.260Z,"6 km SSE of Indios, Puerto Rico",earthquake,0.61,0.47,0.0369336135490714,5.0,reviewed,pr,pr
 2022-05-03T07:44:15.304Z,-20.8427,-178.4796,596.21,4.5,mb,,127.0,4.496,0.89,us,us7000h6ru,2022-05-03T08:16:14.040Z,Fiji region,earthquake,9.4,7.5,0.077,49.0,reviewed,us,us
+2022-05-03T08:46:13.220Z,33.6456667,-116.7218333,8.85,0.32,ml,15.0,150.0,0.0627,0.21,ci,ci40251056,2022-05-03T08:49:44.853Z,"10km S of Idyllwild, CA",earthquake,0.71,1.43,0.202,8.0,automatic,ci,ci
+2022-05-03T08:43:48.950Z,38.8305016,-122.8138351,1.63,0.87,md,21.0,47.0,0.00768,0.01,nc,nc73728631,2022-05-03T08:52:10.629Z,"8km NW of The Geysers, CA",earthquake,0.2,0.51,0.23,3.0,automatic,nc,nc
