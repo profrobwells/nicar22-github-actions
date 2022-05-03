@@ -16447,3 +16447,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-03T07:22:45.631Z,63.9522,-148.8354,113.0,2.0,ml,,,,0.35,ak,ak0225njej8o,2022-05-03T07:28:29.093Z,"12 km NNE of Healy, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-05-03T07:12:22.782Z,61.2798,-150.9093,57.2,1.6,ml,,,,0.4,ak,ak0225njccbi,2022-05-03T07:16:23.692Z,"18 km NNE of Beluga, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2022-05-03T07:31:56.390Z,35.876,-117.677,6.16,1.04,ml,17.0,87.0,0.07493,0.13,ci,ci40251024,2022-05-03T07:35:31.912Z,"22km ESE of Little Lake, CA",earthquake,0.23,0.66,0.191,9.0,automatic,ci,ci
+2022-05-03T07:46:49.880Z,38.8323326,-122.80233,1.55,0.85,md,9.0,93.0,0.01078,0.02,nc,nc73728606,2022-05-03T07:48:23.940Z,"7km W of Cobb, CA",earthquake,0.4,0.75,,1.0,automatic,nc,nc
+2022-05-03T07:46:20.400Z,35.787,-117.6275,8.45,1.68,ml,23.0,70.0,0.03764,0.16,ci,ci40251032,2022-05-03T07:50:05.828Z,"19km NNE of Ridgecrest, CA",earthquake,0.31,0.67,0.155,23.0,automatic,ci,ci
