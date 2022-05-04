@@ -16679,3 +16679,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-04T00:52:29.670Z,43.937333333333335,-121.47216666666668,-1.64,0.81,ml,7.0,193.0,0.1388,0.07,uw,uw61827892,2022-05-04T03:05:33.360Z,"6 km NNW of Sunriver, Oregon",explosion,3.96,31.61,0.2118582234456253,5.0,reviewed,uw,uw
 2022-05-04T03:13:47.499Z,38.5673,-117.2508,9.3,1.3,ml,9.0,251.75,0.608,0.1384,nn,nn00838275,2022-05-04T03:17:57.957Z,"55 km N of Tonopah, Nevada",earthquake,,2.7,0.79,5.0,automatic,nn,nn
 2022-05-04T02:40:20.274Z,-15.8444,-177.3258,401.53,4.3,mb,,113.0,5.694,0.5,us,us7000h6x7,2022-05-04T03:19:04.040Z,"189 km SSE of Alo, Wallis and Futuna",earthquake,15.3,7.9,0.093,33.0,reviewed,us,us
+2022-05-04T04:20:30.160Z,38.6223335,-119.8273315,-1.82,2.47,md,14.0,59.0,0.2436,0.11,nc,nc73729111,2022-05-04T04:29:12.455Z,"8km SSW of Markleeville, CA",earthquake,0.33,3.27,0.27,11.0,automatic,nc,nc
+2022-05-04T04:11:39.266Z,39.8759,-118.3838,12.4,1.5,ml,13.0,131.28,0.787,0.4139,nn,nn00838277,2022-05-04T04:15:19.401Z,"34 km SSE of Lovelock, Nevada",earthquake,,0.8,0.21,5.0,automatic,nn,nn
+2022-05-04T04:07:08.710Z,17.9133333333333,-67.0346666666667,13.2,1.52,md,3.0,256.0,,0.02,pr,pr71347328,2022-05-04T04:24:13.010Z,"6 km S of La Parguera, Puerto Rico",earthquake,1.81,0.86,0.056985203139071,2.0,reviewed,pr,pr
+2022-05-04T03:45:57.897Z,-32.235,-71.9545,11.76,5.0,mww,,71.0,0.827,0.62,us,us7000h6x9,2022-05-04T04:40:29.559Z,"72 km WNW of La Ligua, Chile",earthquake,3.2,2.8,0.08,15.0,reviewed,us,us
