@@ -17108,3 +17108,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-05T16:18:55.540Z,38.8139992,-122.8183365,2.61,0.84,md,9.0,88.0,0.009899,0.02,nc,nc73729756,2022-05-05T16:35:15.565Z,"7km NW of The Geysers, CA",earthquake,0.55,1.64,,1.0,automatic,nc,nc
 2022-05-05T05:29:49.650Z,46.19916666666666,-122.17983333333332,4.44,0.05,ml,8.0,140.0,0.03305,0.16,uw,uw61828142,2022-05-05T16:29:33.380Z,"38 km NNE of Amboy, Washington",earthquake,0.57,1.26,0.1397331934273898,4.0,reviewed,uw,uw
 2022-05-05T05:09:33.750Z,46.19833333333333,-122.17533333333331,5.89,0.28,ml,16.0,146.0,0.01088,0.21,uw,uw61828137,2022-05-05T16:26:02.410Z,"38 km NNE of Amboy, Washington",earthquake,0.56,0.8,0.1557370582084394,10.0,reviewed,uw,uw
+2022-05-05T17:06:59.550Z,61.3756,-150.6196,0.0,2.1,ml,,,,0.92,ak,ak0225r0c5v7,2022-05-05T17:13:23.017Z,"19 km SSW of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-05T15:47:21.438Z,56.1712,-156.8015,0.2,2.3,ml,,,,0.53,ak,ak0225qze171,2022-05-05T16:59:59.976Z,"100 km E of Chignik, Alaska",earthquake,,0.8,,,reviewed,ak,ak
