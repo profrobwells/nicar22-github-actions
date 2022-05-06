@@ -17276,3 +17276,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-06T07:19:29.620Z,62.8996,-151.0862,1.3,1.3,ml,,,,0.7,ak,ak0225shzwcf,2022-05-06T07:23:10.286Z,"47 km NNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-06T07:57:18.587Z,64.4283,-146.7414,5.7,0.9,ml,,,,0.46,ak,ak0225si80pe,2022-05-06T08:00:18.554Z,"9 km NW of Harding-Birch Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-06T07:34:51.304Z,8.704,126.4271,60.6,4.8,mb,,103.0,1.828,0.52,us,us7000h7h0,2022-05-06T08:13:51.588Z,"18 km SE of Marihatag, Philippines",earthquake,9.8,7.2,0.058,92.0,reviewed,us,us
+2022-05-06T08:36:48.374Z,63.0148,-149.0746,15.2,2.8,ml,,,,0.75,ak,ak0225sip0ex,2022-05-06T08:40:00.701Z,"42 km S of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-05-06T08:32:41.920Z,38.8258324,-122.783165,1.41,1.17,md,12.0,77.0,0.01134,0.02,nc,nc73729971,2022-05-06T08:34:14.833Z,"5km W of Cobb, CA",earthquake,0.57,1.06,,1.0,automatic,nc,nc
+2022-05-06T06:33:52.419Z,31.69204613,-104.1360758,7.802587891,2.1,ml,12.0,74.0,0.06609240016,0.2,tx,tx2022iuww,2022-05-06T08:24:59.256Z,"50 km W of Mentone, Texas",earthquake,1.7522993680000003,1.671930357,0.2,8.0,reviewed,tx,tx
+2022-05-06T06:06:18.073Z,31.646951,-104.3978842,7.237011719,2.7,ml,15.0,76.0,0.09036393719,0.3,tx,tx2022iuvz,2022-05-06T08:30:05.431Z,"58 km S of Whites City, New Mexico",earthquake,1.52813249,2.156784808,0.2,12.0,reviewed,tx,tx
+2022-05-06T03:44:01.423Z,31.69181273,-104.136882,6.080151367,2.6,ml,21.0,57.0,0.06620572446,0.3,tx,tx2022iurh,2022-05-06T08:19:09.732Z,"50 km W of Mentone, Texas",earthquake,1.030485348,1.106098735,0.2,13.0,reviewed,tx,tx
