@@ -17283,3 +17283,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-06T03:44:01.423Z,31.69181273,-104.136882,6.080151367,2.6,ml,21.0,57.0,0.06620572446,0.3,tx,tx2022iurh,2022-05-06T08:19:09.732Z,"50 km W of Mentone, Texas",earthquake,1.030485348,1.106098735,0.2,13.0,reviewed,tx,tx
 2022-05-06T08:39:48.037Z,60.2662,-141.2686,15.0,0.9,ml,,,,0.79,ak,ak0225sipnoo,2022-05-06T08:42:36.565Z,"117 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-05T21:13:50.452Z,31.60711557,-104.114572,7.134179687,2.3,ml,11.0,74.0,0.1227807765,0.3,tx,tx2022iuek,2022-05-06T08:42:28.702Z,"44 km NW of Toyah, Texas",earthquake,2.408572048,3.518998548,0.2,6.0,reviewed,tx,tx
+2022-05-06T09:07:54.880Z,32.9081667,-116.3048333,8.12,1.0,ml,27.0,63.0,0.04632,0.25,ci,ci40253496,2022-05-06T09:11:28.400Z,"23km ENE of Pine Valley, CA",earthquake,0.41,1.0,0.144,16.0,automatic,ci,ci
+2022-05-06T08:41:20.956Z,-14.977,166.9074,56.31,5.0,mb,,70.0,6.079,1.01,us,us7000h7h5,2022-05-06T08:58:40.040Z,"19 km WNW of Port-Olry, Vanuatu",earthquake,5.4,7.3,0.087,42.0,reviewed,us,us
+2022-05-05T11:00:38.805Z,31.55046643,-104.1416538,7.494091797,2.0,ml,12.0,79.0,0.07639401294,0.3,tx,tx2022itke,2022-05-06T08:53:32.028Z,"42 km NW of Toyah, Texas",earthquake,1.544987308,2.242521467,0.1,9.0,reviewed,tx,tx
