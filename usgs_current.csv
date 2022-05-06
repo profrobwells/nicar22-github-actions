@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-06T11:28:27.100Z,33.6853333,-116.7803333,16.81,0.84,ml,33,77,0.06088,0.2,ci,ci40253568,2022-05-06T11:31:57.573Z,"8km SW of Idyllwild, CA",earthquake,0.34,0.54,0.115,23,automatic,ci,ci
+2022-05-06T11:20:01.800Z,33.5831667,-116.8095,7.29,2.02,ml,79,21,0.03932,0.22,ci,ci40253560,2022-05-06T11:30:33.250Z,"13km WNW of Anza, CA",earthquake,0.18,0.53,0.173,26,automatic,ci,ci
+2022-05-06T11:15:13.040Z,17.948,-66.798,7.97,3.11,md,13,173,,0.2,pr,pr71347593,2022-05-06T11:32:43.630Z,"5 km SSE of Indios, Puerto Rico",earthquake,0.54,1.22,0.210942706463542,8,reviewed,pr,pr
 2022-05-06T11:06:06.860Z,33.228,-116.0895,9.35,0.89,ml,25,60,0.09758,0.24,ci,ci40253552,2022-05-06T11:09:37.441Z,"10km NNE of Ocotillo Wells, CA",earthquake,0.43,1.3,0.115,15,automatic,ci,ci
 2022-05-06T11:00:05.090Z,34.915,-119.6123333,10.34,1.64,ml,19,49,0.05768,0.26,ci,ci40253544,2022-05-06T11:03:53.413Z,"25km SW of Maricopa, CA",earthquake,0.5,0.78,0.219,26,automatic,ci,ci
 2022-05-06T10:51:16.646Z,60.4076,-152.1609,78.9,1.5,ml,,,,0.62,ak,ak0225sjz12o,2022-05-06T10:54:32.237Z,"46 km WNW of Clam Gulch, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -95,7 +98,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-05T22:58:42.842Z,51.5503,-176.7908,51.38,4.7,mb,,129,0.339,0.8,us,us7000h7ec,2022-05-06T00:27:02.186Z,"37 km SSW of Adak, Alaska",earthquake,6.3,5.4,0.036,234,reviewed,us,us
 2022-05-05T22:55:17.190Z,-21.1407,-175.6895,148.49,4.6,mb,,124,6.801,0.87,us,us7000h7eb,2022-05-05T23:34:53.040Z,"49 km W of Haveluloto, Tonga",earthquake,11.7,7.3,0.122,20,reviewed,us,us
 2022-05-05T22:40:40.830Z,-25.0002,179.6324,499.71,4.4,mb,,95,4.772,0.74,us,us7000h7ea,2022-05-05T23:05:37.040Z,"south of the Fiji Islands",earthquake,11.7,8.9,0.123,19,reviewed,us,us
-2022-05-05T22:35:41.730Z,60.035,-153.0965,1.75,-0.66,ml,4,192,,0.19,av,av91551836,2022-05-06T00:09:06.620Z,"Southern Alaska",earthquake,1.15,3.36,0.208881276133135,4,reviewed,av,av
+2022-05-05T22:35:41.730Z,60.035,-153.0965,1.75,-0.66,ml,4,192,,0.19,av,av91551836,2022-05-06T00:09:06.620Z,"62 km ENE of Pedro Bay, Alaska",earthquake,1.15,3.36,0.208881276133135,4,reviewed,av,av
 2022-05-05T22:21:23.110Z,19.1494998931885,-155.467163085938,31.6200008392334,1.94000006,md,35,169,,0.129999995,hv,hv73003872,2022-05-05T22:24:32.320Z,"6 km SSE of Pāhala, Hawaii",earthquake,0.65,0.899999976,0.5,7,automatic,hv,hv
 2022-05-05T22:09:11.170Z,51.7915,-178.906,4.68,0.41,ml,6,259,,0.29,av,av91551821,2022-05-06T00:07:16.020Z,"156 km W of Adak, Alaska",earthquake,1.37,1.66,0.394456167217815,6,reviewed,av,av
 2022-05-05T22:08:25.830Z,37.6296667,-119.0461667,-0.84,0.87,md,20,53,0.01892,0.04,nc,nc73729871,2022-05-06T06:53:15.784Z,"6km W of Mammoth Lakes, CA",earthquake,0.2,0.18,0.263,13,reviewed,nc,nc
@@ -234,4 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-05T11:44:34.899Z,38.1985,-117.8453,8.9,1.2,ml,16,114.74,0.108,0.1477,nn,nn00838382,2022-05-05T17:11:46.525Z,"31 km SE of Mina, Nevada",earthquake,,2.3,0.22,4,reviewed,nn,nn
 2022-05-05T11:43:57.430Z,33.2418333,-116.6576667,11.35,0.34,ml,29,80,0.04345,0.15,ci,ci40252736,2022-05-05T18:26:09.105Z,"5km SSW of Warner Springs, CA",earthquake,0.23,0.47,0.09,5,reviewed,ci,ci
 2022-05-05T11:38:02.520Z,32.9281667,-115.817,7.9,1.27,ml,37,44,0.02218,0.19,ci,ci40252720,2022-05-05T18:16:04.391Z,"22km WSW of Westmorland, CA",earthquake,0.22,0.54,0.189,20,reviewed,ci,ci
-2022-05-05T11:24:13.650Z,38.8326683,-122.809166,1.89,0.85,md,11,94,0.009287,0.01,nc,nc73729646,2022-05-05T11:52:12.902Z,"8km W of Cobb, CA",earthquake,0.33,1,,1,automatic,nc,nc
