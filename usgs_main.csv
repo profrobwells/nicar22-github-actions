@@ -17222,3 +17222,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-05T20:30:58.910Z,51.8685,-178.673833333333,11.6,0.77,ml,5.0,330.0,,0.29,av,av91551761,2022-05-06T00:02:48.730Z,"140 km W of Adak, Alaska",earthquake,2.36,2.41,0.35215311706722,5.0,reviewed,av,av
 2022-05-05T20:06:05.220Z,59.3661666666667,-153.425833333333,2.89,-0.58,ml,8.0,101.0,,0.24,av,av91057458,2022-05-06T00:30:07.980Z,"60 km SE of Pedro Bay, Alaska",earthquake,0.53,1.06,0.123620657340318,8.0,reviewed,av,av
 2022-05-05T04:02:11.732Z,40.7512,105.5576,20.01,4.5,mb,,133.0,7.107,0.56,us,us7000h76w,2022-05-06T00:15:29.040Z,"154 km W of Bayan Nur, China",earthquake,8.9,4.7,0.084,41.0,reviewed,us,us
+2022-05-06T02:52:21.830Z,64.4906,-149.4316,15.5,0.9,ml,,,,0.4,ak,ak0225sf7sda,2022-05-06T02:55:46.576Z,"18 km WSW of Nenana, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-06T02:46:57.941Z,63.3111,-151.272,0.9,1.2,ml,,,,0.56,ak,ak0225sf6ku6,2022-05-06T02:57:09.644Z,"34 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-06T02:38:04.563Z,61.944,-149.2178,4.1,1.4,ml,,,,0.71,ak,ak0225sf4r06,2022-05-06T02:41:59.009Z,"22 km N of Fishhook, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-06T02:32:38.812Z,61.0516,-152.39,108.6,1.7,ml,,,,0.5,ak,ak0225sf3jc4,2022-05-06T02:37:53.773Z,"67 km W of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-05-06T02:31:46.680Z,60.2625,-151.035,65.6,1.1,ml,,,,0.44,ak,ak0225sf3c7h,2022-05-06T02:35:09.407Z,"15 km ESE of Kasilof, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2022-05-06T02:27:10.350Z,38.8111649,-122.8263321,14.32,0.65,md,12.0,158.0,0.003194,0.09,nc,nc73729916,2022-05-06T02:44:13.147Z,"7km WNW of The Geysers, CA",earthquake,1.97,1.09,0.27,3.0,automatic,nc,nc
+2022-05-06T02:26:40.689Z,63.3447,-151.5567,2.4,1.2,ml,,,,0.82,ak,ak0225sf296y,2022-05-06T02:29:51.554Z,"23 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-05-06T01:57:20.300Z,38.8326683,-122.8103333,1.7,0.36,md,10.0,68.0,0.009262,0.02,nc,nc73729911,2022-05-06T02:14:12.972Z,"8km W of Cobb, CA",earthquake,0.35,0.98,,1.0,automatic,nc,nc
+2022-05-05T12:02:18.270Z,19.3023333333333,-154.999166666667,33.87,2.17,md,42.0,236.0,,0.12,hv,hv73003532,2022-05-06T02:22:13.830Z,"20 km SSW of Leilani Estates, Hawaii",earthquake,0.71,0.53,0.118867789226029,21.0,reviewed,hv,hv
