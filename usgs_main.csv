@@ -17329,3 +17329,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-06T14:04:03.227Z,-21.8151,170.5284,110.64,5.0,mb,,38.0,2.964,0.93,us,us7000h7jg,2022-05-06T14:19:31.040Z,"275 km E of Tadine, New Caledonia",earthquake,7.8,6.8,0.068,68.0,reviewed,us,us
 2022-05-06T07:07:31.400Z,47.2361667,-113.9791667,5.9,-0.74,md,3.0,150.0,0.039,0.01,mb,mb80545114,2022-05-06T14:24:21.720Z,"11 km NE of Arlee, Montana",earthquake,2.46,4.01,,1.0,reviewed,mb,mb
 2022-05-06T01:29:18.880Z,47.4363333,-114.0186667,16.8,-0.28,md,8.0,108.0,0.074,0.06,mb,mb80545109,2022-05-06T14:20:36.140Z,"5 km ESE of Kicking Horse, Montana",earthquake,0.39,0.62,0.048,3.0,reviewed,mb,mb
+2022-05-06T13:27:59.830Z,18.0958333333333,-66.8635,13.61,2.24,md,3.0,166.0,,0.07,pr,pr71347603,2022-05-06T14:31:06.320Z,"6 km NNW of Yauco, Puerto Rico",earthquake,4.0,5.75,0.109667928195656,3.0,reviewed,pr,pr
+2022-05-06T05:21:13.620Z,45.8161667,-111.367,17.2,-0.03,ml,3.0,307.0,0.286,0.06,mb,mb80545119,2022-05-06T14:31:39.360Z,"5 km SSW of Manhattan, Montana",earthquake,1.99,3.74,,0.0,reviewed,mb,mb
