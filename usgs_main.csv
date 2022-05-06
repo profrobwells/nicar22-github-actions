@@ -17416,3 +17416,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-06T19:59:19.928Z,63.1101,-149.2626,76.5,2.3,ml,,,,0.52,ak,ak0225spdnfh,2022-05-06T20:09:15.539Z,"35 km SSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-05-06T20:30:55.770Z,35.7578333,-117.5745,8.44,1.76,ml,27.0,83.0,0.06074,0.17,ci,ci40253864,2022-05-06T20:34:34.894Z,"15km W of Searles Valley, CA",earthquake,0.29,0.77,0.194,27.0,automatic,ci,ci
 2022-05-06T17:18:34.020Z,47.3606667,-114.5793333,-2.0,0.55,md,13.0,71.0,0.116,0.16,mb,mb80545124,2022-05-06T20:34:27.650Z,"17 km E of Paradise, Montana",quarry blast,0.38,31.61,0.215,7.0,reviewed,mb,mb
+2022-05-06T20:28:52.358Z,64.7215,-146.1014,14.3,0.9,ml,,,,0.24,ak,ak0225spsi3o,2022-05-06T20:40:58.932Z,"40 km ESE of Pleasant Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
