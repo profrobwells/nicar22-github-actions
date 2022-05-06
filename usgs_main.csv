@@ -17407,3 +17407,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-06T19:10:35.320Z,43.470333333333336,-123.04983333333334,-0.34,1.54,ml,6.0,143.0,0.06318,0.05,uw,uw61828682,2022-05-06T19:30:32.730Z,"14 km ENE of Fair Oaks, Oregon",explosion,0.42,31.61,0.1116253450397564,4.0,reviewed,uw,uw
 2022-05-06T19:37:22.390Z,17.953,-66.9383333333333,11.82,1.81,md,3.0,212.0,,0.03,pr,pr71347608,2022-05-06T19:44:38.030Z,"3 km WSW of Guánica, Puerto Rico",earthquake,1.97,0.86,0.0090864870215958,3.0,reviewed,pr,pr
 2022-05-06T19:36:41.270Z,36.1656667,-118.245,-0.08,1.65,ml,9.0,174.0,0.3043,0.29,ci,ci40253824,2022-05-06T19:40:25.073Z,"25km WSW of Olancha, CA",earthquake,1.46,31.61,0.4,22.0,automatic,ci,ci
+2022-05-06T19:48:59.970Z,33.104,-116.1295,8.27,1.28,ml,41.0,61.0,0.06079,0.26,ci,ci40253832,2022-05-06T19:59:19.480Z,"4km S of Ocotillo Wells, CA",earthquake,0.33,1.24,0.203,26.0,automatic,ci,ci
