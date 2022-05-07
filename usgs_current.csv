@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-07T11:15:43.370Z,38.8364983,-122.7829971,1.71,0.36,md,9,80,0.006047,0.01,nc,nc73730406,2022-05-07T11:17:18.458Z,"5km WNW of Cobb, CA",earthquake,0.57,1,,1,automatic,nc,nc
+2022-05-07T11:11:19.187Z,61.1228,-150.4046,17.5,1.1,ml,,,,0.64,ak,ak0225u7v8q6,2022-05-07T11:20:15.474Z,"27 km NE of Point Possession, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-07T10:56:10.858Z,36.7086,-116.332,10.5,0.8,ml,15,85.57,0.063,0.1527,nn,nn00838478,2022-05-07T10:58:54.091Z,"44 km ESE of Beatty, Nevada",earthquake,,0.8,0.91,11,automatic,nn,nn
 2022-05-07T10:44:37.233Z,36.7053,-116.328,10.6,0.2,ml,11,90.16,0.06,0.0688,nn,nn00838476,2022-05-07T10:47:23.284Z,"44 km ESE of Beatty, Nevada",earthquake,,0.9,0.13,7,automatic,nn,nn
+2022-05-07T10:44:12.860Z,18.0056666666667,-66.7438333333333,10.94,2.01,md,6,183,,0.06,pr,pr71347763,2022-05-07T11:02:39.780Z,"2 km ESE of Magas Arriba, Puerto Rico",earthquake,0.36,1.41,0.150814601371223,3,reviewed,pr,pr
 2022-05-07T10:43:27.090Z,35.7541667,-117.5576667,6.16,0.99,ml,10,155,0.06946,0.15,ci,ci40254160,2022-05-07T10:47:05.203Z,"14km W of Searles Valley, CA",earthquake,0.51,0.98,0.162,11,automatic,ci,ci
 2022-05-07T10:37:38.270Z,38.8050003,-122.7733307,1.86,0.74,md,15,76,0.01005,0.02,nc,nc73730401,2022-05-07T10:54:15.720Z,"3km NNW of The Geysers, CA",earthquake,0.26,0.49,0.26,3,automatic,nc,nc
 2022-05-07T10:31:31.011Z,61.5843,-148.4241,21.4,1.6,ml,,,,0.91,ak,ak0225u7e4d9,2022-05-07T10:40:01.671Z,"23 km S of Chickaloon, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -202,7 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-06T12:05:40.140Z,35.9226685,-120.4678345,5.5,0.72,md,12,93,,0.08,nc,nc73730016,2022-05-06T13:57:20.226Z,"4km NW of Parkfield, CA",earthquake,0.62,1.23,0.13,3,automatic,nc,nc
 2022-05-06T11:53:42.330Z,37.5498333,-118.816,5.11,0.82,md,10,240,0.04145,0.04,nc,nc73730011,2022-05-06T19:07:14.049Z,"12km W of Toms Place, CA",earthquake,0.65,1.38,0.176,9,reviewed,nc,nc
 2022-05-06T11:28:27.090Z,33.6851667,-116.7801667,16.66,0.84,ml,37,77,0.06083,0.19,ci,ci40253568,2022-05-06T17:51:51.027Z,"8km SW of Idyllwild, CA",earthquake,0.29,0.46,0.14,23,reviewed,ci,ci
-2022-05-06T11:20:01.720Z,33.5811667,-116.812,8.58,2.06,ml,94,17,0.04189,0.19,ci,ci40253560,2022-05-06T19:31:15.243Z,"13km WNW of Anza, CA",earthquake,0.12,0.32,0.171,25,reviewed,ci,ci
-2022-05-06T11:15:13.040Z,17.948,-66.798,7.97,3.11,md,13,173,,0.2,pr,pr71347593,2022-05-06T18:08:40.432Z,"5 km SSE of Indios, Puerto Rico",earthquake,0.54,1.22,0.210942706463542,8,reviewed,pr,pr
-2022-05-06T11:06:06.640Z,33.2253333,-116.0911667,10.69,0.89,ml,33,59,0.09468,0.2,ci,ci40253552,2022-05-06T17:19:13.678Z,"10km NNE of Ocotillo Wells, CA",earthquake,0.25,0.62,0.116,11,reviewed,ci,ci
-2022-05-06T11:00:04.970Z,34.9163333,-119.6145,10.27,1.51,ml,19,54,0.05548,0.16,ci,ci40253544,2022-05-06T17:12:38.638Z,"25km SW of Maricopa, CA",earthquake,0.33,0.53,0.183,14,reviewed,ci,ci
