@@ -17517,3 +17517,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-07T08:00:22.990Z,38.8323326,-122.8128357,2.48,2.53,md,54.0,37.0,0.009182,0.06,nc,nc73730346,2022-05-07T08:05:10.739Z,"8km NW of The Geysers, CA",earthquake,0.15,0.23,0.14,43.0,automatic,nc,nc
 2022-05-07T08:00:12.572Z,57.457,-155.2621,57.7,2.5,ml,,,,0.56,ak,ak0225u60kl1,2022-05-07T08:06:36.110Z,"49 km WSW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-05-07T06:17:03.170Z,17.949,-67.0368333333333,12.99,2.43,md,4.0,230.0,,0.13,pr,pr71347733,2022-05-07T07:57:12.830Z,"3 km SSE of La Parguera, Puerto Rico",earthquake,1.51,0.71,0.458660981049749,5.0,reviewed,pr,pr
+2022-05-07T08:19:53.350Z,58.1078,-153.1619,15.0,1.2,ml,,,,0.52,ak,ak0225u64q9z,2022-05-07T08:25:11.472Z,"15 km WNW of Aleneva, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-05-07T08:13:55.830Z,19.4953327178955,-155.664993286133,1.75999999046326,1.75999999,md,15.0,98.0,,0.140000001,hv,hv73005327,2022-05-07T08:19:26.760Z,"21 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.65,1.70000005,0.430000007,7.0,automatic,hv,hv
+2022-05-07T08:13:10.879Z,61.9067,-150.2207,28.6,1.1,ml,,,,0.39,ak,ak0225u63cm4,2022-05-07T08:24:45.942Z,"20 km NNW of Willow, Alaska",earthquake,,0.5,,,automatic,ak,ak
