@@ -17710,3 +17710,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-08T09:32:25.921Z,66.9904,-154.2928,0.0,1.5,ml,,,,0.78,ak,ak0225vuc8kg,2022-05-08T09:34:41.210Z,"84 km NW of Alatna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-08T09:50:26.653Z,60.0897,-151.7657,94.5,1.2,ml,,,,0.51,ak,ak0225vug3gv,2022-05-08T09:54:43.452Z,"6 km NW of Ninilchik, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2022-05-08T09:48:03.941Z,64.0982,-149.3842,7.6,1.2,ml,,,,0.79,ak,ak0225vufmbt,2022-05-08T09:56:06.619Z,"15 km NW of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-05-08T10:17:23.370Z,38.8161659,-122.7959976,3.42,0.84,md,7.0,109.0,0.008204,0.01,nc,nc73730776,2022-05-08T10:18:59.671Z,"6km NW of The Geysers, CA",earthquake,0.72,2.16,,1.0,automatic,nc,nc
+2022-05-08T10:13:39.130Z,38.8083344,-122.7945023,1.43,0.34,md,8.0,83.0,0.0007247,0.01,nc,nc73730766,2022-05-08T10:15:14.451Z,"5km NW of The Geysers, CA",earthquake,0.53,0.9,,1.0,automatic,nc,nc
+2022-05-08T10:09:26.253Z,63.1449,-150.4199,105.0,1.0,ml,,,,0.34,ak,ak0225vusqq4,2022-05-08T10:16:33.743Z,"74 km NNE of Petersville, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2022-05-08T10:06:58.016Z,35.10013199,-95.53887177,0.6244754791,2.49,ml,17.0,143.7559891,0.1166593358,0.6497310184,ok,ok2022iyux,2022-05-08T10:10:49.523Z,"12 km ESE of Crowder, Oklahoma",earthquake,4.456260425,2.93809358,,13.0,automatic,ok,ok
