@@ -17785,3 +17785,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-08T16:31:42.749Z,-23.9832,-66.9558,230.0,4.2,mb,,146.0,1.521,0.39,us,us7000h7ys,2022-05-08T16:50:40.040Z,"69 km WNW of San Antonio de los Cobres, Argentina",earthquake,13.8,12.1,0.373,2.0,reviewed,us,us
 2022-05-08T16:30:19.210Z,33.7695,-116.0426667,0.38,1.02,ml,20.0,113.0,0.122,0.25,ci,ci40254552,2022-05-08T16:33:56.525Z,"16km NE of Coachella, CA",earthquake,0.59,1.26,0.124,21.0,automatic,ci,ci
 2022-05-08T16:28:45.618Z,62.9106,-149.3392,53.6,2.9,ml,,,,0.51,ak,ak0225vyhgfb,2022-05-08T16:39:09.040Z,"57 km SSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-05-08T17:15:56.949Z,60.4115,-152.0507,78.4,1.5,ml,,,,0.54,ak,ak0225vz04ll,2022-05-08T17:21:12.030Z,"41 km W of Cohoe, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-08T17:10:15.909Z,62.9613,-149.4468,80.1,1.3,ml,,,,0.66,ak,ak0225vyyyvq,2022-05-08T17:21:12.898Z,"54 km SSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-05-08T16:34:28.948Z,3.66,126.8734,39.67,4.6,mb,,95.0,2.91,0.53,us,us7000h7yt,2022-05-08T17:14:21.040Z,"248 km NNW of Tobelo, Indonesia",earthquake,6.9,7.2,0.089,40.0,reviewed,us,us
