@@ -17747,3 +17747,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-08T13:22:20.820Z,19.4716663360596,-155.686996459961,2.4300000667572,1.79999995,md,16.0,116.0,,0.239999995,hv,hv73006377,2022-05-08T13:25:26.770Z,"18 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.62,1.73000002,0.689999998,6.0,automatic,hv,hv
 2022-05-08T13:35:42.170Z,33.7466667,-115.8933333,7.68,1.31,ml,20.0,210.0,0.1218,0.19,ci,ci40254512,2022-05-08T13:39:21.188Z,"25km N of North Shore, CA",earthquake,0.79,3.06,0.129,27.0,automatic,ci,ci
 2022-05-08T13:32:56.000Z,19.112,-64.239,20.0,5.3,Mi,36.0,,,,pt,pt22128050,2022-05-08T13:44:13.239Z,"104 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,,,,17.0,reviewed,pt,pt
+2022-05-08T13:32:56.023Z,18.8782,-64.3663,17.75,5.0,mww,,36.0,1.367,0.46,us,us7000h7xk,2022-05-08T13:56:59.974Z,"75 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,6.6,4.6,0.093,11.0,reviewed,us,us
