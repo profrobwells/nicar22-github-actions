@@ -17663,3 +17663,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-08T01:06:02.930Z,33.959,-116.8426667,8.23,1.0,ml,25.0,63.0,0.0813,0.17,ci,ci40254400,2022-05-08T01:09:35.216Z,"5km NE of Banning, CA",earthquake,0.26,1.02,0.165,28.0,automatic,ci,ci
 2022-05-08T01:00:23.741Z,62.0077,-149.8255,45.5,1.0,ml,,,,0.26,ak,ak0225vpdwna,2022-05-08T01:02:23.447Z,"17 km S of Susitna North, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2022-05-08T00:56:31.295Z,61.9331,-148.8716,18.1,1.1,ml,,,,0.41,ak,ak0225vp4hq8,2022-05-08T01:02:24.214Z,"18 km NNW of Sutton-Alpine, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-05-08T02:55:44.700Z,36.5561676,-121.1371689,8.42,1.43,md,9.0,136.0,0.04181,0.05,nc,nc73730661,2022-05-08T03:12:17.334Z,"3km NNE of Pinnacles, CA",earthquake,0.59,0.99,0.13,8.0,automatic,nc,nc
+2022-05-08T02:49:03.748Z,65.2645,-150.0861,8.8,2.6,ml,,,,0.86,ak,ak0225vq9sq0,2022-05-08T03:02:21.040Z,"27 km S of Rampart, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-08T02:34:26.340Z,17.9115,-66.785,7.16,2.15,md,6.0,232.0,,0.08,pr,pr71347853,2022-05-08T03:08:43.770Z,"9 km SSE of Indios, Puerto Rico",earthquake,0.97,0.38,0.0048032934419826,5.0,reviewed,pr,pr
+2022-05-08T02:29:03.320Z,3.6698,126.9357,39.45,5.2,mww,,103.0,2.91,0.77,us,us7000h7vi,2022-05-08T02:46:55.040Z,"245 km NNW of Tobelo, Indonesia",earthquake,8.1,6.8,0.098,10.0,reviewed,us,us
