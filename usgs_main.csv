@@ -17743,3 +17743,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-08T12:43:27.190Z,38.8336678,-122.7898331,1.68,1.43,md,26.0,54.0,0.004751,0.03,nc,nc73730791,2022-05-08T13:00:14.893Z,"6km WNW of Cobb, CA",earthquake,0.18,0.34,0.02,5.0,automatic,nc,nc
 2022-05-08T12:30:35.742Z,-21.416,-69.7903,55.6,4.2,mb,,116.0,0.137,0.61,us,us7000h7xd,2022-05-08T12:49:47.040Z,"85 km NNE of Tocopilla, Chile",earthquake,3.7,5.9,0.167,10.0,reviewed,us,us
 2022-05-08T12:25:45.778Z,31.6508,-104.5027,5.75,2.5,ml,,68.0,0.017,0.29,us,us7000h7xa,2022-05-08T12:55:13.040Z,"59 km SSW of Whites City, New Mexico",earthquake,2.1,1.8,0.05,52.0,reviewed,us,us
+2022-05-08T13:29:19.950Z,33.6381667,-116.6821667,13.43,0.5,ml,18.0,99.0,0.07247,0.08,ci,ci40254504,2022-05-08T13:33:10.151Z,"9km N of Anza, CA",earthquake,0.22,0.38,0.08,9.0,automatic,ci,ci
+2022-05-08T13:22:20.820Z,19.4716663360596,-155.686996459961,2.4300000667572,1.79999995,md,16.0,116.0,,0.239999995,hv,hv73006377,2022-05-08T13:25:26.770Z,"18 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.62,1.73000002,0.689999998,6.0,automatic,hv,hv
