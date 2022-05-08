@@ -1,12 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-05-08T19:21:45.110Z,19.3640003204346,-155.509674072266,21.7600002288818,1.89999998,md,33,58,,0.189999998,hv,hv73006522,2022-05-08T19:24:48.270Z,"18 km N of Pāhala, Hawaii",earthquake,0.77,1.12,0.600000024,15,automatic,hv,hv
-2022-05-08T19:20:08.158Z,62.9123,-148.3553,9.9,1.4,ml,,,,1,ak,ak0225w07yn5,2022-05-08T19:24:39.988Z,"61 km SSE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-05-08T19:14:33.100Z,38.8154984,-122.8221664,3.6,0.75,md,14,52,0.008593,0.01,nc,nc73730931,2022-05-08T19:24:10.063Z,"7km NW of The Geysers, CA",earthquake,0.32,1.13,0.11,2,automatic,nc,nc
+2022-05-08T19:20:08.158Z,62.9123,-148.3553,9.9,1.4,ml,,,,1,ak,ak0225w07yn5,2022-05-08T19:32:19.411Z,"61 km SSE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-05-08T19:14:33.100Z,38.8154984,-122.8221664,3.6,0.75,md,14,52,0.008593,0.01,nc,nc73730931,2022-05-08T19:34:15.119Z,"7km NW of The Geysers, CA",earthquake,0.32,1.13,0.11,2,automatic,nc,nc
 2022-05-08T19:05:19.770Z,34.1075,-117.573,10.29,1.33,ml,39,53,0.05558,0.17,ci,ci40254624,2022-05-08T19:16:18.850Z,"2km SSE of Rancho Cucamonga, CA",earthquake,0.24,0.51,0.199,31,automatic,ci,ci
 2022-05-08T18:55:35.739Z,61.1378,-151.8153,70.2,1.1,ml,,,,0.3,ak,ak0225vzu38l,2022-05-08T18:58:13.642Z,"37 km WNW of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-05-08T18:50:50.590Z,38.8333321,-122.81633,1.75,1.53,md,27,47,0.01106,0.03,nc,nc73730921,2022-05-08T19:23:23.059Z,"8km NW of The Geysers, CA",earthquake,0.18,0.31,0.13,6,automatic,nc,nc
 2022-05-08T18:50:06.487Z,58.2202,-154.0943,78.3,2,ml,,,,0.45,ak,ak0225vzsyeg,2022-05-08T18:53:33.183Z,"72 km WNW of Aleneva, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-05-08T18:45:35.440Z,38.8448334,-122.8171692,1.43,0.86,md,13,70,0.01093,0.02,nc,nc73730916,2022-05-08T19:02:15.941Z,"8km WNW of Cobb, CA",earthquake,0.26,0.83,,1,automatic,nc,nc
+2022-05-08T18:45:35.440Z,38.8448334,-122.8171692,1.43,0.86,md,13,70,0.01093,0.02,nc,nc73730916,2022-05-08T19:28:15.080Z,"8km WNW of Cobb, CA",earthquake,0.26,0.83,,1,automatic,nc,nc
 2022-05-08T18:26:25.030Z,35.643,-117.5976667,9.82,1.98,ml,23,117,0.1239,0.18,ci,ci40254608,2022-05-08T18:52:58.630Z,"8km ENE of Ridgecrest, CA",earthquake,0.28,0.85,0.225,26,reviewed,ci,ci
 2022-05-08T18:14:50.910Z,38.7988319,-122.7998352,1.17,0.49,md,11,84,0.009786,0.02,nc,nc73730891,2022-05-08T18:47:22.865Z,"4km WNW of The Geysers, CA",earthquake,0.31,0.58,0.35,2,automatic,nc,nc
 2022-05-08T18:07:21.990Z,33.1656667,-115.657,3.63,1.54,ml,31,38,0.03372,0.27,ci,ci40254592,2022-05-08T19:13:10.775Z,"14km WNW of Calipatria, CA",earthquake,0.29,0.51,0.172,27,reviewed,ci,ci
@@ -178,6 +178,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-07T19:46:47.090Z,17.8383333333333,-66.8835,6.37,2.13,md,4,258,,0.1,pr,pr71347808,2022-05-07T20:00:49.080Z,"Puerto Rico region",earthquake,0.89,0.41,0.0396946930427915,4,reviewed,pr,pr
 2022-05-07T19:44:41.221Z,60.1675,-139.6761,4.4,1.5,ml,,,,0.94,ak,ak0225uctu2c,2022-05-07T19:57:23.498Z,"69 km N of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-07T19:44:39.525Z,61.7915,-144.86,53.4,1.2,ml,,,,0.6,ak,ak0225ucttrk,2022-05-07T19:50:43.231Z,"9 km NNE of Kenny Lake, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-05-07T19:31:57.710Z,17.9798333333333,-66.9516666666667,11.4,1.79,md,3,173,,0.07,pr,pr71347803,2022-05-07T19:49:47.490Z,"3 km WSW of Fuig, Puerto Rico",earthquake,2.63,1,0.064085101311721,3,reviewed,pr,pr
-2022-05-07T19:28:52.840Z,45.8861667,-111.6021667,2.48,1.12,ml,8,139,0.199,0.06,mb,mb80545229,2022-05-08T14:31:21.940Z,"3 km W of Three Forks, Montana",earthquake,0.35,1.1,0.209,3,reviewed,mb,mb
-2022-05-07T19:26:45.289Z,59.9322,-141.5968,17.5,1.2,ml,,,,0.67,ak,ak0225ucpzbk,2022-05-07T19:30:00.970Z,"113 km WNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
