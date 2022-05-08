@@ -17649,3 +17649,17 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-08T00:03:53.643Z,11.341,-86.7599,21.72,4.3,mb,,166.0,0.946,0.72,us,us7000h7v2,2022-05-08T00:13:56.040Z,"56 km SSW of Masachapa, Nicaragua",earthquake,3.0,8.1,0.084,40.0,reviewed,us,us
 2022-05-07T23:56:51.820Z,17.9448333333333,-66.9043333333333,8.31,2.69,md,12.0,210.0,,0.22,pr,pr71347828,2022-05-08T00:26:16.100Z,"2 km S of Guánica, Puerto Rico",earthquake,0.85,0.62,0.0609129892518143,5.0,reviewed,pr,pr
 2022-05-07T23:51:52.931Z,61.9236,-144.0711,4.3,1.1,ml,,,,0.49,ak,ak0225uf938d,2022-05-07T23:54:12.359Z,"49 km NNE of Chitina, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-08T02:28:56.403Z,61.4653,-150.7093,64.9,1.2,ml,,,,0.54,ak,ak0225vq5etk,2022-05-08T02:37:53.064Z,"13 km SW of Susitna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-05-08T02:24:46.860Z,61.3407,-146.2354,20.0,1.7,ml,,,,0.81,ak,ak0225vq4j8d,2022-05-08T02:30:39.838Z,"24 km NNE of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-08T02:18:56.763Z,3.7611,126.9588,38.86,4.9,mb,,111.0,2.997,0.54,us,us7000h7vg,2022-05-08T02:37:18.040Z,"245 km SE of Sarangani, Philippines",earthquake,9.2,7.8,0.07,65.0,reviewed,us,us
+2022-05-08T02:12:48.302Z,3.6462,126.8909,51.14,5.0,mb,,111.0,2.894,0.51,us,us7000h7ve,2022-05-08T02:30:25.040Z,"245 km NNW of Tobelo, Indonesia",earthquake,3.7,7.7,0.067,73.0,reviewed,us,us
+2022-05-08T02:09:04.570Z,60.1547,-151.8442,67.3,0.9,ml,,,,0.42,ak,ak0225vq189p,2022-05-08T02:11:18.291Z,"15 km NW of Ninilchik, Alaska",earthquake,,2.2,,,automatic,ak,ak
+2022-05-08T02:05:11.780Z,38.8343315,-122.8183365,1.82,0.85,md,12.0,68.0,0.01268,0.01,nc,nc73730636,2022-05-08T02:26:15.051Z,"8km NW of The Geysers, CA",earthquake,0.3,0.82,,1.0,automatic,nc,nc
+2022-05-08T01:58:48.460Z,38.8339996,-122.8128357,1.8,0.85,md,15.0,72.0,0.01081,0.01,nc,nc73730631,2022-05-08T02:42:10.154Z,"8km W of Cobb, CA",earthquake,0.26,0.69,,1.0,automatic,nc,nc
+2022-05-08T01:23:27.890Z,38.8310013,-122.8180008,1.65,1.33,md,24.0,94.0,0.009799,0.04,nc,nc73730621,2022-05-08T02:15:15.990Z,"8km NW of The Geysers, CA",earthquake,0.21,0.35,0.17,5.0,automatic,nc,nc
+2022-05-08T01:16:52.330Z,38.8261681,-122.7621689,2.04,0.36,md,10.0,208.0,0.007419,0.03,nc,nc73730616,2022-05-08T01:49:15.849Z,"3km W of Cobb, CA",earthquake,0.58,1.1,,1.0,automatic,nc,nc
+2022-05-08T01:15:25.938Z,38.1982,-117.7495,8.2,1.5,ml,11.0,165.94,0.126,0.0982,nn,nn00838506,2022-05-08T01:19:34.848Z,"37 km SE of Mina, Nevada",earthquake,,0.6,0.08,7.0,automatic,nn,nn
+2022-05-08T01:14:30.212Z,39.2071,-119.843,10.8,0.7,ml,8.0,141.52,0.076,0.1623,nn,nn00838505,2022-05-08T01:18:15.180Z,"8 km NW of Carson City, Nevada",earthquake,,1.0,0.38,6.0,automatic,nn,nn
+2022-05-08T01:06:02.930Z,33.959,-116.8426667,8.23,1.0,ml,25.0,63.0,0.0813,0.17,ci,ci40254400,2022-05-08T01:09:35.216Z,"5km NE of Banning, CA",earthquake,0.26,1.02,0.165,28.0,automatic,ci,ci
+2022-05-08T01:00:23.741Z,62.0077,-149.8255,45.5,1.0,ml,,,,0.26,ak,ak0225vpdwna,2022-05-08T01:02:23.447Z,"17 km S of Susitna North, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2022-05-08T00:56:31.295Z,61.9331,-148.8716,18.1,1.1,ml,,,,0.41,ak,ak0225vp4hq8,2022-05-08T01:02:24.214Z,"18 km NNW of Sutton-Alpine, Alaska",earthquake,,0.3,,,automatic,ak,ak
