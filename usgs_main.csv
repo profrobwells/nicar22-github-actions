@@ -18060,3 +18060,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-09T22:04:05.240Z,19.1595001220703,-155.479995727539,34.8899993896484,2.1500001,md,28.0,160.0,,0.129999995,hv,hv73007622,2022-05-09T22:07:27.390Z,"4 km S of Pāhala, Hawaii",earthquake,0.69,0.74000001,0.360000014,9.0,automatic,hv,hv
 2022-05-09T16:03:23.062Z,40.0809,-119.6825,12.6,0.1,ml,3.0,171.27,0.097,0.0248,nn,nn00838574,2022-05-09T22:16:16.049Z,"16 km NNW of Sutcliffe, Nevada",earthquake,,6.9,0.0,2.0,reviewed,nn,nn
 2022-05-09T10:35:02.470Z,19.3666666666667,-155.0725,5.09,1.01,md,11.0,189.0,,0.08,hv,hv72000398,2022-05-09T22:14:43.140Z,"12 km SSE of Fern Forest, Hawaii",earthquake,0.81,0.79,0.0674849367355975,4.0,reviewed,hv,hv
+2022-05-09T22:10:51.122Z,-8.3855,-81.2598,10.0,4.9,mb,,130.0,4.95,0.82,us,us7000h87g,2022-05-09T22:40:04.040Z,"215 km WSW of Pacasmayo, Peru",earthquake,5.0,1.9,0.08,49.0,reviewed,us,us
+2022-05-09T21:35:25.880Z,33.049,-116.3473333,11.52,1.21,ml,13.0,57.0,0.08136,0.11,ci,ci40255112,2022-05-09T22:32:29.271Z,"23km WSW of Ocotillo Wells, CA",earthquake,0.26,0.72,0.114,3.0,reviewed,ci,ci
