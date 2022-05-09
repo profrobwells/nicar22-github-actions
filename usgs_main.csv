@@ -17917,3 +17917,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-09T12:59:03.280Z,17.9516666666667,-66.845,13.92,2.26,md,5.0,212.0,,0.15,pr,pr71348068,2022-05-09T13:16:06.530Z,"5 km SSW of Indios, Puerto Rico",earthquake,1.21,0.86,0.0710120297501144,4.0,reviewed,pr,pr
 2022-05-08T20:10:19.010Z,39.2871667,-111.9196667,4.04,2.31,ml,15.0,61.0,0.202,0.14,uu,uu60496297,2022-05-09T13:37:15.431Z,"8 km NW of Fayette, Utah",earthquake,0.36,4.4,0.181,13.0,reviewed,uu,uu
 2022-05-09T13:56:04.949Z,38.1678,-117.8643,1.8,1.3,ml,8.0,198.31,0.08,0.1745,nn,nn00838535,2022-05-09T13:59:43.076Z,"32 km SE of Mina, Nevada",earthquake,,2.1,1.0,5.0,automatic,nn,nn
+2022-05-09T14:11:40.590Z,38.7890015,-122.7630005,1.84,0.98,md,13.0,77.0,0.01838,0.02,nc,nc73731291,2022-05-09T14:22:10.889Z,"1km NNW of The Geysers, CA",earthquake,0.29,0.64,0.16,4.0,automatic,nc,nc
+2022-05-09T14:11:17.810Z,38.7896652,-122.7626648,2.36,1.18,md,11.0,80.0,0.01118,0.02,nc,nc73731286,2022-05-09T14:19:11.901Z,"2km NNW of The Geysers, CA",earthquake,0.36,0.82,,1.0,automatic,nc,nc
+2022-05-09T14:10:53.790Z,38.7886658,-122.7606659,1.49,2.19,md,43.0,61.0,0.01196,0.06,nc,nc73731281,2022-05-09T14:19:11.751Z,"1km NNW of The Geysers, CA",earthquake,0.18,0.27,0.16,18.0,automatic,nc,nc
+2022-05-08T17:02:37.670Z,44.7398333,-111.1141667,11.89,2.3,ml,20.0,66.0,0.0566,0.14,uu,uu60496272,2022-05-09T14:14:02.100Z,"6 km ESE of Hebgen Lake Estates, Montana",earthquake,0.36,0.38,0.211,5.0,reviewed,uu,uu
