@@ -18111,3 +18111,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-10T02:41:51.170Z,33.044,-116.3511667,10.24,1.09,ml,30.0,79.0,0.09778,0.22,ci,ci40255304,2022-05-10T02:45:34.261Z,"23km WSW of Ocotillo Wells, CA",earthquake,0.35,0.78,0.125,17.0,automatic,ci,ci
 2022-05-10T02:18:32.044Z,-17.6091,-70.3629,100.45,4.6,mb,,138.0,0.757,0.91,us,us7000h88f,2022-05-10T02:41:54.768Z,"19 km SW of Chipispaya, Peru",earthquake,6.0,5.3,0.049,122.0,reviewed,us,us
 2022-05-10T03:16:10.650Z,38.8293343,-122.8125,2.15,0.85,md,14.0,80.0,0.006226,0.01,nc,nc73731571,2022-05-10T03:32:14.699Z,"8km NW of The Geysers, CA",earthquake,0.35,0.74,,1.0,automatic,nc,nc
+2022-05-10T03:46:09.390Z,33.9706667,-116.8413333,12.69,1.03,ml,21.0,79.0,0.1415,0.22,ci,ci40255320,2022-05-10T03:49:44.612Z,"6km NNE of Banning, CA",earthquake,0.42,1.12,0.156,29.0,automatic,ci,ci
+2022-05-10T03:45:05.720Z,38.1603,-117.8628,9.5,1.0,ml,10.0,173.99,0.079,0.1588,nn,nn00838591,2022-05-10T03:49:02.668Z,"33 km SE of Mina, Nevada",earthquake,,0.6,0.43,5.0,automatic,nn,nn
+2022-05-10T03:44:33.460Z,34.5066667,-117.805,4.71,2.32,ml,62.0,32.0,0.05865,0.24,ci,ci40255312,2022-05-10T03:48:11.401Z,"2km NW of Llano, CA",earthquake,0.23,1.31,0.182,26.0,automatic,ci,ci
