@@ -18157,3 +18157,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-10T07:31:11.030Z,38.8306656,-122.8176651,1.91,0.83,md,22.0,50.0,0.009374,0.01,nc,nc73731631,2022-05-10T07:32:43.610Z,"8km NW of The Geysers, CA",earthquake,0.21,0.4,0.29,3.0,automatic,nc,nc
 2022-05-10T07:23:49.468Z,63.2684,-150.4682,117.0,1.5,ml,,,,0.38,ak,ak0225z466qr,2022-05-10T07:26:12.326Z,"69 km ESE of Denali National Park, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2022-05-09T13:19:31.710Z,53.9201666666667,-166.581833333333,8.22,-0.62,ml,5.0,198.0,,0.08,av,av91057963,2022-05-10T07:24:15.980Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.45,0.81,0.271577366967548,5.0,reviewed,av,av
+2022-05-09T13:47:18.430Z,37.9576667,-118.5515,9.84,1.46,md,20.0,86.0,0.1845,0.1,nc,nc73731276,2022-05-10T07:44:30.460Z,"39km S of Qualeys Camp, NV",earthquake,0.47,2.13,0.252,16.0,reviewed,nc,nc
+2022-05-09T13:36:44.250Z,53.8651666666667,-166.861333333333,4.51,-0.41,ml,4.0,160.0,,0.07,av,av91057968,2022-05-10T07:44:25.540Z,"21 km W of Dutch Harbor, Alaska",earthquake,0.38,1.19,0.345532063074291,4.0,reviewed,av,av
