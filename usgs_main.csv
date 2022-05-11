@@ -18430,3 +18430,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-11T05:35:31.390Z,34.2408333,-117.0745,2.12,1.04,ml,23.0,95.0,0.1291,0.25,ci,ci40256000,2022-05-11T05:39:12.672Z,"5km NE of Running Springs, CA",earthquake,0.45,2.07,0.174,23.0,automatic,ci,ci
 2022-05-11T05:30:08.120Z,36.011,-117.911,3.86,0.62,ml,9.0,154.0,0.01702,0.15,ci,ci40255992,2022-05-11T05:33:38.406Z,"5km SE of Coso Junction, CA",earthquake,0.58,0.87,0.064,6.0,automatic,ci,ci
 2022-05-11T05:28:07.459Z,-20.4741,-177.4276,497.45,4.5,mb,,121.0,5.062,1.01,us,us7000h8iq,2022-05-11T05:46:25.040Z,"242 km WNW of Haveluloto, Tonga",earthquake,10.7,8.0,0.036,224.0,reviewed,us,us
+2022-05-11T05:52:23.420Z,38.7885017,-122.7708359,1.19,0.64,md,8.0,97.0,0.01414,0.03,nc,nc73732041,2022-05-11T05:53:56.789Z,"2km NW of The Geysers, CA",earthquake,0.4,0.55,0.21,3.0,automatic,nc,nc
+2022-05-10T14:12:14.785Z,45.3184,-76.2085,6.98,2.5,ml,,71.0,0.732,0.29,us,us7000h8by,2022-05-11T05:48:55.040Z,"16 km SE of Arnprior, Canada",earthquake,2.3,7.0,0.128,8.0,reviewed,us,us
