@@ -18529,3 +18529,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-11T14:15:26.250Z,38.1523,-117.9633,10.4,0.8,ml,8.0,144.87,0.014,0.0577,nn,nn00838720,2022-05-11T14:22:00.609Z,"29 km SSE of Mina, Nevada",earthquake,,0.7,0.26,4.0,automatic,nn,nn
 2022-05-11T14:08:47.786Z,-6.5152,130.1356,143.0,4.9,mww,,40.0,1.859,0.44,us,us7000h8ld,2022-05-11T14:25:45.040Z,Banda Sea,earthquake,8.3,7.8,0.098,10.0,reviewed,us,us
 2022-05-11T04:07:55.880Z,47.2281667,-113.4928333,18.42,1.18,ml,15.0,68.0,0.014,0.14,mb,mb80545624,2022-05-11T14:29:46.380Z,"5 km N of Seeley Lake, Montana",earthquake,0.43,0.77,0.102,3.0,reviewed,mb,mb
+2022-05-11T14:36:33.090Z,34.3803329,-118.6246643,10.09,2.28,ml,75.0,26.0,0.0376,0.26,ci,ci40256256,2022-05-11T14:38:59.759Z,"10km SSW of Valencia, CA",earthquake,0.28,0.59,0.226,26.0,automatic,ci,ci
+2022-05-11T14:30:13.340Z,38.8305016,-122.8036652,1.61,0.74,md,16.0,74.0,0.008684,0.03,nc,nc73732156,2022-05-11T14:39:10.699Z,"7km W of Cobb, CA",earthquake,0.25,0.52,0.39,3.0,automatic,nc,nc
+2022-05-11T14:20:14.053Z,-15.208,167.4815,117.3,5.2,mww,,42.0,0.358,0.85,us,us7000h8li,2022-05-11T14:38:27.040Z,"47 km ESE of Port-Olry, Vanuatu",earthquake,7.6,3.3,0.098,10.0,reviewed,us,us
+2022-05-11T04:41:51.930Z,35.6953333,-81.0435,0.04,2.15,md,16.0,82.0,0.2093,0.32,se,se60150243,2022-05-11T14:32:42.414Z,"3 km ESE of Catawba, North Carolina",earthquake,0.6,2.77,0.053,14.0,reviewed,se,se
