@@ -18441,3 +18441,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-11T06:03:10.930Z,35.0761667,-118.937,4.57,1.27,ml,12.0,132.0,0.1012,0.3,ci,ci40256008,2022-05-11T06:06:41.947Z,"15km N of Grapevine, CA",earthquake,0.9,1.99,0.111,17.0,automatic,ci,ci
 2022-05-11T05:54:47.308Z,64.7829,-152.407,15.3,1.0,ml,,,,0.92,ak,ak02260qpb16,2022-05-11T06:10:58.978Z,"45 km SSW of Tanana, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-11T05:27:40.013Z,38.6075,142.3317,43.1,4.6,mb,,168.0,2.388,1.03,us,us7000h8ip,2022-05-11T05:57:28.040Z,"74 km SE of Ōfunato, Japan",earthquake,8.2,5.4,0.069,63.0,reviewed,us,us
+2022-05-11T07:15:44.270Z,33.3648338,-116.3213348,10.82,1.01,ml,21.0,84.0,0.01012,0.17,ci,ci40256056,2022-05-11T07:17:49.492Z,"13km NNE of Borrego Springs, CA",earthquake,0.5,0.97,0.104,4.0,automatic,ci,ci
+2022-05-11T07:07:26.580Z,38.0496674,-119.2306671,2.53,2.79,md,38.0,70.0,0.3414,0.12,nc,nc73732056,2022-05-11T07:13:11.000Z,"14km NW of Lee Vining, CA",earthquake,0.35,9.65,0.22,34.0,automatic,nc,nc
+2022-05-11T07:02:37.430Z,38.8321648,-122.8150024,1.65,0.85,md,8.0,87.0,0.009566,0.03,nc,nc73732051,2022-05-11T07:13:09.891Z,"8km NW of The Geysers, CA",earthquake,0.39,1.05,,1.0,automatic,nc,nc
+2022-05-11T06:54:05.280Z,33.412,-116.9648333,15.94,0.78,ml,29.0,50.0,0.06053,0.22,ci,ci40256040,2022-05-11T06:57:36.118Z,"10km WSW of Aguanga, CA",earthquake,0.29,0.78,0.134,18.0,automatic,ci,ci
+2022-05-11T06:46:43.740Z,17.7988333333333,-66.8496666666667,5.8,2.58,md,4.0,301.0,,0.22,pr,pr71348378,2022-05-11T07:14:42.300Z,"20 km SSE of Guánica, Puerto Rico",earthquake,1.37,0.91,0.0581073386817865,4.0,reviewed,pr,pr
+2022-05-11T06:38:43.910Z,18.3015,-68.3763,112.0,3.83,md,17.0,152.0,0.2125,0.13,pr,pr2022131000,2022-05-11T07:07:25.955Z,"26 km ESE of Boca de Yuma, Dominican Republic",earthquake,1.4,0.84,0.14,11.0,reviewed,pr,pr
