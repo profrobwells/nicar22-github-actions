@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-11T22:41:12.210Z,60.2451,-141.2239,10.9,2.8,ml,,,,0.87,ak,ak022610qtce,2022-05-11T22:44:18.257Z,"114 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-05-11T22:41:12.210Z,60.2451,-141.2239,10.9,2.8,ml,,,,0.87,ak,ak022610qtce,2022-05-11T22:51:09.040Z,"114 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-11T22:39:53.250Z,33.0516667,-116.3913333,11.98,1.09,ml,32,56,0.1218,0.23,ci,ci40015967,2022-05-11T22:43:36.763Z,"20km E of Julian, CA",earthquake,0.33,1.05,0.097,22,automatic,ci,ci
 2022-05-11T22:26:02.900Z,33.1933333,-115.6058333,1.16,2.24,ml,29,70,0.01734,0.22,ci,ci40015943,2022-05-11T22:36:50.500Z,"10km WSW of Niland, CA",earthquake,0.47,31.61,0.173,25,automatic,ci,ci
 2022-05-11T22:24:56.679Z,-6.9231,155.1526,10,5.1,mb,,65,4.026,0.58,us,us6000hkgb,2022-05-11T22:42:52.040Z,"76 km SSW of Panguna, Papua New Guinea",earthquake,9.4,1.9,0.048,139,reviewed,us,us
@@ -21,6 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-11T20:21:50.424Z,61.1543,-146.7611,34.4,1.8,ml,,,,0.86,ak,ak02260zfqpw,2022-05-11T20:44:47.502Z,"22 km W of Valdez, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-05-11T20:19:55.430Z,62.097,-151.2126,75.9,1.5,ml,,,,0.57,ak,ak02260zfbqs,2022-05-11T20:36:45.701Z,"15 km NE of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-05-11T20:09:54.640Z,35.7093315,-121.0771637,8.88,1.6,md,13,89,0.06787,0.01,nc,nc73732241,2022-05-11T22:14:11.473Z,"12km NE of San Simeon, CA",earthquake,0.33,0.93,0.06,8,automatic,nc,nc
+2022-05-11T20:06:59.450Z,48.41416666666667,-123.53066666666666,-0.25,0.97,ml,7,83,0.137,0.15,uw,uw61830542,2022-05-11T22:55:21.320Z,"3 km N of Metchosin, Canada",explosion,0.54,31.61,0.04219685121794403,4,reviewed,uw,uw
 2022-05-11T20:05:20.163Z,55.2907,-160.7491,86.73,3.1,ml,,125,0.166,0.81,us,us6000hkfi,2022-05-11T20:18:14.040Z,"16 km WSW of Sand Point, Alaska",earthquake,5.8,12.3,0.06,36,reviewed,us,us
 2022-05-11T19:51:01.790Z,19.1671657562256,-155.47966003418,33.6199989318848,1.84000003,md,32,99,,0.109999999,hv,hv73009697,2022-05-11T19:54:18.220Z,"3 km S of Pāhala, Hawaii",earthquake,0.62,0.870000005,1.59000003,10,automatic,hv,hv
 2022-05-11T19:50:34.270Z,38.8064995,-122.8143311,3.01,2.03,md,39,50,0.01184,0.03,nc,nc73732236,2022-05-11T21:48:12.246Z,"6km WNW of The Geysers, CA",earthquake,0.17,0.3,0.08,15,automatic,nc,nc
@@ -234,4 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-10T23:06:29.129Z,-23.6141,-66.7236,193.81,6.8,mww,,26,1.491,1.09,us,us7000h8g3,2022-05-11T18:17:58.873Z,"78 km NNW of San Antonio de los Cobres, Argentina",earthquake,6.3,4.2,0.062,25,reviewed,us,us
 2022-05-10T23:04:51.141Z,63.1532,-151.323,0,1.6,ml,,,,1.03,ak,ak0225zdl1x7,2022-05-10T23:21:20.701Z,"47 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-10T23:02:29.617Z,64.9248,-147.3163,1.2,1.2,ml,,,,0.91,ak,ak0225zdkktt,2022-05-10T23:46:26.119Z,"14 km WNW of Two Rivers, Alaska",explosion,,5.4,,,automatic,ak,ak
-2022-05-10T22:49:33.595Z,39.5888,-116.7624,0,2.7,ml,6,179.76,0.822,0.1372,nn,nn00838659,2022-05-11T02:39:19.500Z,"28 km ENE of Austin, Nevada",earthquake,,0,0,1,reviewed,nn,nn
