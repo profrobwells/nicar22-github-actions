@@ -18533,3 +18533,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-11T14:30:13.340Z,38.8305016,-122.8036652,1.61,0.74,md,16.0,74.0,0.008684,0.03,nc,nc73732156,2022-05-11T14:39:10.699Z,"7km W of Cobb, CA",earthquake,0.25,0.52,0.39,3.0,automatic,nc,nc
 2022-05-11T14:20:14.053Z,-15.208,167.4815,117.3,5.2,mww,,42.0,0.358,0.85,us,us7000h8li,2022-05-11T14:38:27.040Z,"47 km ESE of Port-Olry, Vanuatu",earthquake,7.6,3.3,0.098,10.0,reviewed,us,us
 2022-05-11T04:41:51.930Z,35.6953333,-81.0435,0.04,2.15,md,16.0,82.0,0.2093,0.32,se,se60150243,2022-05-11T14:32:42.414Z,"3 km ESE of Catawba, North Carolina",earthquake,0.6,2.77,0.053,14.0,reviewed,se,se
+2022-05-11T14:42:10.600Z,33.5893333,-116.805,7.92,0.6,ml,13.0,147.0,0.03442,0.13,ci,ci40256264,2022-05-11T14:45:44.384Z,"13km WNW of Anza, CA",earthquake,0.43,0.54,0.109,8.0,automatic,ci,ci
+2022-05-10T19:57:10.177Z,29.6013,138.9445,460.35,4.0,mb,,132.0,3.581,0.72,us,us7000h8f1,2022-05-11T14:40:21.040Z,"Izu Islands, Japan region",earthquake,5.1,7.8,0.05,112.0,reviewed,us,us
