@@ -18761,3 +18761,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-12T10:45:23.173Z,63.2103,-150.4376,114.7,1.7,ml,,,,0.45,ak,ak02262h5uas,2022-05-12T10:47:15.109Z,"74 km ESE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-05-12T10:43:45.176Z,59.629,-153.0006,102.0,1.2,ml,,,,0.55,ak,ak02262h5gi5,2022-05-12T10:47:24.015Z,"64 km ESE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-12T10:30:13.451Z,38.1744,-117.992,0.6,1.6,ml,10.0,117.28,0.025,0.3231,nn,nn00838759,2022-05-12T10:33:39.129Z,"26 km SSE of Mina, Nevada",earthquake,,0.2,0.24,8.0,automatic,nn,nn
+2022-05-12T10:54:13.940Z,38.7666664,-122.704834,0.89,0.42,md,9.0,116.0,0.004596,0.12,nc,nc73732566,2022-05-12T10:55:49.997Z,"2km SW of Anderson Springs, CA",earthquake,0.41,0.46,0.09,3.0,automatic,nc,nc
+2022-05-12T10:53:23.619Z,60.5086,-143.0295,0.1,1.7,ml,,,,1.09,ak,ak02262h7k07,2022-05-12T10:56:40.423Z,"103 km S of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
