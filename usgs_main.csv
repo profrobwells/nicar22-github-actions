@@ -18850,3 +18850,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-12T17:55:20.740Z,19.1783332824707,-155.469161987305,33.439998626709,2.03999996,md,32.0,158.0,,0.129999995,hv,hv73010522,2022-05-12T18:00:37.980Z,"2 km SSE of Pāhala, Hawaii",earthquake,0.65,0.870000005,0.109999999,5.0,automatic,hv,hv
 2022-05-12T03:53:41.036Z,31.61416492,-103.9456909,6.825683594,2.9,ml,11.0,63.0,0.1218832055,0.2,tx,tx2022jfqp,2022-05-12T18:09:29.025Z,"34 km WSW of Mentone, Texas",earthquake,1.280295292,2.098265795,0.1,6.0,reviewed,tx,tx
 2022-05-12T00:53:20.660Z,52.3066666666667,-174.143333333333,7.48,-0.68,ml,4.0,122.0,,0.14,av,av91058268,2022-05-12T18:01:09.050Z,"12 km NNE of Atka, Alaska",earthquake,0.73,1.01,0.225917678954517,4.0,reviewed,av,av
+2022-05-12T18:51:28.724Z,63.1026,-150.8644,124.2,3.0,ml,,,,0.44,ak,ak02262lylqk,2022-05-12T18:53:46.077Z,"65 km SE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-05-12T04:28:58.326Z,60.2365,-140.7617,9.5,0.8,ml,,,,0.31,ak,ak02262dhnb7,2022-05-12T18:50:32.333Z,"96 km NW of Yakutat, Alaska",earthquake,,0.3,,,reviewed,ak,ak
