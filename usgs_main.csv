@@ -19171,3 +19171,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-13T19:28:35.740Z,33.5215,-116.7405,2.26,0.52,ml,24.0,37.0,0.04387,0.18,ci,ci40017791,2022-05-13T19:32:20.889Z,"7km WSW of Anza, CA",earthquake,0.25,0.35,0.154,16.0,automatic,ci,ci
 2022-05-13T17:16:23.961Z,-21.4654,-178.823,564.54,4.5,mb,,80.0,4.729,0.81,us,us6000hky8,2022-05-13T19:30:23.040Z,Fiji region,earthquake,9.5,6.7,0.067,71.0,reviewed,us,us
 2022-05-13T00:37:01.390Z,58.2728333333333,-155.095666666667,9.71,-0.6,ml,4.0,127.0,,0.23,av,av91058448,2022-05-13T19:26:02.190Z,"87 km NNW of Karluk, Alaska",earthquake,0.9,1.75,0.418789061630562,4.0,reviewed,av,av
+2022-05-13T01:29:41.930Z,36.7755,-116.2459,3.2,-0.4,ml,10.0,133.28,0.055,0.094,nn,nn00838869,2022-05-13T19:41:18.241Z,"48 km ESE of Beatty, Nevada",earthquake,,3.5,0.06,7.0,reviewed,nn,nn
