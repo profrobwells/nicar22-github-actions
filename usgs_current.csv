@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-13T21:30:25.940Z,35.5965004,-117.3966675,7.55,1.33,ml,15,152,0.05434,0.15,ci,ci40017903,2022-05-13T21:32:32.183Z,"19km S of Trona, CA",earthquake,0.69,0.91,0.563,8,automatic,ci,ci
+2022-05-13T21:39:36.485Z,56.2566,-156.4502,62.3,3.2,ml,,,,0.48,ak,ak02264b7p4j,2022-05-13T21:43:33.768Z,"121 km E of Chignik, Alaska",earthquake,,2.1,,,automatic,ak,ak
+2022-05-13T21:34:38.410Z,36.063,-117.8478333,2.5,1.39,ml,18,74,0.05476,0.15,ci,ci40017911,2022-05-13T21:38:10.613Z,"9km ENE of Coso Junction, CA",earthquake,0.26,0.28,0.238,20,automatic,ci,ci
+2022-05-13T21:30:26.020Z,35.5958333,-117.3936667,7.81,0.72,ml,11,187,0.05663,0.23,ci,ci40017903,2022-05-13T21:34:03.017Z,"19km S of Trona, CA",earthquake,0.65,0.88,0.073,7,automatic,ci,ci
 2022-05-13T21:22:24.557Z,60.6269,-141.6925,25.7,0.6,ml,,,,0.17,ak,ak02264b4113,2022-05-13T21:27:04.337Z,"111 km SE of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-05-13T21:03:11.320Z,19.2026672363281,-155.405166625977,33.4300003051758,1.88999999,md,27,164,,0.119999997,hv,hv73011522,2022-05-13T21:06:17.710Z,"7 km E of Pāhala, Hawaii",earthquake,0.77,1.12,1.38999999,10,automatic,hv,hv
 2022-05-13T20:25:52.230Z,34.1005,-117.3218333,16.27,0.89,ml,29,110,0.1305,0.16,ci,ci40017839,2022-05-13T21:18:10.338Z,"3km NNW of Colton, CA",earthquake,0.28,0.64,0.086,12,reviewed,ci,ci
@@ -9,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-13T20:01:25.070Z,35.948,-117.6743333,5.83,0.37,ml,10,89,0.01944,0.04,ci,ci40017823,2022-05-13T20:52:41.704Z,"21km E of Little Lake, CA",earthquake,0.2,0.39,0.114,4,reviewed,ci,ci
 2022-05-13T19:48:10.907Z,61.7813,-149.9129,21.9,2,ml,,,,0.74,ak,ak02264a2pf3,2022-05-13T21:15:52.168Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-13T19:47:39.640Z,19.1568336486816,-155.367172241211,28.0400009155273,2.42,ml,46,179,,0.150000006,hv,hv73011462,2022-05-13T20:39:15.040Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.59,0.829999983,3.98,19,automatic,hv,hv
-2022-05-13T19:45:18.120Z,35.6949997,-117.609169,7.24,3.08,ml,47,42,0.06279,0.17,ci,ci40017815,2022-05-13T21:13:59.194Z,"10km NE of Ridgecrest, CA",earthquake,0.21,0.5,0.26,18,automatic,ci,ci
+2022-05-13T19:45:18.040Z,35.6956667,-117.6093333,7.96,3.16,ml,48,49,0.06319,0.14,ci,ci40017815,2022-05-13T21:42:21.370Z,"10km NE of Ridgecrest, CA",earthquake,0.12,0.36,0.174,226,reviewed,ci,ci
 2022-05-13T19:28:35.740Z,33.5215,-116.7405,2.26,0.52,ml,24,37,0.04387,0.18,ci,ci40017791,2022-05-13T19:32:20.889Z,"7km WSW of Anza, CA",earthquake,0.25,0.35,0.154,16,automatic,ci,ci
 2022-05-13T19:13:38.240Z,38.833168,-122.8160019,1.73,0.94,md,17,55,0.0108,0.03,nc,nc73733281,2022-05-13T19:23:11.005Z,"8km NW of The Geysers, CA",earthquake,0.23,0.53,0.29,2,automatic,nc,nc
 2022-05-13T19:01:19.260Z,38.1228333,-122.1616669,2.44,2.13,md,8,161,0.00982,0.08,nc,nc73733276,2022-05-13T21:15:10.668Z,"7km E of Vallejo, CA",earthquake,1.01,1.27,0.16,7,automatic,nc,nc
@@ -41,7 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-13T16:28:42.500Z,35.6948333,-117.6081667,8.48,2.78,ml,40,52,0.06323,0.11,ci,ci40017663,2022-05-13T19:52:54.955Z,"10km NE of Ridgecrest, CA",earthquake,0.12,0.38,0.154,25,reviewed,ci,ci
 2022-05-13T16:05:48.880Z,38.8433342,-122.8180008,1.2,0.86,md,13,83,0.01206,0.03,nc,nc73733191,2022-05-13T18:40:10.760Z,"9km WNW of Cobb, CA",earthquake,0.26,0.59,,1,automatic,nc,nc
 2022-05-13T15:47:27.058Z,40.2301,142.7439,42.47,4.6,mb,,134,1.396,0.8,us,us6000hkxr,2022-05-13T17:15:04.040Z,"94 km NE of Miyako, Japan",earthquake,7.4,7.1,0.046,142,reviewed,us,us
-2022-05-13T15:46:53.330Z,19.1854991912842,-155.500503540039,33.9900016784668,2.97,ml,44,77,,0.140000001,hv,hv73011302,2022-05-13T18:52:55.907Z,"3 km SW of Pāhala, Hawaii",earthquake,0.52,0.689999998,3.62,30,automatic,hv,hv
+2022-05-13T15:46:53.240Z,19.1898333333333,-155.502333333333,35.78,3.2,ml,58,72,,0.13,hv,hv73011302,2022-05-13T21:41:53.445Z,"2 km WSW of Pāhala, Hawaii",earthquake,0.39,0.47,0.163497110920606,36,reviewed,hv,hv
 2022-05-13T15:33:10.120Z,38.7724991,-122.7241669,1.75,0.68,md,10,81,0.0109,0.02,nc,nc73733176,2022-05-13T17:26:10.300Z,"3km W of Anderson Springs, CA",earthquake,0.34,0.6,0.16,2,automatic,nc,nc
 2022-05-13T15:32:57.775Z,61.6649,-150.6881,39.9,3.3,ml,,,,0.62,ak,ak022647ln39,2022-05-13T21:31:38.975Z,"16 km NW of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-05-13T15:26:11.349Z,51.1305,-178.1684,10,4.5,mb,,179,0.796,1.19,us,us6000hkxm,2022-05-13T19:21:05.320Z,"134 km SW of Adak, Alaska",earthquake,7.2,2,0.053,102,reviewed,us,us
@@ -57,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-13T14:08:33.430Z,19.1688327789307,-155.352340698242,29.4500007629395,2.1099999,md,42,177,,0.119999997,hv,hv73011252,2022-05-13T14:14:03.010Z,"Island of Hawaii, Hawaii",earthquake,0.6,1.02999997,0.0700000003,13,automatic,hv,hv
 2022-05-13T13:49:15.190Z,38.8235016,-122.8028336,2.54,0.84,md,11,123,0.005657,0.01,nc,nc73733156,2022-05-13T13:58:11.027Z,"6km NW of The Geysers, CA",earthquake,0.41,1.24,,1,automatic,nc,nc
 2022-05-13T13:39:04.470Z,38.8050003,-122.8156662,3.35,0.25,md,13,65,0.01124,0.02,nc,nc73733151,2022-05-13T13:49:19.197Z,"6km WNW of The Geysers, CA",earthquake,0.38,0.93,0.11,2,automatic,nc,nc
-2022-05-13T13:32:36.610Z,33.342,-116.8575,7.37,3.48,mw,153,12,0.01236,0.23,ci,ci40017591,2022-05-13T21:32:03.091Z,"2km SSE of Palomar Observatory, CA",earthquake,0.1,0.44,,4,reviewed,ci,ci
+2022-05-13T13:32:36.610Z,33.342,-116.8575,7.37,3.48,mw,153,12,0.01236,0.23,ci,ci40017591,2022-05-13T21:37:15.220Z,"2km SSE of Palomar Observatory, CA",earthquake,0.1,0.44,,4,reviewed,ci,ci
 2022-05-13T13:21:35.116Z,62.2733,-148.5627,29.3,1.6,ml,,,,0.87,ak,ak022646cdag,2022-05-13T13:25:15.487Z,"53 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-13T13:16:58.810Z,19.1889991760254,-155.474838256836,34.8600006103516,1.72000003,md,32,192,,0.129999995,hv,hv73011217,2022-05-13T13:20:08.050Z,"1 km SSE of Pāhala, Hawaii",earthquake,0.77,1.01999998,0.569999993,3,automatic,hv,hv
 2022-05-13T13:15:30.230Z,35.6795,-117.5483333,8.27,0.91,ml,22,73,0.1163,0.1,ci,ci40017575,2022-05-13T20:48:44.942Z,"13km ENE of Ridgecrest, CA",earthquake,0.19,0.76,0.064,12,reviewed,ci,ci
