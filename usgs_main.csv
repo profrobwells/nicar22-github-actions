@@ -19198,3 +19198,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-13T21:39:36.485Z,56.2566,-156.4502,62.3,3.2,ml,,,,0.48,ak,ak02264b7p4j,2022-05-13T21:43:33.768Z,"121 km E of Chignik, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2022-05-13T21:34:38.410Z,36.063,-117.8478333,2.5,1.39,ml,18.0,74.0,0.05476,0.15,ci,ci40017911,2022-05-13T21:38:10.613Z,"9km ENE of Coso Junction, CA",earthquake,0.26,0.28,0.238,20.0,automatic,ci,ci
 2022-05-13T21:44:14.430Z,36.0645,-117.8513333,2.67,1.51,ml,17.0,70.0,0.05305,0.11,ci,ci40017919,2022-05-13T21:48:06.047Z,"9km ENE of Coso Junction, CA",earthquake,0.23,0.76,0.249,22.0,automatic,ci,ci
+2022-05-13T22:12:28.880Z,33.5086667,-116.492,12.06,0.62,ml,26.0,58.0,0.05731,0.18,ci,ci40017967,2022-05-13T22:16:08.265Z,"18km ESE of Anza, CA",earthquake,0.28,0.53,0.221,15.0,automatic,ci,ci
+2022-05-13T21:55:00.437Z,86.4314,65.6171,10.0,4.1,mb,,109.0,9.476,0.7,us,us6000hl09,2022-05-13T22:13:13.040Z,north of Franz Josef Land,earthquake,4.0,2.0,0.117,20.0,reviewed,us,us
