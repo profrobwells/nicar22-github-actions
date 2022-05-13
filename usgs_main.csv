@@ -19018,3 +19018,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-13T07:05:45.992Z,62.296,-148.263,30.0,1.7,ml,,,,0.61,ak,ak022642od12,2022-05-13T07:11:04.666Z,"56 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-13T07:09:30.814Z,25.8247,96.9683,30.73,4.3,mb,,125.0,4.415,0.64,us,us6000hksn,2022-05-13T07:37:09.040Z,"45 km SSE of Sarupathar, India",earthquake,6.3,6.6,0.142,15.0,reviewed,us,us
 2022-05-13T07:07:13.783Z,17.9312,-63.3097,105.51,4.3,mb,,144.0,0.315,0.5,us,us6000hksk,2022-05-13T07:32:41.974Z,"33 km NNW of Upper Hell's Gate, Bonaire, Saint Eustatius and Saba ",earthquake,8.3,6.2,0.075,50.0,reviewed,us,us
+2022-05-13T07:45:20.420Z,38.8050003,-122.7913361,0.88,1.76,md,30.0,42.0,0.004288,0.03,nc,nc73732986,2022-05-13T07:46:57.620Z,"4km NW of The Geysers, CA",earthquake,0.17,0.27,0.12,8.0,automatic,nc,nc
+2022-05-13T07:44:11.670Z,36.2215004,-117.8795013,6.83,1.64,ml,29.0,46.0,0.1056,0.14,ci,ci40017327,2022-05-13T07:46:22.422Z,"13km ESE of Olancha, CA",earthquake,0.27,1.04,0.306,11.0,automatic,ci,ci
+2022-05-13T07:42:43.240Z,36.8689995,-121.6278305,5.96,1.41,md,25.0,46.0,0.03264,0.28,nc,nc73732976,2022-05-13T07:44:17.523Z,"3km SSE of Aromas, CA",earthquake,0.62,1.34,0.21,20.0,automatic,nc,nc
+2022-05-13T07:39:42.056Z,61.1244,-152.2336,118.8,0.8,ml,,,,0.42,ak,ak022642vn2i,2022-05-13T07:46:16.483Z,"59 km W of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-05-13T07:35:11.039Z,62.9049,-152.1833,0.0,1.2,ml,,,,0.43,ak,ak022642upts,2022-05-13T07:46:17.273Z,"74 km SSW of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-12T21:28:06.260Z,53.8663333333333,-166.868166666667,4.51,-0.64,ml,4.0,165.0,,0.05,av,av91058433,2022-05-13T07:40:50.960Z,"21 km W of Dutch Harbor, Alaska",earthquake,0.55,1.17,0.0730139753425612,3.0,reviewed,av,av
+2022-05-12T21:27:56.230Z,53.8653333333333,-166.864166666667,4.53,-0.23,ml,5.0,162.0,,0.08,av,av91058428,2022-05-13T07:38:05.270Z,"21 km W of Dutch Harbor, Alaska",earthquake,0.37,1.03,0.107721606625394,4.0,reviewed,av,av
