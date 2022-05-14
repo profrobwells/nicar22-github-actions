@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-14T11:51:52.925Z,63.2219,-151.078,3.6,2.2,ml,,,,0.85,ak,ak02265svbcq,2022-05-14T11:54:43.892Z,"48 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-14T11:47:20.520Z,37.4766655,-118.7931671,7.98,2.48,md,24,71,0.1167,0.05,nc,nc73733616,2022-05-14T11:54:10.865Z,"14km SW of Toms Place, CA",earthquake,0.36,1.58,0.19,30,automatic,nc,nc
 2022-05-14T11:37:31.210Z,19.1981658935547,-155.489166259766,32.310001373291,2.37,ml,44,133,,0.129999995,hv,hv73012042,2022-05-14T11:43:03.020Z,"1 km WSW of Pāhala, Hawaii",earthquake,0.52,0.689999998,3.98,10,automatic,hv,hv
 2022-05-14T11:37:07.530Z,19.1685009002686,-155.473159790039,28.5400009155273,2.37,ml,38,84,,0.170000002,hv,hv73012037,2022-05-14T11:42:37.380Z,"3 km S of Pāhala, Hawaii",earthquake,0.61,0.920000017,3.93,13,automatic,hv,hv
 2022-05-14T11:37:04.610Z,40.5628319,-122.168335,9.21,1.73,md,7,188,0.05269,0.12,nc,nc73733611,2022-05-14T11:44:10.808Z,"2km ENE of Millville, CA",earthquake,1.99,3.01,0.15,5,automatic,nc,nc
@@ -15,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-14T10:01:41.890Z,38.8440018,-122.8258362,1.47,0.86,md,11,134,0.009274,0.01,nc,nc73733581,2022-05-14T10:10:11.239Z,"9km WNW of Cobb, CA",earthquake,0.25,0.66,,1,automatic,nc,nc
 2022-05-14T10:00:45.290Z,18.0001666666667,-67.0063333333333,13.95,1.1,md,5,129,,0.09,pr,pr71348773,2022-05-14T11:40:18.040Z,"5 km ENE of La Parguera, Puerto Rico",earthquake,0.78,1.16,0.0154671207027917,2,reviewed,pr,pr
 2022-05-14T09:54:53.010Z,38.8356667,-122.8116684,1.84,0.36,md,11,99,0.01232,0.02,nc,nc73733576,2022-05-14T10:03:11.203Z,"8km W of Cobb, CA",earthquake,0.38,0.9,,1,automatic,nc,nc
-2022-05-14T09:36:32.720Z,38.833168,-122.8153305,1.88,1.66,md,26,74,0.01059,0.02,nc,nc73733571,2022-05-14T09:45:10.107Z,"8km NW of The Geysers, CA",earthquake,0.2,0.36,0.18,6,automatic,nc,nc
+2022-05-14T09:36:32.720Z,38.833168,-122.8153305,1.88,1.66,md,26,74,0.01059,0.02,nc,nc73733571,2022-05-14T11:51:10.844Z,"8km NW of The Geysers, CA",earthquake,0.2,0.36,0.18,6,automatic,nc,nc
 2022-05-14T09:28:04.986Z,31.6119,-103.9626,5,3,ml,,72,0.254,0.31,us,us6000hl34,2022-05-14T09:44:47.040Z,"35 km WSW of Mentone, Texas",earthquake,1.4,1.9,0.049,78,reviewed,us,us
 2022-05-14T09:27:04.259Z,62.4904,-149.2794,18.4,1.2,ml,,,,0.38,ak,ak02265rj7a3,2022-05-14T09:36:39.574Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-14T09:23:35.650Z,40.5776672,-123.7730026,20.61,2,md,8,201,0.3374,0.06,nc,nc73733566,2022-05-14T11:26:10.696Z,"28km E of Hydesville, CA",earthquake,1.21,1.44,,1,automatic,nc,nc
@@ -200,8 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-13T12:19:37.091Z,61.4202,-152.3011,3.7,1.1,ml,,,,0.61,ak,ak022645qieq,2022-05-13T12:22:19.597Z,"72 km WNW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-13T12:18:09.460Z,35.8591667,-117.6731667,8.58,0.4,ml,15,88,0.07521,0.08,ci,ci40017519,2022-05-13T20:40:23.176Z,"23km ESE of Little Lake, CA",earthquake,0.19,0.54,0.08,4,reviewed,ci,ci
 2022-05-13T12:05:01.130Z,47.42033333333333,-123.04016666666666,15.68,0.7000000000000001,ml,12,98,0.04089,0.16,uw,uw61830882,2022-05-13T15:49:04.990Z,"7 km ENE of Hoodsport, Washington",earthquake,0.53,0.88,0.061827537790003606,3,reviewed,uw,uw
-2022-05-13T11:53:27.760Z,38.4941,-118.944,9.4,1.2,ml,19,146.6,0.144,0.1482,nn,nn00838849,2022-05-13T17:53:06.819Z,"23 km SW of Walker Lake, Nevada",earthquake,,2,0.19,8,reviewed,nn,nn
-2022-05-13T11:50:50.820Z,31.62632951,-104.3885521,4.409130859,2.5,ml,9,69,0.1655981959,0.2,tx,tx2022jibw,2022-05-13T18:44:23.611Z,"60 km S of Whites City, New Mexico",earthquake,1.632453019,2.906761937,0.1,7,reviewed,tx,tx
-2022-05-13T11:48:38.170Z,36.1616667,-117.8706667,9.38,0.31,ml,16,198,0.04582,0.12,ci,ci40017511,2022-05-13T20:38:21.341Z,"15km NNE of Coso Junction, CA",earthquake,0.42,0.46,0.188,3,reviewed,ci,ci
-2022-05-13T11:46:34.840Z,38.8261681,-122.8048325,1.37,0.35,md,9,71,0.004943,0.02,nc,nc73733086,2022-05-13T11:55:10.295Z,"7km NW of The Geysers, CA",earthquake,0.36,1.15,,1,automatic,nc,nc
-2022-05-13T11:46:17.400Z,35.6726667,-117.425,11,0.47,ml,8,197,0.09116,0.17,ci,ci40017503,2022-05-13T15:13:42.081Z,"11km S of Searles Valley, CA",earthquake,0.86,1.17,0.11,6,reviewed,ci,ci
