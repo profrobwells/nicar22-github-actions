@@ -19431,3 +19431,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-14T19:48:04.701Z,40.1288,76.5977,10.0,4.5,mb,,71.0,2.046,1.02,us,us6000hl6f,2022-05-14T21:26:01.040Z,Kyrgyzstan-Xinjiang border region,earthquake,6.3,1.9,0.09,36.0,reviewed,us,us
 2022-05-14T17:14:07.127Z,41.1257,44.0609,11.77,4.3,mwr,,32.0,1.003,0.79,us,us6000hl5q,2022-05-14T21:31:26.040Z,"16 km WSW of Metsavan, Armenia",earthquake,5.5,4.4,0.083,14.0,reviewed,us,us
 2022-05-14T21:45:43.320Z,37.2944984,-121.6740036,1.82,1.89,md,19.0,51.0,0.03546,0.07,nc,nc73733756,2022-05-14T21:48:54.796Z,"15km E of Seven Trees, CA",earthquake,0.22,0.52,0.09,13.0,automatic,nc,nc
+2022-05-14T22:08:05.530Z,38.8173332,-122.82267,2.15,0.87,md,21.0,50.0,0.009864,0.02,nc,nc73733776,2022-05-14T22:09:41.576Z,"7km NW of The Geysers, CA",earthquake,0.24,0.37,0.29,4.0,automatic,nc,nc
+2022-05-14T21:59:12.170Z,38.8383331,-122.8071671,2.19,0.36,md,9.0,62.0,0.01314,0.01,nc,nc73733771,2022-05-14T22:07:11.488Z,"8km WNW of Cobb, CA",earthquake,0.42,1.07,,1.0,automatic,nc,nc
+2022-05-14T21:52:07.410Z,38.8354988,-122.7986679,2.45,0.96,md,19.0,64.0,0.01501,0.02,nc,nc73733766,2022-05-14T22:01:10.624Z,"7km WNW of Cobb, CA",earthquake,0.24,0.58,0.18,3.0,automatic,nc,nc
+2022-05-14T20:13:36.292Z,-40.9147,174.75,49.23,4.5,mb,,45.0,0.395,0.73,us,us6000hl6j,2022-05-14T22:11:17.166Z,"22 km W of Paraparaumu, New Zealand",earthquake,3.6,5.5,0.128,18.0,reviewed,us,us
+2022-05-14T17:41:11.421Z,-7.0103,129.7588,124.61,4.3,mb,,91.0,1.806,0.56,us,us6000hl5y,2022-05-14T21:56:12.040Z,"Kepulauan Babar, Indonesia",earthquake,7.2,12.1,0.153,13.0,reviewed,us,us
