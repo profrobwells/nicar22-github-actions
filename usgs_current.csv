@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-14T09:36:32.720Z,38.833168,-122.8153305,1.88,1.66,md,26,74,0.01059,0.02,nc,nc73733571,2022-05-14T09:38:05.745Z,"8km NW of The Geysers, CA",earthquake,0.2,0.36,0.18,6,automatic,nc,nc
+2022-05-14T09:36:32.720Z,38.833168,-122.8153305,1.88,1.66,md,26,74,0.01059,0.02,nc,nc73733571,2022-05-14T09:45:10.107Z,"8km NW of The Geysers, CA",earthquake,0.2,0.36,0.18,6,automatic,nc,nc
+2022-05-14T09:28:04.986Z,31.6119,-103.9626,5,3,ml,,72,0.254,0.31,us,us6000hl34,2022-05-14T09:44:47.040Z,"35 km WSW of Mentone, Texas",earthquake,1.4,1.9,0.049,78,reviewed,us,us
 2022-05-14T09:27:04.259Z,62.4904,-149.2794,18.4,1.2,ml,,,,0.38,ak,ak02265rj7a3,2022-05-14T09:36:39.574Z,"42 km E of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-14T09:23:35.650Z,40.5776672,-123.7730026,20.61,2,md,8,201,0.3374,0.06,nc,nc73733566,2022-05-14T09:30:10.024Z,"28km E of Hydesville, CA",earthquake,1.21,1.44,,1,automatic,nc,nc
 2022-05-14T09:15:22.302Z,31.6105,-103.9734,5,2.5,ml,,73,0.255,0.23,us,us6000hl31,2022-05-14T09:35:49.040Z,"36 km NNW of Toyah, Texas",earthquake,0.7,1.9,0.055,64,reviewed,us,us
@@ -145,7 +146,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-13T16:28:42.500Z,35.6948333,-117.6081667,8.48,2.78,ml,40,52,0.06323,0.11,ci,ci40017663,2022-05-13T19:52:54.955Z,"10km NE of Ridgecrest, CA",earthquake,0.12,0.38,0.154,25,reviewed,ci,ci
 2022-05-13T16:05:48.880Z,38.8433342,-122.8180008,1.2,0.86,md,13,83,0.01206,0.03,nc,nc73733191,2022-05-13T18:40:10.760Z,"9km WNW of Cobb, CA",earthquake,0.26,0.59,,1,automatic,nc,nc
 2022-05-13T15:47:27.058Z,40.2301,142.7439,42.47,4.6,mb,,134,1.396,0.8,us,us6000hkxr,2022-05-13T17:15:04.040Z,"94 km NE of Miyako, Japan",earthquake,7.4,7.1,0.046,142,reviewed,us,us
-2022-05-13T15:46:53.240Z,19.1898333333333,-155.502333333333,35.78,3.2,ml,58,72,,0.13,hv,hv73011302,2022-05-13T21:41:53.445Z,"2 km WSW of Pāhala, Hawaii",earthquake,0.39,0.47,0.163497110920606,36,reviewed,hv,hv
+2022-05-13T15:46:53.240Z,19.1898333333333,-155.502333333333,35.78,3.2,ml,58,72,,0.13,hv,hv73011302,2022-05-14T09:50:17.753Z,"2 km WSW of Pāhala, Hawaii",earthquake,0.39,0.47,0.163497110920606,36,reviewed,hv,hv
 2022-05-13T15:33:10.120Z,38.7724991,-122.7241669,1.75,0.68,md,10,81,0.0109,0.02,nc,nc73733176,2022-05-13T17:26:10.300Z,"3km W of Anderson Springs, CA",earthquake,0.34,0.6,0.16,2,automatic,nc,nc
 2022-05-13T15:32:57.775Z,61.6649,-150.6881,39.9,3.3,ml,,,,0.62,ak,ak022647ln39,2022-05-13T21:31:38.975Z,"16 km NW of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-05-13T15:26:11.349Z,51.1305,-178.1684,10,4.5,mb,,179,0.796,1.19,us,us6000hkxm,2022-05-13T19:21:05.320Z,"134 km SW of Adak, Alaska",earthquake,7.2,2,0.053,102,reviewed,us,us
@@ -217,6 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-13T10:00:13.300Z,38.7799988,-122.7129974,2.07,1.03,md,9,103,0.01595,0.02,nc,nc73733036,2022-05-13T10:06:10.756Z,"2km WNW of Anderson Springs, CA",earthquake,0.51,0.99,0.18,2,automatic,nc,nc
 2022-05-13T09:58:33.680Z,35.6383333,-117.5746667,8.06,0.99,ml,14,123,0.1052,0.13,ci,ci40017423,2022-05-13T15:18:19.901Z,"9km ENE of Ridgecrest, CA",earthquake,0.3,1.4,0.097,11,reviewed,ci,ci
 2022-05-13T09:57:50.380Z,38.7973328,-122.7403336,0.87,1.34,md,23,100,0.01549,0.05,nc,nc73733031,2022-05-13T12:32:11.503Z,"3km NNE of The Geysers, CA",earthquake,0.26,0.5,0.11,6,automatic,nc,nc
-2022-05-13T09:51:03.000Z,19.1338329315186,-155.388336181641,30.1900005340576,1.90999997,md,38,182,,0.129999995,hv,hv73011082,2022-05-13T09:54:16.060Z,"12 km SE of Pāhala, Hawaii",earthquake,0.71,0.920000017,1.84000003,6,automatic,hv,hv
-2022-05-13T09:50:07.850Z,46.205333333333336,-122.184,3.3,0.15,ml,13,70,0.007317,0.13,uw,uw61830877,2022-05-13T15:54:36.380Z,"38 km NNE of Amboy, Washington",earthquake,0.38,0.75,0.1019002512016472,3,reviewed,uw,uw
-2022-05-13T09:47:50.899Z,-23.9265,-67.0092,216.72,4.3,mb,,180,1.447,0.64,us,us6000hkte,2022-05-13T10:50:50.040Z,"77 km WNW of San Antonio de los Cobres, Argentina",earthquake,10.5,9.4,0.169,10,reviewed,us,us
