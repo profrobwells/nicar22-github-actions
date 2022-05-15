@@ -19534,3 +19534,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-15T11:12:38.420Z,34.5188333,-118.8181667,-0.21,1.14,ml,18.0,208.0,0.1233,0.2,ci,ci40019359,2022-05-15T11:16:12.551Z,"12km N of Piru, CA",earthquake,0.71,31.61,0.207,28.0,automatic,ci,ci
 2022-05-15T11:09:57.000Z,11.916,142.375,58.8,5.6,Mi,15.0,71.99999424000046,,,pt,pt22135000,2022-05-15T11:20:33.261Z,"290 km WSW of Merizo Village, Guam",earthquake,,,,9.0,reviewed,pt,pt
 2022-05-15T11:09:53.002Z,11.8795,142.2766,19.49,5.5,mww,,32.0,3.046,0.59,us,us6000hlak,2022-05-15T11:32:50.098Z,south of the Mariana Islands,earthquake,8.9,4.0,0.073,18.0,reviewed,us,us
+2022-05-15T12:45:08.147Z,61.9518,-149.8332,24.4,1.7,ml,,,,0.59,ak,ak02267gypry,2022-05-15T12:47:12.080Z,"23 km S of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-05-15T12:44:41.120Z,38.7946663,-122.7988358,1.22,1.01,md,9.0,81.0,0.007144,0.02,nc,nc73733971,2022-05-15T12:46:17.195Z,"4km WNW of The Geysers, CA",earthquake,0.41,0.61,0.14,2.0,automatic,nc,nc
+2022-05-15T12:42:35.170Z,38.8313332,-122.8180008,1.67,0.77,md,21.0,52.0,0.01006,0.01,nc,nc73733966,2022-05-15T12:44:12.206Z,"8km NW of The Geysers, CA",earthquake,0.23,0.39,0.4,3.0,automatic,nc,nc
+2022-05-15T12:42:03.785Z,65.7486,-148.4022,0.0,1.5,ml,,,,0.72,ak,ak02267gy2ad,2022-05-15T12:44:44.143Z,"25 km NNE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-05-15T12:41:36.270Z,38.8201675,-122.7633362,2.09,0.21,md,6.0,149.0,0.0115,0.01,nc,nc73733961,2022-05-15T12:43:11.982Z,"4km W of Cobb, CA",earthquake,0.53,1.13,0.16,2.0,automatic,nc,nc
+2022-05-15T12:29:54.850Z,38.8320007,-122.8186646,1.53,0.85,md,15.0,81.0,0.0109,0.01,nc,nc73733956,2022-05-15T12:39:10.813Z,"8km NW of The Geysers, CA",earthquake,0.28,0.54,,1.0,automatic,nc,nc
