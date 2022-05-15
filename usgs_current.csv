@@ -182,5 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-14T12:00:09.993Z,61.7318,-146.6422,13.5,1.8,ml,,,,0.99,ak,ak02265t5q80,2022-05-14T12:03:25.686Z,"29 km SSE of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-14T11:58:32.230Z,33.4516667,-116.6785,12.55,0.32,ml,16,113,0.04087,0.13,ci,ci40018471,2022-05-14T12:02:10.742Z,"12km S of Anza, CA",earthquake,0.33,0.53,0.08,8,automatic,ci,ci
 2022-05-14T11:51:52.925Z,63.2219,-151.078,3.6,2.2,ml,,,,0.85,ak,ak02265svbcq,2022-05-14T11:55:52.566Z,"48 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-05-14T11:47:20.520Z,37.4766655,-118.7931671,7.98,2.48,md,24,71,0.1167,0.05,nc,nc73733616,2022-05-14T14:29:10.944Z,"14km SW of Toms Place, CA",earthquake,0.36,1.58,0.19,30,automatic,nc,nc
-2022-05-14T11:47:15.347Z,-23.6183,-66.8319,216.51,4.7,mb,,108,1.404,0.79,us,us6000hl3s,2022-05-14T12:09:18.040Z,"84 km NW of San Antonio de los Cobres, Argentina",earthquake,5.8,10.6,0.208,8,reviewed,us,us
