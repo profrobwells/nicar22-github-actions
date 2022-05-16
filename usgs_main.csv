@@ -19696,3 +19696,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-16T05:28:50.900Z,38.8339996,-122.8016663,2.38,1.28,md,23.0,55.0,0.009878,0.02,nc,nc73734331,2022-05-16T05:37:10.721Z,"7km W of Cobb, CA",earthquake,0.23,0.56,0.08,4.0,automatic,nc,nc
 2022-05-16T05:48:42.976Z,58.6073,-137.4719,6.8,3.6,ml,,,,0.89,ak,ak022690cqso,2022-05-16T05:53:06.280Z,"80 km NW of Elfin Cove, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-05-16T05:25:54.592Z,50.6513,156.258,95.33,5.4,mww,,37.0,2.617,1.14,us,us6000hlee,2022-05-16T05:49:33.940Z,"9 km ESE of Severo-Kuril’sk, Russia",earthquake,8.1,6.0,0.093,11.0,reviewed,us,us
+2022-05-16T06:04:20.240Z,38.8339996,-122.8199997,1.4,0.85,md,14.0,61.0,0.01293,0.02,nc,nc73734356,2022-05-16T06:13:10.915Z,"8km NW of The Geysers, CA",earthquake,0.29,0.78,,1.0,automatic,nc,nc
