@@ -19706,3 +19706,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-16T06:20:09.890Z,34.0073333,-116.4445,6.68,0.96,ml,26.0,86.0,0.07282,0.22,ci,ci40019935,2022-05-16T06:41:07.856Z,"7km NE of Desert Hot Springs, CA",earthquake,0.35,0.73,0.146,15.0,automatic,ci,ci
 2022-05-16T06:19:54.590Z,36.2038333,-118.1943333,4.31,1.7,ml,22.0,75.0,0.253,0.14,ci,ci40019927,2022-05-16T06:25:19.477Z,"19km WSW of Olancha, CA",earthquake,0.22,1.83,0.11,14.0,automatic,ci,ci
 2022-05-16T06:16:50.310Z,34.0071678,-116.4443359,7.7,3.76,mw,126.0,25.0,0.07261,0.17,ci,ci40019919,2022-05-16T06:45:40.369Z,"7km NE of Desert Hot Springs, CA",earthquake,0.18,0.67,,6.0,reviewed,ci,ci
+2022-05-16T07:03:56.030Z,35.8531667,-117.6631667,11.17,0.68,ml,10.0,94.0,0.06512,0.11,ci,ci40019983,2022-05-16T07:07:25.132Z,"24km ESE of Little Lake, CA",earthquake,0.33,0.63,0.038,6.0,automatic,ci,ci
+2022-05-16T06:47:15.540Z,33.6506653,-116.4728317,25.96,1.24,ml,9.0,106.0,0.2941,0.4,ci,ci40019975,2022-05-16T06:50:52.032Z,"11km SSW of Rancho Mirage, CA",earthquake,1.93,3.27,0.403,13.0,automatic,ci,ci
