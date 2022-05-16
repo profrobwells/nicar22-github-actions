@@ -19685,3 +19685,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-16T03:32:37.560Z,38.7748337,-122.7188339,1.45,1.11,md,12.0,87.0,0.01404,0.03,nc,nc73734306,2022-05-16T03:41:11.069Z,"2km W of Anderson Springs, CA",earthquake,0.32,0.54,0.25,6.0,automatic,nc,nc
 2022-05-16T03:26:25.820Z,38.8025017,-122.7751694,2.06,0.84,md,8.0,90.0,0.01157,0.02,nc,nc73734301,2022-05-16T03:37:10.044Z,"3km NNW of The Geysers, CA",earthquake,0.57,1.08,,1.0,automatic,nc,nc
 2022-05-16T03:25:37.000Z,38.7621651,-122.7371674,2.84,0.85,md,20.0,101.0,0.009638,0.05,nc,nc73734296,2022-05-16T03:34:11.028Z,"2km SE of The Geysers, CA",earthquake,0.32,0.55,0.28,5.0,automatic,nc,nc
+2022-05-16T04:19:47.000Z,38.7728348,-122.7235031,1.57,0.95,md,10.0,146.0,0.01128,0.04,nc,nc73734321,2022-05-16T04:21:21.014Z,"3km W of Anderson Springs, CA",earthquake,0.37,0.47,0.25,3.0,automatic,nc,nc
+2022-05-16T04:01:33.374Z,36.84982681,-97.76625824,2.841867924,1.4,ml,16.0,65.22698975,0.07488162816,0.2703901924,ok,ok2022jmyw,2022-05-16T04:02:59.513Z,"5 km NNW of Medford, Oklahoma",earthquake,2.978400171,2.436910482,,11.0,automatic,ok,ok
