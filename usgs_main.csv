@@ -20068,3 +20068,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-16T17:26:39.149Z,35.53366667,-97.87583333,4.9,1.57,ml,16.0,88.0,0.01349735136,0.57,ok,ok2022jnzl,2022-05-17T14:14:37.169Z,"7 km E of El Reno, Oklahoma",earthquake,,1.8,0.18,7.0,reviewed,ok,ok
 2022-05-17T14:33:45.030Z,33.9795,-117.039,-0.17,1.32,ml,10.0,125.0,0.1999,0.43,ci,ci40021079,2022-05-17T14:37:20.681Z,"2km SE of Calimesa, CA",earthquake,1.23,31.61,0.306,17.0,automatic,ci,ci
 2022-05-17T14:46:26.080Z,35.88,-117.7076667,1.81,0.89,ml,10.0,94.0,0.08218,0.18,ci,ci40021103,2022-05-17T14:50:19.461Z,"19km ESE of Little Lake, CA",earthquake,0.38,0.73,0.221,10.0,automatic,ci,ci
+2022-05-16T19:58:28.080Z,44.319,-115.201,11.48,2.22,ml,12.0,84.0,0.946,0.3,mb,mb80546014,2022-05-17T14:59:07.790Z,"23 km WNW of Stanley, Idaho",earthquake,0.78,3.68,0.127,15.0,reviewed,mb,mb
