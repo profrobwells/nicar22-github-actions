@@ -19997,3 +19997,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-17T07:11:30.693Z,-3.5657,140.2848,108.16,4.6,mb,,131.0,8.048,0.99,us,us6000hlql,2022-05-17T07:26:46.040Z,"113 km SSW of Abepura, Indonesia",earthquake,11.4,7.4,0.091,36.0,reviewed,us,us
 2022-05-17T07:43:47.870Z,34.0144997,-116.4518356,9.09,1.08,ml,18.0,92.0,0.07504,0.16,ci,ci40020895,2022-05-17T07:45:52.990Z,"8km NE of Desert Hot Springs, CA",earthquake,0.34,0.96,0.211,7.0,automatic,ci,ci
 2022-05-17T07:19:59.233Z,33.3276,141.3786,10.0,5.3,mww,,93.0,1.328,1.07,us,us6000hlqp,2022-05-17T07:37:54.040Z,"224 km SSE of Katsuura, Japan",earthquake,6.0,1.8,0.08,15.0,reviewed,us,us
+2022-05-17T07:44:45.750Z,35.8245,-117.6376667,10.4,0.93,ml,12.0,91.0,0.03379,0.08,ci,ci40020903,2022-05-17T07:48:23.721Z,"22km WNW of Searles Valley, CA",earthquake,0.26,0.44,0.165,9.0,automatic,ci,ci
+2022-05-17T07:19:33.835Z,-36.8148,-71.5353,10.0,4.6,mb,,103.0,0.259,1.21,us,us6000hlqm,2022-05-17T07:54:09.040Z,"33 km SE of Coihueco, Chile",earthquake,4.4,1.8,0.132,17.0,reviewed,us,us
