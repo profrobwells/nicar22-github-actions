@@ -19999,3 +19999,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-17T07:19:59.233Z,33.3276,141.3786,10.0,5.3,mww,,93.0,1.328,1.07,us,us6000hlqp,2022-05-17T07:37:54.040Z,"224 km SSE of Katsuura, Japan",earthquake,6.0,1.8,0.08,15.0,reviewed,us,us
 2022-05-17T07:44:45.750Z,35.8245,-117.6376667,10.4,0.93,ml,12.0,91.0,0.03379,0.08,ci,ci40020903,2022-05-17T07:48:23.721Z,"22km WNW of Searles Valley, CA",earthquake,0.26,0.44,0.165,9.0,automatic,ci,ci
 2022-05-17T07:19:33.835Z,-36.8148,-71.5353,10.0,4.6,mb,,103.0,0.259,1.21,us,us6000hlqm,2022-05-17T07:54:09.040Z,"33 km SE of Coihueco, Chile",earthquake,4.4,1.8,0.132,17.0,reviewed,us,us
+2022-05-17T08:22:39.400Z,35.6903333,-117.5293333,2.62,1.13,ml,15.0,145.0,0.1172,0.17,ci,ci40020919,2022-05-17T08:26:19.255Z,"14km SW of Searles Valley, CA",earthquake,0.45,0.79,0.188,12.0,automatic,ci,ci
+2022-05-17T08:09:42.747Z,60.5796,-151.5728,74.5,1.2,ml,,,,0.46,ak,ak0226apg18i,2022-05-17T08:11:29.889Z,"14 km WSW of Salamatof, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-05-17T08:07:34.290Z,48.2945,-121.86866666666668,3.56,3.56,ml,14.0,138.0,0.1067,0.19,uw,uw61832097,2022-05-17T08:24:43.573Z,"5 km ENE of Oso, Washington",earthquake,0.44,16.61,0.2374928676328958,3.0,reviewed,uw,uw
+2022-05-17T08:05:46.855Z,61.8356,-149.675,37.4,0.9,ml,,,,0.5,ak,ak0226apf6ot,2022-05-17T08:07:50.457Z,"21 km ENE of Willow, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2022-05-17T08:04:30.520Z,35.7176667,-117.5328333,9.42,0.82,ml,6.0,170.0,0.1111,0.12,ci,ci40020911,2022-05-17T08:07:56.232Z,"13km WSW of Searles Valley, CA",earthquake,0.56,1.22,0.139,8.0,automatic,ci,ci
+2022-05-17T01:39:43.550Z,37.4805,-118.8555,-0.11,1.0,md,12.0,151.0,0.1113,0.03,nc,nc73734821,2022-05-17T08:27:00.255Z,"18km WSW of Toms Place, CA",earthquake,0.7,2.55,0.169,10.0,reviewed,nc,nc
