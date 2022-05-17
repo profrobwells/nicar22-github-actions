@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-17T11:21:07.037Z,31.642,-104.3659,5,2.6,ml,,105,0.118,0.44,us,us6000hlrd,2022-05-17T11:28:55.040Z,"59 km S of Whites City, New Mexico",earthquake,0.8,1.9,0.045,64,reviewed,us,us
 2022-05-17T11:01:16.980Z,33.586,-116.7253333,13.59,0.23,ml,17,57,0.02285,0.19,ci,ci40020967,2022-05-17T11:04:56.388Z,"6km NW of Anza, CA",earthquake,0.57,0.59,0.066,4,automatic,ci,ci
 2022-05-17T10:56:58.340Z,33.6998333,-116.7203333,15.71,0.67,ml,23,70,0.01242,0.2,ci,ci40020959,2022-05-17T11:00:36.311Z,"4km S of Idyllwild, CA",earthquake,0.39,0.61,0.22,13,automatic,ci,ci
 2022-05-17T10:54:28.450Z,35.6786652,-121.0810013,6.62,1.39,md,10,100,0.05927,0.01,nc,nc73734981,2022-05-17T11:06:11.117Z,"11km ENE of San Simeon, CA",earthquake,0.39,0.81,0.09,7,automatic,nc,nc
@@ -225,9 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-16T11:43:26.190Z,-0.7444,133.2796,35.29,4.9,mb,,117,2.393,0.44,us,us6000hlg1,2022-05-16T12:01:12.040Z,"88 km W of Manokwari, Indonesia",earthquake,5.6,6.8,0.071,62,reviewed,us,us
 2022-05-16T11:41:13.610Z,43.4493333,-110.2925,5.95,1.86,ml,14,131,0.279,0.18,mb,mb80545954,2022-05-16T14:37:24.510Z,"28 km NNE of Bondurant, Wyoming",earthquake,0.58,9.55,0.175,17,reviewed,mb,mb
 2022-05-16T11:41:11.180Z,38.8436661,-122.824501,1.77,1.03,md,18,99,0.009965,0.01,nc,nc73734556,2022-05-16T14:08:10.622Z,"9km WNW of Cobb, CA",earthquake,0.23,0.54,0.08,3,automatic,nc,nc
-2022-05-16T11:28:42.052Z,64.7625,-150.7208,14.3,0.9,ml,,,,0.36,ak,ak022693t23x,2022-05-16T11:44:26.018Z,"26 km S of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-05-16T11:28:15.970Z,35.7586667,-117.6103333,10.6,0.86,ml,15,96,0.0579,0.09,ci,ci40020103,2022-05-16T19:09:36.269Z,"16km NNE of Ridgecrest, CA",earthquake,0.23,0.41,0.23,9,reviewed,ci,ci
-2022-05-16T11:25:56.277Z,6.8872,-73.1157,145.23,4.4,mb,,107,0.988,0.74,us,us6000hlfw,2022-05-16T11:47:44.040Z,"13 km SSW of Piedecuesta, Colombia",earthquake,7.6,7.5,0.041,169,reviewed,us,us
-2022-05-16T11:22:59.226Z,-7.4553,128.6101,117.62,4.5,mb,,62,2.715,0.76,us,us6000hlfv,2022-05-16T12:04:22.040Z,"213 km ENE of Lospalos, Timor Leste",earthquake,6.7,5.1,0.131,17,reviewed,us,us
-2022-05-16T11:21:50.900Z,56.114,-159.545,-3,0.4,ml,5,152,,0.24,av,av91563071,2022-05-16T23:36:49.150Z,"23 km N of Ivanof Bay, Alaska",earthquake,0.72,2.63,0.121014968902389,4,reviewed,av,av
-2022-05-16T11:13:43.860Z,38.8301659,-122.8146667,2.38,1,md,17,67,0.007654,0.01,nc,nc73734521,2022-05-16T11:22:10.840Z,"8km NW of The Geysers, CA",earthquake,0.27,0.61,0.23,2,automatic,nc,nc
