@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-17T10:22:47.670Z,38.8176651,-122.8180008,2.34,1.18,md,26,47,0.008431,0.02,nc,nc73734966,2022-05-17T10:24:23.018Z,"7km NW of The Geysers, CA",earthquake,0.18,0.36,0.14,6,automatic,nc,nc
+2022-05-17T10:26:28.620Z,35.6963333,-117.6043333,10.7,1.21,ml,14,129,0.1191,0.17,ci,ci40020951,2022-05-17T10:30:07.322Z,"11km NE of Ridgecrest, CA",earthquake,0.35,0.81,0.176,13,automatic,ci,ci
+2022-05-17T10:22:47.670Z,38.8176651,-122.8180008,2.34,1.18,md,26,47,0.008431,0.02,nc,nc73734966,2022-05-17T10:31:10.937Z,"7km NW of The Geysers, CA",earthquake,0.18,0.36,0.14,6,automatic,nc,nc
+2022-05-17T10:21:56.510Z,-5.9239,150.0901,57.69,4.8,mb,,45,2.688,0.48,us,us6000hlr6,2022-05-17T10:41:23.040Z,"41 km S of Kimbe, Papua New Guinea",earthquake,8.7,6.1,0.073,59,reviewed,us,us
 2022-05-17T10:10:55.460Z,38.8351669,-122.8123322,1.86,0.85,md,10,74,0.01189,0.01,nc,nc73734961,2022-05-17T10:17:10.867Z,"8km W of Cobb, CA",earthquake,0.34,1.05,,1,automatic,nc,nc
 2022-05-17T10:08:57.330Z,38.7893333,-122.7811661,3.13,0.5,md,12,103,0.006526,0.01,nc,nc73734956,2022-05-17T10:17:11.867Z,"2km WNW of The Geysers, CA",earthquake,0.31,0.85,0.35,2,automatic,nc,nc
 2022-05-17T09:52:13.476Z,36.40987015,-98.36504364,3.461752415,1.78,ml,26,78.52246857,0.1497574151,0.5150461289,ok,ok2022jpfy,2022-05-17T09:54:16.008Z,"6 km E of Cleo Springs, Oklahoma",earthquake,2.444355857,1.927896824,,18,automatic,ok,ok
@@ -26,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-17T08:11:02.870Z,48.30466666666667,-121.86833333333334,0.91,1.84,ml,19,56,0.1163,0.15,uw,uw61832102,2022-05-17T09:09:28.779Z,"5 km NE of Oso, Washington",earthquake,0.31,0.83,0.20047769472052357,11,reviewed,uw,uw
 2022-05-17T08:09:42.747Z,60.5796,-151.5728,74.5,1.2,ml,,,,0.46,ak,ak0226apg18i,2022-05-17T08:11:29.889Z,"14 km WSW of Salamatof, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-05-17T08:07:34.290Z,48.2945,-121.86866666666667,3.56,3.56,ml,14,138,0.1067,0.19,uw,uw61832097,2022-05-17T10:19:52.678Z,"5 km ENE of Oso, Washington",earthquake,0.44,16.61,0.2374928676328958,3,reviewed,uw,uw
-2022-05-17T08:05:46.855Z,61.8356,-149.675,37.4,0.9,ml,,,,0.5,ak,ak0226apf6ot,2022-05-17T08:07:50.457Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
+2022-05-17T08:05:46.855Z,61.8356,-149.675,37.4,0.9,ml,,,,0.5,ak,ak0226apf6ot,2022-05-17T08:07:50.457Z,"21 km ENE of Willow, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-05-17T08:04:30.520Z,35.7176667,-117.5328333,9.42,0.82,ml,6,170,0.1111,0.12,ci,ci40020911,2022-05-17T08:07:56.232Z,"13km WSW of Searles Valley, CA",earthquake,0.56,1.22,0.139,8,automatic,ci,ci
 2022-05-17T07:44:45.750Z,35.8245,-117.6376667,10.4,0.93,ml,12,91,0.03379,0.08,ci,ci40020903,2022-05-17T07:48:23.721Z,"22km WNW of Searles Valley, CA",earthquake,0.26,0.44,0.165,9,automatic,ci,ci
 2022-05-17T07:43:47.980Z,34.015,-116.4481667,8.25,0.62,ml,15,88,0.07262,0.27,ci,ci40020895,2022-05-17T07:47:27.878Z,"8km NE of Desert Hot Springs, CA",earthquake,0.6,1.43,0.225,7,automatic,ci,ci
@@ -235,6 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-16T10:57:39.070Z,38.9146667,-123.3285,5.23,0.93,md,8,89,0.07431,0.07,nc,nc73734506,2022-05-16T16:54:10.638Z,"11km SSE of Boonville, CA",earthquake,0.32,0.8,0.253,8,reviewed,nc,nc
 2022-05-16T10:46:23.871Z,64.6007,-147.0109,12.2,0.6,ml,,,,0.43,ak,ak022693bfzn,2022-05-16T11:02:01.451Z,"7 km SSE of Eielson Air Force Base, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-05-16T10:45:10.640Z,38.833168,-122.8176651,1.63,0.36,md,8,91,0.01142,0.02,nc,nc73734501,2022-05-16T10:53:11.540Z,"8km NW of The Geysers, CA",earthquake,0.37,1.14,,1,automatic,nc,nc
-2022-05-16T10:41:52.700Z,33.6668333,-116.7286667,14.25,0.92,ml,37,45,0.04584,0.14,ci,ci40020079,2022-05-16T13:04:41.250Z,"8km S of Idyllwild, CA",earthquake,0.2,0.33,0.201,27,reviewed,ci,ci
-2022-05-16T10:31:07.280Z,36.0018333,-117.9273333,1.82,2.01,ml,27,68,0.03052,0.14,ci,ci40020071,2022-05-16T13:04:48.770Z,"5km SSE of Coso Junction, CA",earthquake,0.24,0.34,0.234,26,reviewed,ci,ci
-2022-05-16T10:28:59.996Z,65.7463,-155.0717,3.4,3.3,ml,,,,0.73,ak,ak0226937nu2,2022-05-17T06:14:57.040Z,"50 km SW of Hughes, Alaska",earthquake,,0.9,,,automatic,ak,ak
