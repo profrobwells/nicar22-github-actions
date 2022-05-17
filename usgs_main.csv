@@ -20131,3 +20131,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-17T20:31:34.770Z,33.5801667,-116.8268333,1.07,-0.02,ml,11.0,120.0,0.07619,0.24,ci,ci40021407,2022-05-17T20:35:15.227Z,"14km W of Anza, CA",earthquake,0.72,0.96,0.035,3.0,automatic,ci,ci
 2022-05-17T20:41:50.501Z,39.6822,-119.7398,9.0,1.4,ml,8.0,85.66,0.112,0.0912,nn,nn00839034,2022-05-17T20:45:04.472Z,"4 km NW of Spanish Springs, Nevada",earthquake,,1.5,0.29,6.0,automatic,nn,nn
 2022-05-17T20:40:54.050Z,62.0798,-148.6907,249.9,1.3,ml,,,,0.73,ak,ak0226awrwke,2022-05-17T20:44:02.493Z,"33 km NNW of Chickaloon, Alaska",earthquake,,5.8,,,automatic,ak,ak
+2022-05-17T20:48:46.106Z,35.01216507,-97.65631104,4.113473892,1.9,ml,10.0,76.41192627,0.1072099656,0.5707574631,ok,ok2022jqbp,2022-05-17T20:50:39.044Z,"3 km SW of Dibble, Oklahoma",earthquake,3.396931188,2.708050298,,6.0,automatic,ok,ok
+2022-05-17T20:17:59.668Z,-22.7803,-66.3488,260.53,4.1,mb,,123.0,1.696,0.75,us,us6000hlv5,2022-05-17T20:55:20.040Z,"67 km W of Abra Pampa, Argentina",earthquake,13.9,21.3,0.369,2.0,reviewed,us,us
+2022-05-17T02:37:23.741Z,35.7689,-117.056,12.2,0.9,ml,4.0,251.89,0.248,0.1743,nn,nn00839036,2022-05-17T20:51:25.410Z,"31 km E of Searles Valley, California",earthquake,,3.9,0.0,1.0,reviewed,nn,nn
