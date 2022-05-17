@@ -20055,3 +20055,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-16T20:53:21.652Z,72.4165,2.6175,10.0,4.2,mb,,99.0,6.74,1.26,us,us6000hllv,2022-05-17T13:06:17.040Z,Norwegian Sea,earthquake,3.3,1.9,0.093,32.0,reviewed,us,us
 2022-05-16T20:13:04.870Z,36.64033333,-96.44183333,0.0,1.66,ml,47.0,156.0,0.2807449083,0.56,ok,ok2022joey,2022-05-17T13:14:53.362Z,"9 km WSW of Pawhuska, Oklahoma",quarry blast,,0.7,0.22,17.0,reviewed,ok,ok
 2022-05-16T16:12:16.210Z,36.2165,-95.8455,0.0,1.57,ml,67.0,125.0,0.3086394344,0.37,ok,ok2022jnwz,2022-05-17T13:27:26.108Z,"5 km S of Owasso, Oklahoma",quarry blast,,0.4,0.17,28.0,reviewed,ok,ok
+2022-05-17T13:06:59.455Z,31.9338,50.4879,10.0,4.4,mb,,117.0,5.572,0.46,us,us6000hlrv,2022-05-17T13:54:03.040Z,"36 km S of Fārsān, Iran",earthquake,8.3,1.9,0.107,28.0,reviewed,us,us
+2022-05-17T13:06:42.904Z,55.7459,-161.4608,159.26,3.4,ml,,137.0,0.459,0.27,us,us6000hlrt,2022-05-17T13:45:43.040Z,"32 km SSW of Nelson Lagoon, Alaska",earthquake,7.4,10.2,0.071,26.0,reviewed,us,us
+2022-05-16T16:08:20.870Z,35.089,-95.526,7.9,1.32,ml,23.0,144.0,0.426516303,0.26,ok,ok2022jnww,2022-05-17T13:53:09.127Z,"13 km ESE of Crowder, Oklahoma",earthquake,,2.1,0.15,9.0,reviewed,ok,ok
