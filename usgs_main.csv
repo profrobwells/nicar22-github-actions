@@ -20058,3 +20058,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-17T13:06:59.455Z,31.9338,50.4879,10.0,4.4,mb,,117.0,5.572,0.46,us,us6000hlrv,2022-05-17T13:54:03.040Z,"36 km S of Fārsān, Iran",earthquake,8.3,1.9,0.107,28.0,reviewed,us,us
 2022-05-17T13:06:42.904Z,55.7459,-161.4608,159.26,3.4,ml,,137.0,0.459,0.27,us,us6000hlrt,2022-05-17T13:45:43.040Z,"32 km SSW of Nelson Lagoon, Alaska",earthquake,7.4,10.2,0.071,26.0,reviewed,us,us
 2022-05-16T16:08:20.870Z,35.089,-95.526,7.9,1.32,ml,23.0,144.0,0.426516303,0.26,ok,ok2022jnww,2022-05-17T13:53:09.127Z,"13 km ESE of Crowder, Oklahoma",earthquake,,2.1,0.15,9.0,reviewed,ok,ok
+2022-05-17T13:46:30.136Z,34.7907,139.6533,143.25,4.5,mb,,100.0,1.216,0.48,us,us6000hls5,2022-05-17T14:12:53.040Z,"28 km SW of Tateyama, Japan",earthquake,4.9,6.7,0.093,37.0,reviewed,us,us
+2022-05-17T10:41:00.740Z,44.8453333,-115.8928333,1.39,2.52,ml,25.0,93.0,0.254,0.23,mb,mb80546149,2022-05-17T13:55:47.240Z,"17 km ESE of McCall, Idaho",earthquake,0.39,1.09,0.223,26.0,reviewed,mb,mb
+2022-05-16T22:28:56.210Z,38.5458333,-112.7646667,3.53,1.78,ml,18.0,108.0,0.07306,0.12,uu,uu60498362,2022-05-17T14:12:42.970Z,"27 km NE of Milford, Utah",earthquake,0.37,0.99,0.208,4.0,reviewed,uu,uu
+2022-05-16T21:44:28.790Z,36.2086667,-89.448,11.32,1.09,md,11.0,89.0,0.05763,0.03,nm,nm60150743,2022-05-17T14:06:27.770Z,"7 km SSE of Ridgely, Tennessee",earthquake,0.59,0.92,0.045,7.0,reviewed,nm,nm
