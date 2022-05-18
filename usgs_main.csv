@@ -20429,3 +20429,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-18T20:28:55.125Z,58.0781,-151.5967,24.1,2.0,ml,,,,0.44,ak,ak0226ck8ojs,2022-05-18T20:32:08.215Z,"56 km ENE of Ouzinkie, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-18T20:20:49.250Z,33.8316667,-117.7243333,12.38,0.81,ml,15.0,115.0,0.05424,0.14,ci,ci40021951,2022-05-18T20:37:36.372Z,"8km ENE of Villa Park, CA",earthquake,0.35,0.45,0.044,6.0,reviewed,ci,ci
 2022-05-18T18:14:41.940Z,43.5526667,-110.958,1.08,0.77,ml,7.0,151.0,0.063,0.11,mb,mb80546324,2022-05-18T20:26:20.000Z,"8 km NW of Wilson, Wyoming",earthquake,1.2,1.85,0.308,7.0,reviewed,mb,mb
+2022-05-18T20:43:59.163Z,59.8781,-152.4722,94.9,1.6,ml,,,,0.4,ak,ak0226ckbwlg,2022-05-18T20:47:12.249Z,"37 km WNW of Anchor Point, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-05-18T20:36:50.450Z,38.8651657,-122.7946701,12.0,0.91,md,12.0,221.0,0.01846,0.1,nc,nc73735421,2022-05-18T20:39:41.061Z,"8km NW of Cobb, CA",earthquake,1.29,1.92,,1.0,automatic,nc,nc
+2022-05-18T19:58:36.010Z,44.4473333,-110.995,6.93,1.57,ml,17.0,127.0,0.1141,0.24,uu,uu60498552,2022-05-18T20:45:17.860Z,"25 km SSE of West Yellowstone, Montana",earthquake,0.54,1.44,0.24,3.0,reviewed,uu,uu
+2022-05-18T19:47:11.580Z,35.055,-118.3405,-1.01,1.16,ml,22.0,44.0,0.06426,0.13,ci,ci40021943,2022-05-18T20:41:35.410Z,"13km SE of Tehachapi, CA",quarry blast,0.28,31.61,0.105,9.0,reviewed,ci,ci
