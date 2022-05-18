@@ -20354,3 +20354,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-18T14:47:41.920Z,38.8283348,-122.8011703,2.05,1.91,md,33.0,34.0,0.008526,0.02,nc,nc73735306,2022-05-18T14:50:59.789Z,"7km W of Cobb, CA",earthquake,0.17,0.3,0.05,9.0,automatic,nc,nc
 2022-05-18T14:43:21.450Z,33.182,-116.4051667,11.04,1.0,ml,29.0,62.0,0.08655,0.22,ci,ci40021807,2022-05-18T14:46:56.156Z,"9km SSW of Borrego Springs, CA",earthquake,0.37,0.6,0.144,22.0,automatic,ci,ci
 2022-05-18T14:40:25.210Z,37.5205002,-118.7791672,5.45,1.68,md,17.0,112.0,0.07995,0.03,nc,nc73735301,2022-05-18T14:48:09.968Z,"10km WSW of Toms Place, CA",earthquake,0.32,1.09,0.1,15.0,automatic,nc,nc
+2022-05-18T15:04:19.525Z,61.6535,-149.739,28.6,1.4,ml,,,,0.46,ak,ak0226ch4alc,2022-05-18T15:07:52.112Z,"4 km ENE of Houston, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-18T09:59:17.810Z,45.4618333,-112.2183333,5.95,0.82,ml,10.0,99.0,0.261,0.13,mb,mb80546304,2022-05-18T15:05:09.090Z,"1 km WNW of Sheridan, Montana",earthquake,0.3,8.06,0.185,8.0,reviewed,mb,mb
+2022-05-18T08:29:42.710Z,47.2195,-114.1276667,10.61,-0.56,md,11.0,70.0,0.068,0.18,mb,mb80546299,2022-05-18T14:56:09.860Z,"7 km NNW of Arlee, Montana",earthquake,0.46,1.28,,1.0,reviewed,mb,mb
+2022-05-18T05:56:59.720Z,36.0031667,-117.7971667,2.03,0.68,ml,11.0,114.0,0.0227,0.12,ci,ci40021639,2022-05-18T15:04:36.243Z,"12km NE of Little Lake, CA",earthquake,0.25,0.22,0.301,3.0,reviewed,ci,ci
