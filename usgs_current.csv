@@ -115,7 +115,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-18T09:34:22.560Z,18.0015,-66.7861666666667,14.64,2.21,md,5,178,,0.1,pr,pr71349273,2022-05-18T09:58:36.130Z,"2 km SSE of Guayanilla, Puerto Rico",earthquake,0.72,1.71,0.0434397198062766,5,reviewed,pr,pr
 2022-05-18T09:33:31.850Z,33.6755,-116.7586667,11.78,0.32,ml,15,106,0.05479,0.2,ci,ci40021679,2022-05-18T13:42:16.114Z,"8km SSW of Idyllwild, CA",earthquake,0.53,0.8,0.121,9,reviewed,ci,ci
 2022-05-18T09:21:49.237Z,36.8043,-116.0939,10.8,-0.1,ml,10,148.17,0.045,0.2371,nn,nn00839090,2022-05-18T09:24:32.819Z,"45 km NW of Indian Springs, Nevada",earthquake,,1.4,0.26,6,automatic,nn,nn
-2022-05-18T09:18:03.549Z,36.8055,-116.0778,4,0.5,ml,18,76.83,0.05,0.2389,nn,nn00839087,2022-05-18T09:21:04.094Z,"44 km NW of Indian Springs, Nevada",earthquake,,0.6,0.75,11,automatic,nn,nn
+2022-05-18T09:18:04.032Z,36.7993,-116.08,5.7,0.7,ml,27,55.8,0.015,0.1006,nn,nn00839087,2022-05-18T22:41:21.109Z,"44 km NW of Indian Springs, Nevada",earthquake,,0.6,0.42,16,reviewed,nn,nn
 2022-05-18T09:11:13.095Z,39.0567,-118.0923,8.9,1.2,ml,12,106.61,0.011,0.1813,nn,nn00839086,2022-05-18T21:39:12.101Z,"25 km NW of Gabbs, Nevada",earthquake,,1,0.36,6,reviewed,nn,nn
 2022-05-18T09:09:14.340Z,19.167667388916,-155.485504150391,31.1800003051758,2,md,40,153,,0.129999995,hv,hv73015967,2022-05-18T09:12:21.500Z,"3 km S of Pāhala, Hawaii",earthquake,0.62,0.769999981,0.140000001,13,automatic,hv,hv
 2022-05-18T09:05:53.532Z,65.6855,-148.2428,12.5,0.9,ml,,,,0.44,ak,ak0226cdjzax,2022-05-18T09:08:32.174Z,"22 km NE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -166,7 +166,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-18T04:43:14.100Z,35.7678333,-117.5866667,8.61,0.96,ml,21,86,0.04861,0.1,ci,ci40021615,2022-05-18T14:42:28.225Z,"16km W of Searles Valley, CA",earthquake,0.19,0.38,0.124,7,reviewed,ci,ci
 2022-05-18T04:42:32.935Z,31.71947421,-104.3002444,7.879711914,1.9,ml,14,66,0.05333621635,0.2,tx,tx2022jqrg,2022-05-18T07:03:56.870Z,"51 km S of Whites City, New Mexico",earthquake,1.041294165,0.9637014518,0.2,11,reviewed,tx,tx
 2022-05-18T04:37:53.510Z,37.2322,-114.6257,6.6,1.6,ml,12,109.54,0.381,0.1625,nn,nn00839074,2022-05-18T21:17:16.063Z,"Nevada",earthquake,,3.9,0.32,7,reviewed,nn,nn
-2022-05-18T04:29:27.034Z,11.919,143.3108,10,5,mb,,144,2.25,0.71,us,us6000hlxk,2022-05-18T16:39:30.933Z,"209 km SW of Merizo Village, Guam",earthquake,11.3,1.6,0.041,192,reviewed,us,us
+2022-05-18T04:29:26.635Z,11.8861,143.3157,10,5,mb,,144,2.271,0.64,us,us6000hlxk,2022-05-18T22:42:07.040Z,"211 km SW of Merizo Village, Guam",earthquake,10.8,1.8,0.04,202,reviewed,us,us
 2022-05-18T04:14:33.510Z,51.7286666666667,-179.0245,8.44,1.08,ml,7,273,,0.16,av,av91564946,2022-05-18T15:58:35.980Z,"165 km W of Adak, Alaska",earthquake,1.27,0.87,0.253823631461924,7,reviewed,av,av
 2022-05-18T04:14:33.340Z,43.8243333,-114.5706667,5.59,1.8,ml,10,91,0.285,0.2,mb,mb80546259,2022-05-18T14:14:32.040Z,"22 km NW of Sun Valley, Idaho",earthquake,0.65,3.37,0.09,10,reviewed,mb,mb
 2022-05-18T03:57:05.720Z,33.8485,-117.6506667,10.67,1.43,ml,58,41,0.0529,0.15,ci,ci40021599,2022-05-18T14:36:27.120Z,"8km WSW of Corona, CA",earthquake,0.15,0.26,0.155,39,reviewed,ci,ci
@@ -216,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-17T22:49:55.125Z,21.3751,98.5302,10,4.2,mb,,71,0.991,0.43,us,us6000hlw6,2022-05-17T23:56:31.040Z,"147 km WSW of Kēng Tung, Myanmar",earthquake,6.5,1.9,0.236,5,reviewed,us,us
 2022-05-17T22:49:39.090Z,44.024166666666666,-121.26733333333334,-1.78,1.1500000000000001,ml,9,171,0.2163,0.18,uw,uw61841086,2022-05-18T03:56:48.652Z,"5 km SE of Bend, Oregon",explosion,1.3,31.61,0.09335923822165726,5,reviewed,uw,uw
 2022-05-17T22:48:37.900Z,38.8424988,-122.8259964,1.7,0.86,md,10,130,0.008377,0.02,nc,nc73735146,2022-05-18T01:17:11.104Z,"9km WNW of Cobb, CA",earthquake,0.34,1.07,,1,automatic,nc,nc
-2022-05-17T22:46:53.940Z,17.8975,-66.7635,6.84,1.63,md,4,245,,0.05,pr,pr71349188,2022-05-17T23:26:13.440Z,"11 km SSW of Tallaboa, Puerto Rico",earthquake,0.7,0.29,0.100789548845566,3,reviewed,pr,pr
