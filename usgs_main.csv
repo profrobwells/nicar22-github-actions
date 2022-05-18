@@ -20416,3 +20416,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-18T19:01:15.786Z,61.343,-150.6766,58.4,1.1,ml,,,,0.39,ak,ak0226cjhdkq,2022-05-18T19:03:46.640Z,"24 km SSW of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-05-18T19:28:24.690Z,19.1671657562256,-155.46533203125,35.0200004577637,1.74000001,md,32.0,102.0,,0.109999999,hv,hv73016402,2022-05-18T19:31:36.710Z,"4 km SSE of Pāhala, Hawaii",earthquake,0.74,0.99000001,0.620000005,5.0,automatic,hv,hv
 2022-05-18T19:26:12.970Z,32.5971667,-116.9866667,2.95,1.63,ml,24.0,206.0,0.04882,0.17,ci,ci40021927,2022-05-18T19:29:56.564Z,"7km ESE of Chula Vista, CA",quarry blast,0.97,0.55,0.182,21.0,automatic,ci,ci
+2022-05-18T19:37:57.290Z,38.815834,-122.8366699,2.51,0.85,md,8.0,113.0,0.009091,0.03,nc,nc73735411,2022-05-18T19:45:10.676Z,"8km WNW of The Geysers, CA",earthquake,1.02,1.46,,1.0,automatic,nc,nc
+2022-05-18T18:31:35.181Z,51.1427,178.7751,9.0,3.5,ml,,,,0.55,ak,ak0226cj2f2x,2022-05-18T19:44:16.510Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,0.4,,,reviewed,ak,ak
