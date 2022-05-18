@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-18T07:33:08.280Z,38.8339996,-122.7978363,2.14,0.36,md,8,76,0.007323,0.01,nc,nc73735241,2022-05-18T07:34:47.140Z,"7km WNW of Cobb, CA",earthquake,0.43,1.33,,1,automatic,nc,nc
-2022-05-18T07:29:08.550Z,38.8224983,-122.7910004,1.55,0.75,md,13,69,0.01225,0.04,nc,nc73735236,2022-05-18T07:30:42.814Z,"6km NNW of The Geysers, CA",earthquake,0.32,0.69,0.1,2,automatic,nc,nc
-2022-05-18T07:26:20.745Z,66.0217,-150.4958,21.2,1.1,ml,,,,0.56,ak,ak0226cchjlm,2022-05-18T07:35:27.864Z,"59 km NNW of Rampart, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2022-05-18T07:22:31.841Z,62.2921,-150.4176,7.2,1.5,ml,,,,0.63,ak,ak0226ccgplc,2022-05-18T07:34:13.798Z,"10 km WSW of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-05-18T07:43:20.860Z,38.831501,-122.8153305,1.66,1.71,md,27,45,0.009076,0.04,nc,nc73735246,2022-05-18T07:44:58.048Z,"8km NW of The Geysers, CA",earthquake,0.18,0.33,0.14,7,automatic,nc,nc
+2022-05-18T07:33:08.280Z,38.8339996,-122.7978363,2.14,0.36,md,8,76,0.007323,0.01,nc,nc73735241,2022-05-18T07:42:10.977Z,"7km WNW of Cobb, CA",earthquake,0.43,1.33,,1,automatic,nc,nc
+2022-05-18T07:29:08.550Z,38.8224983,-122.7910004,1.55,0.75,md,13,69,0.01225,0.04,nc,nc73735236,2022-05-18T07:38:11.405Z,"6km NNW of The Geysers, CA",earthquake,0.32,0.69,0.1,2,automatic,nc,nc
+2022-05-18T07:26:20.745Z,66.0217,-150.4958,21.2,1.1,ml,,,,0.56,ak,ak0226cchjlm,2022-05-18T07:41:39.559Z,"59 km NNW of Rampart, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2022-05-18T07:22:31.841Z,62.2921,-150.4176,7.2,1.5,ml,,,,0.63,ak,ak0226ccgplc,2022-05-18T07:38:21.168Z,"10 km WSW of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-18T07:08:46.240Z,38.8371658,-122.8083344,1.96,0.36,md,10,59,0.01382,0.03,nc,nc73735231,2022-05-18T07:18:11.285Z,"8km WNW of Cobb, CA",earthquake,0.38,1.28,,1,automatic,nc,nc
 2022-05-18T07:06:46.429Z,36.7062,-115.8061,0.1,0.4,ml,13,155.35,0.143,0.4508,nn,nn00839083,2022-05-18T07:09:52.488Z,"19 km NW of Indian Springs, Nevada",earthquake,,8.5,0.4,5,automatic,nn,nn
 2022-05-18T06:58:41.730Z,33.1708333,-116.3778333,1.97,0.56,ml,12,120,0.1025,0.29,ci,ci40021663,2022-05-18T07:02:20.937Z,"10km S of Borrego Springs, CA",earthquake,0.87,1.8,0.228,5,automatic,ci,ci
@@ -141,7 +142,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-17T15:54:12.130Z,34.0598333,-117.2683333,10.63,0.94,ml,20,113,0.1109,0.12,ci,ci40021159,2022-05-17T23:51:15.324Z,"1km NNW of Loma Linda, CA",earthquake,0.27,0.48,0.091,16,reviewed,ci,ci
 2022-05-17T15:51:17.210Z,34.0095,-116.446,7.54,1.56,ml,51,53,0.0753,0.14,ci,ci40021143,2022-05-17T22:23:27.032Z,"7km NE of Desert Hot Springs, CA",earthquake,0.15,0.4,0.195,29,reviewed,ci,ci
 2022-05-17T15:49:12.147Z,53.0416,-167.4846,23.7,2.1,ml,,,,0.4,ak,ak0226atukoy,2022-05-17T17:38:01.667Z,"93 km E of Nikolski, Alaska",earthquake,,10.5,,,reviewed,ak,ak
-2022-05-17T15:44:25.423Z,41.385,-126.1229,10.55,2.6,ml,,261,1.68,0.22,us,us6000hlts,2022-05-17T16:11:29.040Z,"165 km WSW of Crescent City, California",earthquake,10.6,10,0.044,68,reviewed,us,us
+2022-05-17T15:44:25.423Z,41.385,-126.1229,10.55,2.6,ml,,261,1.68,0.22,us,us6000hlts,2022-05-18T07:42:10.559Z,"165 km WSW of Crescent City, California",earthquake,10.6,10,0.044,68,reviewed,us,us
 2022-05-17T15:34:06.984Z,29.5673,130.6862,10,4.9,mb,,95,1.946,0.67,us,us6000hltq,2022-05-17T16:06:22.040Z,"75 km S of Koshima, Japan",earthquake,6.6,1.8,0.048,140,reviewed,us,us
 2022-05-17T15:26:49.650Z,19.2231666666667,-155.393166666667,32.8,1.64,md,35,150,,0.1,hv,hv73015302,2022-05-18T01:45:54.310Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.48,0.54,0.130166224644434,18,reviewed,hv,hv
 2022-05-17T15:19:25.581Z,61.5416,-149.909,34.9,1.7,ml,,,,0.37,ak,ak0226ato6at,2022-05-17T15:25:10.821Z,"3 km NE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -173,6 +174,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-17T12:44:36.120Z,38.8296661,-122.8121643,-0.61,0.85,md,7,147,0.006471,0.05,nc,nc73735001,2022-05-17T14:20:11.117Z,"8km NW of The Geysers, CA",earthquake,0.68,3.88,,1,automatic,nc,nc
 2022-05-17T12:41:06.848Z,-8.4703,128.3348,10,4.9,mb,,69,4.214,0.66,us,us6000hlrp,2022-05-17T13:03:38.040Z,"147 km E of Lospalos, Timor Leste",earthquake,7.3,1.9,0.067,69,reviewed,us,us
 2022-05-17T12:25:11.870Z,48.2975,-121.884,8.76,0.75,ml,8,138,0.1063,0.12,uw,uw61832177,2022-05-17T22:02:42.460Z,"Washington",earthquake,0.95,3.25,0.137253590094931,2,reviewed,uw,uw
+2022-05-17T12:22:41.550Z,37.8145,-121.9583333,14.02,0.91,md,11,160,0.05193,0.04,nc,nc73734996,2022-05-18T07:43:52.047Z,"2km S of Diablo, CA",earthquake,0.45,0.59,0.094,7,reviewed,nc,nc
 2022-05-17T12:21:51.894Z,38.7864,-118.7843,12.2,1.1,ml,8,124.16,0.407,0.1406,nn,nn00839053,2022-05-18T02:39:23.064Z,"15 km N of Walker Lake, Nevada",earthquake,,4.4,0.21,6,reviewed,nn,nn
 2022-05-17T12:14:54.270Z,58.5348333333333,-154.8085,4.53,-0.65,ml,5,148,,0.15,av,av91058938,2022-05-18T01:44:12.120Z,"100 km S of Kokhanok, Alaska",earthquake,0.43,1.35,0.0885080598221052,5,reviewed,av,av
 2022-05-17T12:13:31.830Z,58.5356666666667,-154.8015,5.74,-0.08,ml,5,150,,0.13,av,av91058933,2022-05-18T01:31:43.800Z,"100 km S of Kokhanok, Alaska",earthquake,0.37,1.27,0.118357115557913,5,reviewed,av,av
@@ -231,9 +233,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-17T08:13:23.050Z,48.2925,-121.87483333333333,7.99,1.06,ml,10,85,0.1034,0.12,uw,uw61832107,2022-05-17T09:13:01.780Z,"4 km ENE of Oso, Washington",earthquake,0.32,0.61,0.3745844935444441,3,reviewed,uw,uw
 2022-05-17T08:11:02.870Z,48.30466666666667,-121.86833333333334,0.91,1.84,ml,19,56,0.1163,0.15,uw,uw61832102,2022-05-17T09:09:28.779Z,"5 km NE of Oso, Washington",earthquake,0.31,0.83,0.20047769472052357,11,reviewed,uw,uw
 2022-05-17T08:09:42.747Z,60.5796,-151.5728,74.5,1.2,ml,,,,0.46,ak,ak0226apg18i,2022-05-17T08:11:29.889Z,"14 km WSW of Salamatof, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-05-17T08:07:34.290Z,48.2945,-121.86866666666667,3.56,3.56,ml,14,138,0.1067,0.19,uw,uw61832097,2022-05-18T07:08:48.056Z,"5 km ENE of Oso, Washington",earthquake,0.44,16.61,0.2374928676328958,3,reviewed,uw,uw
+2022-05-17T08:07:34.290Z,48.2945,-121.86866666666667,3.56,3.56,ml,14,138,0.1067,0.19,uw,uw61832097,2022-05-18T07:38:41.867Z,"5 km ENE of Oso, Washington",earthquake,0.44,16.61,0.2374928676328958,3,reviewed,uw,uw
 2022-05-17T08:05:46.855Z,61.8356,-149.675,37.4,0.9,ml,,,,0.5,ak,ak0226apf6ot,2022-05-17T08:07:50.457Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-05-17T08:04:30.520Z,35.7176667,-117.5328333,9.42,0.82,ml,6,170,0.1111,0.12,ci,ci40020911,2022-05-17T13:43:35.950Z,"13km WSW of Searles Valley, CA",earthquake,0.56,1.22,0.139,8,reviewed,ci,ci
-2022-05-17T07:44:46.000Z,35.828,-117.6541667,8.2,0.92,ml,17,84,0.04764,0.07,ci,ci40020903,2022-05-17T18:41:12.528Z,"23km N of Ridgecrest, CA",earthquake,0.14,0.4,0.143,8,reviewed,ci,ci
-2022-05-17T07:43:47.830Z,34.0133333,-116.4501667,8.57,0.53,ml,20,92,0.07496,0.13,ci,ci40020895,2022-05-17T18:38:46.504Z,"8km NE of Desert Hot Springs, CA",earthquake,0.29,0.71,0.113,9,reviewed,ci,ci
-2022-05-17T07:38:25.452Z,36.6334,-116.0913,3.6,-0.4,ml,8,231.82,0.063,0.0537,nn,nn00839040,2022-05-18T02:39:13.686Z,"38 km W of Indian Springs, Nevada",earthquake,,4.1,0.08,4,reviewed,nn,nn
