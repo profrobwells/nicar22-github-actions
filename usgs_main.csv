@@ -20328,3 +20328,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-18T10:58:37.200Z,35.689,-81.0386667,0.08,1.99,md,15.0,60.0,0.2166,0.38,se,se60150843,2022-05-18T12:44:37.070Z,"3 km ESE of Catawba, North Carolina",earthquake,0.69,4.11,0.112,13.0,reviewed,se,se
 2022-05-18T03:24:46.310Z,35.949,-96.85833333,7.48,1.2,ml,70.0,32.0,0.06298763968,0.23,ok,ok2022jqor,2022-05-18T12:30:16.433Z,"6 km NNE of Agra, Oklahoma",earthquake,,0.5,0.23,30.0,reviewed,ok,ok
 2022-05-18T01:38:58.939Z,35.78983333,-96.987,7.42,1.22,ml,64.0,42.0,0.1781650379,0.18,ok,ok2022jqle,2022-05-18T12:50:01.439Z,"3 km SE of Carney, Oklahoma",earthquake,,0.4,0.18,27.0,reviewed,ok,ok
+2022-05-18T13:26:38.525Z,60.5082,-141.3103,21.1,0.8,ml,,,,0.14,ak,ak0226cg26lo,2022-05-18T13:28:37.321Z,"135 km SE of McCarthy, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2022-05-18T13:13:28.132Z,61.9261,-147.765,25.2,1.7,ml,,,,0.84,ak,ak0226cfz7pb,2022-05-18T13:16:59.162Z,"14 km NNW of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-05-18T13:12:18.630Z,19.1666660308838,-155.466995239258,33.9599990844727,1.87,md,40.0,95.0,,0.109999999,hv,hv73016122,2022-05-18T13:15:39.860Z,"4 km SSE of Pāhala, Hawaii",earthquake,0.59,0.74000001,0.939999998,7.0,automatic,hv,hv
+2022-05-18T12:47:57.030Z,18.0333333333333,-66.9513333333333,4.21,1.5,md,3.0,230.0,,0.02,pr,pr71349293,2022-05-18T13:13:50.980Z,"1 km SW of Liborio Negron Torres, Puerto Rico",earthquake,2.03,7.85,0.138559211667976,2.0,reviewed,pr,pr
+2022-05-18T10:39:09.880Z,44.4493333,-110.993,12.18,1.45,ml,17.0,126.0,0.1126,0.23,uu,uu60498522,2022-05-18T13:21:28.650Z,"25 km SSE of West Yellowstone, Montana",earthquake,0.63,1.7,0.259,3.0,reviewed,uu,uu
+2022-05-18T10:35:34.980Z,44.447,-110.9921667,12.74,0.89,ml,12.0,125.0,0.1121,0.24,uu,uu60498517,2022-05-18T13:30:15.680Z,"25 km SSE of West Yellowstone, Montana",earthquake,1.09,2.68,0.293,2.0,reviewed,uu,uu
+2022-05-17T18:41:39.270Z,34.48966667,-97.21716667,0.0,1.39,ml,35.0,103.0,0.1340736902,0.42,ok,ok2022jpxk,2022-05-18T13:03:53.944Z,"9 km W of Davis, Oklahoma",quarry blast,,0.6,0.24,12.0,reviewed,ok,ok
