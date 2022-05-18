@@ -20258,3 +20258,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-18T04:29:27.034Z,11.919,143.3108,10.0,5.0,mb,,144.0,2.25,0.71,us,us6000hlxk,2022-05-18T04:53:46.442Z,"209 km SW of Merizo Village, Guam",earthquake,11.3,1.6,0.041,192.0,reviewed,us,us
 2022-05-18T05:22:30.200Z,38.8323326,-122.8043365,1.78,1.17,md,20.0,48.0,0.009987,0.02,nc,nc73735216,2022-05-18T05:24:06.961Z,"7km W of Cobb, CA",earthquake,0.21,0.47,0.22,3.0,automatic,nc,nc
 2022-05-18T05:29:47.770Z,46.8505,-121.91133333333332,8.32,1.15,ml,15.0,69.0,0.02721,0.1,uw,uw61841191,2022-05-18T05:40:09.820Z,"13 km NE of Ashford, Washington",earthquake,0.29,0.33,0.115433677458633,5.0,reviewed,uw,uw
+2022-05-18T05:43:40.299Z,62.9731,-150.5703,88.2,1.5,ml,,,,0.71,ak,ak0226cbed21,2022-05-18T05:45:53.392Z,"54 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
