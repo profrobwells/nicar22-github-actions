@@ -20317,3 +20317,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-18T11:30:45.780Z,33.6715,-116.7638333,10.62,0.66,ml,23.0,70.0,0.06066,0.11,ci,ci40021695,2022-05-18T11:34:13.997Z,"9km SSW of Idyllwild, CA",earthquake,0.22,0.34,0.17,16.0,automatic,ci,ci
 2022-05-18T11:30:29.020Z,38.824501,-122.8071671,1.84,0.84,md,10.0,78.0,0.002525,0.03,nc,nc73735276,2022-05-18T11:32:03.297Z,"7km NW of The Geysers, CA",earthquake,0.33,1.79,,1.0,automatic,nc,nc
 2022-05-18T11:24:58.961Z,38.5188,-119.5292,5.5,1.1,ml,8.0,176.97,0.068,0.093,nn,nn00839094,2022-05-18T11:28:24.816Z,California-Nevada border region,earthquake,,0.8,0.15,5.0,automatic,nn,nn
+2022-05-18T11:27:07.551Z,-17.9676,-69.8301,138.56,4.7,mb,,80.0,0.477,0.82,us,us6000hlz1,2022-05-18T11:46:44.774Z,"25 km SSE of Palca, Peru",earthquake,5.2,4.9,0.084,47.0,reviewed,us,us
