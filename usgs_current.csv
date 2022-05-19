@@ -213,6 +213,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-18T11:30:29.020Z,38.824501,-122.8071671,1.84,0.84,md,10,78,0.002525,0.03,nc,nc73735276,2022-05-18T13:39:11.550Z,"7km NW of The Geysers, CA",earthquake,0.33,1.79,,1,automatic,nc,nc
 2022-05-18T11:27:07.551Z,-17.9676,-69.8301,138.56,4.7,mb,,80,0.477,0.82,us,us6000hlz1,2022-05-18T11:58:31.900Z,"25 km SSE of Palca, Peru",earthquake,5.2,4.9,0.084,47,reviewed,us,us
 2022-05-18T11:24:59.575Z,38.5205,-119.5286,6,1.1,ml,12,76.53,0.066,0.1085,nn,nn00839094,2022-05-18T22:19:40.514Z,"4 km W of Walker, California",earthquake,,1.1,0.12,6,reviewed,nn,nn
-2022-05-18T10:58:37.200Z,35.689,-81.0386667,0.08,1.99,md,15,60,0.2166,0.38,se,se60150843,2022-05-19T09:54:41.384Z,"3 km ESE of Catawba, North Carolina",earthquake,0.69,4.11,0.112,13,reviewed,se,se
-2022-05-18T10:53:54.220Z,58.4211666666667,-154.915,4.19,0.01,ml,9,91,,0.18,av,av91565451,2022-05-19T01:10:27.210Z,"98 km NNW of Karluk, Alaska",earthquake,0.38,1.41,0.255152465738743,9,reviewed,av,av
-2022-05-18T10:52:01.141Z,-6.0616,150.8764,36.93,4.7,mb,,130,2.257,0.49,us,us6000hlyx,2022-05-18T11:21:38.040Z,"99 km SE of Kimbe, Papua New Guinea",earthquake,13.3,7.5,0.085,46,reviewed,us,us
+2022-05-18T10:58:37.200Z,35.689,-81.0386667,0.08,1.99,md,15,60,0.2166,0.38,se,se60150843,2022-05-19T10:46:35.499Z,"3 km ESE of Catawba, North Carolina",earthquake,0.69,4.11,0.112,13,reviewed,se,se
