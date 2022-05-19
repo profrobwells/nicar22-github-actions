@@ -20720,3 +20720,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-19T02:34:18.677Z,38.7917,-118.7828,5.5,1.2,ml,9.0,109.27,0.583,0.138,nn,nn00839161,2022-05-19T20:29:38.382Z,"16 km N of Walker Lake, Nevada",earthquake,,8.5,0.06,7.0,reviewed,nn,nn
 2022-05-19T20:25:54.860Z,44.5623333,-110.7013333,6.96,1.2,md,10.0,103.0,0.0598,0.21,uu,uu60498847,2022-05-19T20:51:40.950Z,"33 km ESE of West Yellowstone, Montana",earthquake,0.56,1.94,0.679,6.0,reviewed,uu,uu
 2022-05-19T05:01:53.330Z,36.0065,-117.7988333,2.17,0.24,ml,8.0,81.0,0.0253,0.07,ci,ci37418108,2022-05-19T20:44:05.757Z,"12km NE of Little Lake, CA",earthquake,0.2,0.22,0.262,4.0,reviewed,ci,ci
+2022-05-19T20:59:56.350Z,19.2115001678467,-155.374160766602,32.2599983215332,1.99000001,md,27.0,165.0,,0.140000001,hv,hv73017502,2022-05-19T21:03:04.180Z,"11 km E of Pāhala, Hawaii",earthquake,0.82,0.639999986,0.99000001,3.0,automatic,hv,hv
+2022-05-19T20:58:24.070Z,33.8393333,-117.4956667,0.58,1.52,ml,35.0,49.0,0.04749,0.2,ci,ci40022815,2022-05-19T21:02:13.028Z,"5km SSE of Home Gardens, CA",quarry blast,0.28,31.61,0.3,34.0,automatic,ci,ci
+2022-05-19T20:54:02.216Z,64.2674,-149.9183,9.2,0.9,ml,,,,0.89,ak,ak0226e7xhkt,2022-05-19T20:55:46.334Z,"35 km W of Clear, Alaska, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-05-19T03:17:46.509Z,36.7899,-115.959,8.5,-0.5,ml,5.0,201.47,0.065,0.1362,nn,nn00839163,2022-05-19T21:06:41.933Z,"35 km NW of Indian Springs, Nevada",earthquake,,4.5,0.0,1.0,reviewed,nn,nn
