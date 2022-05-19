@@ -20665,3 +20665,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-19T13:14:53.180Z,51.7891666666667,-178.810833333333,8.81,0.12,ml,5.0,116.0,,0.09,av,av91566946,2022-05-19T16:34:19.240Z,"150 km W of Adak, Alaska",earthquake,0.57,0.59,0.250825851188315,5.0,reviewed,av,av
 2022-05-19T09:07:17.890Z,51.6115,-178.524166666667,17.33,0.43,ml,11.0,184.0,,0.14,av,av91566676,2022-05-19T16:31:58.310Z,"133 km WSW of Adak, Alaska",earthquake,0.57,2.1,0.275955435562876,11.0,reviewed,av,av
 2022-05-18T17:41:09.070Z,36.5685,-121.086,8.63,1.12,md,18.0,123.0,0.03868,0.11,nc,nc73735396,2022-05-19T16:38:10.970Z,"7km NE of Pinnacles, CA",earthquake,0.33,0.51,0.107,14.0,reviewed,nc,nc
+2022-05-19T17:47:52.702Z,62.5612,-152.1267,0.0,2.4,ml,,,,0.98,ak,ak0226e63snm,2022-05-19T17:51:29.486Z,"70 km W of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-19T17:46:22.129Z,61.263,-147.6281,0.0,1.4,ml,,,,1.46,ak,ak0226e63ikk,2022-05-19T18:00:03.107Z,"60 km S of Glacier View, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-05-19T13:20:57.960Z,33.6543333,-116.7003333,15.0,0.62,ml,11.0,83.0,0.02647,0.09,ci,ci37418068,2022-05-19T17:53:30.971Z,"10km S of Idyllwild, CA",earthquake,0.39,0.4,0.115,5.0,reviewed,ci,ci
+2022-05-19T13:20:55.670Z,33.658,-116.7048333,15.06,0.5,ml,15.0,72.0,0.02807,0.06,ci,ci37418060,2022-05-19T17:53:33.797Z,"9km S of Idyllwild, CA",earthquake,0.22,0.4,0.101,5.0,reviewed,ci,ci
