@@ -20895,3 +20895,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-20T13:42:34.600Z,33.9625,-116.7895,13.06,0.83,ml,22.0,93.0,0.07404,0.17,ci,ci40023127,2022-05-20T13:46:08.781Z,"5km N of Cabazon, CA",earthquake,0.37,0.74,0.243,22.0,automatic,ci,ci
 2022-05-20T14:40:55.628Z,59.942,-151.8313,58.1,2.1,ml,,,,0.59,ak,ak0226frtcje,2022-05-20T14:44:10.865Z,"5 km W of Happy Valley, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-05-20T14:37:26.970Z,36.1061667,-117.8836667,3.5,1.56,ml,18.0,62.0,0.02596,0.11,ci,ci40023143,2022-05-20T14:41:08.427Z,"9km NE of Coso Junction, CA",earthquake,0.19,0.34,0.217,19.0,automatic,ci,ci
+2022-05-20T14:51:09.510Z,59.9005,-152.9423,99.8,2.0,ml,,,,0.51,ak,ak0226frvgut,2022-05-20T14:53:57.295Z,"63 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-05-20T14:51:03.616Z,60.6964,-146.632,14.2,1.1,ml,,,,1.06,ak,ak0226frvleh,2022-05-20T14:53:36.423Z,"18 km S of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
