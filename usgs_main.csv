@@ -20838,3 +20838,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-20T06:56:50.363Z,63.0275,-149.8571,67.7,2.1,ml,,,,0.53,ak,ak0226fn5aqr,2022-05-20T07:15:44.040Z,"61 km SW of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-05-20T06:32:46.437Z,11.4441,-87.3349,10.0,4.3,mb,,173.0,1.258,0.59,us,us6000hmjv,2022-05-20T07:19:16.040Z,"97 km WSW of Masachapa, Nicaragua",earthquake,6.5,2.0,0.116,21.0,reviewed,us,us
 2022-05-20T06:24:44.640Z,17.971,-66.7551666666667,13.6,2.64,md,9.0,212.0,,0.16,pr,pr71349473,2022-05-20T07:22:10.300Z,"4 km WSW of Tallaboa, Puerto Rico",earthquake,0.86,0.4,0.126013184517241,8.0,reviewed,pr,pr
+2022-05-20T07:22:46.830Z,38.7871666,-122.7701645,1.69,0.85,md,11.0,105.0,0.01512,0.02,nc,nc73735906,2022-05-20T07:32:11.440Z,"2km NW of The Geysers, CA",earthquake,0.48,0.72,,1.0,automatic,nc,nc
