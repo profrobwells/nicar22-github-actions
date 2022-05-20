@@ -20935,3 +20935,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-20T04:18:00.750Z,29.17694092,-97.66923254,0.0244547526,2.2,ml,12.0,73.0,0.03923722137,0.2,tx,tx2022juhl,2022-05-20T18:08:56.379Z,"10 km SSW of Smiley, Texas",earthquake,1.273780337,2.151871896,0.1,7.0,reviewed,tx,tx
 2022-05-20T18:33:15.220Z,17.8956666666667,-66.8978333333333,13.08,1.92,md,6.0,239.0,,0.07,pr,pr71349583,2022-05-20T18:47:32.700Z,"8 km S of Guánica, Puerto Rico",earthquake,0.84,0.43,0.0734839889864294,5.0,reviewed,pr,pr
 2022-05-20T00:21:29.776Z,36.7379,-116.29,9.1,-0.1,ml,10.0,84.4,0.055,0.1316,nn,nn00839210,2022-05-20T18:47:33.308Z,"45 km ESE of Beatty, Nevada",earthquake,,1.7,1.01,4.0,reviewed,nn,nn
+2022-05-20T18:57:16.773Z,61.4896,-149.9586,46.7,1.1,ml,,,,0.81,ak,ak0226fuan4x,2022-05-20T19:09:03.052Z,"3 km S of Big Lake, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2022-05-20T18:55:29.589Z,36.75966667,-98.07066667,7.14,1.72,ml,84.0,82.0,0.1025798703,0.23,ok,ok2022jvkj,2022-05-20T19:05:46.831Z,Oklahoma,earthquake,,0.5,0.19,34.0,reviewed,ok,ok
+2022-05-20T17:08:27.706Z,38.236,-112.2273,2.23,2.7,ml,,62.0,0.267,0.5,us,us6000hmpy,2022-05-20T19:02:15.040Z,"0 km WSW of Junction, Utah",earthquake,0.6,4.9,0.03,146.0,reviewed,us,us
+2022-05-20T08:07:18.358Z,39.1952,-119.6295,3.3,0.2,ml,7.0,104.7,0.109,0.1058,nn,nn00839211,2022-05-20T19:00:01.359Z,"5 km SW of Dayton, Nevada",earthquake,,10.0,0.0,1.0,reviewed,nn,nn
