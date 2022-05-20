@@ -20906,3 +20906,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-20T15:30:40.209Z,63.1754,-151.3358,0.9,1.6,ml,,,,1.0,ak,ak0226fsclt5,2022-05-20T15:38:52.793Z,"45 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-20T15:30:35.617Z,60.0196,-140.7537,2.3,2.0,ml,,,,0.79,ak,ak0226fsclg7,2022-05-20T15:38:52.012Z,"78 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-20T15:50:35.710Z,40.4920006,-124.3108368,18.17,2.23,md,8.0,220.0,0.1632,0.08,nc,nc73736006,2022-05-20T15:53:31.381Z,"10km SSW of Ferndale, CA",earthquake,1.44,0.73,0.1,4.0,automatic,nc,nc
+2022-05-20T16:05:23.511Z,63.2838,-151.7444,8.8,1.1,ml,,,,0.73,ak,ak0226fssn7o,2022-05-20T16:12:47.700Z,"28 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-20T15:57:15.680Z,38.8358345,-122.8078308,1.95,0.85,md,9.0,69.0,0.01254,0.02,nc,nc73736011,2022-05-20T16:08:10.336Z,"8km WNW of Cobb, CA",earthquake,0.48,1.16,,1.0,automatic,nc,nc
+2022-05-20T14:30:22.550Z,35.9738333,-117.6831667,3.23,0.26,ml,8.0,119.0,0.03711,0.07,ci,ci40023135,2022-05-20T16:09:46.414Z,"20km ENE of Little Lake, CA",earthquake,0.27,0.33,0.256,2.0,reviewed,ci,ci
+2022-05-20T03:50:06.240Z,39.4356667,-110.3351667,-1.13,1.12,md,5.0,127.0,0.01394,0.03,uu,uu60498997,2022-05-20T15:56:59.560Z,"13 km SSE of Sunnyside, Utah",earthquake,1.39,0.96,0.221,4.0,reviewed,uu,uu
