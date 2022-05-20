@@ -20831,3 +20831,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-20T06:16:08.240Z,40.2993317,-124.3818359,6.23,2.76,md,10.0,243.0,0.1253,0.08,nc,nc73735891,2022-05-20T06:23:11.956Z,"9km WSW of Petrolia, CA",earthquake,1.28,1.04,0.15,5.0,automatic,nc,nc
 2022-05-20T00:35:47.130Z,37.8035,-121.9625,20.76,1.78,md,44.0,65.0,0.06018,0.11,nc,nc73735866,2022-05-20T06:33:10.831Z,"3km NNE of San Ramon, CA",earthquake,0.23,0.27,0.134,35.0,reviewed,nc,nc
 2022-05-20T00:20:41.570Z,37.4005,-118.4181667,7.58,1.12,md,6.0,126.0,0.03001,0.03,nc,nc73735836,2022-05-20T06:37:10.854Z,"2km N of Dixon Lane-Meadow Creek, CA",earthquake,0.49,0.67,0.129,4.0,reviewed,nc,nc
+2022-05-20T06:06:22.810Z,17.9555,-66.922,14.04,1.81,md,5.0,213.0,,0.05,pr,pr71349468,2022-05-20T06:51:12.490Z,"2 km SW of Guánica, Puerto Rico",earthquake,0.76,0.94,0.0108386090416461,5.0,reviewed,pr,pr
+2022-05-20T06:04:37.868Z,19.1834,121.0586,33.14,4.4,mb,,125.0,3.616,0.59,us,us6000hmjg,2022-05-20T06:48:47.040Z,"63 km N of Claveria, Philippines",earthquake,10.9,7.0,0.117,21.0,reviewed,us,us
