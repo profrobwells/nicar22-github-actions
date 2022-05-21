@@ -21211,3 +21211,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-21T22:40:39.751Z,-16.1367,-174.8197,283.77,4.7,mb,,51.0,3.669,0.76,us,us6000hmzm,2022-05-21T22:57:59.040Z,"111 km W of Hihifo, Tonga",earthquake,9.3,7.3,0.036,231.0,reviewed,us,us
 2022-05-21T23:16:48.442Z,64.7255,-147.5514,2.2,1.1,ml,,,,0.3,ak,ak0226hkkfql,2022-05-21T23:20:02.767Z,"8 km S of Badger, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-21T23:12:22.490Z,33.2205,-117.1576667,0.28,1.03,ml,10.0,124.0,0.1863,0.19,ci,ci40023871,2022-05-21T23:16:04.102Z,"8km ENE of Vista, CA",earthquake,0.63,31.61,0.128,11.0,automatic,ci,ci
+2022-05-21T23:34:52.420Z,19.1520004272461,-155.468826293945,32.7999992370605,1.87,md,23.0,170.0,,0.159999996,hv,hv73019387,2022-05-21T23:38:12.370Z,"5 km S of Pāhala, Hawaii",earthquake,1.02,1.29999995,1.28999996,7.0,automatic,hv,hv
