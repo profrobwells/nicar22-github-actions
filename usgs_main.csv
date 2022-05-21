@@ -21046,3 +21046,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-21T05:06:04.910Z,33.138,-115.8205,1.15,1.11,ml,8.0,172.0,0.172,0.31,ci,ci40023495,2022-05-21T05:17:05.975Z,"22km WNW of Westmorland, CA",earthquake,1.64,31.61,0.17,15.0,automatic,ci,ci
 2022-05-21T04:37:14.047Z,-8.5407,124.0396,155.12,4.5,mb,,119.0,1.227,0.89,us,us6000hmul,2022-05-21T05:18:08.040Z,"82 km NNW of Pante Makasar, Timor Leste",earthquake,11.1,8.1,0.222,8.0,reviewed,us,us
 2022-05-21T04:34:03.468Z,-6.8996,126.9088,405.82,4.1,mb,,92.0,3.857,0.64,us,us6000hmuk,2022-05-21T05:12:30.040Z,"179 km N of Lospalos, Timor Leste",earthquake,15.3,13.3,0.213,7.0,reviewed,us,us
+2022-05-21T05:31:25.100Z,62.1014,-149.9872,17.7,2.0,ml,,,,0.75,ak,ak0226h9xssa,2022-05-21T05:35:22.522Z,"9 km SW of Susitna North, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-05-21T05:23:18.072Z,19.8589,-61.9719,10.0,3.9,mb,,213.0,2.08,0.56,us,us6000hmus,2022-05-21T05:35:13.040Z,"214 km NNE of The Valley, Anguilla",earthquake,8.1,2.0,0.297,3.0,reviewed,us,us
