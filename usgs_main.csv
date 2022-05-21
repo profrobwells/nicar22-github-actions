@@ -21182,3 +21182,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-21T18:12:45.436Z,36.774,-115.9694,12.4,-0.3,ml,10.0,155.04,0.032,0.1211,nn,nn00839281,2022-05-21T18:28:40.669Z,"35 km NW of Indian Springs, Nevada",earthquake,,1.6,0.01,2.0,reviewed,nn,nn
 2022-05-21T18:39:24.486Z,66.2011,-157.4765,7.9,1.4,ml,,,,1.03,ak,ak0226hhq5c0,2022-05-21T18:41:53.460Z,"74 km NW of Huslia, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-21T18:17:11.650Z,17.992,-67.4376666666667,9.0,2.75,md,7.0,263.0,,0.16,pr,pr71349778,2022-05-21T18:40:29.620Z,Puerto Rico region,earthquake,1.06,0.8,0.106155924835229,7.0,reviewed,pr,pr
+2022-05-21T18:57:31.390Z,34.2235,-117.5243333,11.75,1.87,ml,61.0,18.0,0.08601,0.2,ci,ci40023799,2022-05-21T19:01:25.849Z,"5km SSW of Lytle Creek, CA",earthquake,0.21,0.55,0.186,28.0,automatic,ci,ci
