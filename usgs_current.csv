@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-21T13:37:27.600Z,38.7915001,-122.7624969,2.04,1.18,md,14,65,0.009368,0.02,nc,nc73736306,2022-05-21T13:40:07.969Z,"2km NNW of The Geysers, CA",earthquake,0.28,0.5,,1,automatic,nc,nc
+2022-05-21T13:46:57.351Z,66.9787,-155.3544,0,1.9,ml,,,,0.97,ak,ak0226hesjuo,2022-05-21T13:51:50.360Z,"67 km E of Kobuk, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-21T13:37:27.600Z,38.7915001,-122.7624969,2.04,1.18,md,14,65,0.009368,0.02,nc,nc73736306,2022-05-21T13:47:12.122Z,"2km NNW of The Geysers, CA",earthquake,0.28,0.5,,1,automatic,nc,nc
 2022-05-21T13:35:19.230Z,35.909,-117.7185,4.36,0.98,ml,14,78,0.06755,0.12,ci,ci40023647,2022-05-21T13:38:53.565Z,"17km E of Little Lake, CA",earthquake,0.23,0.57,0.16,11,automatic,ci,ci
 2022-05-21T13:30:44.910Z,19.1984996795654,-155.472671508789,31.1299991607666,2.51,ml,48,92,,0.150000006,hv,hv73018967,2022-05-21T13:36:15.420Z,"0 km SE of Pāhala, Hawaii",earthquake,0.54,0.689999998,3.57,17,automatic,hv,hv
 2022-05-21T13:05:18.530Z,19.4346675872803,-155.610504150391,-1.12000000476837,1.75,md,28,73,,0.180000007,hv,hv73018952,2022-05-21T13:08:31.260Z,"26 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.43,0.550000012,0.870000005,8,automatic,hv,hv
@@ -205,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-20T14:30:22.550Z,35.9738333,-117.6831667,3.23,0.26,ml,8,119,0.03711,0.07,ci,ci40023135,2022-05-20T16:09:46.414Z,"20km ENE of Little Lake, CA",earthquake,0.27,0.33,0.256,2,reviewed,ci,ci
 2022-05-20T14:11:12.070Z,38.7606667,-122.7136667,1.76,0.2,md,18,60,0.008801,0.04,nc,nc73735991,2022-05-21T08:56:10.303Z,"2km SW of Anderson Springs, CA",earthquake,0.29,0.21,0.125,4,reviewed,nc,nc
 2022-05-20T14:04:24.290Z,53.4863333333333,-168.058333333333,3.23,-0.08,ml,5,301,,0.04,av,av91059378,2022-05-20T22:48:36.370Z,"81 km NE of Nikolski, Alaska",earthquake,0.7,1.31,0.319332223809955,5,reviewed,av,av
-2022-05-20T13:46:22.060Z,19.3133333333333,-155.802166666667,6.97,2.33,ml,46,124,,0.17,hv,hv73018092,2022-05-20T21:44:29.640Z,"17 km SSE of Honaunau-Napoopoo, Hawaii",earthquake,0.33,0.43,0.197702124687832,8,reviewed,hv,hv
