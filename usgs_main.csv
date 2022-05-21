@@ -21138,3 +21138,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-21T14:18:47.150Z,34.181,-116.9403333,9.62,1.06,ml,28.0,44.0,0.08271,0.26,ci,ci40023663,2022-05-21T14:22:35.417Z,"8km SSW of Big Bear Lake, CA",earthquake,0.4,0.77,0.194,23.0,automatic,ci,ci
 2022-05-21T13:51:28.590Z,17.9591666666667,-66.7001666666667,7.96,1.89,md,15.0,159.0,,0.14,pr,pr71349748,2022-05-21T14:14:45.036Z,"4 km SSE of Tallaboa, Puerto Rico",earthquake,0.37,0.62,0.232639744862349,6.0,reviewed,pr,pr
 2022-05-21T13:47:33.440Z,44.3111667,-116.1703333,6.17,3.18,ml,20.0,78.0,0.786,0.29,mb,mb80546644,2022-05-21T14:26:21.530Z,"6 km W of Smiths Ferry, Idaho",earthquake,0.55,0.98,0.183,34.0,reviewed,mb,mb
+2022-05-21T14:12:03.360Z,44.3098333,-116.1748333,3.32,2.04,ml,8.0,78.0,0.788,0.27,mb,mb80546654,2022-05-21T14:39:20.900Z,"6 km W of Smiths Ferry, Idaho",earthquake,0.83,2.97,0.126,11.0,reviewed,mb,mb
