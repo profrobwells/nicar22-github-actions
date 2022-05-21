@@ -21139,3 +21139,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-21T13:51:28.590Z,17.9591666666667,-66.7001666666667,7.96,1.89,md,15.0,159.0,,0.14,pr,pr71349748,2022-05-21T14:14:45.036Z,"4 km SSE of Tallaboa, Puerto Rico",earthquake,0.37,0.62,0.232639744862349,6.0,reviewed,pr,pr
 2022-05-21T13:47:33.440Z,44.3111667,-116.1703333,6.17,3.18,ml,20.0,78.0,0.786,0.29,mb,mb80546644,2022-05-21T14:26:21.530Z,"6 km W of Smiths Ferry, Idaho",earthquake,0.55,0.98,0.183,34.0,reviewed,mb,mb
 2022-05-21T14:12:03.360Z,44.3098333,-116.1748333,3.32,2.04,ml,8.0,78.0,0.788,0.27,mb,mb80546654,2022-05-21T14:39:20.900Z,"6 km W of Smiths Ferry, Idaho",earthquake,0.83,2.97,0.126,11.0,reviewed,mb,mb
+2022-05-21T14:55:52.950Z,38.8370018,-122.8010025,1.78,0.85,md,10.0,66.0,0.008442,0.03,nc,nc73736321,2022-05-21T14:57:28.650Z,"7km WNW of Cobb, CA",earthquake,0.4,1.37,,1.0,automatic,nc,nc
+2022-05-21T14:53:47.854Z,38.1069,-118.7508,0.0,1.1,ml,9.0,214.8,0.241,0.2887,nn,nn00839268,2022-05-21T14:57:59.660Z,"35 km ENE of Mono City, California",earthquake,,57.7,0.83,5.0,automatic,nn,nn
