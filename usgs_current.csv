@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-21T19:32:29.359Z,62.1422,-151.3978,83.3,1.4,ml,,,,0.71,ak,ak0226hia3av,2022-05-21T19:34:21.513Z,"16 km N of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2022-05-21T19:30:02.210Z,19.2113342285156,-155.432159423828,31.8600006103516,2.06999993,md,29,132,,0.119999997,hv,hv73019207,2022-05-21T19:33:08.790Z,"4 km E of Pāhala, Hawaii",earthquake,0.71,0.769999981,1.02999997,3,automatic,hv,hv
 2022-05-21T18:57:31.390Z,34.2235,-117.5243333,11.75,1.87,ml,61,18,0.08601,0.2,ci,ci40023799,2022-05-21T19:01:25.849Z,"5km SSW of Lytle Creek, CA",earthquake,0.21,0.55,0.186,28,automatic,ci,ci
 2022-05-21T18:39:24.486Z,66.2011,-157.4765,7.9,1.4,ml,,,,1.03,ak,ak0226hhq5c0,2022-05-21T18:56:12.710Z,"74 km NW of Huslia, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-21T18:34:12.440Z,38.2454,-118.3272,9.8,1.3,ml,12,148.6,0.14,0.1182,nn,nn00839284,2022-05-21T18:37:43.203Z,"24 km SW of Mina, Nevada",earthquake,,0.8,0.26,7,automatic,nn,nn
@@ -199,4 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-20T20:01:57.200Z,38.7836667,-122.716,-0.61,0.22,md,7,170,0.0162,0.03,nc,nc73736061,2022-05-21T07:47:10.918Z,"2km WNW of Anderson Springs, CA",earthquake,0.39,2.42,0.006,3,reviewed,nc,nc
 2022-05-20T19:44:32.700Z,19.1688333333333,-155.486833333333,35.24,2.72,ml,51,98,,0.11,hv,hv73018227,2022-05-20T23:06:23.240Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.41,0.5,0.127621073804283,19,reviewed,hv,hv
 2022-05-20T19:42:25.130Z,53.8523333333333,-166.64,8.7,1.23,ml,6,153,,0.07,av,av91568466,2022-05-20T23:13:53.590Z,"7 km WSW of Unalaska, Alaska",earthquake,0.33,0.6,0.421674670424782,6,reviewed,av,av
-2022-05-20T19:31:55.939Z,63.4566,-146.0381,10.5,0.9,ml,,,,0.4,ak,ak0226fuql55,2022-05-20T22:45:33.859Z,"46 km NNW of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak

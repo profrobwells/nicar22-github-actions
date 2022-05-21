@@ -21183,3 +21183,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-21T18:39:24.486Z,66.2011,-157.4765,7.9,1.4,ml,,,,1.03,ak,ak0226hhq5c0,2022-05-21T18:41:53.460Z,"74 km NW of Huslia, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-21T18:17:11.650Z,17.992,-67.4376666666667,9.0,2.75,md,7.0,263.0,,0.16,pr,pr71349778,2022-05-21T18:40:29.620Z,Puerto Rico region,earthquake,1.06,0.8,0.106155924835229,7.0,reviewed,pr,pr
 2022-05-21T18:57:31.390Z,34.2235,-117.5243333,11.75,1.87,ml,61.0,18.0,0.08601,0.2,ci,ci40023799,2022-05-21T19:01:25.849Z,"5km SSW of Lytle Creek, CA",earthquake,0.21,0.55,0.186,28.0,automatic,ci,ci
+2022-05-21T19:32:29.359Z,62.1422,-151.3978,83.3,1.4,ml,,,,0.71,ak,ak0226hia3av,2022-05-21T19:34:21.513Z,"16 km N of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2022-05-21T19:30:02.210Z,19.2113342285156,-155.432159423828,31.8600006103516,2.06999993,md,29.0,132.0,,0.119999997,hv,hv73019207,2022-05-21T19:33:08.790Z,"4 km E of Pāhala, Hawaii",earthquake,0.71,0.769999981,1.02999997,3.0,automatic,hv,hv
