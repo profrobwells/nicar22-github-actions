@@ -21327,3 +21327,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-22T13:50:05.870Z,60.3621,-143.2792,2.1,1.4,ml,,,,0.85,ak,ak0226j2cn8r,2022-05-22T13:51:54.644Z,Southern Alaska,earthquake,,5.3,,,automatic,ak,ak
 2022-05-22T13:47:01.715Z,-26.0556,178.5458,596.9,5.3,mww,,98.0,4.474,0.84,us,us6000hn42,2022-05-22T14:02:24.040Z,south of the Fiji Islands,earthquake,12.5,8.4,0.098,10.0,reviewed,us,us
 2022-05-22T13:41:28.489Z,-26.1486,178.3341,583.63,4.7,mb,,60.0,4.543,1.15,us,us6000hn41,2022-05-22T14:00:36.040Z,south of the Fiji Islands,earthquake,5.9,8.0,0.039,196.0,reviewed,us,us
+2022-05-22T14:20:56.221Z,60.9396,-147.637,26.7,1.4,ml,,,,0.75,ak,ak0226j2rr92,2022-05-22T14:23:40.968Z,"52 km W of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-05-22T05:45:24.268Z,40.0875,-119.4868,19.2,0.4,ml,3.0,234.46,0.205,0.1434,nn,nn00839343,2022-05-22T14:32:19.036Z,"18 km NNE of Sutcliffe, Nevada",earthquake,,6.0,0.0,1.0,reviewed,nn,nn
+2022-05-22T05:18:43.105Z,39.487,-119.6179,8.5,0.4,ml,8.0,198.5,0.149,0.1245,nn,nn00839342,2022-05-22T14:29:11.752Z,"12 km ESE of Sparks, Nevada",earthquake,,3.1,0.25,2.0,reviewed,nn,nn
+2022-05-22T04:37:23.231Z,39.4888,-119.6255,8.8,1.0,ml,10.0,167.82,0.146,0.124,nn,nn00839341,2022-05-22T14:26:02.508Z,"12 km ESE of Sparks, Nevada",earthquake,,2.8,0.34,4.0,reviewed,nn,nn
