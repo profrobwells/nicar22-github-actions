@@ -79,7 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-23T09:23:45.550Z,62.881,-150.3574,63.2,1.1,ml,,,,0.7,ak,ak0226knck1n,2022-05-23T09:37:14.794Z,"47 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-05-23T09:17:07.740Z,18.0231666666667,-66.7741666666667,15.76,2.09,md,12,126,,0.24,pr,pr71350273,2022-05-23T10:37:10.330Z,"0 km NW of Magas Arriba, Puerto Rico",earthquake,0.65,0.9,0.157734042840852,11,reviewed,pr,pr
 2022-05-23T09:11:52.590Z,36.024334,-120.5876694,3.3,1.08,md,15,117,0.04399,0.07,nc,nc73736996,2022-05-23T09:29:15.801Z,"20km NW of Parkfield, CA",earthquake,0.43,0.74,0.14,5,automatic,nc,nc
-2022-05-23T09:10:53.692Z,59.5205,-152.0754,53.7,3.9,ml,,,,0.64,ak,ak0226kn9sac,2022-05-23T17:10:10.149Z,"20 km NNW of Nanwalek, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2022-05-23T09:10:53.692Z,59.5205,-152.0754,53.7,3.9,ml,,,,0.64,ak,ak0226kn9sac,2022-05-23T17:48:10.040Z,"20 km NNW of Nanwalek, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2022-05-23T09:09:18.870Z,18.7616666666667,-65.2646666666667,33.64,3.21,md,14,282,,0.43,pr,pr71350248,2022-05-23T10:28:48.660Z,"50 km N of Culebra, Puerto Rico",earthquake,3.1,9.01,0.0614073669561508,9,reviewed,pr,pr
 2022-05-23T09:07:42.750Z,37.6378333,-119.0183333,-0.1,-0.02,md,9,85,0.001123,0.01,nc,nc73736991,2022-05-23T17:42:23.857Z,"4km W of Mammoth Lakes, CA",earthquake,0.37,0.51,0.32,9,reviewed,nc,nc
 2022-05-23T08:39:23.047Z,57.933,-155.9098,8.6,1.4,ml,,,,0.31,ak,ak0226kmui5w,2022-05-23T09:00:32.617Z,"92 km ESE of Egegik, Alaska",earthquake,,0.6,,,automatic,ak,ak
