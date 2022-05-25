@@ -246,5 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-24T10:07:57.210Z,33.48,-116.441,8.61,2.36,ml,86,25,0.04513,0.19,ci,ci40025255,2022-05-24T17:31:59.547Z,"23km ESE of Anza, CA",earthquake,0.15,0.39,0.179,25,reviewed,ci,ci
 2022-05-24T10:03:25.410Z,37.0848333,-122.5276667,7.19,2.18,md,69,209,0.1838,0.16,nc,nc73737391,2022-05-25T07:45:13.491Z,"34km W of Bonny Doon, CA",earthquake,0.6,0.64,0.125,62,reviewed,nc,nc
 2022-05-24T09:52:24.510Z,39.072,-123.3123333,5.68,1.03,md,11,63,0.08905,0.05,nc,nc73737386,2022-05-25T05:20:10.648Z,"8km NNE of Boonville, CA",earthquake,0.19,0.81,0.086,11,reviewed,nc,nc
-2022-05-24T09:47:56.848Z,38.6958,-118.4685,9.4,-0.5,ml,7,299.07,0.08,0.0613,nn,nn00839494,2022-05-25T02:38:00.632Z,"23 km NE of Hawthorne, Nevada",earthquake,,13.1,0,1,reviewed,nn,nn
-2022-05-24T09:39:53.643Z,38.5052,-119.4928,9.4,-0.3,ml,3,254.14,0.043,0.0978,nn,nn00839487,2022-05-25T02:37:59.677Z,"1 km SW of Walker, California",earthquake,,3.2,0.15,2,reviewed,nn,nn
