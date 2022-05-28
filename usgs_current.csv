@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-28T09:52:21.100Z,34.0110016,-116.6838303,8.74,1.33,ml,47,60,0.04052,0.12,ci,ci40029055,2022-05-28T09:54:31.777Z,"10km WSW of Morongo Valley, CA",earthquake,0.24,0.65,0.24,8,automatic,ci,ci
+2022-05-28T09:51:22.350Z,33.6421661,-118.0043335,13.87,1.73,ml,42,105,0.06628,0.21,ci,ci40029047,2022-05-28T09:55:04.779Z,"6km S of Huntington Beach, CA",earthquake,0.38,0.72,0.264,27,automatic,ci,ci
+2022-05-28T09:50:29.450Z,33.6391667,-117.992,13.5,1.49,ml,26,174,0.0609,0.3,ci,ci40029039,2022-05-28T09:54:23.983Z,"6km S of Huntington Beach, CA",earthquake,0.75,0.94,0.244,31,automatic,ci,ci
 2022-05-28T09:39:46.618Z,61.6009,-146.3445,36.7,1.4,ml,,,,1.06,ak,ak0226sx4q1x,2022-05-28T09:42:06.238Z,"48 km SSE of Nelchina, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-05-28T09:39:29.970Z,36.1066667,-117.9058333,4.13,1.09,ml,15,67,0.04269,0.19,ci,ci40029031,2022-05-28T09:43:08.976Z,"8km NNE of Coso Junction, CA",earthquake,0.38,0.55,0.139,15,automatic,ci,ci
 2022-05-28T09:23:16.160Z,19.1788330078125,-155.483840942383,31.7099990844727,2.22,ml,42,77,,0.150000006,hv,hv73025612,2022-05-28T09:28:46.630Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.55,0.730000019,4.62,4,automatic,hv,hv
@@ -10,6 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-28T08:58:00.440Z,36.2378349,-120.809166,5.64,1.84,md,15,133,0.0228,0.07,nc,nc73738896,2022-05-28T09:14:15.279Z,"22km ENE of San Lucas, CA",earthquake,0.35,0.41,0.06,5,automatic,nc,nc
 2022-05-28T08:57:34.770Z,19.1516666412354,-155.456329345703,32.4500007629395,2.22000003,md,44,164,,0.129999995,hv,hv73025562,2022-05-28T09:00:48.140Z,"6 km SSE of Pāhala, Hawaii",earthquake,0.62,0.689999998,1.19000006,20,automatic,hv,hv
 2022-05-28T08:56:04.130Z,31.9461667,-116.9,8.28,2.19,ml,9,247,0.215,0.15,ci,ci40028999,2022-05-28T08:59:45.558Z,"21km WNW of El Sauzal, B.C., MX",earthquake,1.46,1.95,0.076,17,automatic,ci,ci
+2022-05-28T08:54:44.170Z,18.0706666666667,-67.3333333333333,10.47,3.1,md,29,185,,0.26,pr,pr71351108,2022-05-28T09:46:52.900Z,"15 km W of Puerto Real, Puerto Rico",earthquake,0.59,0.49,0.180290851922244,13,reviewed,pr,pr
 2022-05-28T08:13:00.230Z,34.0108333,-116.4433333,6.41,0.81,ml,9,115,0.07327,0.16,ci,ci40028991,2022-05-28T08:16:37.721Z,"8km NE of Desert Hot Springs, CA",earthquake,0.41,0.92,0.121,16,automatic,ci,ci
 2022-05-28T08:07:11.865Z,33.0928,141.544,10,4.7,mb,,107,1.452,0.37,us,us7000hd8h,2022-05-28T08:30:56.040Z,"254 km SSE of Katsuura, Japan",earthquake,5.8,1.8,0.055,101,reviewed,us,us
 2022-05-28T08:06:18.324Z,64.4175,-17.9109,10,4.7,mb,,63,1.51,0.51,us,us7000hd8i,2022-05-28T08:23:02.040Z,"131 km W of Höfn, Iceland",earthquake,6.9,1.9,0.047,138,reviewed,us,us
