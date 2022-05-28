@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-28T17:21:57.580Z,33.7245,-116.7758333,15.2,0.69,ml,15,148,0.05309,0.1,ci,ci40029399,2022-05-28T17:25:35.136Z,"6km WSW of Idyllwild, CA",earthquake,0.33,0.44,0.168,14,automatic,ci,ci
 2022-05-28T16:44:55.650Z,33.6813333,-116.7156667,15.05,0.76,ml,26,84,0.02978,0.21,ci,ci40029383,2022-05-28T16:48:37.293Z,"6km S of Idyllwild, CA",earthquake,0.39,0.55,0.094,17,automatic,ci,ci
 2022-05-28T16:32:12.620Z,19.191499710083,-155.473327636719,30.5100002288818,2.53,ml,48,90,,0.150000006,hv,hv73025957,2022-05-28T16:37:43.540Z,"1 km SSE of Pāhala, Hawaii",earthquake,0.47,0.689999998,3.34,25,automatic,hv,hv
 2022-05-28T16:30:35.990Z,17.954,-66.8298333333333,11.67,2.3,md,12,195,,0.13,pr,pr71351198,2022-05-28T16:48:25.990Z,"4 km SSW of Indios, Puerto Rico",earthquake,0.47,0.71,0.0965481233981464,8,reviewed,pr,pr
@@ -178,6 +179,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-27T17:48:44.890Z,38.8320007,-122.8036652,1.62,0.85,md,12,71,0.009945,0.02,nc,nc73738716,2022-05-27T18:16:13.062Z,"7km W of Cobb, CA",earthquake,0.3,0.88,,1,automatic,nc,nc
 2022-05-27T17:48:10.570Z,36.3651657,-120.5855026,11.05,1.69,md,6,193,0.1776,0.04,nc,nc73738711,2022-05-27T21:40:12.244Z,"10km SE of New Idria, CA",earthquake,1.8,3.83,0.28,3,automatic,nc,nc
 2022-05-27T17:47:29.000Z,37.4996667,-118.8485,4.9,0.41,md,9,236,0.09151,0.05,nc,nc73738721,2022-05-27T18:51:14.280Z,"16km WSW of Toms Place, CA",earthquake,1.04,3.06,0.082,8,reviewed,nc,nc
-2022-05-27T17:26:46.473Z,64.9334,-148.4785,19,0.6,ml,,,,0.34,ak,ak0226rea22v,2022-05-27T17:31:11.409Z,"23 km WNW of Ester, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-05-27T17:18:37.037Z,54.5864,-156.7795,10,3.5,ml,,215,1.648,0.82,us,us7000hd50,2022-05-27T18:20:47.040Z,"210 km SE of Perryville, Alaska",earthquake,3,2,0.066,30,reviewed,us,us
-2022-05-27T17:01:48.590Z,33.8258333,-117.4788333,-0.66,1.48,ml,43,42,0.02938,0.22,ci,ci40028495,2022-05-27T18:27:20.079Z,"7km SE of Home Gardens, CA",quarry blast,0.35,31.61,0.324,24,reviewed,ci,ci
