@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-29T04:52:04.720Z,37.8305016,-122.0425034,8.42,1.11,md,12,110,0.02145,0.03,nc,nc73739151,2022-05-29T05:10:16.273Z,"2km SSW of Alamo, CA",earthquake,0.49,0.44,0.15,7,automatic,nc,nc
+2022-05-29T04:52:04.720Z,37.8305016,-122.0425034,8.42,1.11,md,12,110,0.02145,0.03,nc,nc73739151,2022-05-29T05:25:17.368Z,"2km SSW of Alamo, CA",earthquake,0.49,0.44,0.15,7,automatic,nc,nc
 2022-05-29T04:26:26.190Z,19.1766662597656,-155.499328613281,35.5400009155273,2.13,ml,41,88,,0.150000006,hv,hv73026467,2022-05-29T04:31:57.050Z,"3 km SW of Pāhala, Hawaii",earthquake,0.57,1.02999997,4.25,10,automatic,hv,hv
 2022-05-29T04:22:38.720Z,33.5195,-116.6638333,0.05,0.62,ml,10,66,0.09678,0.2,ci,ci40029735,2022-05-29T04:26:37.176Z,"4km SSE of Anza, CA",earthquake,0.71,31.61,0.183,7,automatic,ci,ci
 2022-05-29T04:22:16.610Z,33.7258333,-116.8265,16.12,0.74,ml,22,192,0.08986,0.16,ci,ci40029719,2022-05-29T04:25:55.383Z,"7km ESE of Valle Vista, CA",earthquake,0.59,0.43,0.272,21,automatic,ci,ci
@@ -83,7 +83,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-28T16:29:18.411Z,38.1971,-117.7559,5.6,1.2,ml,11,210.35,0.126,0.2072,nn,nn00839865,2022-05-28T16:33:06.390Z,"37 km SE of Mina, Nevada",earthquake,,0.8,0.12,7,automatic,nn,nn
 2022-05-28T16:18:56.710Z,34.0481667,-116.3425,6.93,1.01,ml,24,61,0.04467,0.24,ci,ci40029359,2022-05-28T16:22:24.754Z,"10km SSW of Joshua Tree, CA",earthquake,0.43,0.69,0.155,26,automatic,ci,ci
 2022-05-28T16:18:22.096Z,60.4326,-142.8986,0,1.1,ml,,,,0.69,ak,ak0226t167el,2022-05-28T16:21:07.746Z,"111 km S of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-05-28T16:04:26.410Z,19.1986675262451,-155.467834472656,31.0599994659424,2.27,ml,47,98,,0.170000002,hv,hv73025917,2022-05-28T18:41:32.040Z,"1 km ESE of Pāhala, Hawaii",earthquake,0.52,0.75,3.87,10,automatic,hv,hv
+2022-05-28T16:04:26.410Z,19.1986675262451,-155.467834472656,31.0599994659424,2.27,ml,47,98,,0.170000002,hv,hv73025917,2022-05-28T18:41:32.040Z,"Island of Hawaii, Hawaii",earthquake,0.52,0.75,3.87,10,automatic,hv,hv
 2022-05-28T16:01:00.922Z,38.434,-119.4648,3.3,1.1,ml,10,138.06,0.073,0.1836,nn,nn00839862,2022-05-28T16:04:43.858Z,"9 km S of Walker, California",earthquake,,1,0.13,7,automatic,nn,nn
 2022-05-28T15:52:16.820Z,35.9446667,-118.2713333,6.68,1.23,ml,9,159,0.2149,0.21,ci,ci40029319,2022-05-28T15:55:59.421Z,"25km NNE of Kernville, CA",earthquake,0.99,31.61,0.393,19,automatic,ci,ci
 2022-05-28T15:50:30.170Z,19.1678333333333,-67.9428333333333,33.84,3.41,md,13,199,,0.92,pr,pr71351193,2022-05-28T16:31:17.880Z,"81 km NE of Punta Cana, Dominican Republic",earthquake,4.45,30.04,0.0690014179816336,4,reviewed,pr,pr
