@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-30T15:59:59.980Z,19.1988334655762,-155.391830444336,32.7599983215332,2.26,ml,49,161,,0.109999999,hv,hv73028112,2022-05-30T16:11:25.040Z,"9 km E of Pāhala, Hawaii",earthquake,0.49,0.610000014,3.4,18,automatic,hv,hv
+2022-05-30T15:53:45.670Z,37.3338318,-119.1613312,4.01,2.16,md,6,224,0.4408,0.16,nc,nc73739371,2022-05-30T16:00:12.261Z,"29km NNE of Shaver Lake, CA",earthquake,2.77,15.71,0.06,4,automatic,nc,nc
+2022-05-30T15:53:42.380Z,36.0758333,-117.8775,2.31,1.58,ml,20,64,0.04552,0.17,ci,ci40030519,2022-05-30T16:04:07.990Z,"7km ENE of Coso Junction, CA",earthquake,0.26,0.31,0.222,25,automatic,ci,ci
 2022-05-30T15:45:05.300Z,34.118,-116.717,8.84,0.81,ml,19,106,0.09783,0.18,ci,ci40030511,2022-05-30T15:48:46.309Z,"15km WNW of Morongo Valley, CA",earthquake,0.46,0.87,0.111,17,automatic,ci,ci
 2022-05-30T14:38:17.751Z,31.6125,-103.9716,5,2.6,ml,,73,0.257,0.51,us,us7000hdla,2022-05-30T15:18:51.040Z,"36 km WSW of Mentone, Texas",earthquake,0.9,2,0.045,64,reviewed,us,us
 2022-05-30T14:34:38.787Z,63.276,-147.136,0,3.2,ml,,,,0.92,ak,ak0226wb5huj,2022-05-30T14:52:47.040Z,"79 km WNW of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -164,5 +167,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-29T16:24:56.858Z,43.0089,-127.507,10,3.5,ml,,296,2.137,0.49,us,us7000hdg8,2022-05-29T17:02:12.040Z,"247 km W of Port Orford, Oregon",earthquake,4.9,2,0.05,53,reviewed,us,us
 2022-05-29T16:19:49.020Z,35.7548333,-117.5431667,9.8,0.69,ml,6,161,0.07514,0.15,ci,ci40029919,2022-05-29T16:23:26.880Z,"13km W of Searles Valley, CA",earthquake,0.7,1.18,0.123,5,automatic,ci,ci
 2022-05-29T16:17:14.262Z,60.7112,-150.4989,34.2,1.3,ml,,,,0.51,ak,ak0226uopbj6,2022-05-29T16:18:49.647Z,"24 km NE of Sterling, Alaska",earthquake,,1.9,,,automatic,ak,ak
-2022-05-29T15:55:18.860Z,17.9641666666667,-66.852,18.14,2.13,md,14,187,,0.16,pr,pr71351313,2022-05-29T16:43:00.690Z,"4 km ESE of Maria Antonia, Puerto Rico",earthquake,0.54,0.68,0.14015626863689,8,reviewed,pr,pr
-2022-05-29T15:55:08.070Z,19.1733341217041,-155.507995605469,34.0400009155273,1.75999999,md,29,94,,0.150000006,hv,hv73026952,2022-05-29T15:58:26.210Z,"4 km SW of Pāhala, Hawaii",earthquake,0.61,1,1.75999999,4,automatic,hv,hv
