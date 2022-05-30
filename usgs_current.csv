@@ -1,5 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-30T10:49:42.930Z,36.5719986,-121.1601639,6.34,1.99,md,26,119,0.02032,0.11,nc,nc73739356,2022-05-30T10:51:18.557Z,"5km NNW of Pinnacles, CA",earthquake,0.31,0.59,0.17,21,automatic,nc,nc
+2022-05-30T10:45:16.016Z,61.6704,-150.5548,57.3,1.5,ml,,,,0.39,ak,ak0226w8u2kw,2022-05-30T10:51:38.166Z,"14 km N of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-05-30T10:42:01.380Z,33.49,-116.6196667,2.12,1.09,ml,10,77,0.01523,0.23,ci,ci40030399,2022-05-30T10:45:36.481Z,"9km SE of Anza, CA",earthquake,0.63,0.77,0.376,8,automatic,ci,ci
 2022-05-30T10:34:56.540Z,33.2911667,-116.277,4.62,0.65,ml,15,127,0.07608,0.19,ci,ci40030391,2022-05-30T10:38:29.439Z,"10km ENE of Borrego Springs, CA",earthquake,0.46,0.79,0.163,8,automatic,ci,ci
+2022-05-30T10:30:00.382Z,32.11395264,-102.1385528,7.703247069999999,2.7,ml,23,54,0.02872763244,0.1,tx,tx2022knat,2022-05-30T10:51:34.245Z,"14 km NNW of Midland, Texas",earthquake,0.7277360081,0.9452352741999999,0.1,14,reviewed,tx,tx
 2022-05-30T10:10:15.337Z,59.8388,-152.7085,82.9,0.9,ml,,,,0.41,ak,ak0226w8mkgd,2022-05-30T10:14:15.850Z,"49 km W of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-30T09:50:56.480Z,40.3728333,-124.980835,0.75,3.5,ml,60,259,0.5017,0.25,nc,nc73739346,2022-05-30T10:22:12.623Z,"59km W of Petrolia, CA",earthquake,1.68,4.34,0.272,11,reviewed,nc,nc
 2022-05-30T09:46:21.644Z,59.7555,-153.3182,137.6,1.9,ml,,,,0.69,ak,ak0226w88v4x,2022-05-30T09:56:56.919Z,"44 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -39,7 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-30T03:07:31.810Z,34.0685,-117.8366667,0.8,1.4,ml,8,144,0.1116,0.16,ci,ci40030223,2022-05-30T03:11:17.751Z,"4km SSE of Charter Oak, CA",earthquake,0.59,31.61,0.311,11,automatic,ci,ci
 2022-05-30T03:00:23.656Z,61.5856,-149.7568,50.1,0.9,ml,,,,0.38,ak,ak0226w4eepp,2022-05-30T03:12:04.684Z,"5 km SSE of Houston, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2022-05-30T02:06:11.780Z,17.888,-66.8593333333333,12.87,2.05,md,8,238,,0.11,pr,pr71351383,2022-05-30T03:22:00.010Z,"10 km SSE of Maria Antonia, Puerto Rico",earthquake,0.71,0.57,0.0629691271306946,8,reviewed,pr,pr
-2022-05-30T02:03:56.570Z,37.8991,-78.001,2.7,2.3,mb_lg,,55,0.116,0.53,us,us7000hdip,2022-05-30T03:54:59.788Z,"13 km S of Louisa, Virginia",earthquake,1.8,6.7,0.132,15,reviewed,us,us
+2022-05-30T02:03:56.570Z,37.8991,-78.001,2.7,2.3,mb_lg,,55,0.116,0.53,us,us7000hdip,2022-05-30T10:50:06.667Z,"13 km S of Louisa, Virginia",earthquake,1.8,6.7,0.132,15,reviewed,us,us
 2022-05-30T01:51:25.170Z,33.2518333,-116.2383333,7.49,0.84,ml,24,76,0.1254,0.24,ci,ci40030199,2022-05-30T01:54:58.242Z,"13km E of Borrego Springs, CA",earthquake,0.59,1.17,0.083,16,automatic,ci,ci
 2022-05-30T01:47:18.051Z,62.3385,-149.5765,18.5,2,ml,,,,0.83,ak,ak0226w3hlsv,2022-05-30T01:51:07.044Z,"24 km NE of Susitna North, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-05-30T01:33:46.107Z,59.7945,-152.2967,63.5,1,ml,,,,0.91,ak,ak0226w3env6,2022-05-30T01:50:00.205Z,"26 km W of Anchor Point, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -146,5 +150,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-29T11:21:07.410Z,19.2451667785645,-155.382171630859,32.9799995422363,2,md,42,146,,0.109999999,hv,hv73026807,2022-05-29T11:24:10.630Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.65,0.829999983,1.38999999,14,automatic,hv,hv
 2022-05-29T11:16:33.280Z,33.1645,-115.6245,3.39,1.54,ml,20,80,0.01492,0.2,ci,ci40029839,2022-05-29T11:27:33.050Z,"11km WNW of Calipatria, CA",earthquake,0.42,0.37,0.198,29,automatic,ci,ci
 2022-05-29T10:56:47.530Z,33.259,-116.0043333,2.35,1.57,ml,41,85,0.08814,0.26,ci,ci40029831,2022-05-29T11:00:40.027Z,"6km SW of Salton City, CA",earthquake,0.33,0.88,0.1,27,automatic,ci,ci
-2022-05-29T10:51:32.063Z,10.7242,-86.4652,30,4.5,mb,,138,1.128,0.43,us,us7000hdfb,2022-05-29T11:23:21.040Z,"87 km SW of San Juan del Sur, Nicaragua",earthquake,6.7,7.2,0.043,157,reviewed,us,us
-2022-05-29T10:45:16.952Z,18.6353,-102.6091,81.34,4.5,mb,,174,1.648,0.57,us,us7000hdfa,2022-05-29T12:23:49.857Z,"22 km ESE of Aguililla, Mexico",earthquake,9,8.6,0.029,354,reviewed,us,us
