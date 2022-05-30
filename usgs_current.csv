@@ -1,15 +1,17 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-30T08:06:06.073Z,60.0861,-152.5668,94.4,1.2,ml,,,,0.26,ak,ak0226w7etof,2022-05-30T08:17:38.888Z,"49 km WNW of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-30T08:38:04.136Z,38.5069,-119.5228,4.6,1,ml,12,196.5,0.066,0.1541,nn,nn00839920,2022-05-30T08:42:11.774Z,"4 km WSW of Walker, California",earthquake,,1,0.12,4,automatic,nn,nn
+2022-05-30T08:06:06.073Z,60.0861,-152.5668,94.4,1.2,ml,,,,0.26,ak,ak0226w7etof,2022-05-30T08:28:28.045Z,"49 km WNW of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-30T08:04:11.650Z,17.9033333333333,-66.762,1.52,2.26,md,14,235,,0.22,pr,pr71351418,2022-05-30T08:34:28.240Z,"Puerto Rico region",earthquake,0.92,1.2,0.112828721322966,10,reviewed,pr,pr
 2022-05-30T07:54:39.186Z,38.1602,-118.2326,5,0.6,ml,9,174.52,0.233,0.1059,nn,nn00839918,2022-05-30T07:58:29.864Z,"27 km SSW of Mina, Nevada",earthquake,,23.2,0.28,6,automatic,nn,nn
 2022-05-30T07:53:03.030Z,33.6068333,-116.6895,3.17,0.55,ml,13,73,0.05744,0.32,ci,ci40030375,2022-05-30T07:56:34.478Z,"6km NNW of Anza, CA",earthquake,0.68,2.02,0.141,8,automatic,ci,ci
 2022-05-30T07:39:54.282Z,61.7333,-151.8304,91.7,1.9,ml,,,,0.48,ak,ak0226w70kdf,2022-05-30T07:43:02.229Z,"36 km SW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-05-30T07:29:48.540Z,32.5463333,-115.5216667,1.71,1.21,ml,11,165,0.201,0.2,ci,ci40030367,2022-05-30T07:33:24.842Z,"7km ESE of Progreso, B.C., MX",earthquake,0.69,1.15,0.178,10,automatic,ci,ci
 2022-05-30T07:26:23.589Z,60.6998,-152.0709,83.1,1.5,ml,,,,0.51,ak,ak0226w6xpql,2022-05-30T07:36:51.388Z,"42 km WNW of Salamatof, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-30T07:12:45.382Z,60.4446,-147.3774,14.8,1.7,ml,,,,0.59,ak,ak0226w6urej,2022-05-30T07:28:10.071Z,"54 km NE of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-05-30T07:04:19.647Z,-12.703,-76.7613,56.12,4.6,mb,,147,0.715,0.83,us,us7000hdjc,2022-05-30T07:53:09.719Z,"15 km WSW of Mala, Peru",earthquake,9.1,8.1,0.066,69,reviewed,us,us
+2022-05-30T07:04:19.647Z,-12.703,-76.7613,56.12,4.6,mb,,147,0.715,0.83,us,us7000hdjc,2022-05-30T08:43:59.267Z,"15 km WSW of Mala, Peru",earthquake,9.1,8.1,0.066,69,reviewed,us,us
 2022-05-30T06:43:33.718Z,61.5431,-150.7209,53.5,1.4,ml,,,,0.66,ak,ak0226w6fy3g,2022-05-30T07:06:04.510Z,"11 km W of Susitna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-05-30T06:42:25.120Z,32.5958333,-115.519,1.1,2.08,ml,18,140,0.07214,0.25,ci,ci40030351,2022-05-30T06:46:06.726Z,"6km ENE of Progreso, B.C., MX",earthquake,0.7,31.61,0.158,26,automatic,ci,ci
-2022-05-30T06:41:03.330Z,18.7215,-66.9821,62,3.66,md,23,202,0.2849,0.23,pr,pr2022150000,2022-05-30T07:18:49.820Z,"24 km N of Isabela, Puerto Rico",earthquake,0.86,1.24,0.14,18,reviewed,pr,pr
+2022-05-30T06:41:03.330Z,18.7215,-66.9821,62,3.66,md,23,202,0.2849,0.23,pr,pr2022150000,2022-05-30T08:38:53.442Z,"24 km N of Isabela, Puerto Rico",earthquake,0.86,1.24,0.14,18,reviewed,pr,pr
 2022-05-30T06:36:20.920Z,35.6631667,-117.4721667,8.71,2.28,ml,26,90,0.07693,0.12,ci,ci40030343,2022-05-30T06:47:13.840Z,"13km SSW of Searles Valley, CA",earthquake,0.26,0.62,0.15,25,automatic,ci,ci
 2022-05-30T06:29:12.290Z,33.3053333,-116.2948333,5.11,0.79,ml,21,154,0.05821,0.33,ci,ci40030335,2022-05-30T06:32:44.970Z,"9km NE of Borrego Springs, CA",earthquake,0.71,0.93,0.123,13,automatic,ci,ci
 2022-05-30T06:19:42.550Z,19.1984996795654,-155.424835205078,34.2599983215332,2.26999998,md,44,148,,0.119999997,hv,hv73027667,2022-05-30T06:23:00.710Z,"5 km E of Pāhala, Hawaii",earthquake,0.55,0.639999986,0.730000019,21,automatic,hv,hv
