@@ -148,9 +148,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-29T10:04:45.640Z,17.9603333333333,-66.8518333333333,18.29,2.09,md,13,189,,0.11,pr,pr71351288,2022-05-29T10:22:19.830Z,"4 km ESE of Maria Antonia, Puerto Rico",earthquake,0.58,0.48,0.170899253759826,7,reviewed,pr,pr
 2022-05-29T09:36:36.979Z,60.8544,-150.7592,70.3,0.9,ml,,,,0.82,ak,ak0226uknenl,2022-05-29T09:38:57.815Z,"8 km SSW of Point Possession, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-05-29T09:28:55.756Z,58.0933,-154.256,4.6,1.5,ml,,,,0.51,ak,ak0226uklqdj,2022-05-29T09:31:36.736Z,"Alaska Peninsula",earthquake,,0.3,,,automatic,ak,ak
-2022-05-29T09:20:48.230Z,19.1596660614014,-155.469329833984,32.3199996948242,2,md,40,165,,0.170000002,hv,hv73026707,2022-05-29T09:24:09.640Z,"Island of Hawaii, Hawaii",earthquake,0.69,0.860000014,1.04999995,12,automatic,hv,hv
-2022-05-29T09:17:55.158Z,38.1692,-117.9521,3.8,0.8,ml,9,146.82,0.031,0.0641,nn,nn00839889,2022-05-29T09:21:54.816Z,"28 km SSE of Mina, Nevada",earthquake,,0.4,0.57,4,automatic,nn,nn
-2022-05-29T09:12:30.850Z,19.091833114624,-155.460327148438,26.2000007629395,2.2,ml,41,183,,0.150000006,hv,hv73026702,2022-05-29T09:18:00.260Z,"12 km S of Pāhala, Hawaii",earthquake,0.58,0.829999983,4.59,4,automatic,hv,hv
-2022-05-29T09:12:15.821Z,61.2341,-147.6236,0,1.7,ml,,,,0.94,ak,ak0226uki7u6,2022-05-29T20:03:36.482Z,"63 km S of Glacier View, Alaska",ice quake,,0.4,,,automatic,ak,ak
-2022-05-29T09:00:00.820Z,45.1625,-122.63083333333333,24.02,1.6500000000000001,ml,11,119,0.1002,0.15,uw,uw61836692,2022-05-29T16:56:43.880Z,"4 km WNW of Molalla, Oregon",earthquake,0.47,0.63,0.06889510259782594,5,reviewed,uw,uw
-2022-05-29T08:59:01.777Z,-6.4885,147.7118,48.42,4.8,mb,,75,4.985,0.54,us,us7000hdeu,2022-05-29T09:24:15.040Z,"16 km WNW of Finschhafen, Papua New Guinea",earthquake,10.6,8.1,0.095,36,reviewed,us,us
