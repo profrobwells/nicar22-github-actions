@@ -173,4 +173,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-03T18:11:22.420Z,34.7335,-116.9518333,2.35,1.75,ml,44,40,0.1463,0.14,ci,ci40033343,2022-06-03T21:34:30.480Z,"20km SSE of Barstow, CA",earthquake,0.12,0.48,0.092,19,reviewed,ci,ci
 2022-06-03T18:07:21.350Z,36.8891667,-121.6138333,1.57,1.44,md,19,72,0.01815,0.05,nc,nc73740351,2022-06-03T20:11:04.385Z,"3km E of Aromas, CA",quarry blast,0.17,0.36,0.186,15,reviewed,nc,nc
 2022-06-03T18:01:07.650Z,33.061,-115.0056667,-0.16,1,ml,10,68,0.09152,0.19,ci,ci40033335,2022-06-03T19:07:34.110Z,"45km NE of Holtville, CA",quarry blast,0.59,31.61,0.078,4,reviewed,ci,ci
-2022-06-03T17:53:31.259Z,59.8825,-151.6049,44.4,1.1,ml,,,,0.34,ak,ak02272z78hn,2022-06-03T17:58:06.680Z,"7 km N of Nikolaevsk, Alaska",earthquake,,4.9,,,automatic,ak,ak
