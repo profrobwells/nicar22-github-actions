@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-04T12:55:43.630Z,33.2351667,-116.6368333,12.01,0.64,ml,18,88,0.03697,0.16,ci,ci40033783,2022-06-04T12:59:29.851Z,"5km S of Warner Springs, CA",earthquake,0.34,0.59,0.162,14,automatic,ci,ci
 2022-06-04T12:32:13.220Z,33.6906667,-116.7071667,15.14,0.43,ml,18,107,0.02126,0.18,ci,ci40033775,2022-06-04T12:35:56.123Z,"6km S of Idyllwild, CA",earthquake,0.52,0.62,0.044,10,automatic,ci,ci
+2022-06-04T12:11:16.787Z,21.7456,121.0261,10,4.4,mb,,81,1.068,0.85,us,us7000hexj,2022-06-04T12:37:11.040Z,"40 km SE of Hengchun, Taiwan",earthquake,7,1.9,0.092,43,reviewed,us,us
 2022-06-04T11:53:30.326Z,62.4358,-150.1796,6.7,1.4,ml,,,,0.58,ak,ak02274j5zhk,2022-06-04T12:04:35.593Z,"4 km WSW of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-04T11:49:23.753Z,60.0668,-152.8924,95,0.6,ml,,,,0.33,ak,ak02274j5447,2022-06-04T12:02:49.633Z,"66 km W of Happy Valley, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-06-04T11:45:47.350Z,19.1873340606689,-155.487838745117,32.7299995422363,1.99000001,md,44,69,,0.150000006,hv,hv73033407,2022-06-04T11:49:08.300Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.5,0.810000002,1.38,14,automatic,hv,hv
@@ -181,12 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-03T13:20:07.970Z,37.3436667,-121.704,8.37,1.19,md,30,35,0.049,0.08,nc,nc73740271,2022-06-03T20:47:22.346Z,"11km ESE of Alum Rock, CA",earthquake,0.23,0.32,0.156,29,reviewed,nc,nc
 2022-06-03T13:14:23.184Z,63.1308,-150.4612,98.3,1.5,ml,,,,0.53,ak,ak02272wl4q6,2022-06-03T13:24:35.057Z,"72 km NNE of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-06-03T13:04:21.913Z,61.5695,-148.0102,7.9,1.6,ml,,,,1.16,ak,ak02272wizgz,2022-06-03T13:19:55.987Z,"32 km SW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-06-03T12:57:56.880Z,33.701,-116.8011667,16.56,0.34,ml,14,167,0.07323,0.12,ci,ci40033143,2022-06-03T16:25:02.125Z,"9km WSW of Idyllwild, CA",earthquake,0.52,0.46,0.081,7,reviewed,ci,ci
-2022-06-03T12:55:53.750Z,51.5155,-177.376666666667,9.12,1.6,ml,10,251,,0.11,av,av91584186,2022-06-04T01:03:10.390Z,"65 km SW of Adak, Alaska",earthquake,0.46,0.49,0.368622279346303,10,reviewed,av,av
-2022-06-03T12:53:39.990Z,19.9696666666667,-155.5115,42.67,2.14,md,43,186,,0.11,hv,hv73032417,2022-06-03T22:01:10.240Z,"13 km SSW of Honoka‘a, Hawaii",earthquake,0.55,0.65,0.138727821898493,22,reviewed,hv,hv
-2022-06-03T12:47:38.484Z,54.5067,-159.6644,19.59,3.3,ml,,212,0.327,0.59,us,us7000hem0,2022-06-03T13:02:36.040Z,"106 km SSE of Sand Point, Alaska",earthquake,10.8,13.5,0.097,14,reviewed,us,us
-2022-06-03T12:44:18.230Z,37.3478333,-121.7043333,8.78,1.2,md,27,40,0.04961,0.06,nc,nc73740266,2022-06-03T18:43:13.542Z,"11km E of Alum Rock, CA",earthquake,0.18,0.33,0.144,25,reviewed,nc,nc
-2022-06-03T12:44:11.430Z,35.7288333,-118.5005,4.99,1.5,ml,28,86,0.04716,0.19,ci,ci40033127,2022-06-03T16:12:03.037Z,"5km WNW of Wofford Heights, CA",earthquake,0.24,0.52,0.39,7,reviewed,ci,ci
-2022-06-03T12:42:32.780Z,31.72027588,-104.5823409,6.138142904,2.5,ml,11,96,0.06640517224,0.2,tx,tx2022kunb,2022-06-03T17:00:43.690Z,"54 km SSW of Whites City, New Mexico",earthquake,1.138481958,1.631221272,0.2,7,reviewed,tx,tx
-2022-06-03T12:41:37.260Z,33.2348333,-116.6458333,12,0.55,ml,25,85,0.03561,0.13,ci,ci40033119,2022-06-03T18:32:49.883Z,"5km SSW of Warner Springs, CA",earthquake,0.21,0.39,0.131,8,reviewed,ci,ci
-2022-06-03T12:40:11.590Z,33.2366667,-116.6426667,12.55,0.33,ml,22,86,0.03761,0.13,ci,ci40033111,2022-06-03T18:25:05.923Z,"5km S of Warner Springs, CA",earthquake,0.21,0.39,0.09,6,reviewed,ci,ci
