@@ -158,7 +158,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-03T21:47:59.411Z,57.3975,-152.7423,15,1.6,ml,,,,1.01,ak,ak022731jqzp,2022-06-03T22:03:29.834Z,"32 km S of Womens Bay, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-06-03T21:35:26.021Z,38.12,-118.0399,5.1,1.5,ml,8,141.42,0.066,0.157,nn,nn00840263,2022-06-03T21:39:19.921Z,"30 km SSE of Mina, Nevada",earthquake,,0.9,0.37,6,automatic,nn,nn
 2022-06-03T21:31:14.190Z,32.829,-115.6096667,5.94,1.4,ml,17,101,0.08319,0.18,ci,ci40033439,2022-06-03T22:13:43.246Z,"4km WSW of Imperial, CA",earthquake,0.3,0.59,0.195,10,reviewed,ci,ci
-2022-06-03T20:58:50.488Z,14.1165,-91.4227,80.55,4.7,mwr,,121,0.986,0.99,us,us7000hery,2022-06-04T15:20:40.420Z,"16 km SW of Nueva Concepción, Guatemala",earthquake,6.5,6.2,0.078,16,reviewed,us,us
-2022-06-03T20:49:47.800Z,44.3211667,-115.1993333,10.45,2.58,ml,15,84,0.947,0.26,mb,mb80547799,2022-06-03T21:38:55.430Z,"23 km WNW of Stanley, Idaho",earthquake,0.54,1.2,0.142,15,reviewed,mb,mb
-2022-06-03T20:46:03.530Z,40.2966667,-124.5428333,16.76,2.12,md,18,281,0.1534,0.08,nc,nc73740376,2022-06-04T02:57:10.499Z,"22km W of Petrolia, CA",earthquake,0.78,0.41,0.121,10,reviewed,nc,nc
-2022-06-03T20:42:25.897Z,63.2943,-145.082,11.1,1.1,ml,,,,1.38,ak,ak022730x67r,2022-06-03T20:46:01.827Z,"35 km NE of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-06-03T20:58:50.488Z,14.1165,-91.4227,80.55,4.7,mwr,,121,0.986,0.99,us,us7000hery,2022-06-04T20:42:36.912Z,"16 km SW of Nueva Concepción, Guatemala",earthquake,6.5,6.2,0.078,16,reviewed,us,us
