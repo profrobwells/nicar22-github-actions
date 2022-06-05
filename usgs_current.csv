@@ -168,4 +168,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-04T20:25:05.704Z,61.5686,-146.5799,34.4,1.2,ml,,,,0.44,ak,ak02274octzd,2022-06-04T20:36:08.741Z,"48 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-04T20:24:55.163Z,54.3184,-163.9151,79.77,3,ml,,171,0.503,0.17,us,us7000hf0s,2022-06-04T21:33:50.040Z,"67 km SSW of False Pass, Alaska",earthquake,7.7,12.4,0.077,22,reviewed,us,us
 2022-06-04T20:07:34.331Z,-20.4148,-177.6712,483.23,4.3,mb,,101,4.837,1.09,us,us7000hf0r,2022-06-04T21:31:05.040Z,"268 km WNW of Haveluloto, Tonga",earthquake,13,6.5,0.064,68,reviewed,us,us
-2022-06-04T19:54:28.648Z,37.2674,-104.4897,5,2.9,ml,,99,0.143,0.83,us,us7000hf0l,2022-06-05T11:42:34.697Z,"5 km NNW of El Moro, Colorado",earthquake,2.1,2,0.043,71,reviewed,us,us
