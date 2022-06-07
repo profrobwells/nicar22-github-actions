@@ -168,4 +168,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-06T11:30:34.230Z,36.1788333,-91.3231667,12.35,1.95,md,6,205,0.1748,0.09,nm,nm60152243,2022-06-06T13:43:26.650Z,"8 km SSE of Williford, Arkansas",earthquake,0.46,0.76,0.147,6,reviewed,nm,nm
 2022-06-06T11:19:49.790Z,60.9481,-142.7771,30.2,0.8,ml,,,,0.32,ak,ak02277u1fmr,2022-06-06T11:22:29.970Z,"54 km S of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-06T11:14:06.200Z,38.8300018,-122.8069992,2.12,1.68,md,9,126,0.02382,0.05,nc,nc73740971,2022-06-06T11:46:11.843Z,"7km NW of The Geysers, CA",earthquake,0.39,0.64,0.09,10,automatic,nc,nc
-2022-06-06T10:51:43.746Z,38.5387,-119.5525,6.5,0.2,ml,7,120.23,0.054,0.1244,nn,nn00840453,2022-06-07T02:38:11.894Z,"5 km SW of Coleville, California",earthquake,,2.4,0.48,3,reviewed,nn,nn
