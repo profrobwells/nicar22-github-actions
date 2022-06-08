@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-08T09:43:50.430Z,38.814167,-122.8131638,2.87,0.35,md,11,86,0.009525,0.01,nc,nc73741441,2022-06-08T09:45:27.022Z,"6km NW of The Geysers, CA",earthquake,0.39,1.13,,1,automatic,nc,nc
+2022-06-08T09:37:31.320Z,38.8263321,-122.8525009,1.99,0.86,md,9,123,0.01402,0.01,nc,nc73741436,2022-06-08T09:47:11.403Z,"10km WNW of The Geysers, CA",earthquake,0.38,1.04,,1,automatic,nc,nc
 2022-06-08T09:22:59.110Z,19.2586669921875,-155.411666870117,33.5499992370605,1.92999995,md,35,121,,0.109999999,hv,hv73037967,2022-06-08T09:26:04.110Z,"9 km NE of Pāhala, Hawaii",earthquake,0.56,1.04999995,0.790000021,11,automatic,hv,hv
 2022-06-08T09:21:19.830Z,33.245,-116.6588333,10.95,0.38,ml,18,79,0.04674,0.21,ci,ci40036135,2022-06-08T09:24:57.963Z,"5km SSW of Warner Springs, CA",earthquake,0.47,0.73,0.087,6,automatic,ci,ci
 2022-06-08T09:19:30.142Z,31.6257,-103.9641,5,2.5,ml,,53,0.267,0.59,us,us7000hfve,2022-06-08T09:35:29.040Z,"35 km WSW of Mentone, Texas",earthquake,1.2,1.9,0.064,54,reviewed,us,us
