@@ -131,7 +131,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-08T15:44:20.652Z,61.6635,-149.5963,27.6,1.9,ml,,,,0.56,ak,ak0227b7n5ox,2022-06-08T15:46:11.161Z,"4 km N of Meadow Lakes, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-08T15:43:49.630Z,34.3191667,-116.8425,6.73,1.23,ml,40,59,0.03136,0.13,ci,ci40036407,2022-06-08T23:26:38.160Z,"6km N of Big Bear City, CA",earthquake,0.16,0.42,0.164,22,reviewed,ci,ci
 2022-06-08T15:19:53.042Z,40.0712,-119.6926,14,0.1,ml,3,163.71,0.104,0.0119,nn,nn00840619,2022-06-09T04:08:11.744Z,"15 km NNW of Sutcliffe, Nevada",earthquake,,8,0.36,2,reviewed,nn,nn
-2022-06-08T15:16:34.500Z,38.2523,-118.3547,9.6,0.6,ml,13,146.5,0.118,0.0975,nn,nn00840571,2022-06-09T04:07:30.427Z,"California-Nevada border region",earthquake,,2.3,0.26,3,reviewed,nn,nn
+2022-06-08T15:16:34.500Z,38.2523,-118.3547,9.6,0.6,ml,13,146.5,0.118,0.0975,nn,nn00840571,2022-06-09T04:07:30.427Z,"26 km SW of Mina, Nevada",earthquake,,2.3,0.26,3,reviewed,nn,nn
 2022-06-08T15:10:30.822Z,37.4215,-113.77,4.3,0.1,ml,3,166.13,0.08,0.0718,nn,nn00840618,2022-06-09T04:08:11.007Z,"11 km NW of Veyo, Utah",earthquake,,13.9,0.05,3,reviewed,nn,nn
 2022-06-08T15:08:53.260Z,19.2221660614014,-155.386840820312,31.3099994659424,1.86000001,md,38,158,,0.129999995,hv,hv73038167,2022-06-08T15:12:00.720Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.53,1,0.449999988,5,automatic,hv,hv
 2022-06-08T15:07:03.060Z,33.9793333,-116.9755,13.83,0.85,ml,27,71,0.07543,0.15,ci,ci40036383,2022-06-08T22:58:21.816Z,"6km N of Beaumont, CA",earthquake,0.23,0.7,0.095,17,reviewed,ci,ci
@@ -264,8 +264,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-08T06:13:15.790Z,41.4658333,-112.317,0.4,1.09,ml,16,88,0.1014,0.11,uu,uu60500857,2022-06-08T13:45:05.520Z,"19 km WSW of Corinne, Utah",earthquake,0.34,8.21,0.121,2,reviewed,uu,uu
 2022-06-08T06:10:07.145Z,38.463,-117.9072,3.3,0.6,ml,7,331.23,0.197,0.067,nn,nn00840591,2022-06-09T04:07:51.700Z,"19 km ENE of Mina, Nevada",earthquake,,28.6,0,1,reviewed,nn,nn
 2022-06-08T06:08:24.980Z,19.2378330230713,-155.40283203125,32.7900009155273,1.85000002,md,38,136,,0.109999999,hv,hv73037777,2022-06-08T06:11:38.550Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.66,1,1.63,6,automatic,hv,hv
-2022-06-08T05:58:39.450Z,46.25566666666667,-119.5485,6.89,0.6900000000000001,ml,11,193,0.083,0.09,uw,uw61840532,2022-06-08T19:18:56.040Z,"4 km W of Benton City, Washington",earthquake,0.51,0.23,0.1486139712441289,5,reviewed,uw,uw
-2022-06-08T05:58:01.293Z,39.8884,-118.9572,10.6,0.8,ml,5,161.41,0.374,0.1142,nn,nn00840589,2022-06-09T04:07:50.899Z,"34 km E of Nixon, Nevada",earthquake,,18.5,0.11,3,reviewed,nn,nn
-2022-06-08T05:55:53.040Z,34.3201667,-116.843,6.16,1.27,ml,52,50,0.03062,0.15,ci,ci40036007,2022-06-08T16:26:46.970Z,"7km N of Big Bear City, CA",earthquake,0.15,0.39,0.18,26,reviewed,ci,ci
-2022-06-08T05:55:45.447Z,38.7707,-117.9697,10.6,1.4,ml,18,88.69,0.296,0.1244,nn,nn00840554,2022-06-08T16:08:44.263Z,"11 km SSW of Gabbs, Nevada",earthquake,,1.6,0.31,7,reviewed,nn,nn
-2022-06-08T05:51:10.670Z,60.9037,-151.4915,77,1.6,ml,,,,0.5,ak,ak0227b1qavv,2022-06-08T05:53:29.155Z,"26 km NNW of Nikiski, Alaska",earthquake,,0.6,,,automatic,ak,ak
