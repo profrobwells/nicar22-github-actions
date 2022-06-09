@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-09T14:44:01.620Z,37.2798347,-121.6458359,8.66,0.95,md,9,70,0.03011,0.04,nc,nc73743306,2022-06-09T14:45:36.601Z,"17km N of Morgan Hill, CA",earthquake,0.75,1.51,0.15,7,automatic,nc,nc
+2022-06-09T14:43:44.620Z,38.7563324,-122.7313309,2,1.31,md,24,110,0.007292,0.05,nc,nc73743301,2022-06-09T14:45:20.984Z,"3km SE of The Geysers, CA",earthquake,0.29,0.41,0.08,5,automatic,nc,nc
 2022-06-09T13:48:25.920Z,34.1315,-117.446,5.35,1.04,ml,23,79,0.1139,0.24,ci,ci40037055,2022-06-09T13:52:01.031Z,"4km NNE of Fontana, CA",earthquake,0.45,2.69,0.183,25,automatic,ci,ci
 2022-06-09T13:36:33.320Z,33.679,-116.7295,15.18,0.84,ml,27,94,0.03454,0.18,ci,ci40037047,2022-06-09T13:40:09.954Z,"7km S of Idyllwild, CA",earthquake,0.34,0.51,0.127,27,automatic,ci,ci
 2022-06-09T13:35:32.050Z,36.2378349,-120.8089981,9.28,2.25,md,39,110,0.02276,0.15,nc,nc73743291,2022-06-09T14:10:11.408Z,"22km ENE of San Lucas, CA",earthquake,0.37,0.58,0.19,36,automatic,nc,nc
@@ -210,6 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-08T14:58:53.030Z,19.2318325042725,-155.388671875,31.8500003814697,2.13000011,md,44,146,,0.119999997,hv,hv73038162,2022-06-08T15:02:07.710Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.53,0.889999986,1.13999999,14,automatic,hv,hv
 2022-06-08T14:55:45.497Z,38.4557,-117.9054,0,0.6,ml,7,331.89,0.197,0.0598,nn,nn00840617,2022-06-09T04:08:09.585Z,"19 km ENE of Mina, Nevada",earthquake,,0,0,1,reviewed,nn,nn
 2022-06-08T14:49:30.599Z,36.4992,-115.2417,9.6,0.6,ml,5,154.16,0.069,0.2185,nn,nn00840616,2022-06-09T04:08:08.758Z,"32 km NNW of Nellis Air Force Base, Nevada",earthquake,,6.7,0.29,2,reviewed,nn,nn
-2022-06-08T14:41:32.920Z,33.283,-116.1145,2.76,3.05,ml,73,33,0.1078,0.19,ci,ci40036375,2022-06-09T00:30:59.388Z,"15km W of Salton City, CA",earthquake,0.17,0.43,0.126,22,reviewed,ci,ci
-2022-06-08T14:40:13.780Z,35.6835,-117.4931667,10.69,0.95,ml,17,85,0.1,0.14,ci,ci40036367,2022-06-08T22:13:03.115Z,"12km SW of Searles Valley, CA",earthquake,0.36,0.64,0.201,10,reviewed,ci,ci
-2022-06-08T14:40:00.371Z,61.6632,-150.385,50,1.4,ml,,,,0.91,ak,ak0227b70tnp,2022-06-08T14:41:43.429Z,"14 km NNE of Susitna, Alaska",earthquake,,1.6,,,automatic,ak,ak
