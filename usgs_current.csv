@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-10T19:34:03.020Z,38.8450012,-122.8241653,1.63,0.37,md,6,128,0.009666,0.01,nc,nc73743686,2022-06-10T19:42:10.154Z,"9km WNW of Cobb, CA",earthquake,0.71,1.15,,1,automatic,nc,nc
+2022-06-10T19:49:07.300Z,38.821167,-122.7583313,2.21,0.36,md,9,217,0.01297,0.02,nc,nc73743706,2022-06-10T19:50:40.705Z,"3km W of Cobb, CA",earthquake,0.71,1.1,,1,automatic,nc,nc
+2022-06-10T19:48:39.488Z,38.5526,-119.5154,7.2,0.9,ml,9,224.38,0.033,0.1791,nn,nn00840734,2022-06-10T19:52:54.826Z,"1 km SSW of Coleville, California",earthquake,,1.1,0.29,5,automatic,nn,nn
+2022-06-10T19:34:03.020Z,38.8450012,-122.8241653,1.63,0.37,md,6,128,0.009666,0.01,nc,nc73743686,2022-06-10T19:50:15.200Z,"9km WNW of Cobb, CA",earthquake,0.71,1.15,,1,automatic,nc,nc
 2022-06-10T19:27:58.920Z,33.4488333,-116.406,10.41,1.19,ml,41,43,0.07617,0.16,ci,ci40038103,2022-06-10T19:42:10.440Z,"22km N of Borrego Springs, CA",earthquake,0.17,0.33,0.092,23,reviewed,ci,ci
 2022-06-10T18:43:27.980Z,38.7915001,-122.793663,0.86,0.35,md,8,114,0.004792,0.01,nc,nc73743681,2022-06-10T19:15:15.989Z,"4km WNW of The Geysers, CA",earthquake,0.32,0.51,,1,automatic,nc,nc
 2022-06-10T18:34:41.890Z,38.7869987,-122.769165,1.9,0.63,md,15,81,0.01548,0.04,nc,nc73743676,2022-06-10T18:54:16.870Z,"2km NW of The Geysers, CA",earthquake,0.29,0.51,0.21,4,automatic,nc,nc
@@ -204,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-09T19:59:05.750Z,46.98066711425781,-122.20133209228516,-0.360000014305115,1.08000004,md,7,176,0.01356,0.119999997,uw,uw61841037,2022-06-10T18:00:46.910Z,"1 km ESE of Kapowsin, Washington",earthquake,1.58,12.9899998,,1,reviewed,uw,uw
 2022-06-09T19:55:00.710Z,33.1878333,-115.6083333,3.21,1.54,ml,20,107,0.01202,0.23,ci,ci40037335,2022-06-09T20:16:36.296Z,"10km SW of Niland, CA",earthquake,0.35,0.23,0.172,31,reviewed,ci,ci
 2022-06-09T19:53:15.580Z,33.8801667,-117.4998333,-0.66,1.13,ml,22,86,0.07744,0.14,ci,ci40037327,2022-06-09T20:22:03.332Z,"2km E of Home Gardens, CA",quarry blast,0.34,31.61,0.12,19,reviewed,ci,ci
-2022-06-09T19:45:42.370Z,19.2021675109863,-155.503494262695,34.6399993896484,2.23000002,md,38,185,,0.109999999,hv,hv73039357,2022-06-09T19:48:55.300Z,"2 km W of Pāhala, Hawaii",earthquake,0.65,0.850000024,1.77999997,18,automatic,hv,hv
