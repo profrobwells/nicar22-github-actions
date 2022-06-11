@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-11T11:25:29.890Z,32.3564987,-115.3050003,7.75,2.16,ml,21,75,0.06282,0.31,ci,ci40038327,2022-06-11T11:27:45.218Z,"10km W of Delta, B.C., MX",earthquake,0.57,1.21,0.264,15,automatic,ci,ci
+2022-06-11T11:32:33.070Z,34.5003333,-118.3386667,4.52,1.06,ml,21,54,0.07617,0.14,ci,ci40038335,2022-06-11T11:36:04.260Z,"1km WNW of Agua Dulce, CA",earthquake,0.26,0.54,0.198,25,automatic,ci,ci
+2022-06-11T11:31:25.650Z,60.8689,-149.3137,60.8,1.5,ml,,,,1.3,ak,ak0227g3sotx,2022-06-11T11:33:33.485Z,"6 km ESE of Sunrise, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-06-11T11:25:29.870Z,32.3606667,-115.3091667,6.7,1.95,ml,16,108,0.05877,0.28,ci,ci40038327,2022-06-11T11:29:08.230Z,"11km W of Delta, B.C., MX",earthquake,0.74,1.56,0.168,21,automatic,ci,ci
 2022-06-11T11:15:23.390Z,33.7808333,-116.1248333,2.52,1.19,ml,30,138,0.08208,0.21,ci,ci40038319,2022-06-11T11:19:08.824Z,"11km NE of Indio, CA",earthquake,0.36,0.53,0.097,26,automatic,ci,ci
 2022-06-11T11:04:52.330Z,17.9953333333333,-66.8828333333333,15.26,2.17,md,7,91,,0.08,pr,pr71353533,2022-06-11T11:20:56.370Z,"2 km NNE of Maria Antonia, Puerto Rico",earthquake,0.65,0.75,0.0777645484056839,4,reviewed,pr,pr
 2022-06-11T10:58:25.710Z,33.638,-116.6743333,6.98,0.21,ml,9,121,0.06597,0.17,ci,ci40038303,2022-06-11T11:02:06.310Z,"9km N of Anza, CA",earthquake,0.49,1.2,0.221,5,automatic,ci,ci
@@ -185,6 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-10T11:51:02.690Z,53.8537,-166.6462,8.2,0.1,ml,,,,0.09,ak,ak0227egdkvx,2022-06-11T08:08:01.681Z,"7 km WSW of Unalaska, Alaska",earthquake,,0.7,,,reviewed,ak,ak
 2022-06-10T11:42:36.300Z,19.1441669464111,-155.380661010742,30.9099998474121,2.25,md,47,180,,0.119999997,hv,hv73039997,2022-06-10T18:17:07.307Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.6,0.779999971,1.38,24,automatic,hv,hv
 2022-06-10T11:40:57.648Z,62.9037,-148.3618,62.2,1.2,ml,,,,0.87,ak,ak0227egbc90,2022-06-10T11:43:01.970Z,"61 km SSE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-06-10T11:36:16.130Z,38.8486667,-123.3675,-0.57,1.44,md,14,173,0.08778,0.1,nc,nc73743621,2022-06-10T20:52:15.516Z,"17km NNE of Sea Ranch, CA",earthquake,0.44,1.1,0.269,16,reviewed,nc,nc
-2022-06-10T11:33:00.510Z,36.5486679,-121.0944977,2.84,2.23,md,14,107,0.05331,0.14,nc,nc73743616,2022-06-10T13:30:14.892Z,"5km ENE of Pinnacles, CA",earthquake,0.35,0.99,0.1,13,automatic,nc,nc
-2022-06-10T11:28:57.900Z,38.8338333,-122.8105,2.2,0.47,md,16,51,0.01043,0.01,nc,nc73743611,2022-06-10T19:25:16.174Z,"8km W of Cobb, CA",earthquake,0.29,0.76,0.076,3,reviewed,nc,nc
