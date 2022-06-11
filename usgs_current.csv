@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-11T09:18:10.425Z,37.2675,-117.6192,0.7,1,ml,8,218.8,0.725,0.1961,nn,nn00840777,2022-06-11T09:21:34.480Z,"54 km S of Silver Peak, Nevada",earthquake,,0,0.78,5,automatic,nn,nn
+2022-06-11T09:16:56.040Z,33.2395,-116.1036667,6.12,1.35,ml,40,61,0.09943,0.21,ci,ci40038287,2022-06-11T09:27:43.410Z,"11km NNE of Ocotillo Wells, CA",earthquake,0.26,1.46,0.196,28,automatic,ci,ci
 2022-06-11T08:59:13.252Z,63.0933,-151.7637,0,1.1,ml,,,,1.04,ak,ak0227g26d3x,2022-06-11T09:01:33.780Z,"49 km S of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-11T08:55:26.590Z,33.9406667,-116.7135,14.43,0.44,ml,11,162,0.1118,0.1,ci,ci40038271,2022-06-11T08:59:03.319Z,"7km ENE of Cabazon, CA",earthquake,0.42,0.7,0.291,7,automatic,ci,ci
 2022-06-11T08:48:41.035Z,36.75366592,-98.06389618,3.926615715,1.82,ml,23,138.4964256,0.09909325838,0.4148797934,ok,ok2022livl,2022-06-11T08:52:41.768Z,"7 km E of Nescatunga, Oklahoma",earthquake,3.020633137,2.148032536,,19,automatic,ok,ok
+2022-06-11T08:47:08.490Z,18.0306666666667,-66.7623333333333,13.34,2.57,md,23,122,,0.16,pr,pr71353508,2022-06-11T09:18:23.960Z,"1 km NNE of Magas Arriba, Puerto Rico",earthquake,0.25,0.28,0.169043930877139,6,reviewed,pr,pr
 2022-06-11T08:37:26.730Z,38.8344994,-122.7900009,2.09,0.86,md,17,55,0.003913,0.02,nc,nc73743926,2022-06-11T08:54:14.779Z,"6km WNW of Cobb, CA",earthquake,0.24,0.46,0.02,3,automatic,nc,nc
 2022-06-11T08:24:08.424Z,32.4087,-101.6255,5.28,2.7,mb_lg,,31,0.293,0.56,us,us7000hgpf,2022-06-11T08:40:07.627Z,"15 km SSE of Ackerly, Texas",earthquake,1.2,8.1,0.048,112,reviewed,us,us
 2022-06-11T08:06:53.501Z,-7.9872,-13.675,10,4.8,mb,,138,0.68,0.67,us,us7000hgpe,2022-06-11T08:30:31.040Z,"81 km E of Georgetown, Saint Helena",earthquake,7.9,1.9,0.116,23,reviewed,us,us
@@ -201,8 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-10T09:38:05.840Z,44.2683333,-115.1931667,9.17,2.13,ml,17,68,0.903,0.28,mb,mb80548434,2022-06-10T16:53:37.240Z,"21 km WNW of Stanley, Idaho",earthquake,0.61,1.28,0.2,13,reviewed,mb,mb
 2022-06-10T09:36:57.460Z,33.9931667,-117.0273333,13.62,0.58,ml,19,134,0.09127,0.14,ci,ci40037815,2022-06-10T18:48:53.305Z,"2km ENE of Calimesa, CA",earthquake,0.23,0.59,0.164,11,reviewed,ci,ci
 2022-06-10T09:32:40.614Z,63.5187,-150.7533,6.3,1.9,ml,,,,0.61,ak,ak0227ef2pzx,2022-06-10T09:34:52.729Z,"48 km E of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-06-10T09:25:58.200Z,33.4793333,-116.562,9.89,0.38,ml,21,79,0.03693,0.14,ci,ci40037807,2022-06-10T14:49:41.410Z,"13km SE of Anza, CA",earthquake,0.23,0.43,0.175,13,reviewed,ci,ci
-2022-06-10T09:25:42.790Z,19.542667388916,-155.658493041992,0.349999994039536,1.71000004,md,24,161,,0.310000002,hv,hv73039887,2022-06-10T09:31:14.000Z,"23 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,1.16,0.519999981,0.850000024,3,automatic,hv,hv
-2022-06-10T09:23:24.510Z,44.2726667,-115.1896667,8.48,2.13,ml,14,68,0.905,0.27,mb,mb80548429,2022-06-10T17:06:57.100Z,"20 km WNW of Stanley, Idaho",earthquake,0.66,1.48,0.13,12,reviewed,mb,mb
-2022-06-10T09:11:23.452Z,44.5345,-78.1554,4.78,2.3,ml,,79,0.384,0.2,us,us7000hgnl,2022-06-11T04:58:40.040Z,"14 km NE of Lakefield, Canada",earthquake,1.1,5.9,0.056,42,reviewed,us,us
-2022-06-10T09:09:03.170Z,38.8148346,-122.8059998,1.76,1.24,md,23,40,0.009121,0.02,nc,nc73743581,2022-06-10T12:09:10.436Z,"6km NW of The Geysers, CA",earthquake,0.2,0.39,0.11,5,automatic,nc,nc
