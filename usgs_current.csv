@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-11T07:44:20.255Z,62.2475,-150.1417,12.5,1.7,ml,,,,0.63,ak,ak0227g1hqax,2022-06-11T07:46:42.781Z,"8 km S of Talkeetna, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-06-11T07:39:14.599Z,62.2464,-150.1415,11.8,1.7,ml,,,,0.65,ak,ak0227g1gnab,2022-06-11T07:41:38.437Z,"8 km S of Talkeetna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-11T07:21:25.860Z,38.7944984,-122.7303314,2.16,0.21,md,10,97,0.01231,0.02,nc,nc73743911,2022-06-11T07:30:10.229Z,"3km NE of The Geysers, CA",earthquake,0.39,0.89,0.17,2,automatic,nc,nc
 2022-06-11T07:16:10.490Z,38.8326683,-122.8073349,2.19,0.85,md,17,47,0.009504,0.02,nc,nc73743906,2022-06-11T07:24:10.329Z,"7km W of Cobb, CA",earthquake,0.27,0.62,,1,automatic,nc,nc
 2022-06-11T07:14:02.212Z,61.3192,-149.3746,72.9,1.4,ml,,,,1.23,ak,ak0227g1b586,2022-06-11T07:26:33.165Z,"10 km E of Eagle River, Alaska",earthquake,,1.6,,,automatic,ak,ak
@@ -205,4 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-10T08:04:16.349Z,60.5775,-146.7986,20.5,2,ml,,,,0.48,ak,ak0227eeb8gy,2022-06-10T08:06:04.980Z,"32 km SSW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-10T08:02:02.860Z,44.514,-115.2435,12.43,2.16,ml,8,137,0.787,0.22,mb,mb80548394,2022-06-10T17:31:52.370Z,"40 km NW of Stanley, Idaho",earthquake,0.9,1.89,0.121,15,reviewed,mb,mb
 2022-06-10T08:01:34.940Z,38.7871666,-122.7689972,1.84,0.34,md,13,84,0.01596,0.04,nc,nc73743561,2022-06-10T08:35:21.147Z,"2km NW of The Geysers, CA",earthquake,0.33,0.58,0.19,3,automatic,nc,nc
-2022-06-10T07:43:57.450Z,35.1215,-118.7743333,2.22,1.08,ml,12,69,0.04602,0.14,ci,ci40037775,2022-06-10T17:18:04.962Z,"11km SSE of Arvin, CA",earthquake,0.25,0.32,0.202,5,reviewed,ci,ci
