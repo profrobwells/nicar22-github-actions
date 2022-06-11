@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-11T11:56:27.319Z,60.3186,-152.4747,97.7,1.4,ml,,,,0.51,ak,ak0227g3y1uz,2022-06-11T11:58:18.687Z,"53 km WNW of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-06-11T11:53:45.470Z,19.3301658630371,-155.257507324219,28.0499992370605,1.88999999,md,39,82,,0.159999996,hv,hv73041032,2022-06-11T11:56:59.070Z,"12 km S of Volcano, Hawaii",earthquake,0.5,0.649999976,1.38999999,14,automatic,hv,hv
 2022-06-11T11:38:14.488Z,64.4626,-147.3558,0,0.9,ml,,,,1.06,ak,ak0227g3u5zl,2022-06-11T11:40:45.321Z,"22 km WSW of Salcha, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-11T11:32:33.070Z,34.5003333,-118.3386667,4.52,1.06,ml,21,54,0.07617,0.14,ci,ci40038335,2022-06-11T11:36:04.260Z,"1km WNW of Agua Dulce, CA",earthquake,0.26,0.54,0.198,25,automatic,ci,ci
 2022-06-11T11:31:25.650Z,60.8689,-149.3137,60.8,1.5,ml,,,,1.3,ak,ak0227g3sotx,2022-06-11T11:33:33.485Z,"6 km ESE of Sunrise, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -186,4 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-10T12:14:12.650Z,17.696,-67.104,6.96,2.57,md,3,349,,0.06,pr,pr71353383,2022-06-11T04:09:41.355Z,"31 km S of La Parguera, Puerto Rico",earthquake,5.18,8.17,0.118362908889155,2,reviewed,pr,pr
 2022-06-10T12:08:01.784Z,-0.172,122.8886,86.48,4.7,mb,,51,0.871,0.56,us,us7000hgga,2022-06-10T12:27:56.040Z,"80 km SSW of Gorontalo, Indonesia",earthquake,6.2,4.7,0.076,53,reviewed,us,us
 2022-06-10T12:04:40.000Z,61.5266,-146.4246,33.3,1.3,ml,,,,0.6,ak,ak0227egp0ps,2022-06-10T12:07:47.247Z,"44 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-06-10T11:51:02.690Z,53.8537,-166.6462,8.2,0.1,ml,,,,0.09,ak,ak0227egdkvx,2022-06-11T08:08:01.681Z,"7 km WSW of Unalaska, Alaska",earthquake,,0.7,,,reviewed,ak,ak
