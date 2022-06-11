@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-11T11:15:23.370Z,33.7813339,-116.1236649,2.41,1.25,ml,40,75,0.08294,0.19,ci,ci40038319,2022-06-11T11:17:37.160Z,"11km NE of Indio, CA",earthquake,0.33,0.7,0.149,8,automatic,ci,ci
+2022-06-11T11:25:29.890Z,32.3564987,-115.3050003,7.75,2.16,ml,21,75,0.06282,0.31,ci,ci40038327,2022-06-11T11:27:45.218Z,"10km W of Delta, B.C., MX",earthquake,0.57,1.21,0.264,15,automatic,ci,ci
+2022-06-11T11:15:23.390Z,33.7808333,-116.1248333,2.52,1.19,ml,30,138,0.08208,0.21,ci,ci40038319,2022-06-11T11:19:08.824Z,"11km NE of Indio, CA",earthquake,0.36,0.53,0.097,26,automatic,ci,ci
+2022-06-11T11:04:52.330Z,17.9953333333333,-66.8828333333333,15.26,2.17,md,7,91,,0.08,pr,pr71353533,2022-06-11T11:20:56.370Z,"2 km NNE of Maria Antonia, Puerto Rico",earthquake,0.65,0.75,0.0777645484056839,4,reviewed,pr,pr
 2022-06-11T10:58:25.710Z,33.638,-116.6743333,6.98,0.21,ml,9,121,0.06597,0.17,ci,ci40038303,2022-06-11T11:02:06.310Z,"9km N of Anza, CA",earthquake,0.49,1.2,0.221,5,automatic,ci,ci
 2022-06-11T09:48:08.395Z,36.6219,-115.6291,7.4,1.3,ml,21,135.78,0.305,0.2262,nn,nn00840779,2022-06-11T09:51:37.922Z,"6 km NNE of Indian Springs, Nevada",earthquake,,1.1,0.31,15,automatic,nn,nn
 2022-06-11T09:47:40.670Z,17.8915,-66.9431666666667,11.39,2.25,md,6,242,,0.09,pr,pr71353528,2022-06-11T10:21:44.790Z,"Puerto Rico region",earthquake,0.81,0.59,0.024879346498887,2,reviewed,pr,pr
@@ -186,6 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-10T11:36:16.130Z,38.8486667,-123.3675,-0.57,1.44,md,14,173,0.08778,0.1,nc,nc73743621,2022-06-10T20:52:15.516Z,"17km NNE of Sea Ranch, CA",earthquake,0.44,1.1,0.269,16,reviewed,nc,nc
 2022-06-10T11:33:00.510Z,36.5486679,-121.0944977,2.84,2.23,md,14,107,0.05331,0.14,nc,nc73743616,2022-06-10T13:30:14.892Z,"5km ENE of Pinnacles, CA",earthquake,0.35,0.99,0.1,13,automatic,nc,nc
 2022-06-10T11:28:57.900Z,38.8338333,-122.8105,2.2,0.47,md,16,51,0.01043,0.01,nc,nc73743611,2022-06-10T19:25:16.174Z,"8km W of Cobb, CA",earthquake,0.29,0.76,0.076,3,reviewed,nc,nc
-2022-06-10T11:21:38.900Z,36.3845,-120.5695,16.35,1.69,md,24,75,0.1696,0.12,nc,nc73743606,2022-06-10T20:01:16.263Z,"10km ESE of New Idria, CA",earthquake,0.3,0.63,0.254,20,reviewed,nc,nc
-2022-06-10T11:21:18.569Z,39.0862,-119.0128,9.3,0.9,ml,22,69.43,0.204,0.1202,nn,nn00840710,2022-06-10T16:52:46.250Z,"17 km NE of Yerington, Nevada",earthquake,,1.6,0.24,8,reviewed,nn,nn
-2022-06-10T11:19:09.070Z,33.032,-116.294,4.08,1.15,ml,45,40,0.07759,0.16,ci,ci40037863,2022-06-10T17:48:17.840Z,"20km SW of Ocotillo Wells, CA",earthquake,0.17,0.53,0.154,29,reviewed,ci,ci
