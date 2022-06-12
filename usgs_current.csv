@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-12T09:46:02.220Z,37.454834,-118.7471695,10.19,1.46,md,13,187,0.1499,0.08,nc,nc73744346,2022-06-12T09:54:10.728Z,"13km SSW of Toms Place, CA",earthquake,1.17,2.8,0.14,11,automatic,nc,nc
 2022-06-12T09:40:30.430Z,33.3295,-116.3115,8.5,0.7,ml,20,147,0.03282,0.19,ci,ci40038727,2022-06-12T09:44:17.112Z,"10km NE of Borrego Springs, CA",earthquake,0.43,0.6,0.126,16,automatic,ci,ci
 2022-06-12T09:38:54.288Z,59.3641,-152.6507,74.7,1.2,ml,,,,0.34,ak,ak0227hq6owz,2022-06-12T09:41:07.472Z,"41 km W of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-06-12T09:31:44.140Z,19.2231674194336,-155.391662597656,30.7000007629395,1.91999996,md,32,156,,0.140000001,hv,hv73041857,2022-06-12T09:35:09.270Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.75,0.819999993,0.289999992,5,automatic,hv,hv
@@ -194,5 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-11T10:47:37.970Z,40.8656667,-122.173,11.95,1.36,md,8,200,0.1241,0.09,nc,nc73743951,2022-06-11T17:54:11.024Z,"21km WNW of Round Mountain, CA",earthquake,1.13,1.71,0.261,7,reviewed,nc,nc
 2022-06-11T09:58:05.310Z,38.797,-122.7183333,2.37,0.21,md,15,171,0.005002,0.02,nc,nc73743946,2022-06-11T19:44:12.648Z,"3km S of Cobb, CA",earthquake,0.48,0.47,0.013,4,reviewed,nc,nc
 2022-06-11T09:56:48.500Z,38.889,-123.2463333,0.52,1.36,md,12,59,0.02815,0.05,nc,nc73743941,2022-06-11T18:55:12.368Z,"17km SE of Boonville, CA",earthquake,0.25,0.52,0.137,13,reviewed,nc,nc
-2022-06-11T09:48:08.395Z,36.6219,-115.6291,7.4,1.3,ml,21,135.78,0.305,0.2262,nn,nn00840779,2022-06-11T09:51:37.922Z,"6 km NNE of Indian Springs, Nevada",earthquake,,1.1,0.31,15,automatic,nn,nn
-2022-06-11T09:47:40.670Z,17.8915,-66.9431666666667,11.39,2.25,md,6,242,,0.09,pr,pr71353528,2022-06-11T10:21:44.790Z,"9 km SSW of Guánica, Puerto Rico",earthquake,0.81,0.59,0.024879346498887,2,reviewed,pr,pr
