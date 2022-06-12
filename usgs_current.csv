@@ -113,6 +113,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-12T00:52:53.639Z,41.6326,-71.2663,6.18,1.6,ml,,203,0.44,0.3,us,us7000hgu2,2022-06-12T14:28:30.232Z,"3 km NNW of Portsmouth, Rhode Island",earthquake,2.3,6.5,0.105,12,reviewed,us,us
 2022-06-12T00:50:06.784Z,6.9021,-76.1565,10,4.6,mb,,136,0.942,1.02,us,us7000hgu3,2022-06-12T01:18:17.885Z,"northern Colombia",earthquake,5.6,1.6,0.109,25,reviewed,us,us
 2022-06-12T00:46:49.590Z,17.997,-67.0033333333333,7.61,2,md,9,130,,0.14,pr,pr71353623,2022-06-12T01:04:24.970Z,"5 km ENE of La Parguera, Puerto Rico",earthquake,0.51,0.42,0.128394148201222,6,reviewed,pr,pr
+2022-06-12T00:28:33.820Z,34.0455,-117.2521667,16.4,0.9,ml,31,119,0.09539,0.17,ci,ci40038623,2022-06-12T15:53:24.365Z,"1km ESE of Loma Linda, CA",earthquake,0.28,0.49,0.097,13,reviewed,ci,ci
 2022-06-12T00:20:35.270Z,33.2413333,-116.1033333,6.18,1.1,ml,31,49,0.1252,0.25,ci,ci40038615,2022-06-12T00:24:12.128Z,"11km NNE of Ocotillo Wells, CA",earthquake,0.35,2.2,0.119,26,automatic,ci,ci
 2022-06-12T00:08:39.350Z,18.0975,-66.7188333333333,18.07,2.01,md,8,116,,0.13,pr,pr71353618,2022-06-12T00:33:59.430Z,"4 km N of Peñuelas, Puerto Rico",earthquake,0.4,1.24,0.132209612993088,6,reviewed,pr,pr
 2022-06-11T23:57:36.730Z,47.79066666666667,-123.32416666666667,38.57,2.85,ml,35,56,0.2148,0.21,uw,uw61850651,2022-06-12T14:11:22.067Z,"33 km W of Quilcene, Washington",earthquake,0.5,0.94,0.21020770028741653,6,reviewed,uw,uw
@@ -178,6 +179,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-11T16:29:19.692Z,59.2501,-152.1589,61.2,1.2,ml,,,,0.29,ak,ak0227g6reb4,2022-06-11T17:41:57.374Z,"18 km SW of Nanwalek, Alaska",earthquake,,1.1,,,reviewed,ak,ak
 2022-06-11T16:14:03.960Z,34.0611667,-117.2573333,14.62,1.03,ml,29,99,0.1191,0.24,ci,ci40038495,2022-06-11T16:17:38.260Z,"2km NNE of Loma Linda, CA",earthquake,0.39,0.84,0.217,24,automatic,ci,ci
 2022-06-11T16:00:57.150Z,19.2351665496826,-155.389007568359,30.3199996948242,2.1099999,md,41,144,,0.159999996,hv,hv73041192,2022-06-11T16:04:10.120Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.56,0.879999995,1.63999999,14,automatic,hv,hv
-2022-06-11T15:56:46.961Z,54.5169,-159.6257,10.8,3.1,ml,,,,0.58,ak,ak0227g6btpr,2022-06-11T17:35:05.616Z,"107 km SSE of Sand Point, Alaska",earthquake,,1,,,reviewed,ak,ak
-2022-06-11T15:56:07.150Z,37.3645,-118.6768333,16.31,1.45,md,24,100,0.0912,0.11,nc,nc73744011,2022-06-11T20:09:15.809Z,"9km SW of Round Valley, CA",earthquake,0.4,1.16,0.267,21,reviewed,nc,nc
-2022-06-11T15:55:56.094Z,62.1085,-149.7106,33.4,1.1,ml,,,,0.84,ak,ak0227g6bmsc,2022-06-11T15:58:24.057Z,"9 km SE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
