@@ -122,6 +122,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-13T03:53:09.340Z,35.8728333,-117.6671667,12.57,1.21,ml,8,181,0.0803,0.13,ci,ci40039175,2022-06-13T03:57:06.126Z,"23km ESE of Little Lake, CA",earthquake,1.01,1.45,0.303,13,automatic,ci,ci
 2022-06-13T03:51:17.230Z,44.8193333,-110.754,8.3,1.63,ml,11,242,0.07537,0.1,uu,uu60501597,2022-06-13T15:14:43.440Z,"17 km SSW of Mammoth, Wyoming",earthquake,2,0.99,0.15,4,reviewed,uu,uu
 2022-06-13T03:49:41.670Z,44.794,-110.8025,7.81,2.44,ml,19,146,0.03465,0.16,uu,uu60501592,2022-06-13T13:26:31.610Z,"21 km SSW of Mammoth, Wyoming",earthquake,0.62,0.43,0.224,5,reviewed,uu,uu
+2022-06-13T03:33:50.650Z,36.0868333,-117.8783333,3.07,1.18,ml,13,92,0.03609,0.06,ci,ci40039159,2022-06-13T15:54:22.974Z,"8km NE of Coso Junction, CA",earthquake,0.18,0.38,0.054,3,reviewed,ci,ci
 2022-06-13T03:27:59.970Z,33.0466667,-116.417,9.43,0.88,ml,28,56,0.1325,0.24,ci,ci40039151,2022-06-13T03:31:35.456Z,"18km ESE of Julian, CA",earthquake,0.36,1.24,0.265,15,automatic,ci,ci
 2022-06-13T03:16:44.610Z,38.8330002,-122.8160019,1.86,0.85,md,12,55,0.01065,0.01,nc,nc73744666,2022-06-13T04:47:23.647Z,"8km NW of The Geysers, CA",earthquake,0.31,0.79,,1,automatic,nc,nc
 2022-06-13T03:10:10.690Z,17.9263333333333,-66.7743333333333,7.16,2.59,md,29,181,,0.21,pr,pr71353858,2022-06-13T04:25:14.520Z,"8 km SSE of Indios, Puerto Rico",earthquake,0.42,0.32,0.167036836516241,12,reviewed,pr,pr
@@ -215,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-12T16:12:12.968Z,57.7478,-154.4728,40.7,1.5,ml,,,,0.63,ak,ak0227hu73rk,2022-06-12T16:19:04.265Z,"19 km N of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-06-12T16:06:01.150Z,17.9383333333333,-66.9721666666667,16.42,1.94,md,3,228,,0.04,pr,pr71353778,2022-06-12T16:42:20.320Z,"7 km WSW of Guánica, Puerto Rico",earthquake,2.57,1.07,0.0112728242238316,3,reviewed,pr,pr
 2022-06-12T16:04:25.092Z,64.7614,-149.2241,19,0.7,ml,,,,0.24,ak,ak0227hu5ez1,2022-06-12T16:06:15.056Z,"18 km NNW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-06-12T15:59:41.290Z,38.829834,-122.8031693,1.86,0.85,md,11,81,0.008392,0.02,nc,nc73744421,2022-06-12T16:31:14.197Z,"7km W of Cobb, CA",earthquake,0.34,0.95,,1,automatic,nc,nc
