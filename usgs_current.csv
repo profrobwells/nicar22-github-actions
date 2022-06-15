@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-15T21:41:00.050Z,33.3571667,-116.3101667,11.29,0.94,ml,29,138,0.005211,0.2,ci,ci40040879,2022-06-15T21:44:34.471Z,"13km NNE of Borrego Springs, CA",earthquake,0.36,0.46,0.159,21,automatic,ci,ci
 2022-06-15T21:38:50.565Z,58.0757,-154.9665,102.1,0.8,ml,,,,0.25,ak,ak0227mvxysg,2022-06-15T21:40:24.874Z,"64 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-06-15T21:33:23.190Z,38.8334999,-122.8178329,1.91,0.85,md,11,59,0.01177,0.01,nc,nc73745861,2022-06-15T21:34:56.893Z,"8km NW of The Geysers, CA",earthquake,0.26,1.41,,1,automatic,nc,nc
+2022-06-15T21:33:23.190Z,38.8334999,-122.8178329,1.91,0.85,md,11,59,0.01177,0.01,nc,nc73745861,2022-06-15T21:43:10.799Z,"8km NW of The Geysers, CA",earthquake,0.26,1.41,,1,automatic,nc,nc
 2022-06-15T21:14:05.250Z,19.4603328704834,-155.449340820312,8.48999977111816,2.22,ml,35,65,,0.159999996,hv,hv73045022,2022-06-15T21:19:37.000Z,"22 km W of Volcano, Hawaii",earthquake,0.36,0.639999986,0.33,10,automatic,hv,hv
 2022-06-15T21:02:37.890Z,36.0861667,-117.6908333,-0.1,2.19,ml,17,59,0.1076,0.19,ci,ci40040863,2022-06-15T21:06:23.017Z,"24km ENE of Coso Junction, CA",earthquake,0.32,0.7,0.105,25,automatic,ci,ci
 2022-06-15T20:58:43.147Z,58.2813,-155.0172,0.1,0.4,ml,,,,0.45,ak,ak0227mvgsxb,2022-06-15T21:00:43.596Z,"86 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -148,6 +149,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-15T05:59:21.953Z,26.6363,54.2647,10,4.6,mb,,75,2.427,1,us,us7000hhha,2022-06-15T06:55:10.040Z,"25 km ENE of Kīsh, Iran",earthquake,8.5,1.9,0.073,55,reviewed,us,us
 2022-06-15T05:55:01.691Z,26.5607,54.1625,10,4.7,mb,,80,2.444,1.34,us,us7000hhh9,2022-06-15T06:58:44.983Z,"14 km E of Kīsh, Iran",earthquake,8,1.9,0.066,70,reviewed,us,us
 2022-06-15T05:50:53.460Z,33.2688333,-115.988,7.24,1.19,ml,43,45,0.01138,0.2,ci,ci40040439,2022-06-15T14:26:38.650Z,"4km SW of Salton City, CA",earthquake,0.2,0.47,0.191,27,reviewed,ci,ci
+2022-06-15T05:44:14.188Z,36.7917,-116.0846,6.1,-0.4,ml,9,145.52,0.02,0.106,nn,nn00840958,2022-06-15T21:47:37.042Z,"44 km WNW of Indian Springs, Nevada",earthquake,,1.7,0.49,4,reviewed,nn,nn
 2022-06-15T05:30:02.253Z,62.0562,-150.8871,2.7,1.5,ml,,,,0.54,ak,ak0227mmd7nl,2022-06-15T05:33:23.992Z,"27 km ENE of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-15T05:04:56.011Z,38.1436,-117.99,10.7,1.4,ml,19,121.82,0.025,0.1491,nn,nn00840912,2022-06-15T18:14:39.469Z,"29 km SSE of Mina, Nevada",earthquake,,0.8,0.11,8,reviewed,nn,nn
 2022-06-15T04:53:15.320Z,35.9633331,-120.5114975,2.01,1.53,md,19,63,0.0143,0.07,nc,nc73745546,2022-06-15T06:21:16.137Z,"10km NW of Parkfield, CA",earthquake,0.24,0.54,0.24,9,automatic,nc,nc
@@ -217,6 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-14T22:17:39.670Z,-17.8132,-174.4389,83.39,4.6,mb,,94,4.648,0.51,us,us7000hhfs,2022-06-14T22:38:28.040Z,"104 km NNW of Neiafu, Tonga",earthquake,14.4,8.9,0.103,28,reviewed,us,us
 2022-06-14T22:02:00.031Z,36.9344,-116.1338,5.8,-0.1,ml,11,70.45,0.042,0.1172,nn,nn00840897,2022-06-15T02:39:43.235Z,"55 km E of Beatty, Nevada",earthquake,,1.8,1.2,5,reviewed,nn,nn
 2022-06-14T22:01:28.000Z,53.8725,-166.888333333333,4.64,0.36,ml,6,183,,0.12,av,av91063038,2022-06-15T06:16:45.430Z,"22 km W of Dutch Harbor, Alaska",earthquake,0.39,1.12,0.231219057643803,6,reviewed,av,av
-2022-06-14T21:46:32.340Z,35.9413333,-117.6703333,5.79,0.8,ml,14,85,0.05598,0.08,ci,ci40040263,2022-06-14T22:45:24.504Z,"21km E of Little Lake, CA",earthquake,0.18,0.49,0.165,5,reviewed,ci,ci
-2022-06-14T21:45:09.210Z,38.786499,-122.767334,2.11,0.36,md,9,130,0.01531,0.02,nc,nc73745416,2022-06-14T22:03:19.282Z,"1km NW of The Geysers, CA",earthquake,0.44,0.75,,1,automatic,nc,nc
-2022-06-14T21:44:26.950Z,35.9395,-117.6773333,3.88,0.52,ml,11,92,0.0615,0.09,ci,ci40040255,2022-06-14T22:46:52.026Z,"21km E of Little Lake, CA",earthquake,0.23,0.48,0.117,5,reviewed,ci,ci
