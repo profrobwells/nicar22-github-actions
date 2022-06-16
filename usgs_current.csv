@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-16T14:23:52.690Z,33.9931679,-117.2163315,10.4,1.63,ml,80,42,0.09386,0.18,ci,ci40041351,2022-06-16T14:26:00.174Z,"7km SE of Loma Linda, CA",earthquake,0.2,0.46,0.181,24,automatic,ci,ci
+2022-06-16T14:25:54.220Z,33.9803333,-117.188,7.46,0.91,ml,16,86,0.08347,0.28,ci,ci40041359,2022-06-16T14:29:34.839Z,"7km NNE of Moreno Valley, CA",earthquake,0.61,1.98,0.271,25,automatic,ci,ci
+2022-06-16T14:23:52.690Z,33.9965,-117.2146667,10.39,1.73,ml,64,56,0.09341,0.18,ci,ci40041351,2022-06-16T14:34:43.880Z,"7km SE of Loma Linda, CA",earthquake,0.19,0.47,0.205,27,automatic,ci,ci
 2022-06-16T14:15:05.150Z,35.7785,-117.5066667,9.45,1.1,ml,11,205,0.08267,0.21,ci,ci40041343,2022-06-16T14:18:43.772Z,"9km W of Searles Valley, CA",earthquake,0.78,1.22,0.159,10,automatic,ci,ci
 2022-06-16T14:01:54.092Z,59.5732,-152.9603,109.1,1.4,ml,,,,0.44,ak,ak0227of3ctt,2022-06-16T14:03:50.575Z,"63 km WNW of Nanwalek, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-06-16T14:01:01.520Z,33.821,-116.1916667,7.44,0.53,ml,15,181,0.03466,0.21,ci,ci40041335,2022-06-16T14:04:39.551Z,"11km N of Indio, CA",earthquake,0.68,0.86,0.111,8,automatic,ci,ci
@@ -54,7 +55,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-16T08:54:37.710Z,38.8289986,-122.8014984,1.89,0.85,md,11,76,0.008728,0.01,nc,nc73746111,2022-06-16T09:01:10.951Z,"7km W of Cobb, CA",earthquake,0.35,0.75,,1,automatic,nc,nc
 2022-06-16T08:50:39.770Z,38.8274994,-122.7976685,1.79,1.07,md,19,50,0.01052,0.03,nc,nc73746106,2022-06-16T08:58:10.803Z,"6km W of Cobb, CA",earthquake,0.23,0.56,0.16,2,automatic,nc,nc
 2022-06-16T08:49:44.860Z,38.8226662,-122.7935028,0.93,0.39,md,11,81,0.01296,0.02,nc,nc73746096,2022-06-16T09:35:27.024Z,"6km NNW of The Geysers, CA",earthquake,0.26,0.85,0.3,2,automatic,nc,nc
-2022-06-16T08:48:56.620Z,38.8276672,-122.7981644,1.87,2.68,md,62,31,0.01023,0.07,nc,nc73746091,2022-06-16T11:10:16.591Z,"6km W of Cobb, CA",earthquake,0.15,0.2,0.11,53,automatic,nc,nc
+2022-06-16T08:48:56.620Z,38.8276672,-122.7981644,1.87,2.68,md,62,31,0.01023,0.07,nc,nc73746091,2022-06-16T14:26:39.165Z,"6km W of Cobb, CA",earthquake,0.15,0.2,0.11,53,automatic,nc,nc
 2022-06-16T08:47:45.610Z,35.986,-117.4088333,1.37,1.21,ml,14,119,0.2288,0.13,ci,ci40041151,2022-06-16T08:51:23.767Z,"24km N of Searles Valley, CA",earthquake,0.35,1.1,0.135,12,automatic,ci,ci
 2022-06-16T08:40:29.388Z,31.62130883,-104.1270306,6.362939453,1.6,ml,13,81,0.09230598049,0.3,tx,tx2022lryr,2022-06-16T14:15:34.481Z,"46 km NW of Toyah, Texas",earthquake,1.6881142650000003,2.340686437,0.3,10,reviewed,tx,tx
 2022-06-16T08:22:35.340Z,33.91,-116.759,18.26,0.72,ml,16,96,0.08263,0.19,ci,ci40041135,2022-06-16T08:26:04.697Z,"3km ESE of Cabazon, CA",earthquake,0.5,0.96,0.141,13,automatic,ci,ci
@@ -94,8 +95,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-16T03:51:47.763Z,67.474,-158.2528,0,1.6,ml,,,,1.31,ak,ak0227o8uang,2022-06-16T03:54:19.639Z,"46 km NNW of Ambler, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-06-16T03:48:57.870Z,33.9291667,-117.9186667,15.36,1.2,ml,39,68,0.01672,0.2,ci,ci40041039,2022-06-16T03:52:36.979Z,"2km NW of Brea, CA",earthquake,0.37,0.49,0.231,28,automatic,ci,ci
 2022-06-16T03:48:55.233Z,31.63152718,-104.1542654,7.828295898,2.5,ml,17,73,0.1025211232,0.3,tx,tx2022lrpb,2022-06-16T07:49:01.836Z,"49 km NW of Toyah, Texas",earthquake,0.9629291861,1.622899781,0.2,13,reviewed,tx,tx
-2022-06-16T03:45:12.010Z,35.695,-117.52,6.52,1.47,ml,22,99,0.1181,0.18,ci,ci40041031,2022-06-16T03:55:58.130Z,"13km SW of Searles Valley, CA",earthquake,0.33,1.26,0.141,20,automatic,ci,ci
-2022-06-16T03:33:23.750Z,33.7361667,-116.0195,0.59,1.04,ml,28,92,0.09797,0.25,ci,ci40041023,2022-06-16T03:44:21.220Z,"15km NE of Thermal, CA",earthquake,0.37,31.61,0.08,26,automatic,ci,ci
+2022-06-16T03:45:11.950Z,35.6935,-117.5228333,6.84,1.47,ml,36,61,0.1176,0.15,ci,ci40041031,2022-06-16T14:36:22.290Z,"14km SW of Searles Valley, CA",earthquake,0.16,0.48,0.128,20,reviewed,ci,ci
+2022-06-16T03:33:23.660Z,33.7371667,-116.018,1.43,1.1,ml,40,92,0.08505,0.2,ci,ci40041023,2022-06-16T14:30:07.370Z,"16km NE of Thermal, CA",earthquake,0.21,0.44,0.103,19,reviewed,ci,ci
 2022-06-16T03:17:58.223Z,61.7904,-150.7699,218,2.2,ml,,,,1.15,ak,ak0227o8n0xr,2022-06-16T03:21:26.608Z,"30 km NNW of Susitna, Alaska",earthquake,,6,,,automatic,ak,ak
 2022-06-16T03:08:19.709Z,38.1759,-117.8861,4.1,1,ml,9,172.91,0.068,0.3044,nn,nn00840992,2022-06-16T03:12:15.938Z,"30 km SE of Mina, Nevada",earthquake,,1.9,0.28,6,automatic,nn,nn
 2022-06-16T02:58:24.420Z,35.1116667,-118.4035,5.06,1.94,ml,50,28,0.131,0.16,ci,ci40041015,2022-06-16T13:20:11.880Z,"5km ESE of Tehachapi, CA",earthquake,0.2,1.08,0.176,27,reviewed,ci,ci
