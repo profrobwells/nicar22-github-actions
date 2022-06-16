@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-16T23:01:35.087Z,63.3029,-149.0749,80.6,1.4,ml,,,,0.45,ak,ak0227okg7t0,2022-06-16T23:03:38.593Z,"11 km SSW of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-06-16T22:45:07.874Z,18.4617,-81.7204,10,4.3,mb,,69,3.982,0.67,us,us7000hhzh,2022-06-16T23:02:26.040Z,"98 km SSW of George Town, Cayman Islands",earthquake,6.8,1.9,0.048,123,reviewed,us,us
 2022-06-16T22:39:54.170Z,33.0581667,-116.3591667,12.13,0.74,ml,19,63,0.1134,0.31,ci,ci40285536,2022-06-16T22:43:26.111Z,"22km S of Borrego Springs, CA",earthquake,0.62,1.92,0.178,10,automatic,ci,ci
 2022-06-16T22:02:30.865Z,-27.9823,-66.9769,187.71,4.2,mb,,90,2.228,0.53,us,us7000hhze,2022-06-16T22:22:38.040Z,"33 km SSE of Londres, Argentina",earthquake,8.8,14.5,0.214,6,reviewed,us,us
 2022-06-16T21:58:21.810Z,33.542,-116.6978333,26.3,0.71,ml,18,76,0.05657,0.34,ci,ci40285520,2022-06-16T22:02:01.054Z,"3km WSW of Anza, CA",earthquake,1.18,31.61,0.126,16,automatic,ci,ci
@@ -267,12 +269,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-15T23:47:17.504Z,63.1396,-150.5745,100,1.4,ml,,,,0.34,ak,ak0227mx6ow6,2022-06-15T23:49:31.489Z,"72 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-06-15T23:32:22.708Z,61.7145,-149.4568,36.4,1.4,ml,,,,0.82,ak,ak0227mx3hjy,2022-06-15T23:34:25.540Z,"9 km N of Tanaina, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-15T23:23:32.580Z,36.7193336,-121.3239975,1.73,1.89,md,5,163,0.2706,0.13,nc,nc73745906,2022-06-16T02:32:10.512Z,"8km S of Tres Pinos, CA",earthquake,2.63,12.73,0.05,3,automatic,nc,nc
+2022-06-15T23:19:48.988Z,36.4575,-115.7806,0,0.4,ml,5,337.16,0.317,0.091,nn,nn00841044,2022-06-16T22:58:58.784Z,"15 km SW of Indian Springs, Nevada",earthquake,,0,0.05,3,reviewed,nn,nn
 2022-06-15T23:14:52.670Z,17.9681666666667,-66.8706666666667,16.26,2.14,md,9,198,,0.1,pr,pr71354288,2022-06-16T01:50:27.741Z,"2 km ESE of Maria Antonia, Puerto Rico",earthquake,0.39,0.65,0.0695311713103366,5,reviewed,pr,pr
 2022-06-15T23:14:42.030Z,36.03933333,-97.901,5.54,1.42,ml,48,62,0.1106782811,0.2,ok,ok2022lrga,2022-06-16T15:14:49.684Z,"6 km N of Dover, Oklahoma",earthquake,,0.5,0.22,4,reviewed,ok,ok
 2022-06-15T23:11:57.214Z,36.5028,-115.7252,0,0.4,ml,7,207.56,0.308,0.2228,nn,nn00841043,2022-06-16T22:46:37.021Z,"8 km SSW of Indian Springs, Nevada",earthquake,,0,0,2,reviewed,nn,nn
 2022-06-15T23:11:16.674Z,59.7992,-151.9158,56.7,1.3,ml,,,,0.36,ak,ak0227mwyulg,2022-06-15T23:27:01.794Z,"5 km WNW of Anchor Point, Alaska",earthquake,,0.8,,,reviewed,ak,ak
 2022-06-15T23:09:13.390Z,37.5265007,-121.8961639,5.83,2.05,md,24,53,0.01566,0.09,nc,nc73745891,2022-06-16T01:41:11.219Z,"8km ESE of Fremont, CA",earthquake,0.24,0.53,0.13,22,automatic,nc,nc
 2022-06-15T23:06:23.460Z,37.6496667,-118.8911667,-2.31,0.56,md,8,169,0.006925,0.18,nc,nc73745886,2022-06-16T09:07:11.856Z,"8km E of Mammoth Lakes, CA",earthquake,0.92,1.95,0.364,7,reviewed,nc,nc
-2022-06-15T23:01:48.296Z,36.6863,-116.1709,2.1,0.1,ml,7,203.41,0.006,0.0525,nn,nn00841042,2022-06-16T22:37:20.409Z,"46 km WNW of Indian Springs, Nevada",earthquake,,1.6,0.57,4,reviewed,nn,nn
-2022-06-15T23:00:24.530Z,33.4893333,-116.4423333,8.19,0.09,ml,11,116,0.03671,0.11,ci,ci37423196,2022-06-16T00:13:32.176Z,"23km ESE of Anza, CA",earthquake,0.29,0.81,0.071,5,reviewed,ci,ci
-2022-06-15T23:00:05.910Z,33.4935,-116.4471667,8.1,0.22,ml,12,108,0.0348,0.11,ci,ci40040919,2022-06-16T00:01:57.098Z,"22km ESE of Anza, CA",earthquake,0.32,0.82,0.093,2,reviewed,ci,ci
