@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-17T09:39:02.894Z,62.251,-149.5758,38.1,2.4,ml,,,,0.56,ak,ak0227pzvkjn,2022-06-17T09:41:26.606Z,"17 km NE of Susitna North, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2022-06-17T09:31:47.180Z,35.8008333,-117.6165,10.56,1.18,ml,10,180,0.02144,0.13,ci,ci40285952,2022-06-17T09:35:17.083Z,"20km W of Searles Valley, CA",earthquake,0.9,0.79,0.158,8,automatic,ci,ci
 2022-06-17T09:26:17.530Z,35.878,-117.6831667,4.6,0.98,ml,13,83,0.08769,0.12,ci,ci40285944,2022-06-17T09:29:49.026Z,"21km ESE of Little Lake, CA",earthquake,0.26,0.57,0.058,8,automatic,ci,ci
-2022-06-17T09:19:37.620Z,38.8334999,-122.8003311,2.03,0.85,md,12,70,0.009212,0.01,nc,nc73746651,2022-06-17T09:27:10.404Z,"7km W of Cobb, CA",earthquake,0.37,0.81,,1,automatic,nc,nc
+2022-06-17T09:22:58.817Z,36.5258,71.2156,221.25,5.1,mww,,36,0.788,0.9,us,us7000hi2g,2022-06-17T09:42:42.040Z,"33 km WSW of Ashkāsham, Afghanistan",earthquake,7.6,5.4,0.093,11,reviewed,us,us
+2022-06-17T09:19:37.620Z,38.8334999,-122.8003311,2.03,0.85,md,12,70,0.009212,0.01,nc,nc73746651,2022-06-17T09:43:13.485Z,"7km W of Cobb, CA",earthquake,0.37,0.81,,1,automatic,nc,nc
 2022-06-17T09:16:56.270Z,38.8240013,-122.7955017,2.79,0.75,md,15,58,0.0114,0.01,nc,nc73746646,2022-06-17T09:33:15.434Z,"6km NNW of The Geysers, CA",earthquake,0.28,0.83,0.1,2,automatic,nc,nc
 2022-06-17T09:11:58.732Z,-21.4831,-176.5989,224.58,4.7,mb,,93,6.263,0.69,us,us7000hi2f,2022-06-17T09:32:53.040Z,"148 km WSW of Haveluloto, Tonga",earthquake,9.2,5.5,0.046,143,reviewed,us,us
 2022-06-17T09:10:01.760Z,33.4398333,-116.6136667,8.27,0.35,ml,16,111,0.05628,0.22,ci,ci40285936,2022-06-17T09:13:36.944Z,"14km SSE of Anza, CA",earthquake,0.61,0.92,0.208,11,automatic,ci,ci
@@ -238,4 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-16T09:57:57.094Z,61.6318,-149.5379,32.5,1.5,ml,,,,0.8,ak,ak0227ocg74t,2022-06-16T10:00:09.863Z,"3 km ENE of Meadow Lakes, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2022-06-16T09:55:35.730Z,52.057,178.3695,6.84,1.55,ml,4,348,,0.1,av,av91063168,2022-06-16T22:26:54.140Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,2.28,3.36,0.238165966938643,4,reviewed,av,av
 2022-06-16T09:55:03.140Z,38.8206673,-122.8083344,1.75,0.71,md,14,70,0.003044,0.02,nc,nc73746166,2022-06-16T10:40:17.410Z,"7km NW of The Geysers, CA",earthquake,0.26,0.65,0.09,2,automatic,nc,nc
-2022-06-16T09:48:25.520Z,46.21516666666667,-122.18683333333334,5.86,0,ml,9,127,0.015,0.08,uw,uw61852161,2022-06-16T16:16:30.270Z,"38 km S of Morton, Washington",earthquake,0.42,0.58,0.04880354762037642,4,reviewed,uw,uw
