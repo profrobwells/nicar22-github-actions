@@ -236,8 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-16T21:58:21.260Z,33.6843333,-116.7878333,16.31,0.44,ml,21,79,0.06699,0.1,ci,ci40285520,2022-06-17T00:09:07.942Z,"9km SW of Idyllwild, CA",earthquake,0.3,0.41,0.061,9,reviewed,ci,ci
 2022-06-16T21:56:48.920Z,19.1599998474121,-155.468338012695,31.2399997711182,2.19000006,md,27,165,,0.140000001,hv,hv73046187,2022-06-16T22:00:05.660Z,"4 km SSE of Pāhala, Hawaii",earthquake,0.58,1.00999999,0.200000003,9,automatic,hv,hv
 2022-06-16T21:56:39.700Z,19.1438331604004,-155.470840454102,30.5100002288818,2.08,ml,18,174,,0.189999998,hv,hv73046182,2022-06-16T22:02:09.960Z,"6 km S of Pāhala, Hawaii",earthquake,1.02,1.42999995,5.22,3,automatic,hv,hv
-2022-06-16T21:47:11.422Z,60.3113,-153.1541,6.4,0.9,ml,,,,0.59,ak,ak0227ojj5pd,2022-06-16T23:49:10.490Z,"65 km E of Port Alsworth, Alaska",earthquake,,0.6,,,reviewed,ak,ak
-2022-06-16T21:46:48.060Z,38.7733333,-122.7386667,1.06,0.05,md,11,74,0.01,0.02,nc,nc73746426,2022-06-17T00:13:15.207Z,"2km ESE of The Geysers, CA",earthquake,0.25,0.53,0.003,2,reviewed,nc,nc
-2022-06-16T21:44:53.842Z,60.3293,-140.9933,0,1.8,ml,,,,1,ak,ak0227ojilu0,2022-06-16T21:47:08.786Z,"112 km NW of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-06-16T21:43:07.954Z,67.8628,-158.4988,13.2,2.6,ml,,,,0.66,ak,ak0227ojiah2,2022-06-16T22:00:21.040Z,"90 km NNW of Ambler, Alaska",earthquake,,435,,,automatic,ak,ak
-2022-06-16T21:39:29.110Z,56.1398,-148.5955,10,3,ml,,240,2.735,0.19,us,us7000hhz6,2022-06-16T23:46:09.838Z,"278 km SE of Chiniak, Alaska",earthquake,10.8,2,0.055,44,reviewed,us,us
