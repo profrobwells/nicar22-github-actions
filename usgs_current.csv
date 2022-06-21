@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-21T10:15:25.900Z,38.8370018,-122.8000031,1.93,0.85,md,10,87,0.007673,0.01,nc,nc73748961,2022-06-21T10:17:02.158Z,"7km WNW of Cobb, CA",earthquake,0.34,1.01,,1,automatic,nc,nc
+2022-06-21T10:13:16.754Z,61.5916,-142.6783,22,0.9,ml,,,,0.4,ak,ak0227wmgul7,2022-06-21T10:14:59.368Z,"21 km NE of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-06-21T10:03:05.490Z,38.8115005,-122.8236694,2.32,1.02,md,19,58,0.0146,0.02,nc,nc73748956,2022-06-21T10:09:10.385Z,"7km WNW of The Geysers, CA",earthquake,0.23,0.6,0.15,3,automatic,nc,nc
 2022-06-21T10:03:04.256Z,62.0997,-149.7581,41.7,1.9,ml,,,,0.55,ak,ak0227wmeogp,2022-06-21T10:05:13.097Z,"8 km SE of Susitna North, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-06-21T09:45:45.100Z,36.0391667,-117.5533333,0.79,0.91,ml,16,170,0.1792,0.14,ci,ci40288504,2022-06-21T09:49:17.707Z,"33km NNW of Searles Valley, CA",earthquake,0.53,1.05,0.198,6,automatic,ci,ci
@@ -104,6 +106,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-21T01:08:57.210Z,34.2213333,-117.5083333,4.52,1.04,ml,14,89,0.08542,0.18,ci,ci40288360,2022-06-21T01:12:35.888Z,"4km SSW of Lytle Creek, CA",earthquake,0.35,1,0.307,26,automatic,ci,ci
 2022-06-21T01:07:44.658Z,63.481,-148.2665,4.9,2.7,ml,,,,0.52,ak,ak0227wh2pzs,2022-06-21T02:39:32.040Z,"35 km ENE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-21T00:49:17.998Z,36.4183,70.836,123.09,4.2,mb,,75,2.376,1.06,us,us7000hiv9,2022-06-21T01:21:11.040Z,"49 km S of Jurm, Afghanistan",earthquake,7.5,11.5,0.124,18,reviewed,us,us
+2022-06-21T00:45:14.118Z,31.59734329,-103.9609508,9.833520508,2.5,ml,10,88,0.09819210867,0.2,tx,tx2022mamm,2022-06-21T10:13:25.862Z,"35 km NNW of Toyah, Texas",earthquake,0.7978358896,1.014573107,0.2,6,reviewed,tx,tx
 2022-06-21T00:41:55.590Z,35.6856667,-117.492,5.39,0.75,ml,12,166,0.1019,0.2,ci,ci40288352,2022-06-21T00:45:30.998Z,"12km SW of Searles Valley, CA",earthquake,0.7,3.13,0.129,6,automatic,ci,ci
 2022-06-21T00:40:25.990Z,33.2991667,-116.3333333,8.7,0.55,ml,19,81,0.06609,0.18,ci,ci40288336,2022-06-21T00:43:59.056Z,"6km NE of Borrego Springs, CA",earthquake,0.42,0.74,0.073,8,automatic,ci,ci
 2022-06-21T00:32:10.480Z,37.2548333,-121.9906667,8.82,1.29,md,17,96,0.01665,0.07,nc,nc73748661,2022-06-21T06:20:12.997Z,"2km N of Monte Sereno, CA",earthquake,0.24,0.21,0.147,16,reviewed,nc,nc
