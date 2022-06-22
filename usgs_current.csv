@@ -77,7 +77,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-22T00:02:03.310Z,35.9811667,-117.4071667,0.95,0.76,ml,9,118,0.1642,0.07,ci,ci40288776,2022-06-22T00:05:37.307Z,"24km N of Searles Valley, CA",earthquake,0.23,0.39,0.102,6,automatic,ci,ci
 2022-06-22T00:01:39.151Z,-31.0239,-68.9749,103.69,4.6,mwr,,38,0.576,0.65,us,us7000hj5l,2022-06-22T00:55:46.040Z,"54 km NE of Calingasta, Argentina",earthquake,4.6,4.2,0.048,41,reviewed,us,us
 2022-06-21T23:53:40.480Z,19.1863327026367,-155.467163085938,34.6399993896484,2.27999997,md,38,99,,0.159999996,hv,hv73051267,2022-06-21T23:57:50.580Z,"2 km SSE of Pāhala, Hawaii",earthquake,0.59,0.910000026,1.88999999,18,automatic,hv,hv
-2022-06-21T23:53:34.280Z,38.829,-122.809,1.81,0.24,md,16,53,0.005659,0.02,nc,nc73749281,2022-06-22T09:39:10.018Z,"7km NW of The Geysers, CA",earthquake,0.23,0.32,0.295,2,reviewed,nc,nc
+2022-06-21T23:53:34.280Z,38.829,-122.809,1.81,0.24,md,16,53,0.005659,0.02,nc,nc73749281,2022-06-22T09:47:21.064Z,"7km NW of The Geysers, CA",earthquake,0.23,0.32,0.295,2,reviewed,nc,nc
 2022-06-21T23:44:01.260Z,37.6295,-118.8711667,0.04,0.22,md,8,120,0.01235,0.04,nc,nc73749271,2022-06-22T04:01:13.906Z,"10km E of Mammoth Lakes, CA",earthquake,0.26,0.37,0.183,6,reviewed,nc,nc
 2022-06-21T23:41:07.353Z,65.015,-147.4951,0,0.9,ml,,,,0.94,ak,ak0227wudgrz,2022-06-21T23:43:34.128Z,"8 km NE of Fox, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-06-21T23:38:23.840Z,17.9751666666667,-66.8196666666667,10.23,2.57,md,17,161,,0.16,pr,pr71355408,2022-06-21T23:51:11.480Z,"2 km S of Indios, Puerto Rico",earthquake,0.35,0.58,0.134503503856925,8,reviewed,pr,pr
@@ -215,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-21T10:13:16.754Z,61.5916,-142.6783,22,0.9,ml,,,,0.4,ak,ak0227wmgul7,2022-06-21T10:14:59.368Z,"21 km NE of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-06-21T10:03:05.490Z,38.8115005,-122.8236694,2.32,1.02,md,19,58,0.0146,0.02,nc,nc73748956,2022-06-21T10:27:13.545Z,"7km WNW of The Geysers, CA",earthquake,0.23,0.6,0.15,3,automatic,nc,nc
 2022-06-21T10:03:04.256Z,62.0997,-149.7581,41.7,1.9,ml,,,,0.55,ak,ak0227wmeogp,2022-06-21T10:05:13.097Z,"8 km SE of Susitna North, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-06-21T09:45:45.100Z,36.0391667,-117.5533333,0.79,0.91,ml,16,170,0.1792,0.14,ci,ci40288504,2022-06-21T14:01:24.000Z,"33km NNW of Searles Valley, CA",earthquake,0.53,1.05,0.198,6,reviewed,ci,ci
