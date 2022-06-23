@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-23T09:08:20.030Z,33.9761667,-117.017,13.13,1.05,ml,35,42,0.09665,0.18,ci,ci40289592,2022-06-23T09:12:02.243Z,"4km ESE of Calimesa, CA",earthquake,0.25,0.86,0.191,26,automatic,ci,ci
+2022-06-23T09:06:10.179Z,38.0408,-118.7613,4.1,0.8,ml,8,165.94,0.291,0.06,nn,nn00841528,2022-06-23T09:10:09.245Z,"32 km ENE of Lee Vining, California",earthquake,,346.8,0.21,3,automatic,nn,nn
+2022-06-23T08:56:53.860Z,33.6608333,-116.746,14.88,1.28,ml,47,47,0.05679,0.17,ci,ci40289584,2022-06-23T09:08:07.120Z,"9km SSW of Idyllwild, CA",earthquake,0.21,0.37,0.204,26,automatic,ci,ci
 2022-06-23T08:50:12.324Z,61.9369,-144.9861,18,1.7,ml,,,,0.75,ak,ak0227zwklio,2022-06-23T08:51:55.153Z,"17 km NE of Willow Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-23T08:43:47.560Z,38.8354988,-122.8030014,2.22,0.46,md,9,73,0.0103,0.01,nc,nc73749911,2022-06-23T08:50:10.339Z,"7km WNW of Cobb, CA",earthquake,0.51,1,0.39,2,automatic,nc,nc
 2022-06-23T08:22:17.085Z,64.7963,-155.8081,6.7,1.6,ml,,,,0.52,ak,ak0227zwelu4,2022-06-23T08:27:52.285Z,"16 km WNW of Ruby, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -134,7 +137,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-22T19:29:20.697Z,61.57,-150.9482,59.9,1,ml,,,,0.23,ak,ak0227yfgjaj,2022-06-22T19:31:31.569Z,"23 km W of Susitna, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2022-06-22T19:26:48.440Z,32.767,-116.9126667,-0.34,1.01,ml,10,101,0.0401,0.22,ci,ci40289288,2022-06-22T20:04:35.812Z,"3km NE of Rancho San Diego, CA",quarry blast,0.56,31.61,0.147,3,reviewed,ci,ci
 2022-06-22T19:23:11.440Z,19.2583332061768,-155.424835205078,33.0200004577637,1.77999997,md,35,115,,0.140000001,hv,hv73052132,2022-06-22T19:26:35.950Z,"8 km NE of Pāhala, Hawaii",earthquake,0.64,1.01999998,1.41999996,12,automatic,hv,hv
-2022-06-22T19:21:21.510Z,39.151001,-123.3495026,-0.36,1.56,md,9,115,0.06637,0.01,nc,nc73749631,2022-06-22T23:08:15.849Z,"12km W of Ukiah, CA",earthquake,0.32,1.85,0.09,8,automatic,nc,nc
+2022-06-22T19:21:21.640Z,39.1493333,-123.3455,1.06,1.58,md,18,59,0.06607,0.07,nc,nc73749631,2022-06-23T09:12:10.448Z,"12km W of Ukiah, CA",earthquake,0.2,0.73,0.095,17,reviewed,nc,nc
 2022-06-22T19:20:42.790Z,37.6228333,-118.8781667,-0.27,0.24,md,9,121,0.01267,0.03,nc,nc73749636,2022-06-22T20:40:28.993Z,"9km E of Mammoth Lakes, CA",earthquake,0.54,0.45,0.192,8,reviewed,nc,nc
 2022-06-22T19:18:26.670Z,37.6398333,-118.8871667,-0.73,-0.02,md,7,136,0.008924,0.02,nc,nc73749626,2022-06-22T19:39:53.910Z,"8km E of Mammoth Lakes, CA",earthquake,0.46,0.34,0.287,6,reviewed,nc,nc
 2022-06-22T19:16:35.090Z,37.6363333,-118.878,-0.48,-0.09,md,8,137,0.01698,0.04,nc,nc73749621,2022-06-22T19:33:23.248Z,"9km E of Mammoth Lakes, CA",earthquake,0.32,0.62,0.268,7,reviewed,nc,nc
@@ -256,5 +259,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-22T09:30:19.538Z,23.8985,123.5481,35.84,4.6,mb,,172,0.748,0.8,us,us7000hj9p,2022-06-22T10:04:31.040Z,"79 km SW of Ishigaki, Japan",earthquake,6.8,8,0.137,16,reviewed,us,us
 2022-06-22T09:23:58.080Z,38.1553,-117.9601,10.1,0.6,ml,13,140.45,0.016,0.1417,nn,nn00841447,2022-06-22T18:46:10.021Z,"29 km SSE of Mina, Nevada",earthquake,,1.1,0.3,4,reviewed,nn,nn
 2022-06-22T09:19:03.760Z,39.4348333,-110.3065,-1.69,2.3,ml,16,118,0.01796,0.18,uu,uu60503052,2022-06-22T11:32:51.230Z,"14 km SSE of Sunnyside, Utah",earthquake,0.73,0.76,0.096,17,reviewed,uu,uu
-2022-06-22T09:11:15.932Z,37.1956,-116.3971,10.2,-0.5,ml,6,181.91,0.103,0.1013,nn,nn00841495,2022-06-23T02:39:50.553Z,"45 km NE of Beatty, Nevada",earthquake,,3.4,0.71,3,reviewed,nn,nn
-2022-06-22T09:09:30.496Z,38.1746,-117.8212,9.2,1.1,ml,14,149.29,0.115,0.1416,nn,nn00841446,2022-06-22T18:02:45.889Z,"34 km SE of Mina, Nevada",earthquake,,1.8,0.33,4,reviewed,nn,nn
