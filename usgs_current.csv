@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-27T09:55:22.370Z,38.7971649,-122.748497,2.37,0.21,md,8,96,0.00942,0.02,nc,nc73751601,2022-06-27T09:56:57.142Z,"2km NNE of The Geysers, CA",earthquake,0.54,2.96,0.16,2,automatic,nc,nc
 2022-06-27T09:32:02.519Z,61.4024,-150.0758,20.2,1.8,ml,,,,0.49,ak,ak02286j7jg9,2022-06-27T09:34:59.999Z,"7 km NW of Point MacKenzie, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-27T09:18:36.470Z,35.8781667,-117.6805,8.58,1.64,ml,23,122,0.0918,0.13,ci,ci40292136,2022-06-27T09:29:40.070Z,"21km ESE of Little Lake, CA",earthquake,0.26,0.66,0.225,23,automatic,ci,ci
 2022-06-27T09:16:14.505Z,63.1938,-150.3549,109.9,1.1,ml,,,,0.21,ak,ak02286j44x6,2022-06-27T09:17:55.705Z,"73 km WSW of Cantwell, Alaska",earthquake,,1.8,,,automatic,ak,ak
@@ -123,12 +124,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-26T17:59:30.972Z,53.9348,-166.2166,15.2,1.6,ml,,,,0.56,ak,ak022850lidf,2022-06-26T21:18:27.145Z,"21 km ENE of Unalaska, Alaska",earthquake,,1.3,,,reviewed,ak,ak
 2022-06-26T17:58:49.630Z,37.628,-118.8705,0.05,1.05,md,8,121,0.01081,0.04,nc,nc73751391,2022-06-26T22:10:14.319Z,"10km E of Mammoth Lakes, CA",earthquake,0.42,0.5,0.064,6,reviewed,nc,nc
 2022-06-26T17:57:31.260Z,37.6345,-118.8708333,-1.9,0.15,md,7,135,0.0167,0.02,nc,nc73751386,2022-06-26T22:21:14.376Z,"10km E of Mammoth Lakes, CA",earthquake,0.24,5.18,0.156,5,reviewed,nc,nc
-2022-06-26T17:55:09.830Z,46.2285,-122.18816666666666,-1.45,0.04,mh,4,312,0.02837,0.04,uw,uw61846487,2022-06-27T04:20:07.200Z,"37 km S of Morton, Washington",earthquake,0.72,7.99,,0,reviewed,uw,uw
+2022-06-26T17:55:09.830Z,46.2285,-122.18816666666666,-1.45,0.04,mh,4,312,0.02837,0.04,uw,uw61846487,2022-06-27T04:20:07.200Z,"Washington",earthquake,0.72,7.99,,0,reviewed,uw,uw
 2022-06-26T17:53:43.540Z,46.19116666666667,-122.18816666666666,1.26,-0.1,mh,8,205,0.008816,0.17,uw,uw61846482,2022-06-27T03:45:48.660Z,"37 km NNE of Amboy, Washington",earthquake,1.18,0.41,,0,reviewed,uw,uw
 2022-06-26T17:52:30.800Z,37.626667,-118.8704987,0.11,1.6,md,11,121,0.009726,0.04,nc,nc73751371,2022-06-26T21:16:13.973Z,"10km E of Mammoth Lakes, CA",earthquake,0.38,0.43,0.06,11,automatic,nc,nc
 2022-06-26T17:51:43.410Z,37.6220016,-118.8731689,-0.52,1.66,md,12,133,0.00865,0.1,nc,nc73751366,2022-06-26T20:44:14.793Z,"10km E of Mammoth Lakes, CA",earthquake,0.43,0.33,0.12,12,automatic,nc,nc
 2022-06-26T17:50:13.270Z,37.6268349,-118.8693314,0.08,1.99,md,16,103,0.009325,0.04,nc,nc73751361,2022-06-26T20:14:13.609Z,"10km E of Mammoth Lakes, CA",earthquake,0.32,0.32,0.1,16,automatic,nc,nc
-2022-06-26T17:47:38.370Z,47.594,-122.58133333333333,26.64,0.99,ml,12,143,0.1053,0.31,uw,uw61846477,2022-06-27T03:58:21.660Z,"1 km NE of Enetai, Washington",earthquake,1.01,1.44,0.206801451568062,3,reviewed,uw,uw
+2022-06-26T17:47:38.370Z,47.594,-122.58133333333333,26.64,0.99,ml,12,143,0.1053,0.31,uw,uw61846477,2022-06-27T03:58:21.660Z,"Puget Sound region, Washington",earthquake,1.01,1.44,0.206801451568062,3,reviewed,uw,uw
 2022-06-26T17:35:09.312Z,64.971,-150.8491,13,1.2,ml,,,,0.89,ak,ak022850gbgz,2022-06-26T17:37:23.773Z,"10 km WSW of Manley Hot Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-26T17:27:28.470Z,34.4811667,-118.9823333,6.83,1.87,ml,41,27,0.0542,0.32,ci,ci40291848,2022-06-26T17:38:16.810Z,"11km NNW of Fillmore, CA",earthquake,0.42,1.08,0.128,26,automatic,ci,ci
 2022-06-26T16:59:17.160Z,34.486,-118.9766667,9.8,2.06,ml,37,28,0.04994,0.34,ci,ci40291840,2022-06-26T17:10:04.440Z,"11km NNW of Fillmore, CA",earthquake,0.51,1.19,0.127,28,automatic,ci,ci
