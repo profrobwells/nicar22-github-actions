@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-28T19:33:27.230Z,36.5803337,-121.4116669,-0.56,1.69,md,9,88,0.0838,0.2,nc,nc73752286,2022-06-28T19:35:04.026Z,"9km NNE of Gonzales, CA",earthquake,0.97,3.11,0.12,4,automatic,nc,nc
+2022-06-28T19:31:28.034Z,64.9234,-147.2878,0,1.4,ml,,,,1.04,ak,ak02288cp28z,2022-06-28T19:33:53.174Z,"13 km WNW of Two Rivers, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-06-28T19:29:16.760Z,33.9856667,-116.8051667,21.08,0.88,ml,22,70,0.04941,0.19,ci,ci40293120,2022-06-28T19:32:56.313Z,"8km NNW of Cabazon, CA",earthquake,0.36,0.81,0.173,21,automatic,ci,ci
+2022-06-28T19:19:23.170Z,17.954,-67.0361666666667,7.01,1.81,md,6,226,,0.05,pr,pr71356533,2022-06-28T19:32:49.780Z,"2 km SSE of La Parguera, Puerto Rico",earthquake,0.44,0.28,0.00458745968247065,3,reviewed,pr,pr
 2022-06-28T19:08:39.575Z,64.0733,-152.2961,6.5,1,ml,,,,0.39,ak,ak02288ck5oa,2022-06-28T19:18:53.248Z,"21 km N of Lake Minchumina, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-06-28T18:44:57.250Z,39.4306667,-110.2996667,-1.74,1.55,ml,11,198,0.02076,0.12,uu,uu60503762,2022-06-28T18:54:59.530Z,"15 km SSE of Sunnyside, Utah",earthquake,1.1,0.8,0.119,5,reviewed,uu,uu
 2022-06-28T18:34:24.970Z,38.7888336,-122.7608337,1.53,0.87,md,18,63,0.01181,0.06,nc,nc73752266,2022-06-28T18:50:17.074Z,"1km NNW of The Geysers, CA",earthquake,0.26,0.48,0.25,4,automatic,nc,nc
@@ -152,7 +156,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-28T06:00:23.980Z,39.4298333,-110.3011667,-1.66,1.19,ml,8,182,0.0194,0.14,uu,uu60503682,2022-06-28T16:05:28.630Z,"15 km SSE of Sunnyside, Utah",earthquake,1.66,1.26,0.133,4,reviewed,uu,uu
 2022-06-28T05:59:26.720Z,38.8366661,-122.8121643,1.83,0.36,md,11,78,0.01335,0.01,nc,nc73751936,2022-06-28T06:06:10.580Z,"8km WNW of Cobb, CA",earthquake,0.33,0.76,,1,automatic,nc,nc
 2022-06-28T05:44:55.978Z,64.5356,-149.4169,17.8,0.9,ml,,,,0.24,ak,ak022884fu8t,2022-06-28T05:46:56.542Z,"15 km WSW of Nenana, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-06-28T05:41:25.680Z,35.6066667,-117.6021667,3.36,1.25,ml,20,70,0.1426,0.2,ci,ci40292744,2022-06-28T05:45:01.200Z,"7km ESE of Ridgecrest, CA",earthquake,0.39,1.18,0.154,14,automatic,ci,ci
+2022-06-28T05:41:25.510Z,35.6061667,-117.5888333,4.06,1.24,ml,29,52,0.06976,0.15,ci,ci40292744,2022-06-28T19:28:37.960Z,"8km ESE of Ridgecrest, CA",earthquake,0.18,0.48,0.137,15,reviewed,ci,ci
 2022-06-28T05:24:12.113Z,61.6121,-146.4477,30.4,1.6,ml,,,,0.63,ak,ak022884bgjf,2022-06-28T05:26:17.872Z,"45 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-28T05:15:24.216Z,59.9567,-152.3817,76.4,1.7,ml,,,,0.39,ak,ak0228849k11,2022-06-28T05:17:44.274Z,"36 km W of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-28T05:14:46.410Z,37.635,-118.8703333,-0.16,0.6,md,7,133,0.01702,0.02,nc,nc73751931,2022-06-28T19:12:10.202Z,"10km E of Mammoth Lakes, CA",earthquake,0.55,0.85,0.032,4,reviewed,nc,nc
@@ -274,7 +278,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-27T19:45:17.760Z,35.03883333,-97.83133333,9.08,1.82,ml,74,39,0.09988040006,0.3,ok,ok2022mmxd,2022-06-27T19:57:11.230Z,"9 km E of Chickasha, Oklahoma",earthquake,,1.4,0.23,36,reviewed,ok,ok
 2022-06-27T19:44:40.340Z,19.2325,-155.396666666667,29.33,2.21,ml,32,141,,0.14,hv,hv73058112,2022-06-27T22:44:00.470Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.57,0.97,0.109963233234351,3,reviewed,hv,hv
 2022-06-27T19:41:27.264Z,60.937,-150.7501,31.9,1.8,ml,,,,0.61,ak,ak02286p7uuu,2022-06-27T19:43:45.332Z,"3 km WNW of Point Possession, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-06-27T19:34:55.832Z,61.7085,-154.0951,2.4,1.3,ml,,,,0.6,ak,ak02286p6f1r,2022-06-27T19:37:35.358Z,"81 km ENE of Lime Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-06-27T19:33:34.740Z,19.343,-155.194333333333,6.81,2.44,ml,29,73,,0.08,hv,hv73058102,2022-06-28T02:34:11.730Z,"Island of Hawaii, Hawaii",earthquake,0.28,0.58,0.168310736575279,27,reviewed,hv,hv
-2022-06-27T19:33:19.720Z,37.632,-118.8736667,0.45,0.28,md,7,126,0.01552,0.03,nc,nc73751751,2022-06-27T23:46:12.345Z,"9km E of Mammoth Lakes, CA",earthquake,0.43,0.73,0.29,6,reviewed,nc,nc
-2022-06-27T19:31:21.930Z,36.8141667,-121.5321667,5.67,1.15,md,20,66,0.02342,0.13,nc,nc73751746,2022-06-28T02:45:10.354Z,"4km S of San Juan Bautista, CA",earthquake,0.33,0.39,0.2,16,reviewed,nc,nc
