@@ -10,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-29T08:15:43.644Z,44.5657,-28.1852,10,4.8,mb,,68,20.502,0.64,us,us7000hl1t,2022-06-29T08:40:56.040Z,"northern Mid-Atlantic Ridge",earthquake,11.7,1.9,0.036,242,reviewed,us,us
 2022-06-29T08:13:08.090Z,18.0248333333333,-66.7455,16.69,1.76,md,9,167,,0.12,pr,pr71356613,2022-06-29T08:30:25.380Z,"2 km ENE of Magas Arriba, Puerto Rico",earthquake,0.39,0.69,0.178109930220711,5,reviewed,pr,pr
 2022-06-29T08:03:39.090Z,34.8085,-118.886,12.9,1.54,ml,35,64,0.01504,0.26,ci,ci40293496,2022-06-29T08:14:38.980Z,"3km WNW of Gorman, CA",earthquake,0.54,0.68,0.188,30,automatic,ci,ci
-2022-06-29T07:58:49.502Z,61.7947,-150.3536,27.9,2.5,ml,,,,0.42,ak,ak02289t91gv,2022-06-29T08:00:10.113Z,"17 km WNW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-06-29T07:58:49.502Z,61.7947,-150.3536,27.9,2.5,ml,,,,0.42,ak,ak02289t91gv,2022-06-29T09:46:54.040Z,"17 km WNW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-29T07:53:02.730Z,38.7921677,-122.7761688,-0.88,0.85,md,10,101,0.009237,0.08,nc,nc73752476,2022-06-29T08:27:23.147Z,"2km NW of The Geysers, CA",earthquake,0.31,1.12,,1,automatic,nc,nc
 2022-06-29T07:52:36.910Z,38.7924995,-122.776001,-0.03,1.57,md,13,78,0.009337,0.04,nc,nc73752471,2022-06-29T09:41:30.632Z,"2km NW of The Geysers, CA",earthquake,0.22,0.54,0.06,3,automatic,nc,nc
 2022-06-29T07:50:21.390Z,33.1911667,-115.6163333,1.92,1.24,ml,13,109,0.00957,0.18,ci,ci40293488,2022-06-29T07:53:50.420Z,"11km WSW of Niland, CA",earthquake,0.47,0.37,0.155,17,automatic,ci,ci
@@ -249,5 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-28T10:03:16.050Z,38.8358345,-122.7923355,2.2,1.17,md,10,58,0.003005,0.01,nc,nc73751986,2022-06-28T12:17:20.800Z,"6km WNW of Cobb, CA",earthquake,0.41,1.32,,1,automatic,nc,nc
 2022-06-28T10:01:25.120Z,46.8951667,-112.5155,14.15,0.81,ml,10,68,0.054,0.15,mb,mb80549989,2022-06-28T13:50:23.340Z,"14 km ESE of Lincoln, Montana",earthquake,0.5,0.75,0.214,6,reviewed,mb,mb
 2022-06-28T09:52:56.910Z,19.2329998016357,-155.42366027832,35.6199989318848,2.25,ml,36,127,,0.140000001,hv,hv73058857,2022-06-28T09:58:27.840Z,"6 km ENE of Pāhala, Hawaii",earthquake,0.57,0.720000029,0.72,3,automatic,hv,hv
-2022-06-28T09:49:05.179Z,36.29516667,-98.17766667,7.81,1.31,ml,86,83,0.04229170093,0.2,ok,ok2022mnyz,2022-06-28T13:26:28.155Z,"5 km N of Ames, Oklahoma",earthquake,,0.4,0.23,34,reviewed,ok,ok
-2022-06-28T09:43:02.180Z,17.9403333333333,-66.9806666666667,11.5,2.15,md,3,226,,0.02,pr,pr71356453,2022-06-28T10:25:33.830Z,"7 km ESE of La Parguera, Puerto Rico",earthquake,1.83,0.85,0.0584429524274199,3,reviewed,pr,pr
