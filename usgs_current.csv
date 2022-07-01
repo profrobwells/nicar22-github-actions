@@ -3,6 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-01T19:00:42.070Z,46.0078333,-112.4671667,-2,1.86,ml,14,112,0.061,0.09,mb,mb80550224,2022-07-01T19:14:49.080Z,"5 km E of Butte, Montana",quarry blast,0.42,31.61,0.114,12,reviewed,mb,mb
 2022-07-01T18:42:33.880Z,17.9573333333333,-66.8691666666667,9.09,2.24,md,3,303,,0.03,pr,pr71356968,2022-07-01T19:04:29.440Z,"3 km SE of Maria Antonia, Puerto Rico",earthquake,2.86,0.67,0.122578991798424,3,reviewed,pr,pr
 2022-07-01T18:36:43.230Z,38.8339996,-122.8079987,2.83,0.85,md,12,87,0.01071,0.02,nc,nc73753296,2022-07-01T18:57:15.174Z,"8km W of Cobb, CA",earthquake,0.39,1.44,,1,automatic,nc,nc
+2022-07-01T18:29:53.402Z,27.1505,89.2837,10,4.2,mb,19,143,3.616,0.72,us,us6000hz6u,2022-07-01T19:28:15.824Z,"22 km NNW of Daphu, Bhutan",earthquake,9.9,2,0.152,12,reviewed,us,us
 2022-07-01T18:29:31.880Z,37.6235008,-119.0224991,2.39,1.13,md,8,156,0.01373,0.02,nc,nc73753291,2022-07-01T18:47:20.113Z,"4km WSW of Mammoth Lakes, CA",earthquake,0.74,1.45,0.17,6,automatic,nc,nc
 2022-07-01T18:10:01.989Z,62.9085,-148.3558,0,1.6,ml,,,,1.07,ak,ak0228dal42u,2022-07-01T18:12:46.257Z,"61 km SSE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-01T17:59:33.051Z,64.5297,-152.6952,5.6,2.2,ml,,,,0.83,ak,ak0228daa8yh,2022-07-01T18:02:22.675Z,"74 km NNW of Lake Minchumina, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -33,6 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-01T15:02:25.070Z,37.6705,-122.3783333,10.4,1.2,md,22,78,0.01649,0.08,nc,nc73753241,2022-07-01T18:46:10.236Z,"2km ESE of Brisbane, CA",earthquake,0.45,0.24,0.387,16,reviewed,nc,nc
 2022-07-01T14:55:42.320Z,33.5543333,-116.8036667,16.35,0.44,ml,14,124,0.04194,0.24,ci,ci40294872,2022-07-01T14:59:21.611Z,"12km W of Anza, CA",earthquake,0.92,1.31,0.102,10,automatic,ci,ci
 2022-07-01T14:39:36.000Z,38.8096657,-122.800499,2.69,2.12,md,7,140,0.004399,0.02,nc,nc73753231,2022-07-01T16:37:11.290Z,"5km NW of The Geysers, CA",earthquake,0.49,1.33,,1,automatic,nc,nc
+2022-07-01T14:09:35.139Z,39.575,-119.0725,7.5,0.9,ml,6,278.3,0.277,0.1507,nn,nn00842073,2022-07-01T19:20:49.670Z,"15 km ESE of Fernley, Nevada",earthquake,,6.9,0.1,4,reviewed,nn,nn
 2022-07-01T14:09:22.013Z,65.5959,-148.4013,0,1.5,ml,,,,0.29,ak,ak0228d877hl,2022-07-01T14:12:06.425Z,"10 km NE of Livengood, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-07-01T14:04:21.013Z,27.8471,57.4287,12.8,4.5,mb,31,110,3.091,0.79,us,us6000hz4b,2022-07-01T16:51:24.040Z,"86 km NNE of Mīnāb, Iran",earthquake,9.2,3,0.106,26,reviewed,us,us
 2022-07-01T13:56:03.960Z,35.3601685,-120.6600037,6.37,1.38,md,9,168,0.04232,0.11,nc,nc73753221,2022-07-01T16:22:11.372Z,"6km SW of Santa Margarita, CA",earthquake,0.91,0.8,0.36,5,automatic,nc,nc
@@ -231,7 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-30T19:35:43.759Z,-38.3064,176.1775,161.24,4.5,mb,16,96,0.701,0.45,us,us6000hyx7,2022-07-01T15:07:04.040Z,"19 km SSW of Rotorua, New Zealand",earthquake,8.1,6.8,0.314,3,reviewed,us,us
 2022-06-30T19:30:47.230Z,33.7461667,-116.0386667,2.71,0.98,ml,23,109,0.0994,0.12,ci,ci40294424,2022-06-30T20:15:20.571Z,"14km ENE of Coachella, CA",earthquake,0.19,0.37,0.157,23,reviewed,ci,ci
 2022-06-30T19:29:08.420Z,18.5928,-68.4653,94,3.69,md,16,224,0.1152,0.1,pr,pr2022181000,2022-07-01T14:57:00.040Z,"6 km W of Punta Cana, Dominican Republic",earthquake,11.73,1.44,0.17,15,reviewed,pr,pr
-2022-06-30T19:25:58.860Z,46.1985,-122.188,4.06,0.06,ml,8,180,0.002362,0.07,uw,uw61847972,2022-06-30T23:12:12.640Z,"37 km NNE of Amboy, Washington",earthquake,0.58,1.73,0.22087848137103538,4,reviewed,uw,uw
-2022-06-30T19:25:48.411Z,31.68476769,-104.4472177,6.054443359000001,2.1,ml,9,99,0.04843921384,0.3,tx,tx2022msja,2022-07-01T13:47:15.893Z,"54 km S of Whites City, New Mexico",earthquake,2.2587615090000006,2.155244247,0.2,5,reviewed,tx,tx
-2022-06-30T19:23:52.710Z,33.3788333,-116.8903333,7.17,0.88,ml,32,43,0.0342,0.17,ci,ci40294416,2022-06-30T19:57:13.533Z,"4km NW of Palomar Observatory, CA",earthquake,0.22,0.36,0.116,21,reviewed,ci,ci
-2022-06-30T19:20:30.570Z,33.6711667,-116.7745,14.85,0.76,ml,30,72,0.0642,0.09,ci,ci40294408,2022-06-30T20:10:28.603Z,"9km SW of Idyllwild, CA",earthquake,0.19,0.3,0.177,18,reviewed,ci,ci
