@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-01T10:24:23.290Z,38.8366661,-122.7996674,2.2,0.85,md,7,71,0.007486,0.01,nc,nc73753166,2022-07-01T10:42:11.239Z,"7km WNW of Cobb, CA",earthquake,0.48,1.92,,1,automatic,nc,nc
+2022-07-01T10:53:54.480Z,19.2509994506836,-155.457672119141,32.9799995422363,2.25,md,41,100,,0.119999997,hv,hv73061602,2022-07-01T10:57:00.100Z,"5 km NNE of Pāhala, Hawaii",earthquake,0.61,0.930000007,0.360000014,17,automatic,hv,hv
+2022-07-01T10:24:23.290Z,38.8366661,-122.7996674,2.2,0.85,md,7,71,0.007486,0.01,nc,nc73753166,2022-07-01T10:52:12.299Z,"7km WNW of Cobb, CA",earthquake,0.48,1.92,,1,automatic,nc,nc
 2022-07-01T10:20:18.949Z,38.1508,-117.8887,5.8,2.2,ml,16,122.68,0.057,0.2992,nn,nn00842052,2022-07-01T10:25:41.698Z,"32 km SE of Mina, Nevada",earthquake,,0.4,0.29,8,automatic,nn,nn
 2022-07-01T10:16:25.060Z,35.6851667,-117.5721667,7.55,1.91,ml,30,73,0.1319,0.18,ci,ci40294752,2022-07-01T10:27:31.020Z,"12km NE of Ridgecrest, CA",earthquake,0.29,1.21,0.215,26,automatic,ci,ci
+2022-07-01T10:14:43.610Z,17.9511666666667,-66.9213333333333,18.47,1.36,md,4,229,,0.01,pr,pr71356928,2022-07-01T10:55:59.250Z,"2 km SSW of Guánica, Puerto Rico",earthquake,1.42,1.17,0.558660255037074,3,reviewed,pr,pr
 2022-07-01T10:14:25.690Z,38.8349991,-122.8131638,1.66,0.85,md,8,101,0.01184,0.01,nc,nc73753151,2022-07-01T10:31:12.182Z,"8km W of Cobb, CA",earthquake,0.37,0.87,,1,automatic,nc,nc
 2022-07-01T09:57:52.460Z,38.7949982,-122.7659988,1.16,1.22,md,23,121,0.01722,0.05,nc,nc73753146,2022-07-01T10:14:13.090Z,"2km NNW of The Geysers, CA",earthquake,0.24,0.41,0.04,4,automatic,nc,nc
 2022-07-01T09:49:16.530Z,17.9945,-68.3895,135,3.58,md,12,210,0.5195,0.31,pr,pr2022182001,2022-07-01T10:47:45.040Z,"48 km SSE of Boca de Yuma, Dominican Republic",earthquake,3.85,1.61,0.39,6,reviewed,pr,pr
@@ -219,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-30T11:14:58.422Z,64.8319,-147.141,6.3,0.8,ml,,,,1.1,ak,ak0228biwpki,2022-06-30T11:17:25.768Z,"6 km SW of Two Rivers, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-06-30T11:11:53.020Z,46.842,-113.2595,6.52,1.53,ml,23,64,0.073,0.16,mb,mb80550144,2022-06-30T13:57:13.090Z,"21 km NNW of Drummond, Montana",earthquake,0.34,1.1,0.346,11,reviewed,mb,mb
 2022-06-30T11:09:07.528Z,38.1625,-117.9045,10.2,2.2,ml,20,106.13,0.049,0.1339,nn,nn00841997,2022-07-01T02:40:23.997Z,"30 km SE of Mina, Nevada",earthquake,,0.8,0.3,8,reviewed,nn,nn
-2022-06-30T10:50:15.990Z,46.885333333333335,-121.99383333333333,11.66,0.37,ml,6,160,0.03344,0.14,uw,uw61847832,2022-07-01T00:04:55.920Z,"14 km NNE of Ashford, Washington",earthquake,0.87,0.7,0.04283776058424968,3,reviewed,uw,uw
