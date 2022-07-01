@@ -234,4 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-30T09:06:59.153Z,31.59768044,-103.9986035,7.93112793,2.6,ml,16,53,0.13748035,0.2,tx,tx2022mrop,2022-06-30T15:27:24.486Z,"36 km NNW of Toyah, Texas",earthquake,0.9677005151,1.590337552,0.2,8,reviewed,tx,tx
 2022-06-30T09:00:08.890Z,52.1303333333333,-176.184,10.91,0.52,ml,5,302,,0.06,av,av91613716,2022-07-01T07:49:22.030Z,"42 km NE of Adak, Alaska",earthquake,0.7,0.68,0.245651158369679,5,reviewed,av,av
 2022-06-30T08:57:44.135Z,1.4397,125.9617,90.07,4.6,mb,24,141,1.553,0.59,us,us6000hyr9,2022-06-30T09:20:22.040Z,"109 km E of Laikit, Laikit II (Dimembe), Indonesia",earthquake,7.8,5.8,0.146,16,reviewed,us,us
-2022-06-30T08:44:11.039Z,61.8504,-148.2397,19.4,0.5,ml,,,,0.62,ak,ak0228bhaqns,2022-06-30T08:46:09.600Z,"13 km ENE of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
