@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-02T19:44:01.720Z,35.894001,-120.4380035,10.44,1.32,md,20,86,0.01255,0.06,nc,nc73753616,2022-07-02T19:54:10.890Z,"1km SW of Parkfield, CA",earthquake,0.47,0.76,0.26,9,automatic,nc,nc
+2022-07-02T20:26:24.875Z,63.8587,-148.7356,8.4,1.1,ml,,,,0.64,ak,ak0228ezet07,2022-07-02T20:28:31.809Z,"11 km E of Healy, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-07-02T19:44:01.720Z,35.894001,-120.4380035,10.44,1.32,md,20,86,0.01255,0.06,nc,nc73753616,2022-07-02T20:24:15.052Z,"1km SW of Parkfield, CA",earthquake,0.47,0.76,0.26,9,automatic,nc,nc
 2022-07-02T19:43:21.470Z,37.5283318,-121.8978348,9.44,1.6,md,15,113,0.01476,0.08,nc,nc73753611,2022-07-02T20:14:14.003Z,"8km ESE of Fremont, CA",earthquake,0.34,0.84,0.16,13,automatic,nc,nc
 2022-07-02T19:32:32.727Z,41.0246,78.0283,13.84,4.7,mb,48,70,0.723,0.95,us,us6000hzfk,2022-07-02T20:16:43.040Z,"142 km SSE of Kadzhi-Say, Kyrgyzstan",earthquake,5.5,3.8,0.061,81,reviewed,us,us
 2022-07-02T19:07:24.480Z,33.7125,-116.7498333,5.19,0.63,ml,14,105,0.02976,0.23,ci,ci40295568,2022-07-02T19:11:04.359Z,"4km SW of Idyllwild, CA",earthquake,0.71,1.44,0.125,14,automatic,ci,ci
@@ -33,8 +34,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-02T16:28:09.824Z,62.3196,-152.0279,100,1.4,ml,,,,0.38,ak,ak0228ex1guu,2022-07-02T16:30:32.768Z,"49 km NW of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-07-02T16:12:57.080Z,38.8156662,-122.815834,3.48,0.35,md,8,93,0.008933,0.02,nc,nc73753551,2022-07-02T17:02:09.872Z,"7km NW of The Geysers, CA",earthquake,0.56,2.52,,1,automatic,nc,nc
 2022-07-02T16:09:47.400Z,33.2498333,-116.1011667,3.26,0.82,ml,15,58,0.1093,0.24,ci,ci40295512,2022-07-02T16:13:29.158Z,"12km NNE of Ocotillo Wells, CA",earthquake,0.4,0.9,0.098,17,automatic,ci,ci
-2022-07-02T15:59:56.010Z,34.1685,-80.7256667,1.65,2.09,md,10,63,0.04035,0.42,se,se60155643,2022-07-02T20:10:17.691Z,"6 km E of Elgin, South Carolina",earthquake,1.22,2.03,0.042,8,reviewed,se,se
-2022-07-02T15:57:26.040Z,40.2941667,-124.669,14.85,2.62,md,46,234,0.2497,0.17,nc,nc73753546,2022-07-02T20:11:11.992Z,"33km W of Petrolia, CA",earthquake,0.52,0.57,0.109,42,reviewed,nc,nc
+2022-07-02T15:59:56.010Z,34.1685,-80.7256667,1.65,2.09,md,10,63,0.04035,0.42,se,se60155643,2022-07-02T20:20:47.844Z,"6 km E of Elgin, South Carolina",earthquake,1.22,2.03,0.042,8,reviewed,se,se
+2022-07-02T15:57:26.040Z,40.2941667,-124.669,14.85,2.62,md,46,234,0.2497,0.17,nc,nc73753546,2022-07-02T20:24:16.052Z,"33km W of Petrolia, CA",earthquake,0.52,0.57,0.109,42,reviewed,nc,nc
 2022-07-02T15:53:11.760Z,18.0405,-66.6536666666667,19.26,2.6,md,31,59,,0.11,pr,pr71357188,2022-07-02T18:03:55.966Z,"4 km NW of Ponce, Puerto Rico",earthquake,0.26,0.18,0.180032858086994,17,reviewed,pr,pr
 2022-07-02T15:45:47.650Z,17.9573333333333,-66.8363333333333,16.2,2.57,md,33,192,,0.23,pr,pr71357178,2022-07-02T18:24:34.040Z,"4 km SSW of Indios, Puerto Rico",earthquake,0.64,0.41,0.209253090155948,20,reviewed,pr,pr
 2022-07-02T15:37:16.980Z,33.3828333,-116.8773333,5.25,0.68,ml,26,93,0.03163,0.17,ci,ci40295496,2022-07-02T16:08:47.233Z,"3km NNW of Palomar Observatory, CA",earthquake,0.27,0.65,0.139,23,reviewed,ci,ci
@@ -56,7 +57,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-02T13:21:38.780Z,36.1768333,-117.8808333,7.31,1.18,ml,14,98,0.06276,0.15,ci,ci40295432,2022-07-02T16:10:57.980Z,"16km NNE of Coso Junction, CA",earthquake,0.33,0.94,0.14,11,reviewed,ci,ci
 2022-07-02T13:17:09.563Z,38.1554,-117.9422,9.5,1.4,ml,11,144.15,0.021,0.1438,nn,nn00842122,2022-07-02T13:20:41.539Z,"29 km SSE of Mina, Nevada",earthquake,,0.5,0.27,6,automatic,nn,nn
 2022-07-02T13:16:00.640Z,38.8009987,-122.7259979,1.59,0.7,md,11,117,0.01962,0.02,nc,nc73753506,2022-07-02T13:32:16.656Z,"2km S of Cobb, CA",earthquake,0.3,0.87,0.17,2,automatic,nc,nc
-2022-07-02T13:00:02.580Z,38.1833333,-122.2971667,7.37,1.17,md,28,48,0.04036,0.18,nc,nc73753501,2022-07-02T19:19:15.675Z,"3km WNW of American Canyon, CA",earthquake,0.29,0.63,0.135,17,reviewed,nc,nc
+2022-07-02T13:00:02.580Z,38.1833333,-122.2971667,7.37,1.17,md,28,48,0.04036,0.18,nc,nc73753501,2022-07-02T20:22:11.041Z,"3km WNW of American Canyon, CA",earthquake,0.29,0.63,0.135,17,reviewed,nc,nc
 2022-07-02T12:59:40.800Z,36.1735,-118.0335,1.29,1.57,ml,17,55,0.155,0.18,ci,ci40295424,2022-07-02T13:03:24.337Z,"12km SSW of Olancha, CA",earthquake,0.31,0.92,0.163,18,automatic,ci,ci
 2022-07-02T12:53:31.557Z,33.1961,142.0799,10,4.9,mb,93,97,1.902,0.61,us,us6000hzdw,2022-07-02T13:12:51.040Z,"270 km SE of Katsuura, Japan",earthquake,8.3,1.9,0.03,362,reviewed,us,us
 2022-07-02T12:51:28.018Z,61.5359,-146.5742,30.1,1.3,ml,,,,1.01,ak,ak0228euspb5,2022-07-02T12:53:55.155Z,"46 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -85,7 +86,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-02T10:31:55.393Z,61.4767,-149.9025,34,1,ml,,,,0.21,ak,ak0228ethlw3,2022-07-02T10:33:36.188Z,"5 km SSE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-02T10:29:29.760Z,38.8336678,-122.8030014,1.81,1.8,md,30,33,0.01096,0.03,nc,nc73753461,2022-07-02T13:47:11.752Z,"7km W of Cobb, CA",earthquake,0.17,0.29,0.05,9,automatic,nc,nc
 2022-07-02T10:28:05.770Z,33.7578333,-116.8213333,1.9,1.1,ml,17,138,0.07815,0.34,ci,ci40295352,2022-07-02T10:31:50.436Z,"7km E of Valle Vista, CA",earthquake,0.88,1.69,0.281,31,automatic,ci,ci
-2022-07-02T10:24:43.150Z,36.8134995,-121.5441666,5.53,2.3,md,39,47,0.03303,0.18,nc,nc73753456,2022-07-02T13:21:10.598Z,"4km S of San Juan Bautista, CA",earthquake,0.33,0.63,0.14,36,automatic,nc,nc
+2022-07-02T10:24:43.160Z,36.8126667,-121.5451667,6.14,2.17,md,66,23,0.03148,0.17,nc,nc73753456,2022-07-02T20:30:10.084Z,"4km S of San Juan Bautista, CA",earthquake,0.19,0.34,0.203,71,reviewed,nc,nc
 2022-07-02T10:16:33.320Z,33.6065,-116.7395,12.04,0.15,ml,16,60,0.02418,0.16,ci,ci40295344,2022-07-02T10:20:07.079Z,"8km NW of Anza, CA",earthquake,0.44,0.61,0.1,6,automatic,ci,ci
 2022-07-02T10:16:17.966Z,62.5053,-151.4699,83.1,1.4,ml,,,,0.39,ak,ak0228eteb9g,2022-07-02T10:18:29.480Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-07-02T10:11:46.290Z,39.072,-123.0973333,2.55,1.75,md,35,61,0.1509,0.11,nc,nc73753451,2022-07-02T14:12:10.912Z,"9km SE of Talmage, CA",earthquake,0.15,1.67,0.117,23,reviewed,nc,nc
