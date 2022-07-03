@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-03T06:30:27.890Z,38.8344994,-122.8150024,1.11,1.77,md,10,75,0.01174,0.02,nc,nc73753776,2022-07-03T06:32:05.078Z,"8km W of Cobb, CA",earthquake,0.33,0.91,,1,automatic,nc,nc
+2022-07-03T06:47:23.830Z,34.9105,-119.2841667,1.08,1.37,ml,13,133,0.07876,0.21,ci,ci40295752,2022-07-03T06:50:59.381Z,"14km WNW of Pine Mountain Club, CA",earthquake,0.52,0.56,0.129,16,automatic,ci,ci
+2022-07-03T06:40:37.100Z,39.3930016,-122.9113312,5.24,2.37,md,26,48,0.169,0.15,nc,nc73753781,2022-07-03T06:50:14.732Z,"4km ESE of Lake Pillsbury, CA",earthquake,0.26,1.03,0.13,17,automatic,nc,nc
+2022-07-03T06:30:27.890Z,38.8344994,-122.8150024,1.11,1.77,md,10,75,0.01174,0.02,nc,nc73753776,2022-07-03T06:50:13.731Z,"8km W of Cobb, CA",earthquake,0.33,0.91,,1,automatic,nc,nc
 2022-07-03T06:23:44.710Z,33.378,-116.8863333,5.45,0.45,ml,17,73,0.03138,0.23,ci,ci40295744,2022-07-03T06:27:18.804Z,"3km NW of Palomar Observatory, CA",earthquake,0.53,1.08,0.058,9,automatic,ci,ci
 2022-07-03T05:59:03.780Z,19.3194999694824,-155.216995239258,-0.680000007152557,2.27,ml,36,80,,0.219999999,hv,hv73063387,2022-07-03T06:10:19.140Z,"13 km S of Volcano, Hawaii",earthquake,0.28,0.200000003,0.72,5,automatic,hv,hv
 2022-07-03T05:57:54.232Z,62.1685,-150.1194,18.2,1.1,ml,,,,0.17,ak,ak0228ge7cvz,2022-07-03T05:59:21.032Z,"14 km W of Susitna North, Alaska",earthquake,,0.5,,,automatic,ak,ak
