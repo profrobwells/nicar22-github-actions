@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-04T23:53:51.430Z,38.8344994,-122.8180008,1.77,0.85,md,6,90,0.0127,0,nc,nc73754541,2022-07-04T23:55:28.625Z,"8km NW of The Geysers, CA",earthquake,0.44,1.75,,1,automatic,nc,nc
 2022-07-04T23:35:32.870Z,33.719,-116.7676667,15.83,0.68,ml,19,78,0.04527,0.17,ci,ci40296648,2022-07-04T23:39:09.704Z,"5km WSW of Idyllwild, CA",earthquake,0.4,0.58,0.237,11,automatic,ci,ci
 2022-07-04T23:26:35.140Z,35.9846667,-117.4036667,0.8,1.27,ml,12,120,0.1679,0.11,ci,ci40296640,2022-07-04T23:30:12.361Z,"24km N of Searles Valley, CA",earthquake,0.27,0.49,0.084,11,automatic,ci,ci
 2022-07-04T23:23:37.950Z,17.917,-66.8555,13.06,2.04,md,12,225,,0.1,pr,pr71357443,2022-07-04T23:42:16.560Z,"7 km SSE of Maria Antonia, Puerto Rico",earthquake,0.68,0.4,0.141670006022396,7,reviewed,pr,pr
@@ -22,7 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-04T21:24:39.509Z,9.916,93.9437,10,5,mb,47,165,2.092,0.62,us,us6000hzv5,2022-07-04T21:41:54.040Z,"233 km SE of Port Blair, India",earthquake,8.6,1.9,0.094,36,reviewed,us,us
 2022-07-04T21:18:26.693Z,10.4321,94.2474,10,4.5,mb,28,146,1.912,0.63,us,us6000hzv3,2022-07-04T21:47:13.040Z,"213 km SE of Port Blair, India",earthquake,6.9,1.9,0.15,13,reviewed,us,us
 2022-07-04T21:13:02.310Z,38.3333321,-121.6443329,16.73,1.61,md,8,141,0.4311,0.09,nc,nc73754476,2022-07-04T21:35:15.728Z,"15km NW of Walnut Grove, CA",earthquake,1.73,2.88,,1,automatic,nc,nc
-2022-07-04T21:11:31.939Z,60.1435,-153.2717,151.7,4.2,ml,,,,0.65,ak,ak0228iazqeb,2022-07-04T23:31:28.594Z,"58 km E of Port Alsworth, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2022-07-04T21:11:31.939Z,60.1435,-153.2717,151.7,4.2,ml,,,,0.65,ak,ak0228iazqeb,2022-07-04T23:57:53.298Z,"58 km E of Port Alsworth, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2022-07-04T21:09:50.340Z,19.2474994659424,-155.404006958008,30.8400001525879,1.97000003,md,29,130,,0.180000007,hv,hv73065027,2022-07-04T21:13:06.090Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.67,1.00999999,0.899999976,7,automatic,hv,hv
 2022-07-04T21:09:06.520Z,38.7454987,-122.7368317,0.78,0.46,md,9,153,0.009396,0.04,nc,nc73754471,2022-07-04T21:24:12.670Z,"4km SSE of The Geysers, CA",earthquake,0.35,0.44,0.12,2,automatic,nc,nc
 2022-07-04T21:03:56.802Z,10.3406,94.2232,10,4.9,mww,102,46,1.953,0.8,us,us6000hzuu,2022-07-04T21:30:47.040Z,"218 km SE of Port Blair, India",earthquake,6.8,1.7,0.086,13,reviewed,us,us
@@ -247,5 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-04T00:47:55.083Z,64.8179,-148.703,9.2,0.8,ml,,,,0.82,ak,ak0228hype9g,2022-07-04T00:50:29.855Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
 2022-07-04T00:41:34.960Z,44.3328333,-115.1991667,10.16,2.47,ml,15,64,0.946,0.32,mb,mb80550459,2022-07-04T16:09:45.520Z,"24 km WNW of Stanley, Idaho",earthquake,0.75,1.49,0.221,15,reviewed,mb,mb
 2022-07-04T00:24:51.906Z,63.862,-148.7121,8.3,1,ml,,,,0.78,ak,ak0228hykgjq,2022-07-04T00:27:44.256Z,"12 km E of Healy, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-07-03T23:57:51.540Z,61.539,-146.5591,32.4,1.3,ml,,,,0.76,ak,ak0228gox5ki,2022-07-03T23:59:42.554Z,"46 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-07-03T23:51:07.130Z,19.253999710083,-155.408493041992,29.4599990844727,2.22,ml,35,125,,0.129999995,hv,hv73064197,2022-07-03T23:56:41.450Z,"9 km NE of Pāhala, Hawaii",earthquake,0.6,0.899999976,4.16,5,automatic,hv,hv
