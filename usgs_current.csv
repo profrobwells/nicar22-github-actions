@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-04T19:31:10.253Z,59.7133,-153.0061,99.2,1.1,ml,,,,0.5,ak,ak0228i9x3u9,2022-07-04T19:34:14.686Z,"62 km E of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-07-04T19:23:16.010Z,33.938,-117.6623333,4.9,1.37,ml,9,110,0.2351,0.17,ci,ci40296504,2022-07-04T19:26:54.917Z,"9km SSE of Chino, CA",earthquake,0.61,31.61,0.326,21,automatic,ci,ci
 2022-07-04T19:18:59.388Z,61.9903,-150.53,17.1,1.1,ml,,,,0.31,ak,ak0228i9ufbm,2022-07-04T19:20:42.493Z,"37 km NW of Willow, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-07-04T19:09:10.450Z,19.1803340911865,-155.483840942383,34.75,2.5,ml,42,75,,0.109999999,hv,hv73064907,2022-07-04T19:14:40.570Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.57,0.709999979,4.11,18,automatic,hv,hv
@@ -61,9 +62,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-04T14:32:15.300Z,47.43533333333333,-122.906,15.32,0.61,ml,15,125,0.1399,0.2,uw,uw61849427,2022-07-04T17:47:44.110Z,"6 km WSW of Belfair, Washington",earthquake,0.51,1.13,0.15844241410181636,11,reviewed,uw,uw
 2022-07-04T14:28:09.590Z,37.3565,-118.5506667,9.94,1.39,md,25,90,0.01058,0.05,nc,nc73754336,2022-07-04T18:44:11.713Z,"8km SSE of Round Valley, CA",earthquake,0.26,0.44,0.146,23,reviewed,nc,nc
 2022-07-04T14:25:32.549Z,62.9994,-148.2205,50.8,0.6,ml,,,,1.2,ak,ak0228i6wp5b,2022-07-04T14:31:58.529Z,"57 km SE of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-07-04T14:25:06.950Z,37.3605003,-118.552002,9.47,1.93,md,9,89,0.01158,0.03,nc,nc73754331,2022-07-04T16:21:10.862Z,"7km SE of Round Valley, CA",earthquake,0.48,0.57,0.08,9,automatic,nc,nc
+2022-07-04T14:25:06.990Z,37.361,-118.5526667,9.44,1.91,md,15,107,0.01151,0.07,nc,nc73754331,2022-07-04T19:34:10.026Z,"7km SE of Round Valley, CA",earthquake,0.4,0.73,0.352,16,reviewed,nc,nc
 2022-07-04T14:19:38.537Z,9.8756,94.1557,10,4.5,mb,37,172,2.248,0.78,us,us6000hzsh,2022-07-04T16:31:22.040Z,"250 km SE of Port Blair, India",earthquake,10.1,1.9,0.119,21,reviewed,us,us
-2022-07-04T14:13:35.370Z,37.3518333,-118.5479965,9.83,2.47,md,21,91,0.01224,0.07,nc,nc73754326,2022-07-04T15:54:10.699Z,"8km SSE of Round Valley, CA",earthquake,0.45,1.8,0.27,26,automatic,nc,nc
+2022-07-04T14:13:35.370Z,37.3518333,-118.5479965,9.83,2.47,md,21,91,0.01224,0.07,nc,nc73754326,2022-07-04T19:34:05.720Z,"8km SSE of Round Valley, CA",earthquake,0.45,1.8,0.27,26,automatic,nc,nc
 2022-07-04T14:06:48.480Z,37.7956667,-122.197,9.26,1.01,md,32,76,0.02162,0.07,nc,nc73754321,2022-07-04T18:54:12.771Z,"3km E of Oakland, CA",earthquake,0.22,0.36,0.316,23,reviewed,nc,nc
 2022-07-04T14:03:29.720Z,38.769165,-122.7103348,1.12,0.68,md,8,135,0.008698,0.09,nc,nc73754316,2022-07-04T14:31:15.197Z,"2km WSW of Anderson Springs, CA",earthquake,0.42,0.55,0.16,2,automatic,nc,nc
 2022-07-04T14:02:29.770Z,36.7701683,-121.3303299,8.69,1.66,md,11,185,0.06392,0.08,nc,nc73754311,2022-07-04T15:39:16.593Z,"2km SSW of Tres Pinos, CA",earthquake,0.91,0.92,0.23,8,automatic,nc,nc
@@ -110,7 +111,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-04T09:08:22.250Z,19.1310005187988,-155.37516784668,30.1499996185303,1.75999999,md,27,192,,0.119999997,hv,hv73064577,2022-07-04T09:11:31.790Z,"Island of Hawaii, Hawaii",earthquake,0.87,1.04999995,1.75999999,4,automatic,hv,hv
 2022-07-04T09:07:04.819Z,10.367,94.2653,10,5,mww,62,63,1.967,1.11,us,us6000hzpu,2022-07-04T15:32:20.198Z,"219 km SE of Port Blair, India",earthquake,7.5,1.8,0.086,13,reviewed,us,us
 2022-07-04T09:00:09.220Z,33.587,-116.6196667,13.02,0.37,ml,14,59,0.02268,0.07,ci,ci40296232,2022-07-04T09:03:47.699Z,"6km NE of Anza, CA",earthquake,0.27,0.54,0.266,8,automatic,ci,ci
-2022-07-04T08:59:17.390Z,37.7661667,-122.569,7.21,1.09,md,36,96,0.07998,0.07,nc,nc73754226,2022-07-04T19:21:16.152Z,"7km WNW of San Francisco Zoo, CA",earthquake,0.21,0.56,0.171,24,reviewed,nc,nc
+2022-07-04T08:59:17.390Z,37.7661667,-122.569,7.21,1.09,md,36,96,0.07998,0.07,nc,nc73754226,2022-07-04T19:28:09.994Z,"7km WNW of San Francisco Zoo, CA",earthquake,0.21,0.56,0.171,24,reviewed,nc,nc
 2022-07-04T08:58:00.620Z,37.6253333,-118.9633333,5.55,0.07,md,16,107,0.03594,0.04,nc,nc73754221,2022-07-04T19:23:10.964Z,"2km SE of Mammoth Lakes, CA",earthquake,0.39,0.65,0.219,14,reviewed,nc,nc
 2022-07-04T08:43:19.740Z,37.3488333,-118.5666667,1.2,1.23,md,22,92,0.1901,0.17,nc,nc73754216,2022-07-04T19:16:12.916Z,"8km SSE of Round Valley, CA",earthquake,0.33,2.46,0.178,14,reviewed,nc,nc
 2022-07-04T08:36:20.054Z,10.429,94.1853,10,5.1,mb,94,85,1.867,0.59,us,us6000hzpp,2022-07-04T09:01:59.219Z,"208 km SE of Port Blair, India",earthquake,7,1.8,0.048,142,reviewed,us,us
@@ -118,7 +119,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-04T08:03:05.470Z,17.9711666666667,-66.9195,14.88,2.45,md,8,197,,0.06,pr,pr71357353,2022-07-04T08:42:17.100Z,"Puerto Rico region",earthquake,0.68,0.45,0.256167096293807,6,reviewed,pr,pr
 2022-07-04T08:02:40.409Z,10.357,94.1381,10,4.9,mb,81,92,5.805,0.49,us,us6000hzpi,2022-07-04T08:36:05.040Z,"210 km SE of Port Blair, India",earthquake,2.4,1.9,0.071,63,reviewed,us,us
 2022-07-04T07:54:38.080Z,17.9721666666667,-66.922,13.5,1.85,md,4,196,,0.04,pr,pr71357348,2022-07-04T08:36:46.970Z,"1 km W of Guánica, Puerto Rico",earthquake,0.58,0.8,0.0440341202885097,4,reviewed,pr,pr
-2022-07-04T07:54:27.070Z,37.3426667,-118.5488333,12.9,1.42,md,28,61,0.1764,0.16,nc,nc73754211,2022-07-04T19:20:10.944Z,"8km WSW of West Bishop, CA",earthquake,0.4,1.7,0.311,22,reviewed,nc,nc
+2022-07-04T07:54:27.070Z,37.3426667,-118.5488333,12.9,1.42,md,28,61,0.1764,0.16,nc,nc73754211,2022-07-04T19:37:13.046Z,"8km WSW of West Bishop, CA",earthquake,0.4,1.7,0.311,22,reviewed,nc,nc
 2022-07-04T07:51:39.890Z,36.1545,-118.0641667,0.66,2.27,ml,23,89,0.1734,0.18,ci,ci40296216,2022-07-04T16:09:06.590Z,"15km SSW of Olancha, CA",earthquake,0.38,0.96,0.207,25,reviewed,ci,ci
 2022-07-04T07:42:16.215Z,62.2692,-150.1693,23.1,0.9,ml,,,,0.42,ak,ak0228i2u9x1,2022-07-04T07:44:53.463Z,"6 km SSE of Trapper Creek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-07-04T07:41:18.117Z,60.6671,-152.3161,87.2,0.4,ml,,,,0.48,ak,ak0222d0scmp8,2022-07-04T07:47:39.429Z,"54 km W of Salamatof, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -136,7 +137,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-04T06:14:44.400Z,33.1728333,-116.2908333,7.85,0.94,ml,26,92,0.1045,0.27,ci,ci40296168,2022-07-04T06:18:21.782Z,"12km SE of Borrego Springs, CA",earthquake,0.49,1.71,0.148,18,automatic,ci,ci
 2022-07-04T06:04:33.052Z,63.4718,-146.0951,4.6,0.8,ml,,,,0.33,ak,ak0228i20qeh,2022-07-04T06:07:00.870Z,"48 km NNW of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-04T06:04:08.280Z,38.1737,-117.8903,9.6,1.4,ml,12,162.75,0.064,0.1493,nn,nn00842176,2022-07-04T06:07:37.809Z,"Nevada",earthquake,,0.4,0.32,8,automatic,nn,nn
-2022-07-04T06:03:38.260Z,37.5238333,-118.8823333,5.09,1.42,md,20,154,0.07846,0.03,nc,nc73754171,2022-07-04T17:09:17.132Z,"15km SE of Mammoth Lakes, CA",earthquake,0.32,1.05,0.148,16,reviewed,nc,nc
+2022-07-04T06:03:38.260Z,37.5238333,-118.8823333,5.09,1.42,md,20,154,0.07846,0.03,nc,nc73754171,2022-07-04T19:37:12.047Z,"15km SE of Mammoth Lakes, CA",earthquake,0.32,1.05,0.148,16,reviewed,nc,nc
 2022-07-04T05:57:14.860Z,18.9475002288818,-155.491836547852,31.6700000762939,2.26999998,md,31,237,,0.150000006,hv,hv73064432,2022-07-04T06:00:25.990Z,"16 km SE of Naalehu, Hawaii",earthquake,0.74,1.22000003,1.75999999,6,automatic,hv,hv
 2022-07-04T05:35:52.782Z,10.4216,94.0878,10,4.7,mb,61,105,1.801,0.35,us,us6000hznv,2022-07-04T06:18:26.040Z,"201 km SE of Port Blair, India",earthquake,6.4,1.6,0.079,48,reviewed,us,us
 2022-07-04T05:24:20.293Z,63.8079,-148.3673,91.1,0.8,ml,,,,0.3,ak,ak0228i1jkcp,2022-07-04T05:26:31.764Z,"28 km ENE of Denali Park, Alaska",earthquake,,1.3,,,automatic,ak,ak
@@ -170,6 +171,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-04T02:46:43.321Z,31.61053782,-104.0018916,9.936352539,2.8,ml,17,88,0.06773033541,0.1,tx,tx2022mykb,2022-07-04T03:52:40.113Z,"38 km NNW of Toyah, Texas",earthquake,0.7746325196,0.8950999498,0.2,12,reviewed,tx,tx
 2022-07-04T02:43:59.080Z,31.6263,-104.3351,5,2.8,ml,35,61,0.147,0.91,us,us6000hzn3,2022-07-04T02:50:36.040Z,"61 km S of Whites City, New Mexico",earthquake,3.4,2,0.043,70,reviewed,us,us
 2022-07-04T02:43:04.612Z,61.2094,-147.5425,19.9,1.4,ml,,,,0.38,ak,ak0228hzvapp,2022-07-04T02:44:35.866Z,"60 km NW of Tatitlek, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2022-07-04T02:41:51.600Z,38.8088333,-122.8135,3.4,0.18,md,20,55,0.01225,0.02,nc,nc73754126,2022-07-04T19:37:17.215Z,"6km NW of The Geysers, CA",earthquake,0.31,0.75,0.368,2,reviewed,nc,nc
 2022-07-04T02:39:33.080Z,38.7516667,-122.7118333,1.88,0.08,md,14,115,0.01093,0.04,nc,nc73754121,2022-07-04T05:31:10.992Z,"3km SSW of Anderson Springs, CA",earthquake,0.36,0.61,0.121,2,reviewed,nc,nc
 2022-07-04T02:34:42.200Z,19.1998329162598,-155.468170166016,33.6699981689453,2.05,ml,34,141,,0.150000006,hv,hv73064317,2022-07-04T02:40:12.220Z,"1 km ESE of Pāhala, Hawaii",earthquake,0.61,0.910000026,0.87,3,automatic,hv,hv
 2022-07-04T02:30:18.695Z,65.0029,-149.0787,14.1,0.8,ml,,,,0.5,ak,ak0228hzsjhp,2022-07-04T02:32:30.007Z,"20 km SE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
