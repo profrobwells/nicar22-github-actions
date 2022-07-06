@@ -1,4 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-06T05:32:36.950Z,38.7956657,-122.7738342,3.56,1.08,md,24,74,0.01128,0.02,nc,nc73755221,2022-07-06T05:34:11.424Z,"2km NW of The Geysers, CA",earthquake,0.27,0.55,0.1,4,automatic,nc,nc
+2022-07-06T05:32:26.130Z,38.833168,-122.8143311,1.84,0.85,md,14,75,0.01031,0.01,nc,nc73755216,2022-07-06T05:34:01.403Z,"8km NW of The Geysers, CA",earthquake,0.28,0.71,,1,automatic,nc,nc
+2022-07-06T05:30:43.085Z,38.6316,-118.4473,10.2,0.7,ml,9,190.93,0.059,0.2253,nn,nn00842261,2022-07-06T05:34:32.282Z,"19 km NE of Hawthorne, Nevada",earthquake,,0.9,0.34,5,automatic,nn,nn
+2022-07-06T05:16:53.140Z,38.7966652,-122.80867,3.7,0.35,md,7,124,0.009407,0.02,nc,nc73755211,2022-07-06T05:33:16.140Z,"5km WNW of The Geysers, CA",earthquake,1.01,2.45,,1,automatic,nc,nc
+2022-07-06T05:10:17.575Z,-5.1509,101.0406,1.99,5.2,mb,66,66,2.063,0.79,us,us6000i071,2022-07-06T05:29:05.040Z,"southwest of Sumatra, Indonesia",earthquake,7,4.6,0.081,50,reviewed,us,us
 2022-07-06T04:53:03.780Z,33.9813333,-117.5235,7.95,0.84,ml,20,71,0.07548,0.23,ci,ci40297816,2022-07-06T04:56:38.382Z,"1km SSW of Mira Loma, CA",earthquake,0.49,1.78,0.215,18,automatic,ci,ci
 2022-07-06T04:48:40.640Z,33.2423333,-116.7408333,7.59,0.54,ml,19,48,0.01631,0.12,ci,ci40297808,2022-07-06T04:52:12.095Z,"2km E of Lake Henshaw, CA",earthquake,0.28,0.46,0.172,9,automatic,ci,ci
 2022-07-06T04:38:26.980Z,33.3833333,-116.877,5.35,0.86,ml,39,27,0.03198,0.22,ci,ci40297800,2022-07-06T04:49:10.864Z,"3km NNW of Palomar Observatory, CA",earthquake,0.25,0.91,0.142,25,automatic,ci,ci
@@ -33,6 +38,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-05T23:49:37.870Z,38.7739983,-122.7138367,0.83,1.3,md,11,93,0.01278,0.03,nc,nc73755141,2022-07-06T00:48:13.516Z,"2km W of Anderson Springs, CA",earthquake,0.51,0.29,0.04,5,automatic,nc,nc
 2022-07-05T23:49:30.840Z,60.9632,-146.8904,27,1.3,ml,,,,0.67,ak,ak0228jzy38c,2022-07-05T23:50:42.812Z,"15 km NW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-05T23:48:26.210Z,38.7711678,-122.7096634,0.77,2.56,md,47,46,0.01525,0.09,nc,nc73755121,2022-07-06T02:39:14.149Z,"2km WSW of Anderson Springs, CA",earthquake,0.19,0.34,0.14,28,automatic,nc,nc
+2022-07-05T23:42:07.130Z,37.5215,-118.8358333,8.54,0.61,md,7,312,0.09968,0.04,nc,nc73755111,2022-07-06T05:35:22.158Z,"14km WSW of Toms Place, CA",earthquake,4.21,2.72,0.056,7,reviewed,nc,nc
 2022-07-05T23:40:09.960Z,17.9981666666667,-66.9718333333333,10.71,2.03,md,6,144,,0.08,pr,pr71357603,2022-07-05T23:53:32.140Z,"5 km SSW of Liborio Negron Torres, Puerto Rico",earthquake,0.38,0.66,0.137115464468879,6,reviewed,pr,pr
 2022-07-05T23:30:41.550Z,38.7013321,-122.7608337,5.17,0.79,md,9,205,0.009778,0.02,nc,nc73755106,2022-07-05T23:39:11.138Z,"8km S of The Geysers, CA",earthquake,0.67,0.9,0.07,4,automatic,nc,nc
 2022-07-05T23:27:09.468Z,0.7842,126.8725,34.51,4.9,mb,82,56,0.494,0.65,us,us6000i05i,2022-07-06T00:01:02.040Z,"Molucca Sea",earthquake,6.4,1.8,0.058,95,reviewed,us,us
@@ -240,7 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-05T06:02:34.880Z,33.2301667,-116.725,12.09,0.42,ml,26,34,0.02888,0.15,ci,ci40296856,2022-07-05T06:06:13.813Z,"4km ESE of Lake Henshaw, CA",earthquake,0.3,0.51,0.167,9,automatic,ci,ci
 2022-07-05T05:57:09.496Z,60.9476,-149.6302,28.2,1.4,ml,,,,0.46,ak,ak0228jp9yf9,2022-07-05T05:59:09.405Z,"3 km N of Hope, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-05T05:48:36.510Z,38.7915001,-122.7253342,1.94,0.7,md,11,96,0.01214,0.01,nc,nc73754651,2022-07-05T06:20:10.968Z,"3km ENE of The Geysers, CA",earthquake,0.3,0.74,0.17,3,automatic,nc,nc
-2022-07-05T05:26:21.446Z,64.8023,-147.7771,18,0.4,ml,,,,0.37,ak,ak0228jp3c5c,2022-07-05T05:29:35.890Z,"0 km SSE of South Van Horn, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-07-05T05:23:19.800Z,32.6426667,-115.7266667,8.74,2.25,ml,33,76,0.006649,0.24,ci,ci40296848,2022-07-05T05:33:55.820Z,"15km WNW of Progreso, B.C., MX",earthquake,0.54,0.81,0.214,26,automatic,ci,ci
-2022-07-05T05:09:28.183Z,61.0675,-150.9698,49,1.1,ml,,,,0.63,ak,ak0228jozphu,2022-07-05T05:11:17.826Z,"9 km E of Tyonek, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-07-05T05:08:25.199Z,38.7909,73.4208,100.83,4.5,mb,35,127,2.379,0.5,us,us6000hzxd,2022-07-05T05:39:31.040Z,"83 km NW of Murghob, Tajikistan",earthquake,7.8,9.5,0.121,20,reviewed,us,us
