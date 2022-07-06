@@ -231,4 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-05T19:53:06.730Z,37.4885,-121.6101667,6.05,0.76,md,13,157,0.03577,0.06,nc,nc73754971,2022-07-05T23:43:12.158Z,"24km NE of Alum Rock, CA",earthquake,0.37,0.52,0.15,13,reviewed,nc,nc
 2022-07-05T19:51:26.160Z,36.0895,-117.8418333,2.64,0.83,ml,14,75,0.02994,0.11,ci,ci40297424,2022-07-06T17:55:35.992Z,"11km ENE of Coso Junction, CA",earthquake,0.19,0.24,0.122,6,reviewed,ci,ci
 2022-07-05T19:31:04.080Z,38.8103333,-122.8199997,2.38,0.84,md,8,91,0.007319,0.01,nc,nc73754961,2022-07-05T20:02:14.750Z,"7km WNW of The Geysers, CA",earthquake,0.61,2.08,,1,automatic,nc,nc
-2022-07-05T19:26:49.355Z,60.7703,-150.2646,14.8,1.4,ml,,,,0.42,ak,ak0228jxfgrr,2022-07-05T19:28:45.414Z,"28 km SE of Point Possession, Alaska",earthquake,,0.5,,,automatic,ak,ak
