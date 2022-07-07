@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-07T11:37:00.290Z,19.2076663970947,-155.392333984375,32.5,1.92999995,md,42,157,,0.119999997,hv,hv73067782,2022-07-07T11:40:25.790Z,"9 km E of Pāhala, Hawaii",earthquake,0.63,0.769999981,1.13,7,automatic,hv,hv
 2022-07-07T11:21:57.660Z,19.412166595459,-155.634994506836,0.340000003576279,2.59,ml,34,89,,0.340000004,hv,hv73067772,2022-07-07T11:27:27.710Z,"24 km ESE of Honaunau-Napoopoo, Hawaii",earthquake,0.64,2.25,3.74,16,automatic,hv,hv
 2022-07-07T11:07:23.128Z,63.0956,-150.345,97.9,1.1,ml,,,,0.09,ak,ak0228n3mkag,2022-07-07T11:08:55.532Z,"70 km NNE of Petersville, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2022-07-07T10:54:07.878Z,61.6385,-146.4155,29.1,1.4,ml,,,,0.55,ak,ak0228n3b65v,2022-07-07T10:55:44.768Z,"43 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -68,7 +69,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-07T03:19:48.570Z,17.941,-66.8451,10,3.26,md,27,179,0.0482,0.21,pr,pr2022188000,2022-07-07T03:48:31.549Z,"6 km SE of Maria Antonia, Puerto Rico",earthquake,0.42,0.48,0.22,26,reviewed,pr,pr
 2022-07-07T03:08:46.250Z,18.849,-68.352,50.94,3.41,md,18,276,,0.47,pr,pr71357848,2022-07-07T03:40:58.710Z,"30 km N of Punta Cana, Dominican Republic",earthquake,3.69,4.39,0.0980865815275445,16,reviewed,pr,pr
 2022-07-07T03:04:39.110Z,38.7786674,-122.7249985,1.31,0.53,md,9,103,0.01024,0.05,nc,nc73755631,2022-07-07T03:21:15.153Z,"3km E of The Geysers, CA",earthquake,0.39,0.62,0.19,3,automatic,nc,nc
-2022-07-07T03:00:24.220Z,38.6226667,-119.8226667,1.83,2.51,md,33,47,0.04213,0.12,nc,nc73755626,2022-07-07T09:47:17.689Z,"8km SSW of Markleeville, CA",earthquake,0.19,0.76,0.265,44,reviewed,nc,nc
+2022-07-07T03:00:24.220Z,38.6226667,-119.8226667,1.83,2.51,md,33,47,0.04213,0.12,nc,nc73755626,2022-07-07T11:41:12.236Z,"8km SSW of Markleeville, CA",earthquake,0.19,0.76,0.265,44,reviewed,nc,nc
 2022-07-07T02:50:52.470Z,33.8226667,-116.9066667,10,1.63,ml,50,34,0.05303,0.17,ci,ci40298776,2022-07-07T03:01:46.030Z,"6km NE of San Jacinto, CA",earthquake,0.19,0.41,0.142,28,automatic,ci,ci
 2022-07-07T02:29:19.860Z,18.4796666666667,-66.446,94.05,2.74,md,16,206,,0.23,pr,pr71357828,2022-07-07T02:51:41.370Z,"4 km ENE of Tierras Nuevas Poniente, Puerto Rico",earthquake,1.32,0.9,0.0371364590315799,10,reviewed,pr,pr
 2022-07-07T02:28:57.510Z,38.8126678,-122.8151703,2.07,0.94,md,25,52,0.01143,0.03,nc,nc73755621,2022-07-07T04:05:18.452Z,"6km NW of The Geysers, CA",earthquake,0.19,0.36,0.07,5,automatic,nc,nc
