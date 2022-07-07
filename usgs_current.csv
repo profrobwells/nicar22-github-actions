@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-07T21:54:39.469Z,62.5742,-152.6328,0,1.4,ml,,,,0.31,ak,ak0228n9v096,2022-07-07T21:56:41.211Z,"91 km NW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-07-07T21:08:30.191Z,63.075,-149.3636,82.2,1,ml,,,,0.44,ak,ak0228n9l4ln,2022-07-07T21:10:46.380Z,"40 km SSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-07-07T21:03:06.910Z,17.9926666666667,-66.7438333333333,13.8,1.91,md,14,194,,0.12,pr,pr71358028,2022-07-07T21:29:31.080Z,"2 km W of Tallaboa, Puerto Rico",earthquake,0.5,0.23,0.218543815139709,7,reviewed,pr,pr
 2022-07-07T21:02:55.520Z,17.9475,-66.929,5.11,1.48,md,5,223,,0.12,pr,pr71358038,2022-07-07T21:21:48.390Z,"3 km SW of Guánica, Puerto Rico",earthquake,0.67,1.65,0.0736279939650324,4,reviewed,pr,pr
@@ -125,6 +126,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-07T09:43:31.603Z,60.9918,-147.3658,20.4,1.7,ml,,,,0.41,ak,ak0228n2nfig,2022-07-07T09:45:25.726Z,"39 km WNW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-07T09:42:23.500Z,17.9481666666667,-66.9428333333333,7.85,2.01,md,6,217,,0.08,pr,pr71357953,2022-07-07T12:24:16.790Z,"4 km SW of Guánica, Puerto Rico",earthquake,0.65,0.27,0.0148991528441496,5,reviewed,pr,pr
 2022-07-07T09:39:45.750Z,38.7481667,-112.1451667,-0.57,1.42,ml,9,166,0.05218,0.26,uu,uu60504787,2022-07-07T13:52:46.540Z,"5 km WSW of Richfield, Utah",earthquake,0.83,0.63,0.099,6,reviewed,uu,uu
+2022-07-07T09:33:53.245Z,38.4437,-117.9406,5.3,0.5,ml,8,241.68,0.169,0.1292,nn,nn00842397,2022-07-07T21:55:11.834Z,"15 km ENE of Mina, Nevada",earthquake,,37.3,0.09,2,reviewed,nn,nn
 2022-07-07T09:32:48.900Z,37.5893333,-118.918,10.65,0.17,md,10,200,0.0386,0.08,nc,nc73755796,2022-07-07T10:48:12.885Z,"8km SE of Mammoth Lakes, CA",earthquake,1.1,0.95,0.191,12,reviewed,nc,nc
 2022-07-07T09:23:46.080Z,38.8328323,-122.8106689,1.79,0.85,md,14,49,0.009435,0.01,nc,nc73755791,2022-07-07T09:33:10.496Z,"8km W of Cobb, CA",earthquake,0.26,0.81,,1,automatic,nc,nc
 2022-07-07T09:22:18.820Z,37.5675,-118.9276667,8.38,1.42,md,22,154,0.0617,0.04,nc,nc73755786,2022-07-07T18:06:10.514Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.34,0.66,0.06,16,reviewed,nc,nc
@@ -249,5 +251,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-06T22:20:37.390Z,46.188,-122.325,8.36,0.18,ml,8,197,0.02015,0.17,uw,uw61850207,2022-07-07T20:19:33.080Z,"32 km NNE of Amboy, Washington",earthquake,0.79,1.37,0.08741777539020587,7,reviewed,uw,uw
 2022-07-06T22:18:27.200Z,19.196,-155.392,30.89,1.58,md,15,223,,0.13,hv,hv73067242,2022-07-06T22:29:44.900Z,"9 km E of Pāhala, Hawaii",earthquake,0.95,0.87,0.100072098374948,9,reviewed,hv,hv
 2022-07-06T22:17:20.240Z,38.8333321,-122.8176651,1.66,0.86,md,20,57,0.01156,0.02,nc,nc73755526,2022-07-06T22:24:11.136Z,"8km NW of The Geysers, CA",earthquake,0.21,0.53,0.01,2,automatic,nc,nc
-2022-07-06T22:09:12.562Z,21.33,145.8004,35,4.8,mb,79,57,7.749,0.62,us,us6000i0dw,2022-07-06T22:27:22.040Z,"Mariana Islands region",earthquake,9.6,2,0.037,227,reviewed,us,us
-2022-07-06T22:02:50.794Z,40.4522,-125.859,10,2.6,ml,59,242,1.161,0.72,us,us6000i0dq,2022-07-07T20:26:10.334Z,"135 km W of Ferndale, California",earthquake,6.8,2,0.039,88,reviewed,us,us
