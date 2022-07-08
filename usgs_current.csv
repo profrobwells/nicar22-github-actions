@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-08T09:40:19.000Z,52.226,-175.087,6,5.4,Ml,47,158.399987328001,0.5479723,0.88,at,at00rep477,2022-07-08T09:46:24.353Z,"60 km W of Atka, Alaska",earthquake,0,0,,12,reviewed,at,at
+2022-07-08T09:50:48.670Z,37.5675011,-118.9258347,9.07,0.73,md,10,225,0.06125,0.02,nc,nc73756271,2022-07-08T09:58:10.244Z,"9km SSE of Mammoth Lakes, CA",earthquake,1.07,1.61,0.13,10,automatic,nc,nc
+2022-07-08T09:40:19.256Z,52.1588,-174.9087,13,5.1,ml,,,,0.62,ak,ak0228oq63wn,2022-07-08T09:53:42.169Z,"48 km W of Atka, Alaska",earthquake,,0.8,,,reviewed,ak,ak
 2022-07-08T09:33:56.840Z,19.1858329772949,-155.498168945312,34.7700004577637,1.70000005,md,34,88,,0.159999996,hv,hv73069037,2022-07-08T09:37:08.490Z,"2 km SW of Pāhala, Hawaii",earthquake,0.58,1.08000004,1.76999998,4,automatic,hv,hv
 2022-07-08T09:18:15.337Z,36.36872482,-98.14455414,2.669282436,1.56,ml,13,101.6350098,0.1879479438,0.2292569229,ok,ok2022ngez,2022-07-08T09:20:30.352Z,"3 km ESE of Meno, Oklahoma",earthquake,3.820517446,3.077648717,,11,automatic,ok,ok
 2022-07-08T09:11:17.217Z,38.1754,-117.8987,7.8,0.6,ml,10,170.32,0.06,0.0963,nn,nn00842409,2022-07-08T09:15:33.572Z,"30 km SE of Mina, Nevada",earthquake,,0.8,0.51,6,automatic,nn,nn
@@ -235,5 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-07T10:11:45.444Z,-20.4975,-178.1267,587.63,4.3,mb,37,121,4.532,0.79,us,us6000i0i3,2022-07-07T10:31:05.040Z,"Fiji region",earthquake,15.1,8.1,0.047,126,reviewed,us,us
 2022-07-07T10:07:40.330Z,37.0636673,-121.4896698,3.11,1.27,md,15,73,0.04504,0.19,nc,nc73755811,2022-07-07T12:55:12.648Z,"10km NE of Gilroy, CA",earthquake,0.45,1.33,0.21,8,automatic,nc,nc
 2022-07-07T10:01:44.380Z,37.567,-118.9255,9.14,0.25,md,16,154,0.06165,0.02,nc,nc73755806,2022-07-07T11:00:11.971Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.48,1.23,0.077,12,reviewed,nc,nc
-2022-07-07T09:54:04.030Z,19.4051666666667,-155.286666666667,0.73,1.15,md,12,67,,0.08,hv,hv73067717,2022-07-08T01:19:27.640Z,"6 km SW of Volcano, Hawaii",earthquake,0.17,0.21,0.0545265843694114,2,reviewed,hv,hv
-2022-07-07T09:50:14.440Z,47.52466666666667,-122.75166666666667,22.08,0.65,ml,7,246,0.03328,0.06,uw,uw61850367,2022-07-07T21:32:30.150Z,"3 km W of Gorst, Washington",earthquake,0.77,0.54,0.3009642312315953,5,reviewed,uw,uw
