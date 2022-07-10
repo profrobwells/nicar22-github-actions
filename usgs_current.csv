@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-10T19:53:24.160Z,34.0446667,-117.253,15.3,0.99,ml,29,46,0.09394,0.22,ci,ci40301440,2022-07-10T19:56:55.509Z,"1km ESE of Loma Linda, CA",earthquake,0.31,0.66,0.205,30,automatic,ci,ci
 2022-07-10T18:59:01.240Z,38.8199997,-122.8413315,2.02,0.79,md,17,81,0.005824,0.01,nc,nc73757171,2022-07-10T19:29:24.155Z,"9km WNW of The Geysers, CA",earthquake,0.23,0.53,0.1,2,automatic,nc,nc
 2022-07-10T18:56:19.310Z,33.4848333,-116.4573333,8.88,0.6,ml,20,76,0.04667,0.19,ci,ci40301408,2022-07-10T18:59:52.356Z,"22km ESE of Anza, CA",earthquake,0.34,0.75,0.117,17,automatic,ci,ci
 2022-07-10T18:37:52.530Z,33.2743333,-116.1363333,5.56,1.12,ml,39,48,0.1212,0.26,ci,ci40301392,2022-07-10T18:41:29.189Z,"15km N of Ocotillo Wells, CA",earthquake,0.31,1.01,0.099,26,automatic,ci,ci
@@ -213,5 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-09T20:27:45.820Z,32.8335,-115.6003333,5.88,1.51,ml,18,98,0.1091,0.22,ci,ci40300824,2022-07-09T20:31:22.656Z,"3km WSW of Imperial, CA",earthquake,0.49,1.06,0.15,27,automatic,ci,ci
 2022-07-09T20:26:34.410Z,19.5031666666667,-155.66,3.29,1.69,md,15,109,,0.11,hv,hv73070867,2022-07-09T20:51:07.680Z,"22 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.37,0.97,0.108419589364733,6,reviewed,hv,hv
 2022-07-09T20:17:20.060Z,35.9278333,-117.6543333,2.14,2.05,ml,23,63,0.04343,0.19,ci,ci40300816,2022-07-09T20:28:13.310Z,"23km E of Little Lake, CA",earthquake,0.25,0.39,0.114,26,automatic,ci,ci
-2022-07-09T19:56:33.020Z,38.8354988,-122.7993317,2.16,1.45,md,24,63,0.007597,0.02,nc,nc73756821,2022-07-09T23:21:10.252Z,"7km WNW of Cobb, CA",earthquake,0.2,0.43,0.12,5,automatic,nc,nc
-2022-07-09T19:50:39.670Z,19.5033333333333,-155.659,4.04,1.5,md,14,108,,0.09,hv,hv73070832,2022-07-09T20:04:08.230Z,"22 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.37,0.75,0.134136643666225,6,reviewed,hv,hv
