@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-07-14T09:24:22.361Z,61.295,-150.5218,52.5,1.1,ml,,,,1.03,ak,ak0228ynarng,2022-07-14T09:28:41.349Z,"27 km S of Susitna, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2022-07-14T09:19:48.620Z,35.527832,-120.7409973,0.41,1.21,md,7,144,0.1378,0.09,nc,nc73758526,2022-07-14T09:37:12.167Z,"4km SW of Templeton, CA",earthquake,0.74,6.58,0.01,6,automatic,nc,nc
+2022-07-14T09:19:48.620Z,35.527832,-120.7409973,0.41,1.21,md,7,144,0.1378,0.09,nc,nc73758526,2022-07-14T10:12:11.388Z,"4km SW of Templeton, CA",earthquake,0.74,6.58,0.01,6,automatic,nc,nc
 2022-07-14T09:15:05.500Z,32.6393333,-115.7306667,7.89,1.61,ml,18,72,0.0106,0.21,ci,ci40303576,2022-07-14T09:18:47.159Z,"15km WNW of Progreso, B.C., MX",earthquake,0.6,1.15,0.271,21,automatic,ci,ci
 2022-07-14T09:11:30.380Z,33.4491667,-116.6356667,7.38,0.28,ml,18,87,0.04968,0.15,ci,ci40303568,2022-07-14T09:15:03.118Z,"12km SSE of Anza, CA",earthquake,0.35,0.59,0.052,4,automatic,ci,ci
-2022-07-14T09:10:19.420Z,37.3251648,-122.2046661,8.37,1.81,md,20,65,0.03714,0.13,nc,nc73758521,2022-07-14T09:44:10.208Z,"7km SSE of Portola Valley, CA",earthquake,0.37,0.56,0.05,15,automatic,nc,nc
+2022-07-14T09:10:19.420Z,37.3251648,-122.2046661,8.37,1.81,md,20,65,0.03714,0.13,nc,nc73758521,2022-07-14T09:56:02.158Z,"7km SSE of Portola Valley, CA",earthquake,0.37,0.56,0.05,15,automatic,nc,nc
 2022-07-14T08:51:14.630Z,17.9478333333333,-66.8038333333333,11.81,2.19,md,12,219,,0.22,pr,pr71359423,2022-07-14T09:41:33.430Z,"Puerto Rico region",earthquake,0.8,0.68,0.229488197605658,11,reviewed,pr,pr
 2022-07-14T08:51:08.755Z,60.1609,-153.0876,113,1.1,ml,,,,0.23,ak,ak0228ymv3bv,2022-07-14T08:52:18.746Z,"68 km E of Port Alsworth, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2022-07-14T08:50:16.620Z,33.322,-116.3188333,11.81,0.69,ml,19,136,0.041,0.2,ci,ci40303560,2022-07-14T08:53:47.755Z,"9km NE of Borrego Springs, CA",earthquake,0.47,0.77,0.144,11,automatic,ci,ci
@@ -258,7 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-13T10:22:16.550Z,38.7736664,-122.7460022,2.55,0.54,md,9,111,0.012,0.02,nc,nc73758186,2022-07-13T11:43:12.324Z,"1km ESE of The Geysers, CA",earthquake,0.48,0.93,0.39,2,automatic,nc,nc
 2022-07-13T10:20:34.639Z,38.7093,-116.0633,5.7,1.4,ml,6,158.85,0.881,0.1515,nn,nn00842799,2022-07-13T20:07:08.285Z,"89 km S of Eureka, Nevada",earthquake,,5.7,0,1,reviewed,nn,nn
 2022-07-13T10:19:58.270Z,18.0161666666667,-66.8506666666667,15.64,2.07,md,10,122,,0.09,pr,pr71359148,2022-07-13T10:59:15.820Z,"2 km S of Yauco, Puerto Rico",earthquake,0.48,0.49,0.200493642560437,8,reviewed,pr,pr
-2022-07-13T10:07:25.490Z,35.506,-118.3951667,6.59,1.27,ml,34,40,0.1691,0.11,ci,ci40302904,2022-07-13T17:10:36.030Z,"13km SE of Bodfish, CA",earthquake,0.13,0.51,0.221,16,reviewed,ci,ci
-2022-07-13T10:05:23.980Z,38.8033333,-122.737999,1.76,1.07,md,21,112,0.01718,0.03,nc,nc73758181,2022-07-13T11:17:16.172Z,"2km SSW of Cobb, CA",earthquake,0.28,0.48,0.09,4,automatic,nc,nc
-2022-07-13T10:03:48.450Z,36.0473333,-117.8521667,2.22,0.9,ml,13,129,0.05022,0.11,ci,ci40302896,2022-07-13T17:02:21.600Z,"9km E of Coso Junction, CA",earthquake,0.18,0.16,0.062,3,reviewed,ci,ci
-2022-07-13T10:01:48.280Z,33.308,-116.3295,10.73,1.01,ml,30,112,0.05673,0.17,ci,ci40302888,2022-07-13T16:44:48.582Z,"7km NE of Borrego Springs, CA",earthquake,0.21,0.35,0.153,5,reviewed,ci,ci
