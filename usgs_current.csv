@@ -1,5 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-16T10:14:49.520Z,33.6635017,-116.7641678,11.15,1.06,ml,18,74,0.06323,0.09,ci,ci40064391,2022-07-16T10:16:54.723Z,"10km SSW of Idyllwild, CA",earthquake,0.51,0.72,0.374,2,automatic,ci,ci
+2022-07-16T10:24:22.550Z,38.8361664,-122.7983322,1.72,1.21,md,26,67,0.006628,0.03,nc,nc73759261,2022-07-16T10:25:58.887Z,"7km WNW of Cobb, CA",earthquake,0.19,0.35,0.07,5,automatic,nc,nc
+2022-07-16T10:22:56.940Z,37.5473328,-118.8509979,7.84,1.21,md,14,215,0.04603,0.03,nc,nc73759256,2022-07-16T10:24:33.894Z,"15km SE of Mammoth Lakes, CA",earthquake,0.59,1.35,0.07,13,automatic,nc,nc
+2022-07-16T10:22:33.200Z,38.8348351,-122.8000031,2.21,0.97,md,16,59,0.008345,0.01,nc,nc73759251,2022-07-16T10:32:10.512Z,"7km WNW of Cobb, CA",earthquake,0.26,0.75,0.27,2,automatic,nc,nc
+2022-07-16T10:22:18.360Z,38.8351669,-122.7986679,2.23,1.42,md,27,40,0.007262,0.02,nc,nc73759246,2022-07-16T10:23:54.059Z,"7km WNW of Cobb, CA",earthquake,0.18,0.34,0.11,7,automatic,nc,nc
+2022-07-16T10:14:49.480Z,33.6626667,-116.7633333,11.3,0.21,ml,19,86,0.06341,0.12,ci,ci40064391,2022-07-16T10:18:44.577Z,"10km SSW of Idyllwild, CA",earthquake,0.34,0.43,0.179,7,automatic,ci,ci
+2022-07-16T10:01:32.165Z,21.5555,95.9703,16.47,4.3,mb,25,122,1.264,0.42,us,us6000i30f,2022-07-16T10:28:58.040Z,"17 km WSW of Kyaukse, Myanmar",earthquake,6.8,1.2,0.16,11,reviewed,us,us
+2022-07-16T09:58:21.829Z,-28.8429,-176.131,10,5.1,mb,57,121,15.917,0.68,us,us6000i30d,2022-07-16T10:21:54.040Z,"Kermadec Islands region",earthquake,14.2,1.8,0.038,231,reviewed,us,us
 2022-07-16T09:43:04.533Z,-22.4503,-114.0764,10,4.8,mb,55,196,39.277,0.46,us,us6000i30c,2022-07-16T10:11:29.040Z,"Easter Island region",earthquake,14.9,2,0.052,114,reviewed,us,us
 2022-07-16T09:42:44.440Z,33.7196667,-116.7426667,17.49,0.39,ml,14,152,0.02522,0.09,ci,ci40064383,2022-07-16T09:46:18.939Z,"3km SW of Idyllwild, CA",earthquake,0.29,0.36,0.193,7,automatic,ci,ci
 2022-07-16T09:37:58.151Z,38.1783,-117.8059,3.3,1,ml,8,191.06,0.127,0.1372,nn,nn00843043,2022-07-16T09:41:25.705Z,"35 km SE of Mina, Nevada",earthquake,,0.8,0.32,6,automatic,nn,nn
@@ -17,7 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-16T08:35:45.689Z,38.1646,-117.8043,13.6,0.5,ml,8,185,0.116,0.1259,nn,nn00843038,2022-07-16T08:40:04.275Z,"36 km SE of Mina, Nevada",earthquake,,6.5,0.44,5,automatic,nn,nn
 2022-07-16T08:32:28.057Z,38.5042,-119.5191,3,1.2,ml,13,169.25,0.063,0.1658,nn,nn00843034,2022-07-16T08:35:46.925Z,"3 km WSW of Walker, California",earthquake,,0.7,0.11,8,automatic,nn,nn
 2022-07-16T08:18:50.406Z,-10.3446,-78.4174,64.39,4.6,mb,52,153,2.248,0.59,us,us6000i2zk,2022-07-16T08:36:17.040Z,"42 km SW of Huarmey, Peru",earthquake,10.3,8.7,0.077,50,reviewed,us,us
-2022-07-16T08:16:19.722Z,38.5509,-119.4884,8.3,1.4,ml,12,153.64,0.043,0.169,nn,nn00843031,2022-07-16T08:20:16.632Z,"2 km SE of Coleville, California",earthquake,,0.6,0.25,10,automatic,nn,nn
+2022-07-16T08:16:19.722Z,38.5509,-119.4884,8.3,1.4,ml,12,153.64,0.043,0.169,nn,nn00843031,2022-07-16T08:20:16.632Z,"Central California",earthquake,,0.6,0.25,10,automatic,nn,nn
 2022-07-16T08:08:43.930Z,38.8003349,-122.7513351,2.15,0.86,md,8,100,0.006552,0.01,nc,nc73759231,2022-07-16T09:54:11.311Z,"3km N of The Geysers, CA",earthquake,0.35,0.98,,1,automatic,nc,nc
 2022-07-16T08:05:54.530Z,36.0136681,-120.5796661,0.45,0.88,md,11,109,0.03517,0.06,nc,nc73759226,2022-07-16T09:27:20.175Z,"18km NW of Parkfield, CA",earthquake,0.36,0.88,0.23,3,automatic,nc,nc
 2022-07-16T07:56:48.469Z,54.0504,-162.898,23.92,3,ml,16,193,0.862,0.59,us,us6000i2zh,2022-07-16T08:16:23.040Z,"95 km SSE of False Pass, Alaska",earthquake,3.6,14.8,0.085,18,reviewed,us,us
@@ -138,7 +144,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-15T21:39:54.200Z,33.2305,-116.1031667,6.8,2.34,ml,66,37,0.09226,0.24,ci,ci40064103,2022-07-15T21:50:33.840Z,"10km NNE of Ocotillo Wells, CA",earthquake,0.22,1.14,0.129,25,automatic,ci,ci
 2022-07-15T21:30:41.646Z,65.2512,-150.0869,0,1.1,ml,,,,0.63,ak,ak02290i0n6s,2022-07-15T21:33:15.441Z,"northern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-07-15T21:29:26.797Z,-41.7533,174.3435,14.5,4.3,mwr,20,102,0.52,0.49,us,us6000i2vv,2022-07-16T04:29:26.040Z,"Cook Strait, New Zealand",earthquake,4.5,8.9,0.063,24,reviewed,us,us
-2022-07-15T21:27:25.810Z,-23.0259,-176.9796,135.7,5.1,mb,94,28,7.021,0.6,us,us6000i2vy,2022-07-15T21:48:29.040Z,"275 km SW of Vaini, Tonga",earthquake,5.4,5.8,0.03,370,reviewed,us,us
+2022-07-15T21:27:25.810Z,-23.0259,-176.9796,135.7,5.1,mb,94,28,7.021,0.6,us,us6000i2vy,2022-07-15T21:48:29.040Z,"south of the Fiji Islands",earthquake,5.4,5.8,0.03,370,reviewed,us,us
 2022-07-15T21:16:31.555Z,51.9322,-176.2013,118,1.7,ml,,,,0.23,ak,ak02290hxkx9,2022-07-15T21:43:06.306Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2022-07-15T21:06:27.810Z,37.6265,-118.9728333,2.16,0.26,md,11,143,0.03291,0.05,nc,nc73759011,2022-07-16T01:54:23.536Z,"1km SSE of Mammoth Lakes, CA",earthquake,0.47,1.42,0.218,10,reviewed,nc,nc
 2022-07-15T21:06:04.110Z,60.01,-153.066166666667,1.44,-0.46,ml,4,126,,0.04,av,av91633906,2022-07-16T02:04:39.030Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.3,0.28,0.307173001047088,4,reviewed,av,av
@@ -266,8 +272,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-15T10:51:16.455Z,38.73,-119.7162,7.1,1.1,ml,11,80.83,0.164,0.0848,nn,nn00842952,2022-07-15T22:41:04.975Z,"6 km NE of Markleeville, California",earthquake,,2.6,0.47,6,reviewed,nn,nn
 2022-07-15T10:50:10.709Z,-18.492,-175.0092,209.34,4.5,mb,29,150,5.511,0.4,us,us6000i2n3,2022-07-15T11:21:02.040Z,"109 km W of Neiafu, Tonga",earthquake,9.9,8.2,0.106,26,reviewed,us,us
 2022-07-15T10:41:42.280Z,47.9301667,-114.1245,7.87,-0.14,ml,5,230,0.101,0.05,mb,mb80551529,2022-07-15T22:39:25.520Z,"6 km ENE of Rollins, Montana",earthquake,1.03,1.24,,0,reviewed,mb,mb
-2022-07-15T10:29:11.630Z,33.6673333,-116.7468333,15.4,0.41,ml,12,125,0.05151,0.05,ci,ci40063799,2022-07-15T18:10:09.547Z,"8km SSW of Idyllwild, CA",earthquake,0.26,0.34,0.362,3,reviewed,ci,ci
-2022-07-15T10:27:31.629Z,60.7021,-150.6299,26,1.4,ml,,,,0.91,ak,ak02290bg7m2,2022-07-15T10:30:24.399Z,"Kenai Peninsula, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-07-15T10:24:54.690Z,33.024,-116.2946667,1.27,2.13,ml,61,29,0.0696,0.22,ci,ci40063791,2022-07-15T10:35:37.880Z,"20km SW of Ocotillo Wells, CA",earthquake,0.21,0.6,0.127,25,automatic,ci,ci
-2022-07-15T10:21:27.390Z,37.5908333,-113.3095,8.11,1.15,ml,8,79,0.05831,0.04,uu,uu60505872,2022-07-15T14:46:11.640Z,"12 km N of New Harmony, Utah",earthquake,0.39,0.81,0.151,5,reviewed,uu,uu
-2022-07-15T10:20:36.550Z,33.7071667,-116.7285,18.03,0.65,ml,23,72,0.0126,0.15,ci,ci40063783,2022-07-15T10:24:15.588Z,"4km SSW of Idyllwild, CA",earthquake,0.37,0.52,0.192,15,automatic,ci,ci
