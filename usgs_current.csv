@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-17T11:34:47.500Z,35.4883347,-118.2848358,2.28,3.44,ml,89,26,0.1273,0.19,ci,ci40065175,2022-07-17T11:39:35.818Z,"22km ESE of Bodfish, CA",earthquake,0.17,0.52,0.266,18,automatic,ci,ci
 2022-07-17T11:14:10.870Z,37.5525017,-118.9231644,10.59,1.13,md,11,196,0.0752,0.04,nc,nc73759726,2022-07-17T11:23:11.606Z,"11km SSE of Mammoth Lakes, CA",earthquake,1.55,1.59,0.11,11,automatic,nc,nc
 2022-07-17T11:05:36.590Z,18.8540000915527,-155.198333740234,7.51000022888184,2.53999996,md,20,265,,0.119999997,hv,hv73077832,2022-07-17T11:19:26.040Z,"46 km ESE of Naalehu, Hawaii",earthquake,0.85,0.639999986,1.26999998,3,automatic,hv,hv
 2022-07-17T10:59:47.230Z,33.875,-116.8341667,14.52,0.43,ml,16,86,0.05142,0.19,ci,ci40065159,2022-07-17T11:03:15.147Z,"6km SW of Cabazon, CA",earthquake,0.46,0.95,0.116,9,automatic,ci,ci
 2022-07-17T10:46:15.471Z,38.1291,-117.9444,10.1,1.2,ml,8,165.46,0.016,0.3879,nn,nn00843100,2022-07-17T10:49:43.732Z,"32 km SSE of Mina, Nevada",earthquake,,0.4,0.87,5,automatic,nn,nn
 2022-07-17T10:41:43.650Z,33.4141655,-118.0028305,8.57,3.27,ml,137,89,0.21,0.31,ci,ci40065151,2022-07-17T11:27:18.655Z,"24km SSW of Newport Beach, CA",earthquake,0.31,1.04,0.236,20,automatic,ci,ci
+2022-07-17T10:40:12.741Z,12.3232,120.7494,10,4.4,mb,45,108,7.064,0.41,us,us6000i37v,2022-07-17T11:39:54.040Z,"27 km WSW of Adela, Philippines",earthquake,10.1,1.9,0.094,33,reviewed,us,us
 2022-07-17T10:25:39.860Z,38.8313332,-122.7963333,1.55,1.99,md,35,38,0.008474,0.03,nc,nc73759696,2022-07-17T11:08:14.509Z,"6km W of Cobb, CA",earthquake,0.16,0.24,0.06,10,automatic,nc,nc
 2022-07-17T10:24:04.940Z,38.8441658,-122.8198318,1.89,0.86,md,10,100,0.01083,0.02,nc,nc73759691,2022-07-17T10:56:14.426Z,"9km WNW of Cobb, CA",earthquake,0.39,0.88,,1,automatic,nc,nc
 2022-07-17T10:22:12.590Z,38.8323326,-122.7965012,1.67,0.86,md,16,45,0.007742,0.02,nc,nc73759686,2022-07-17T10:45:14.341Z,"6km W of Cobb, CA",earthquake,0.24,0.39,0.03,3,automatic,nc,nc
@@ -227,6 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-16T11:44:19.697Z,62.2648,-149.6392,47.1,1.7,ml,,,,0.62,ak,ak02291zolyp,2022-07-16T11:46:42.556Z,"15 km NE of Susitna North, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-07-16T11:44:17.150Z,19.503999710083,-155.403503417969,22.0799999237061,1.80999994,md,23,90,,0.150000006,hv,hv73076807,2022-07-16T11:47:28.390Z,"19 km WNW of Volcano, Hawaii",earthquake,0.62,0.75999999,1.80999994,4,automatic,hv,hv
 2022-07-16T11:42:29.050Z,35.5593333,-117.1845,2.75,1.06,ml,7,270,0.1508,0.32,ci,ci40064415,2022-07-16T11:46:05.349Z,"29km SE of Trona, CA",earthquake,5.98,31.61,0.498,5,automatic,ci,ci
-2022-07-16T11:39:15.984Z,-60.359,-33.11,10,4.9,mb,30,164,16.345,0.61,us,us6000i30z,2022-07-16T12:09:51.040Z,"Scotia Sea",earthquake,7.7,1.9,0.089,40,reviewed,us,us
-2022-07-16T11:33:21.680Z,38.8253326,-122.7965012,2.61,0.97,md,16,50,0.01078,0.01,nc,nc73759271,2022-07-16T13:13:10.474Z,"6km W of Cobb, CA",earthquake,0.29,0.66,0.27,2,automatic,nc,nc
-2022-07-16T11:32:19.210Z,17.9625,-67.0158333333333,6.04,2.23,md,5,213,,0.09,pr,pr71359853,2022-07-16T11:55:20.920Z,"3 km ESE of La Parguera, Puerto Rico",earthquake,0.54,1.83,0.147117143825011,3,reviewed,pr,pr
