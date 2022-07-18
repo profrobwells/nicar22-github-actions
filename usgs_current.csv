@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-18T10:46:02.630Z,38.7434998,-122.7111664,0.72,0.88,md,7,138,0.021,0.02,nc,nc73760201,2022-07-18T10:47:38.822Z,"4km SSW of Anderson Springs, CA",earthquake,0.39,0.81,0.33,3,automatic,nc,nc
 2022-07-18T10:38:25.181Z,38.1695,-118.1618,0.9,0.6,ml,9,160.98,0.263,0.1058,nn,nn00843154,2022-07-18T10:42:09.833Z,"24 km S of Mina, Nevada",earthquake,,0,0.36,4,automatic,nn,nn
-2022-07-18T10:38:05.470Z,38.8343315,-122.7906647,1.82,0.33,md,10,65,0.01387,0.02,nc,nc73760196,2022-07-18T10:39:38.820Z,"6km WNW of Cobb, CA",earthquake,0.39,0.56,0.35,2,automatic,nc,nc
+2022-07-18T10:38:05.470Z,38.8343315,-122.7906647,1.82,0.33,md,10,65,0.01387,0.02,nc,nc73760196,2022-07-18T10:48:10.280Z,"6km WNW of Cobb, CA",earthquake,0.39,0.56,0.35,2,automatic,nc,nc
 2022-07-18T10:30:44.580Z,33.6415,-116.6941667,14.26,0.28,ml,17,99,0.07146,0.13,ci,ci40065759,2022-07-18T10:34:18.600Z,"10km N of Anza, CA",earthquake,0.33,0.47,0.155,6,automatic,ci,ci
 2022-07-18T10:26:33.780Z,34.0735,-117.2733333,14.83,1.2,ml,43,50,0.1164,0.2,ci,ci40065751,2022-07-18T10:37:08.760Z,"3km NNW of Loma Linda, CA",earthquake,0.25,0.6,0.154,29,automatic,ci,ci
 2022-07-18T10:04:07.861Z,61.0842,-151.0684,49.8,1.8,ml,,,,0.45,ak,ak022959x9si,2022-07-18T10:06:54.585Z,"4 km ENE of Tyonek, Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -253,4 +254,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-17T11:05:36.590Z,18.8540000915527,-155.198333740234,7.51000022888184,2.53999996,md,20,265,,0.119999997,hv,hv73077832,2022-07-17T11:19:26.040Z,"46 km ESE of Naalehu, Hawaii",earthquake,0.85,0.639999986,1.26999998,3,automatic,hv,hv
 2022-07-17T10:59:47.230Z,33.875,-116.8341667,14.52,0.43,ml,16,86,0.05142,0.19,ci,ci40065159,2022-07-17T11:03:15.147Z,"6km SW of Cabazon, CA",earthquake,0.46,0.95,0.116,9,automatic,ci,ci
 2022-07-17T10:59:19.480Z,38.8193333,-122.8263333,2.37,0.43,md,12,114,0.007773,0.01,nc,nc73759711,2022-07-17T17:56:09.991Z,"8km NW of The Geysers, CA",earthquake,0.48,0.91,0.128,3,reviewed,nc,nc
-2022-07-17T10:46:15.471Z,38.1291,-117.9444,10.1,1.2,ml,8,165.46,0.016,0.3879,nn,nn00843100,2022-07-17T10:49:43.732Z,"32 km SSE of Mina, Nevada",earthquake,,0.4,0.87,5,automatic,nn,nn
