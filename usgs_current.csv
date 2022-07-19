@@ -187,4 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-18T11:30:18.680Z,17.9748333333333,-66.9686666666667,15.55,2.19,md,4,177,,0.36,pr,pr71360168,2022-07-18T12:07:29.770Z,"5 km WSW of Fuig, Puerto Rico",earthquake,4.29,2.97,0.0548932524524122,3,reviewed,pr,pr
 2022-07-18T11:07:32.168Z,36.8836,-116.0274,12.8,0.6,ml,31,61.11,0.037,0.1701,nn,nn00843156,2022-07-19T02:40:09.611Z,"47 km NW of Indian Springs, Nevada",earthquake,,0.7,0.24,20,reviewed,nn,nn
 2022-07-18T11:05:25.380Z,48.21033333333333,-119.59233333333333,1.66,0.68,ml,4,116,0.2278,0.11,uw,uw61863106,2022-07-18T18:47:46.470Z,"11 km SE of Malott, Washington",earthquake,0.48,9.55,0.06826575559624748,4,reviewed,uw,uw
-2022-07-18T10:46:02.630Z,38.7434998,-122.7111664,0.72,0.88,md,7,138,0.021,0.02,nc,nc73760201,2022-07-18T11:42:12.612Z,"4km SSW of Anderson Springs, CA",earthquake,0.39,0.81,0.33,3,automatic,nc,nc
