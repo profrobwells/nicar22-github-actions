@@ -232,4 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-19T12:02:47.450Z,51.9181666666667,-177.1815,5.43,-0.6,ml,4,256,,0.2,av,av91066483,2022-07-20T08:54:55.220Z,"38 km W of Adak, Alaska",earthquake,1.46,1.92,0.119010987115998,4,reviewed,av,av
 2022-07-19T12:02:31.090Z,51.918,-177.131833333333,7.08,-0.63,ml,5,116,,0.04,av,av91066478,2022-07-20T08:52:59.310Z,"34 km W of Adak, Alaska",earthquake,0.44,0.6,0.231748011159684,5,reviewed,av,av
 2022-07-19T11:57:24.469Z,61.6486,-148.1469,20.2,1,ml,,,,0.69,ak,ak02296ydg4e,2022-07-19T12:00:02.492Z,"23 km SE of Chickaloon, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-07-19T11:43:20.940Z,51.915,-177.157833333333,6.83,-0.76,ml,4,214,,0.13,av,av91066473,2022-07-20T08:47:09.550Z,"36 km W of Adak, Alaska",earthquake,0.98,1.16,0.405906689208037,4,reviewed,av,av
