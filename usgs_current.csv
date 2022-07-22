@@ -17,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-22T07:57:33.675Z,-0.9609,-80.3806,41.17,4.9,mb,72,153,1.6,0.85,us,us7000hslt,2022-07-22T09:59:30.485Z,"8 km ESE of Rocafuerte, Ecuador",earthquake,7.5,6.7,0.079,51,reviewed,us,us
 2022-07-22T07:52:38.366Z,64.8956,-147.3604,0,0.9,ml,,,,0.61,ak,ak0229bukpoc,2022-07-22T07:55:09.812Z,"13 km NE of Badger, Alaska",earthquake,,28.5,,,automatic,ak,ak
 2022-07-22T07:50:28.280Z,40.6845016,-123.9530029,21.77,1.97,md,13,131,0.145,0.12,nc,nc73761566,2022-07-22T08:58:11.138Z,"18km ESE of Pine Hills, CA",earthquake,0.9,1.1,0.09,5,automatic,nc,nc
-2022-07-22T07:39:30.850Z,38.8518333,-122.7991667,2.19,0.59,md,26,88,0.003409,0.04,nc,nc73761561,2022-07-22T10:36:12.744Z,"7km WNW of Cobb, CA",earthquake,0.16,0.21,0.059,4,reviewed,nc,nc
+2022-07-22T07:39:30.850Z,38.8518333,-122.7991667,2.19,0.59,md,26,88,0.003409,0.04,nc,nc73761561,2022-07-22T10:47:11.815Z,"7km WNW of Cobb, CA",earthquake,0.16,0.21,0.059,4,reviewed,nc,nc
 2022-07-22T07:37:03.312Z,33.1903,-100.872,2.79,2.6,mb_lg,28,43,0.1,0.46,us,us7000hslm,2022-07-22T07:44:53.040Z,"27 km SW of Girard, Texas",earthquake,1.7,4.1,0.055,88,reviewed,us,us
 2022-07-22T07:15:58.154Z,31.6109,-103.9695,3.98,3.2,ml,31,73,0.255,0.27,us,us7000hsll,2022-07-22T07:23:19.040Z,"36 km WSW of Mentone, Texas",earthquake,1.5,4.3,0.043,70,reviewed,us,us
 2022-07-22T07:13:06.220Z,35.1001667,-118.9823333,2.05,1.26,ml,11,177,0.2088,0.18,ci,ci40067719,2022-07-22T07:16:42.133Z,"18km NNW of Grapevine, CA",earthquake,0.7,1.84,0.177,16,automatic,ci,ci
