@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-25T05:43:20.532Z,61.7678,-153.6947,0,1.6,ml,,,,0.5,ak,ak0229grxx4l,2022-07-25T05:45:55.460Z,"103 km ENE of Lime Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-25T04:54:55.840Z,33.9261667,-117.816,11.7,1.18,ml,6,130,0.3272,0.17,ci,ci40069167,2022-07-25T04:58:35.191Z,"4km N of Yorba Linda, CA",earthquake,0.83,31.61,0.496,22,automatic,ci,ci
 2022-07-25T04:39:18.506Z,17.0252,147.2892,35,4.6,mb,70,144,4.138,0.69,us,us7000ht8x,2022-07-25T05:24:11.040Z,"259 km NE of Saipan, Northern Mariana Islands",earthquake,12.6,2,0.065,71,reviewed,us,us
 2022-07-25T04:29:36.060Z,18.8603324890137,-155.235168457031,9.1899995803833,1.82000005,md,18,263,,0.159999996,hv,hv73087127,2022-07-25T04:32:42.780Z,"42 km ESE of Naalehu, Hawaii",earthquake,1.58,1.10000002,1.16999996,6,automatic,hv,hv
@@ -156,7 +157,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-24T08:51:08.290Z,19.2220001220703,-155.377334594727,31.0599994659424,1.98000002,md,43,155,,0.119999997,hv,hv73086182,2022-07-24T08:54:48.800Z,"10 km E of Pāhala, Hawaii",earthquake,0.54,0.930000007,1.07000005,11,automatic,hv,hv
 2022-07-24T08:49:54.640Z,35.7325,-118.026,8.36,0.98,ml,20,42,0.1465,0.15,ci,ci40068711,2022-07-24T13:40:49.400Z,"22km WNW of Inyokern, CA",earthquake,0.23,1.15,0.19,13,reviewed,ci,ci
 2022-07-24T08:48:08.390Z,46.219,-119.43866666666666,9.29,0.25,ml,9,259,0.08687,0.08,uw,uw61856387,2022-07-24T18:03:08.480Z,"6 km SE of Benton City, Washington",earthquake,0.59,0.97,0.08264873513938328,5,reviewed,uw,uw
-2022-07-24T08:43:00.600Z,45.463166666666666,-122.93316666666666,19.98,2.84,ml,64,36,0.07682,0.14,uw,uw61856377,2022-07-25T05:22:24.475Z,"6 km SW of Aloha, Oregon",earthquake,0.18,0.4,0.15617871514701687,55,reviewed,uw,uw
+2022-07-24T08:43:00.600Z,45.463166666666666,-122.93316666666666,19.98,2.84,ml,64,36,0.07682,0.14,uw,uw61856377,2022-07-25T05:44:18.941Z,"6 km SW of Aloha, Oregon",earthquake,0.18,0.4,0.15617871514701687,55,reviewed,uw,uw
 2022-07-24T08:28:17.770Z,47.94016666666667,-122.65416666666667,18.83,0.92,ml,15,84,0.06578,0.24,uw,uw61856372,2022-07-24T23:35:56.540Z,"2 km NE of Port Ludlow, Washington",earthquake,0.67,0.84,0.1367769730535996,8,reviewed,uw,uw
 2022-07-24T08:17:09.049Z,-8.9922,-71.3363,610.28,4.3,mb,91,61,1.845,0.64,us,us7000ht3w,2022-07-24T08:39:39.040Z,"111 km SW of Tarauacá, Brazil",earthquake,12,8.5,0.029,338,reviewed,us,us
 2022-07-24T08:13:56.460Z,37.6080017,-122.4830017,7.38,1.14,md,10,156,0.02636,0.04,nc,nc73762236,2022-07-24T09:53:15.442Z,"1km SSE of Pacifica, CA",earthquake,0.85,0.89,0.17,7,automatic,nc,nc
@@ -179,4 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-24T06:11:13.929Z,60.9989,-147.3965,26.5,1.4,ml,,,,0.45,ak,ak0229f4t4tc,2022-07-24T06:13:12.516Z,"41 km WNW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-24T06:07:17.698Z,61.8078,-149.5661,40.5,1.1,ml,,,,0.44,ak,ak0229f4sa8p,2022-07-24T06:08:54.940Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-07-24T06:06:52.460Z,18.0253333333333,-66.7808333333333,15.06,2.98,md,38,103,,0.18,pr,pr71360873,2022-07-24T16:20:13.440Z,"1 km ENE of Guayanilla, Puerto Rico",earthquake,0.26,0.34,0.281800653662506,18,reviewed,pr,pr
-2022-07-24T05:46:23.990Z,33.4676667,-116.4456667,7.89,0.78,ml,33,73,0.05804,0.25,ci,ci40068671,2022-07-24T05:49:54.724Z,"23km ESE of Anza, CA",earthquake,0.33,0.85,0.121,19,automatic,ci,ci
