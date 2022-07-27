@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-27T09:51:31.190Z,33.988,-116.3926667,7.08,0.83,ml,24,74,0.04906,0.2,ci,ci40070455,2022-07-27T09:55:04.562Z,"10km ENE of Desert Hot Springs, CA",earthquake,0.38,0.57,0.135,18,automatic,ci,ci
+2022-07-27T09:51:04.450Z,33.9873333,-116.393,7.06,0.92,ml,34,74,0.04834,0.18,ci,ci40070447,2022-07-27T09:54:43.370Z,"10km ENE of Desert Hot Springs, CA",earthquake,0.32,0.51,0.135,24,automatic,ci,ci
+2022-07-27T09:47:40.080Z,19.2306671142578,-155.39533996582,31.5699996948242,1.98000002,md,45,144,,0.129999995,hv,hv73089357,2022-07-27T09:50:56.980Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.58,0.730000019,1.25999999,16,automatic,hv,hv
 2022-07-27T09:38:32.090Z,34.3333333,-116.9198333,5.67,1.45,ml,46,54,0.07086,0.17,ci,ci40070439,2022-07-27T09:42:15.100Z,"10km N of Big Bear Lake, CA",earthquake,0.22,0.54,0.148,28,automatic,ci,ci
 2022-07-27T09:22:35.410Z,62.8649,-149.4732,63.2,1.4,ml,,,,0.59,ak,ak0229k59vn9,2022-07-27T09:24:51.110Z,"56 km NE of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-07-27T09:20:33.320Z,34.0953333,-116.3975,6.41,1.15,ml,30,65,0.02671,0.17,ci,ci40070431,2022-07-27T09:24:08.800Z,"4km ESE of Yucca Valley, CA",earthquake,0.26,0.46,0.178,27,automatic,ci,ci
@@ -234,4 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-26T10:07:25.060Z,61.5211,-150.0594,43.2,1.3,ml,,,,0.37,ak,ak0229ii8q7u,2022-07-26T10:09:13.657Z,"5 km W of Big Lake, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2022-07-26T10:01:07.590Z,34.0795,-116.4188333,6.55,0.75,ml,20,102,0.02606,0.21,ci,ci40069879,2022-07-26T17:15:22.890Z,"4km SSE of Yucca Valley, CA",earthquake,0.36,0.63,0.198,8,reviewed,ci,ci
 2022-07-26T09:58:03.849Z,36.7201,-116.1211,1.3,-0.4,ml,6,109.51,0.007,0.0765,nn,nn00843630,2022-07-26T23:25:26.341Z,"43 km WNW of Indian Springs, Nevada",earthquake,,1.6,0.02,3,reviewed,nn,nn
-2022-07-26T09:54:13.050Z,34.1716667,-117.3155,5.66,0.79,ml,42,57,0.03628,0.19,ci,ci40069863,2022-07-26T17:11:18.262Z,"3km NE of Muscoy, CA",earthquake,0.21,0.55,0.097,16,reviewed,ci,ci
