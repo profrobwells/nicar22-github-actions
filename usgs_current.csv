@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-28T09:39:01.020Z,34.0981667,-116.3991667,6.66,0.85,ml,22,87,0.02979,0.17,ci,ci40070999,2022-07-28T09:42:38.485Z,"4km ESE of Yucca Valley, CA",earthquake,0.35,0.52,0.15,20,automatic,ci,ci
 2022-07-28T09:25:04.550Z,33.6856667,-116.7651667,13.17,0.17,ml,10,140,0.04954,0.14,ci,ci40070991,2022-07-28T09:28:31.969Z,"7km SW of Idyllwild, CA",earthquake,0.6,0.96,0.092,6,automatic,ci,ci
+2022-07-28T09:23:16.405Z,12.4114,-87.6919,57.99,5.2,mww,115,117,0.713,1.07,us,us6000i64e,2022-07-28T09:45:01.784Z,"45 km SW of Jiquilillo, Nicaragua",earthquake,5.7,5.1,0.048,41,reviewed,us,us
 2022-07-28T09:12:48.680Z,33.673,-116.7708333,11.03,0.68,ml,24,72,0.06067,0.14,ci,ci40070983,2022-07-28T09:16:21.131Z,"9km SSW of Idyllwild, CA",earthquake,0.29,0.47,0.144,19,automatic,ci,ci
 2022-07-28T09:12:16.185Z,14.8178,57.9268,10,4.5,mb,29,183,10.204,0.42,us,us6000i64d,2022-07-28T09:28:16.040Z,"Owen Fracture Zone region",earthquake,9.9,1.9,0.116,22,reviewed,us,us
 2022-07-28T08:55:36.821Z,31.6679,-104.3784,5,2.7,ml,26,117,0.104,0.25,us,us6000i649,2022-07-28T09:29:08.040Z,"56 km S of Whites City, New Mexico",earthquake,1.1,1.9,0.052,76,reviewed,us,us
@@ -66,7 +68,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-28T00:23:29.725Z,60.2737,-152.6935,91.6,0.3,ml,,,,0.39,ak,ak0229lngiz0,2022-07-28T00:25:41.082Z,"62 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-07-28T00:16:16.097Z,22.9817,121.4491,33.5,4.7,mb,76,76,0.377,1.25,us,us6000i61v,2022-07-28T01:03:30.719Z,"102 km E of Yujing, Taiwan",earthquake,2.8,4.9,0.062,78,reviewed,us,us
 2022-07-28T00:06:23.170Z,32.9633333,-115.8465,9.7,1.04,ml,21,93,0.02052,0.14,ci,ci40070855,2022-07-28T00:35:23.525Z,"22km WSW of Westmorland, CA",earthquake,0.25,0.49,0.207,11,reviewed,ci,ci
-2022-07-27T23:57:45.570Z,38.8268333,-122.7896667,1.77,1.36,md,42,35,0.01157,0.03,nc,nc73763571,2022-07-28T09:11:16.302Z,"6km W of Cobb, CA",earthquake,0.14,0.22,0.138,9,reviewed,nc,nc
+2022-07-27T23:57:45.570Z,38.8268333,-122.7896667,1.77,1.36,md,42,35,0.01157,0.03,nc,nc73763571,2022-07-28T09:38:10.465Z,"6km W of Cobb, CA",earthquake,0.14,0.22,0.138,9,reviewed,nc,nc
 2022-07-27T23:50:18.430Z,36.5431667,-120.9348333,2.29,1.1,md,9,271,0.09139,0.12,nc,nc73763566,2022-07-28T05:13:10.696Z,"19km E of Pinnacles, CA",earthquake,0.79,1.29,0.242,8,reviewed,nc,nc
 2022-07-27T23:48:23.462Z,41.1571,46.5538,10,4.1,mb,24,92,1.614,0.92,us,us6000i61s,2022-07-28T03:45:49.528Z,"28 km NNE of Qırmızı Samux, Azerbaijan",earthquake,6.7,2,0.15,12,reviewed,us,us
 2022-07-27T23:37:24.020Z,19.2368335723877,-155.380172729492,31.1599998474121,1.73000002,md,30,146,,0.119999997,hv,hv73089867,2022-07-27T23:40:28.700Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.89,1.59000003,1.73000002,4,automatic,hv,hv
@@ -201,6 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-27T09:51:31.190Z,33.988,-116.3926667,7.08,0.83,ml,24,74,0.04906,0.2,ci,ci40070455,2022-07-27T13:17:36.531Z,"10km ENE of Desert Hot Springs, CA",earthquake,0.38,0.57,0.135,18,reviewed,ci,ci
 2022-07-27T09:51:04.450Z,33.9873333,-116.393,7.06,0.92,ml,34,74,0.04834,0.18,ci,ci40070447,2022-07-27T13:17:45.883Z,"10km ENE of Desert Hot Springs, CA",earthquake,0.32,0.51,0.135,24,reviewed,ci,ci
 2022-07-27T09:47:40.080Z,19.2306671142578,-155.39533996582,31.5699996948242,1.98000002,md,45,144,,0.129999995,hv,hv73089357,2022-07-27T09:50:56.980Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.58,0.730000019,1.25999999,16,automatic,hv,hv
-2022-07-27T09:38:32.030Z,34.3315,-116.921,6.1,1.45,ml,64,44,0.06903,0.14,ci,ci40070439,2022-07-27T17:18:35.026Z,"10km N of Big Bear Lake, CA",earthquake,0.12,0.3,0.118,45,reviewed,ci,ci
-2022-07-27T09:38:11.409Z,40.2026,-119.8118,5.2,0.7,ml,5,246.59,0.069,0.1886,nn,nn00843748,2022-07-28T02:40:11.070Z,"28 km ENE of Herlong, California",earthquake,,4.1,0.61,4,reviewed,nn,nn
-2022-07-27T09:36:51.074Z,-18.7282,-173.8523,10,5.6,mww,100,51,5.187,1.91,us,us6000i5va,2022-07-27T21:17:29.969Z,"16 km ESE of Neiafu, Tonga",earthquake,8.4,1.7,0.075,17,reviewed,us,us
