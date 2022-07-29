@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-29T07:26:46.464Z,60.6443,-150.8482,14.8,1.1,ml,,,,0.66,ak,ak0229nf6la2,2022-07-29T07:29:24.184Z,"12 km NNW of Sterling, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-07-29T07:21:47.060Z,38.8283348,-122.8048325,1.76,0.85,md,9,76,0.00641,0.01,nc,nc73763981,2022-07-29T07:30:09.863Z,"7km NW of The Geysers, CA",earthquake,0.38,1.06,,1,automatic,nc,nc
 2022-07-29T07:16:24.560Z,60.705,-150.7127,50.6,1.4,ml,,,,0.81,ak,ak0229nf4eag,2022-07-29T07:18:52.507Z,"18 km N of Sterling, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2022-07-29T05:43:26.647Z,60.6836,-152.3573,86.6,0.5,ml,,,,0.22,ak,ak0229ne3bko,2022-07-29T05:45:21.638Z,"57 km W of Salamatof, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2022-07-29T05:29:54.383Z,-8.2586,68.1744,10,4.7,mb,53,80,4.321,0.69,us,us6000i6e1,2022-07-29T05:49:12.040Z,"Chagos Archipelago region",earthquake,10.6,1.9,0.083,44,reviewed,us,us
@@ -99,7 +101,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-28T18:03:57.486Z,31.67686811,-104.3911547,7.802587891,3.2,ml,10,57,0.09381310623,0.1,tx,tx2022orkk,2022-07-28T19:04:23.040Z,"55 km S of Whites City, New Mexico",earthquake,1.414016267,1.791141077,0.1,7,reviewed,tx,tx
 2022-07-28T18:00:20.090Z,35.9793333,-117.6768333,2.45,0.77,ml,18,92,0.07491,0.1,ci,ci40071263,2022-07-28T20:29:20.983Z,"21km ENE of Little Lake, CA",earthquake,0.18,0.22,0.107,5,reviewed,ci,ci
 2022-07-28T17:59:48.730Z,39.4303333,-110.3083333,-1.29,1.34,ml,8,195,0.0144,0.11,uu,uu60507372,2022-07-28T20:23:59.210Z,"15 km SSE of Sunnyside, Utah",earthquake,1.45,0.6,0.145,3,reviewed,uu,uu
-2022-07-28T17:51:35.930Z,35.9378333,-120.49,4.55,0.56,md,5,119,0.01925,0.03,nc,nc73763791,2022-07-29T06:57:17.603Z,"7km NW of Parkfield, CA",earthquake,1.26,2.51,,1,reviewed,nc,nc
+2022-07-28T17:51:35.930Z,35.9378333,-120.49,4.55,0.56,md,5,119,0.01925,0.03,nc,nc73763791,2022-07-29T07:27:10.844Z,"7km NW of Parkfield, CA",earthquake,1.26,2.51,,1,reviewed,nc,nc
 2022-07-28T17:50:14.083Z,31.68242435,-104.3847437,7.391259766,2.1,ml,11,75,0.09987399165,0.2,tx,tx2022orjy,2022-07-28T21:14:24.388Z,"54 km S of Whites City, New Mexico",earthquake,1.292718281,2.174452703,0,6,reviewed,tx,tx
 2022-07-28T17:45:52.420Z,39.4251667,-110.295,-1.89,1.73,ml,11,200,0.02334,0.16,uu,uu60507367,2022-07-28T20:20:21.650Z,"16 km SSE of Sunnyside, Utah",earthquake,1.05,0.86,0.096,6,reviewed,uu,uu
 2022-07-28T17:45:31.370Z,38.8363342,-122.8253326,1.53,0.36,md,8,81,0.008244,0.01,nc,nc73763786,2022-07-28T18:20:12.917Z,"9km NW of The Geysers, CA",earthquake,0.38,1.01,,1,automatic,nc,nc
@@ -199,5 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-28T07:52:58.690Z,19.1981658935547,-155.468826293945,35.939998626709,1.89999998,md,37,141,,0.150000006,hv,hv73090372,2022-07-28T07:56:01.500Z,"1 km ESE of Pāhala, Hawaii",earthquake,0.7,1.08000004,1.66999996,6,automatic,hv,hv
 2022-07-28T07:38:22.550Z,33.6943333,-116.8005,15.08,0.25,ml,15,93,0.0739,0.08,ci,ci37432940,2022-07-28T14:49:55.595Z,"9km SW of Idyllwild, CA",earthquake,0.25,0.41,0.208,4,reviewed,ci,ci
 2022-07-28T07:38:01.600Z,33.5226667,-116.4336667,8.29,0.49,ml,27,64,0.006695,0.13,ci,ci40070967,2022-07-28T14:44:49.075Z,"19km SW of La Quinta, CA",earthquake,0.19,0.47,0.159,11,reviewed,ci,ci
-2022-07-28T07:30:50.920Z,38.7801666,-122.7138367,2.88,0.94,md,12,101,0.01652,0.02,nc,nc73763666,2022-07-28T07:47:24.735Z,"2km WNW of Anderson Springs, CA",earthquake,0.39,0.82,0.22,3,automatic,nc,nc
-2022-07-28T07:27:51.827Z,17.1756,120.8599,10,4.5,mb,46,108,5.617,0.59,us,us6000i641,2022-07-28T08:16:30.040Z,"8 km N of Besao, Philippines",earthquake,10.1,1.9,0.101,31,reviewed,us,us
