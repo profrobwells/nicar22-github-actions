@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-29T08:49:48.467Z,64.6796,-146.889,6.5,0.9,ml,,,,0.63,ak,ak0229nfwyda,2022-07-29T08:52:34.325Z,"8 km ENE of Eielson Air Force Base, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-07-29T08:43:02.300Z,36.7651672,-121.3590012,4.69,1.42,md,7,216,0.05846,0.26,nc,nc73763991,2022-07-29T08:53:11.391Z,"4km SW of Tres Pinos, CA",earthquake,4.97,4.45,0.17,4,automatic,nc,nc
 2022-07-29T08:38:05.902Z,64.8297,-152.2435,13.5,1.3,ml,,,,0.64,ak,ak0229nfui7i,2022-07-29T08:39:44.496Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-29T08:26:12.137Z,37.0374,-116.2038,3.9,-0.3,ml,10,118.39,0.141,0.2026,nn,nn00843825,2022-07-29T08:29:14.113Z,"51 km ENE of Beatty, Nevada",earthquake,,0,1.13,6,automatic,nn,nn
 2022-07-29T08:20:12.087Z,63.1955,-150.5423,113,1.4,ml,,,,0.26,ak,ak0229nfqnso,2022-07-29T08:22:23.230Z,"70 km ESE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -34,7 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-29T03:14:06.745Z,31.67765532,-104.3758188,6.285815430000001,3.1,ml,10,68,0.09475004852,0.3,tx,tx2022osco,2022-07-29T03:37:38.149Z,"55 km S of Whites City, New Mexico",earthquake,1.168863813,1.391803589,0.2,7,reviewed,tx,tx
 2022-07-29T03:07:09.180Z,35.7195,-117.5533333,9.19,1.27,ml,8,152,0.1025,0.15,ci,ci40071551,2022-07-29T03:10:41.458Z,"14km WSW of Searles Valley, CA",earthquake,0.57,1.66,0.173,13,automatic,ci,ci
 2022-07-29T02:59:27.560Z,35.716835,-117.5731659,8.39,2.24,ml,37,54,0.09894,0.15,ci,ci40071527,2022-07-29T03:09:50.250Z,"14km NE of Ridgecrest, CA",earthquake,0.25,0.66,0.259,26,automatic,ci,ci
-2022-07-29T02:43:22.090Z,38.8935,-123.3686667,-0.51,1.4,md,15,89,0.09316,0.14,nc,nc73763926,2022-07-29T08:41:23.317Z,"13km S of Boonville, CA",earthquake,0.27,0.69,0.181,15,reviewed,nc,nc
+2022-07-29T02:43:22.090Z,38.8935,-123.3686667,-0.51,1.4,md,15,89,0.09316,0.14,nc,nc73763926,2022-07-29T08:48:10.358Z,"13km S of Boonville, CA",earthquake,0.27,0.69,0.181,15,reviewed,nc,nc
 2022-07-29T02:30:11.081Z,63.5915,-147.2276,74.5,1.2,ml,,,,0.67,ak,ak0229nc8790,2022-07-29T02:41:08.463Z,"84 km ESE of Denali Park, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2022-07-29T02:20:02.253Z,-20.3498,-178.2744,567.68,4.4,mb,32,121,4.333,0.78,us,us6000i6dc,2022-07-29T02:38:27.040Z,"Fiji region",earthquake,13.8,7.8,0.05,118,reviewed,us,us
 2022-07-29T02:15:13.774Z,58.7189,-153.1135,63.3,1.5,ml,,,,0.54,ak,ak0229nc4zpt,2022-07-29T02:17:38.630Z,"74 km N of Aleneva, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -110,7 +112,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-28T17:59:48.730Z,39.4303333,-110.3083333,-1.29,1.34,ml,8,195,0.0144,0.11,uu,uu60507372,2022-07-28T20:23:59.210Z,"15 km SSE of Sunnyside, Utah",earthquake,1.45,0.6,0.145,3,reviewed,uu,uu
 2022-07-28T17:51:35.930Z,35.9378333,-120.49,4.55,0.56,md,5,119,0.01925,0.03,nc,nc73763791,2022-07-29T07:27:10.844Z,"7km NW of Parkfield, CA",earthquake,1.26,2.51,,1,reviewed,nc,nc
 2022-07-28T17:50:14.083Z,31.68242435,-104.3847437,7.391259766,2.1,ml,11,75,0.09987399165,0.2,tx,tx2022orjy,2022-07-28T21:14:24.388Z,"54 km S of Whites City, New Mexico",earthquake,1.292718281,2.174452703,0,6,reviewed,tx,tx
-2022-07-28T17:45:52.420Z,39.4251667,-110.295,-1.89,1.73,ml,11,200,0.02334,0.16,uu,uu60507367,2022-07-28T20:20:21.650Z,"16 km SSE of Sunnyside, Utah",earthquake,1.05,0.86,0.096,6,reviewed,uu,uu
+2022-07-28T17:45:52.420Z,39.4251667,-110.295,-1.89,1.73,ml,11,200,0.02334,0.16,uu,uu60507367,2022-07-28T20:20:21.650Z,"Utah",earthquake,1.05,0.86,0.096,6,reviewed,uu,uu
 2022-07-28T17:45:31.370Z,38.8363342,-122.8253326,1.53,0.36,md,8,81,0.008244,0.01,nc,nc73763786,2022-07-28T18:20:12.917Z,"9km NW of The Geysers, CA",earthquake,0.38,1.01,,1,automatic,nc,nc
 2022-07-28T17:40:56.420Z,38.8266678,-122.8253326,0.72,0.36,md,8,81,0.008364,0.03,nc,nc73763781,2022-07-28T18:10:12.980Z,"8km NW of The Geysers, CA",earthquake,0.34,1.12,,1,automatic,nc,nc
 2022-07-28T17:26:23.850Z,36.44533333,-98.78033333,7.98,1.38,ml,39,85,0.01709664506,0.17,ok,ok2022orjd,2022-07-28T17:40:47.029Z,"17 km SSE of Waynoka, Oklahoma",earthquake,,0.3,0.23,15,reviewed,ok,ok
@@ -189,8 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-28T09:12:48.680Z,33.673,-116.7708333,11.03,0.68,ml,24,72,0.06067,0.14,ci,ci40070983,2022-07-28T13:30:34.110Z,"9km SSW of Idyllwild, CA",earthquake,0.29,0.47,0.144,19,reviewed,ci,ci
 2022-07-28T09:12:16.185Z,14.8178,57.9268,10,4.5,mb,29,183,10.204,0.42,us,us6000i64d,2022-07-28T09:28:16.040Z,"Owen Fracture Zone region",earthquake,9.9,1.9,0.116,22,reviewed,us,us
 2022-07-28T08:55:36.158Z,31.66523497,-104.4131203,6.208691406,2.8,ml,16,81,0.3828378217,0.2,tx,tx2022oqsh,2022-07-29T07:19:36.982Z,"56 km S of Whites City, New Mexico",earthquake,1.9653454880000003,4.953985156,0.2,17,reviewed,tx,tx
-2022-07-28T08:53:47.333Z,-21.4302,-70.1862,65.99,4.3,mb,19,166,0.291,0.53,us,us6000i648,2022-07-28T17:09:35.409Z,"73 km N of Tocopilla, Chile",earthquake,5.4,7.2,0.168,10,reviewed,us,us
-2022-07-28T08:53:28.616Z,63.5371,-147.7627,2.3,1.2,ml,,,,0.71,ak,ak0229lsef7h,2022-07-28T08:55:56.616Z,"61 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-07-28T08:52:21.970Z,17.9925,-66.828,18.36,2.02,md,9,175,,0.17,pr,pr71361393,2022-07-28T09:05:21.190Z,"0 km W of Indios, Puerto Rico",earthquake,0.71,0.55,0.125540360174348,8,reviewed,pr,pr
-2022-07-28T08:44:15.824Z,38.2143,-118.2829,7.9,-0.1,ml,7,257.49,0.178,0.1114,nn,nn00843811,2022-07-28T22:01:56.376Z,"24 km SW of Mina, Nevada",earthquake,,5.6,0,1,reviewed,nn,nn
-2022-07-28T08:43:40.323Z,56.0976,-149.3392,10,3.5,ml,88,188,2.452,0.59,us,us6000i646,2022-07-28T09:06:04.040Z,"246 km SE of Chiniak, Alaska",earthquake,9,2,0.052,48,reviewed,us,us
